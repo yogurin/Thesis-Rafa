@@ -1,0 +1,16 @@
+\select@language {english}
+\contentsline {chapter}{Declaration}{I}{section*.1}
+\vspace {1em}
+\contentsline {chapter}{Abstract}{II}{section*.2}
+\vspace {1em}
+\contentsline {chapter}{Nomenclature}{III}{section*.3}
+\vspace {1em}
+\contentsline {part}{\numberline {I}Introduction}{1}{part.1}
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Tropism}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Structure}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Parvoviruses in general}{2}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}MVM}{3}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Tropism}{4}{subsection.1.2.3}
+\contentsline {part}{\numberline {II}Publication}{6}{part.2}
+\contentsline {part}{\numberline {III}Discussion}{7}{part.3}

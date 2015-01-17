@@ -1,0 +1,234 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Thesis 
+% LaTeX Template
+%
+%
+% Original authors:
+% Raphael Wolfisberg 
+% 
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PREAMBLE: PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt, titlepage, a4paper, oneside, onecolumn]{scrbook} % Paper size, default font size and one-sided paper
+
+
+\usepackage[ngerman,english]{babel}		%language
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{amsmath} 			%Greek letters
+\usepackage{fixltx2e} 			%subscript
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{geometry}
+\usepackage{tabu}
+\usepackage{tabularx}
+\usepackage{hyperref,url}
+\usepackage[all]{hypcap}
+\usepackage{nomencl}
+
+\graphicspath{{./Pictures/}} % Specifies the directory where pictures are stored
+
+
+\renewcommand*{\partformat}{\partname~\thepart \thispagestyle{empty}} %remove period after part and remove page number
+
+
+
+
+\makenomenclature
+%\setlength{\nomitemsep}{1.3pt}
+\setlength{\nomitemsep}{-\parsep} %Vertical spacing in Nomenclature
+
+\renewcommand{\nomlabel}[1]{\hspace*{1.5em}#1} %Nomenclature Skip add \dotfill before bracket if dots required...
+
+\begin{document}
+
+
+% Define the page headers using the FancyHdr package and set up for one-sided printing
+\fancyhead{} % Clears all page headers and footers
+\rhead{\thepage} % Sets the right side header to show the page number
+\lhead{} % Clears the left side page header
+
+\pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
+
+
+\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
+\pagenumbering{Roman} %Uppercase roman numbering
+
+\setstretch{1.3} % Line spacing of 1.3
+
+\setlength{\footskip}{35mm}
+
+
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+
+\begin{titlepage}
+\begin{flushright}
+\includegraphics[scale=0.8, trim= 1mm 1mm 15mm 20mm]{logo} \\[2.9 cm]
+\end{flushright}
+\begin{center}
+{\Huge \bfseries Thesis Title} \\[2 cm]
+{\Large Inauguraldissertation \\
+der Philosophisch-naturwissenschaftlichen Fakultät \\
+der Universität Bern \\[2.2 cm]
+{\large vorgelegt von}\\[0.3 cm]
+{\LARGE \textsc{Raphael Wolfisberg}} \\[0.3 cm] 
+{\large von Neuenkirch, LU} \\ [1.2 cm]
+{\Large \emph{Leiter der Arbeit}\\ [0.3 cm]
+{\textsc Prof. Dr. Christoph Kempf} \\
+and \\
+{\textsc Dr. Carlos Ros} \\ [0.9 cm]
+Departement für Chemie und Biochemie}}
+\end{center}
+\end{titlepage}
+
+
+\clearpage
+\setcounter{page}{1}
+
+%----------------------------------------------------------------------------------------
+%	DECLARATION
+%----------------------------------------------------------------------------------------
+
+
+\phantomsection\addcontentsline{toc}{chapter}{Declaration}
+\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+\includepdf[pagecommand=\thispagestyle{plain}]{declaration}
+
+
+\clearpage
+
+
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT PAGE
+%----------------------------------------------------------------------------------------
+\pagestyle{plain} % No headers or footers for the following pages
+
+\phantomsection\addcontentsline{toc}{chapter}{Abstract}
+\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+
+
+
+The Thesis Abstract is written here (and usually kept to just this page). The page is kept centered vertically so can expand into the blank space above the title too\ldots
+
+\clearpage % Start a new page
+
+
+
+%----------------------------------------------------------------------------------------
+%	ABBREVIATIONS
+%----------------------------------------------------------------------------------------
+\pagestyle{plain} % No headers or footers for the following pages
+
+
+%\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+\phantomsection\addcontentsline{toc}{chapter}{Nomenclature}
+\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+
+
+\nomenclature{B19V}{Human parvovirus B19}%
+\nomenclature{Bp}{Base pairs}%
+\nomenclature{Bp}{Base pairs}%
+
+\printnomenclature[1.5in]
+
+
+
+
+
+
+
+
+%\lhead{\emph{Abbreviations}} % Set the left side page header to "Abbreviations"
+%\listofsymbols{ll} % Include a list of Abbreviations (a table of two columns)
+%{
+%\textbf{LAH} & \textbf{L}ist \textbf{A}bbreviations \textbf{H}ere \\
+%\textbf{Acronym} & \textbf{W}hat (it) \textbf{S}tands \textbf{F}or \\
+%}
+\clearpage
+%----------------------------------------------------------------------------------------
+%	LIST OF CONTENTS/FIGURES/TABLES PAGES
+%----------------------------------------------------------------------------------------
+
+\pagestyle{plain} % The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
+
+%\includepdfset{pagecommand=\thispagestyle{fancy}
+
+\lhead{\emph{Contents}} % Set the left side page header to "Contents"
+\tableofcontents % Write out the Table of Contents
+
+\lhead{\emph{List of Figures}} % Set the left side page header to "List of Figures"
+\listoffigures % Write out the List of Figures
+
+\lhead{\emph{List of Tables}} % Set the left side page header to "List of Tables"
+\listoftables % Write out the List of Tables
+
+
+
+\clearpage
+
+%----------------------------------------------------------------------------------------
+%	THESIS CONTENT - CHAPTERS
+%----------------------------------------------------------------------------------------
+
+\mainmatter % Begin numeric (1,2,3...) page numbering
+
+\pagestyle{fancy} % Return the page headers back to the "fancy" style
+
+\fancyfoot[C]{}
+
+% Include the chapters of the thesis as separate files from the Chapters folder
+% Uncomment the lines as you write the chapters
+
+\part{Introduction}
+\input{./Chapters/Chapter1}
+%\input{./Chapters/Chapter2} 
+%\input{./Chapters/Chapter3}
+%\input{./Chapters/Chapter4} 
+%\input{./Chapters/Chapter5} 
+%\input{./Chapters/Chapter6} 
+%\input{./Chapters/Chapter7} 
+
+
+
+\begin{figure}[b]
+  \centering
+    \includegraphics[scale=0.2]{test}
+  \caption{Structure of D440N}
+  \label{fig:D440N}
+\end{figure}
+Figure~\ref{fig:D440N} shows a photograph of D440N.
+
+
+
+\part{Publication}
+
+\part{Discussion}
+
+
+%----------------------------------------------------------------------------------------
+% BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+\bibliography{MyBib}
+\bibliographystyle{jcp-tit}
+
+
+\end{document}
