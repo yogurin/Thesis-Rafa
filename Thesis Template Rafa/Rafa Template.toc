@@ -8,9 +8,15 @@
 \contentsline {part}{\numberline {I}Introduction}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
 \contentsline {section}{\numberline {1.1}Tropism}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}Structure}{2}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Parvoviruses in general}{2}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}MVM}{3}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Tropism}{4}{subsection.1.2.3}
-\contentsline {part}{\numberline {II}Publication}{6}{part.2}
-\contentsline {part}{\numberline {III}Discussion}{7}{part.3}
+\contentsline {section}{\numberline {1.2}Structure}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Parvoviruses in general}{3}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}MVM}{4}{subsection.1.2.2}
+\contentsline {chapter}{\numberline {2}Methods}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}Cell Cultures}{6}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Freezing and thawing of cells}{6}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Virus Stocks}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Separation of empty and full capsids}{7}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}Freezing bacteria stocks in glycerol}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}Anion-exchange chromatography}{7}{section.2.4}
+\contentsline {part}{\numberline {II}Publication}{9}{part.2}
+\contentsline {part}{\numberline {III}Discussion}{10}{part.3}

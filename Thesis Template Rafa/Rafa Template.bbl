@@ -1,91 +1,9 @@
 \begin{thebibliography}{10}
 
-\bibitem{pmid16242744}
-{\sc C.~Ros}, {\sc C.~Baltzer}, {\sc B.~Mani}, and {\sc C.~Kempf},
-\newblock {{P}arvovirus uncoating in vitro reveals a mechanism of {D}{N}{A}
-  release without capsid disassembly and striking differences in encapsidated
-  {D}{N}{A} stability},
-\newblock {\em Virology} {\bf 345}, 137 (2006).
-
-\bibitem{pmid25555192}
-{\sc M.~Agbandje}, {\sc C.~Parrish}, and {\sc M.~Rossmann},
-\newblock {{T}he structure of parvoviruses},
-\newblock {\em Seminars in Virology} {\bf 6}, 299 (1995).
-
-\bibitem{pmid8392729}
-{\sc M.~Agbandje}, {\sc R.~McKenna}, {\sc M.~G. Rossmann}, {\sc M.~L.
-  Strassheim}, and {\sc C.~R. Parrish},
-\newblock {{S}tructure determination of feline panleukopenia virus empty
-  particles},
-\newblock {\em Proteins} {\bf 16}, 155 (1993).
-
-\bibitem{pmid9817841}
-{\sc M.~Agbandje-McKenna}, {\sc A.~L. Llamas-Saiz}, {\sc F.~Wang}, {\sc
-  P.~Tattersall}, and {\sc M.~G. Rossmann},
-\newblock {{F}unctional implications of the structure of the murine parvovirus,
-  minute virus of mice},
-\newblock {\em Structure} {\bf 6}, 1369 (1998).
-
-\bibitem{pmid11827486}
-{\sc A.~A. Simpson}, {\sc B.~Hebert}, {\sc G.~M. Sullivan}, {\sc C.~R.
-  Parrish}, {\sc Z.~Zadori}, {\sc P.~Tijssen}, and {\sc M.~G. Rossmann},
-\newblock {{T}he structure of porcine parvovirus: comparison with related
-  viruses},
-\newblock {\em J. Mol. Biol.} {\bf 315}, 1189 (2002).
-
-\bibitem{pmid2006420}
-{\sc J.~Tsao}, {\sc M.~S. Chapman}, {\sc M.~Agbandje}, {\sc W.~Keller}, {\sc
-  K.~Smith}, {\sc H.~Wu}, {\sc M.~Luo}, {\sc T.~J. Smith}, {\sc M.~G.
-  Rossmann}, and {\sc R.~W. Compans},
-\newblock {{T}he three-dimensional structure of canine parvovirus and its
-  functional implications},
-\newblock {\em Science} {\bf 251}, 1456 (1991).
-
 \bibitem{pmid12941411}
 {\sc K.~Hueffer} and {\sc C.~R. Parrish},
 \newblock {{P}arvovirus host range, cell tropism and evolution},
 \newblock {\em Curr. Opin. Microbiol.} {\bf 6}, 392 (2003).
-
-\bibitem{pmid15299974}
-{\sc A.~L. Llamas-Saiz}, {\sc M.~Agbandje-McKenna}, {\sc W.~R. Wikoff}, {\sc
-  J.~Bratton}, {\sc P.~Tattersall}, and {\sc M.~G. Rossmann},
-\newblock {{S}tructure determination of minute virus of mice},
-\newblock {\em Acta Crystallogr. D Biol. Crystallogr.} {\bf 53}, 93 (1997).
-
-\bibitem{pmid2673017}
-{\sc M.~G. Rossmann} and {\sc J.~E. Johnson},
-\newblock {{I}cosahedral {R}{N}{A} virus structure},
-\newblock {\em Annu. Rev. Biochem.} {\bf 58}, 533 (1989).
-
-\bibitem{pmid15299494}
-{\sc H.~Wu}, {\sc W.~Keller}, and {\sc M.~G. Rossmann},
-\newblock {{D}etermination and refinement of the canine parvovirus empty-capsid
-  structure},
-\newblock {\em Acta Crystallogr. D Biol. Crystallogr.} {\bf 49}, 572 (1993).
-
-\bibitem{pmid8969301}
-{\sc Q.~Xie} and {\sc M.~S. Chapman},
-\newblock {{C}anine parvovirus capsid structure, analyzed at 2.9 {A}
-  resolution},
-\newblock {\em J. Mol. Biol.} {\bf 264}, 497 (1996).
-
-\bibitem{pmid8503170}
-{\sc M.~S. Chapman} and {\sc M.~G. Rossmann},
-\newblock {{S}tructure, sequence, and function correlations among
-  parvoviruses},
-\newblock {\em Virology} {\bf 194}, 491 (1993).
-
-\bibitem{pmid7735832}
-{\sc M.~S. Chapman} and {\sc M.~G. Rossmann},
-\newblock {{S}ingle-stranded {D}{N}{A}-protein interactions in canine
-  parvovirus},
-\newblock {\em Structure} {\bf 3}, 151 (1995).
-
-\bibitem{pmid1616694}
-{\sc J.~Tsao}, {\sc M.~S. Chapman}, {\sc H.~Wu}, {\sc M.~Agbandje}, {\sc
-  W.~Keller}, and {\sc M.~G. Rossmann},
-\newblock {{S}tructure determination of monoclinic canine parvovirus},
-\newblock {\em Acta Crystallogr., B} {\bf 48 ( Pt 1)}, 75 (1992).
 
 \bibitem{pmid5945715}
 {\sc L.~V. Crawford},
@@ -134,6 +52,13 @@
   genome of minute virus of mice},
 \newblock {\em J. Virol.} {\bf 62} (1988).
 
+\bibitem{pmid9817841}
+{\sc M.~Agbandje-McKenna}, {\sc A.~L. Llamas-Saiz}, {\sc F.~Wang}, {\sc
+  P.~Tattersall}, and {\sc M.~G. Rossmann},
+\newblock {{F}unctional implications of the structure of the murine parvovirus,
+  minute virus of mice},
+\newblock {\em Structure} {\bf 6}, 1369 (1998).
+
 \bibitem{pmid8396664}
 {\sc M.~E. Bloom}, {\sc B.~D. Berry}, {\sc W.~Wei}, {\sc S.~Perryman}, and {\sc
   J.~B. Wolfinbarger},
@@ -168,5 +93,102 @@
 \newblock {{C}haracterization of the feline host range and a specific epitope
   of feline panleukopenia virus},
 \newblock {\em Virology} {\bf 200}, 494 (1994).
+
+\bibitem{pmid16242744}
+{\sc C.~Ros}, {\sc C.~Baltzer}, {\sc B.~Mani}, and {\sc C.~Kempf},
+\newblock {{P}arvovirus uncoating in vitro reveals a mechanism of {D}{N}{A}
+  release without capsid disassembly and striking differences in encapsidated
+  {D}{N}{A} stability},
+\newblock {\em Virology} {\bf 345}, 137 (2006).
+
+\bibitem{pmid25555192}
+{\sc M.~Agbandje}, {\sc C.~Parrish}, and {\sc M.~Rossmann},
+\newblock {{T}he structure of parvoviruses},
+\newblock {\em Seminars in Virology} {\bf 6}, 299 (1995).
+
+\bibitem{pmid8392729}
+{\sc M.~Agbandje}, {\sc R.~McKenna}, {\sc M.~G. Rossmann}, {\sc M.~L.
+  Strassheim}, and {\sc C.~R. Parrish},
+\newblock {{S}tructure determination of feline panleukopenia virus empty
+  particles},
+\newblock {\em Proteins} {\bf 16}, 155 (1993).
+
+\bibitem{pmid11827486}
+{\sc A.~A. Simpson}, {\sc B.~Hebert}, {\sc G.~M. Sullivan}, {\sc C.~R.
+  Parrish}, {\sc Z.~Zadori}, {\sc P.~Tijssen}, and {\sc M.~G. Rossmann},
+\newblock {{T}he structure of porcine parvovirus: comparison with related
+  viruses},
+\newblock {\em J. Mol. Biol.} {\bf 315}, 1189 (2002).
+
+\bibitem{pmid2006420}
+{\sc J.~Tsao}, {\sc M.~S. Chapman}, {\sc M.~Agbandje}, {\sc W.~Keller}, {\sc
+  K.~Smith}, {\sc H.~Wu}, {\sc M.~Luo}, {\sc T.~J. Smith}, {\sc M.~G.
+  Rossmann}, and {\sc R.~W. Compans},
+\newblock {{T}he three-dimensional structure of canine parvovirus and its
+  functional implications},
+\newblock {\em Science} {\bf 251}, 1456 (1991).
+
+\bibitem{pmid15299974}
+{\sc A.~L. Llamas-Saiz}, {\sc M.~Agbandje-McKenna}, {\sc W.~R. Wikoff}, {\sc
+  J.~Bratton}, {\sc P.~Tattersall}, and {\sc M.~G. Rossmann},
+\newblock {{S}tructure determination of minute virus of mice},
+\newblock {\em Acta Crystallogr. D Biol. Crystallogr.} {\bf 53}, 93 (1997).
+
+\bibitem{pmid2673017}
+{\sc M.~G. Rossmann} and {\sc J.~E. Johnson},
+\newblock {{I}cosahedral {R}{N}{A} virus structure},
+\newblock {\em Annu. Rev. Biochem.} {\bf 58}, 533 (1989).
+
+\bibitem{pmid15299494}
+{\sc H.~Wu}, {\sc W.~Keller}, and {\sc M.~G. Rossmann},
+\newblock {{D}etermination and refinement of the canine parvovirus empty-capsid
+  structure},
+\newblock {\em Acta Crystallogr. D Biol. Crystallogr.} {\bf 49}, 572 (1993).
+
+\bibitem{pmid8969301}
+{\sc Q.~Xie} and {\sc M.~S. Chapman},
+\newblock {{C}anine parvovirus capsid structure, analyzed at 2.9 {A}
+  resolution},
+\newblock {\em J. Mol. Biol.} {\bf 264}, 497 (1996).
+
+\bibitem{pmid8503170}
+{\sc M.~S. Chapman} and {\sc M.~G. Rossmann},
+\newblock {{S}tructure, sequence, and function correlations among
+  parvoviruses},
+\newblock {\em Virology} {\bf 194}, 491 (1993).
+
+\bibitem{pmid7735832}
+{\sc M.~S. Chapman} and {\sc M.~G. Rossmann},
+\newblock {{S}ingle-stranded {D}{N}{A}-protein interactions in canine
+  parvovirus},
+\newblock {\em Structure} {\bf 3}, 151 (1995).
+
+\bibitem{pmid1616694}
+{\sc J.~Tsao}, {\sc M.~S. Chapman}, {\sc H.~Wu}, {\sc M.~Agbandje}, {\sc
+  W.~Keller}, and {\sc M.~G. Rossmann},
+\newblock {{S}tructure determination of monoclinic canine parvovirus},
+\newblock {\em Acta Crystallogr., B} {\bf 48 ( Pt 1)}, 75 (1992).
+
+\bibitem{pmid14213660}
+{\sc J.~W. LITTLEFIELD},
+\newblock {{T}{H}{R}{E}{E} {D}{E}{G}{R}{E}{E}{S} {O}{F}
+  {G}{U}{A}{N}{Y}{L}{I}{C} {A}{C}{I}{D}--{I}{N}{O}{S}{I}{N}{I}{C} {A}{C}{I}{D}
+  {P}{Y}{R}{O}{P}{H}{O}{S}{P}{H}{O}{R}{Y}{L}{A}{S}{E}
+  {D}{E}{F}{I}{C}{I}{E}{N}{C}{Y} {I}{N} {M}{O}{U}{S}{E}
+  {F}{I}{B}{R}{O}{B}{L}{A}{S}{T}{S}},
+\newblock {\em Nature} {\bf 203}, 1142 (1964).
+
+\bibitem{pmid13911591}
+{\sc H.~M. SHEIN} and {\sc J.~F. ENDERS},
+\newblock {{M}ultiplication and cytopathogenicity of {S}imian vacuolating virus
+  40 in cultures of human tissues},
+\newblock {\em Proc. Soc. Exp. Biol. Med.} {\bf 109}, 495 (1962).
+
+\bibitem{pmid6169844}
+{\sc E.~Harlow}, {\sc L.~V. Crawford}, {\sc D.~C. Pim}, and {\sc N.~M.
+  Williamson},
+\newblock {{M}onoclonal antibodies specific for simian virus 40 tumor
+  antigens},
+\newblock {\em J. Virol.} {\bf 39}, 861 (1981).
 
 \end{thebibliography}

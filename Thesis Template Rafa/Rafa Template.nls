@@ -2,9 +2,43 @@
 
  \nomgroup{A}
 
+  \item [{AAV}]\begingroup Adeno-associated virus\nomeqref {\relax 1.0}
+		\nompageref{2}
+  \item [{ADV}]\begingroup Aleutian mink disease parvovirus\nomeqref {\relax 1.0}
+		\nompageref{3}
   \item [{B19V}]\begingroup Human parvovirus B19\nomeqref {\relax 0}
 		\nompageref{III}
   \item [{Bp}]\begingroup Base pairs\nomeqref {\relax 0}
 		\nompageref{III}
+  \item [{CPV}]\begingroup Canine parvovirus\nomeqref {\relax 1.0}
+		\nompageref{2}
+  \item [{DMEM}]\begingroup Dulbecco modified Eagle's medium\nomeqref {\relax 2.0}
+		\nompageref{6}
+  \item [{FCS}]\begingroup Fetal calf serum\nomeqref {\relax 2.0}
+		\nompageref{6}
+  \item [{FPV}]\begingroup Feline parvovirus\nomeqref {\relax 1.0}
+		\nompageref{2}
+  \item [{IF}]\begingroup Immunofluorescence\nomeqref {\relax 2.0}
+		\nompageref{6}
+  \item [{mAb}]\begingroup Monoclonal antibody\nomeqref {\relax 2.0}
+		\nompageref{6}
+  \item [{MVM}]\begingroup Minute virus of mice\nomeqref {\relax 1.0}
+		\nompageref{2}
+  \item [{MVMi}]\begingroup Immunosuppressive strain of MVM\nomeqref {\relax 1.0}
+		\nompageref{2}
+  \item [{MVMp}]\begingroup Prototype strain of MVM\nomeqref {\relax 1.0}
+		\nompageref{2}
+  \item [{PCR}]\begingroup Polymerase chain reaction\nomeqref {\relax 2.0}
+		\nompageref{7}
+  \item [{PPV}]\begingroup Porcine parvovirus\nomeqref {\relax 1.0}
+		\nompageref{3}
+  \item [{qPCR}]\begingroup Quantitative PCR\nomeqref {\relax 2.0}
+		\nompageref{7}
+  \item [{SN}]\begingroup Supernatant\nomeqref {\relax 2.0}
+		\nompageref{6}
+  \item [{ssDNA}]\begingroup Single stranded DNA \nomeqref {\relax 1.0}
+		\nompageref{3}
+  \item [{SV40}]\begingroup Simian vacuolating virus 40 or Simian virus 40\nomeqref {\relax 2.0}
+		\nompageref{6}
 
 \end{thenomenclature}
