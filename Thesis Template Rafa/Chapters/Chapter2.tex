@@ -13,6 +13,7 @@ A9 ouab\textsuperscript{r}l1 cells, a derivative from the original HGPRT\textsup
 NB324K cells are a clone of SV40-transformed \nomenclature{SV40}{Simian vacuolating virus 40 or Simian virus 40} human newborn kidney cells \cite{pmid13911591}. The SV40 large T antigen was detected by immunofluorescent \nomenclature{IF}{Immunofluorescence} staining with monoclonal antibodies \cite{pmid6169844}. \nomenclature{mAb}{Monoclonal antibody} However, NB324K cells do not produce infectious SV40 spontaneously.
 Both cell lines, A9 mouse fibroblasts and NB324K cells, were routinely propagated under a minimal number of passages in DMEM \nomenclature{DMEM}{Dulbecco modified Eagle's medium}supplemented with 5 \% of heat inactivated fetal bovine serum at 37 \textcelsius~ in 5 \% CO\textsubscript{2} atmosphere. \nomenclature{FCS}{Fetal calf serum} 
 
+
 \subsection{Freezing and thawing of cells}
 Before use the A9 mouse fibroblasts or NB324K cells were thawed at 37 \textcelsius~ and cultured in 5 mL of pre-warmed DMEM supplemented with 5 \% FCS. The medium was replaced every 3 to 4 days. 
 In order to freeze the cells for long storage in liquid nitrogen they were passed the day before, to ensure exponential growth. Subsequently, 7.5 \% DMSO was added and the cells were frozen slowly at -70 \textcelsius~ over night before transfer to liquid nitrogen.
@@ -48,10 +49,55 @@ A Mono Q HR 5/5 (Pharmacia) column (5 x 50 mm) was used to analyse viral samples
 
 
 
-\subsection{}
+\section{Quantitative PCR}
+Amplification of MVM DNA and real-time detection of PCR products were performed by using BioRad CFX96 technology with SYBR green supermix. PCR was carried out by using the hot-start iTaq\textsuperscript{\texttrademark} DNA polymerase (Bio-Rad Laboratories) following the manufacturer’s guide-lines. Viral DNA was isolated using DNeasy blood and tissue kit. Elution of the purified vDNA was carried out using 100 $\mu$L elution buffer. As templates 2 $\mu$L of the isolated viral DNA were used for the PCR reaction and were added to the following master mix:\\
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{l r r}
+\textbf{Component} & \textbf{Amount} & \textbf{Final concentration}\\
+\hline
+dH\textsubscript{2}O, PCR grade & 6 $\mu$L & -\\
+Forward primer, 10 pM & 1 $\mu$L & 0.5 pM\\
+Reverse primer, 10 pM & 1 $\mu$L & 0.5 pM\\
+2x IQ\textsuperscript{\texttrademark} SYBR\textsuperscript{\textregistered} Green Supermix & 10 $\mu$L & 1x\\
+\hline
+\textbf{Total volume} & \textbf{18 $\boldsymbol{\mu}$L} & \\
+\end{tabular}
+\end{center}
+\label{Master mix}
+\caption[Master mix for quantitative PCR]{Master mix for quantitative PCR. In order to minimize pipetting errors a master mix was prepared. Following preparation the master mix was distributed across the 96 well plates. The master mix contains all the ingredients which are required for the DNA amplification except the initial DNA template that differs among the samples.}
+\end{table} 
+
+To ensure accurate quantification, the 96-well plates containing master mix and template DNA were shortly spun and transferred into the BioRad CFX96 unit. The following PCR program was used for quantification of viral DNA:
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{r l r r}
+\textbf{Cycles} & \textbf{Step} & \textbf{Temperature} & \textbf{Time}\\
+\hline
+1x & Initial denaturation & 95 \textcelsius & 300 s\\
+40x & Denaturation & 95 \textcelsius & 15 s \\
+ & Annealing & 61 \textcelsius & 15 s \\
+ & Extension & 72 \textcelsius & 15 s \\
+1x & Final denaturation & 95 \textcelsius & 60 s \\
+1x & Melting curve & 65 \textcelsius~up to 95 \textcelsius & 0.1 \textcelsius/s \\
+\end{tabular} 
+\end{center} 
+\label{PCR conditions}
+\caption[PCR conditions]
+   {PCR conditions for the amplification and real-time detection of MVM DNA.}
+\end{table}
+
+To provide standards for sample quantification, serially diluted plasmids containing the entire MVM genomic DNA were used.
+For cell number variations that may exist between the samples, the number of applied cells per PCR reaction needed to be quantified for normalization as well. For this purpose quantification of cellular $\beta$-actin gene was performed. After normalization, direct comparison of the results is possible. $\beta$-actin quantification was carried out with the same PCR conditions outlined in table \ref{PCR conditions}, \pageref{PCR conditions}.
 
 
-\subsection{}
+
+\subsection{Immunoprecipitation}
+Either \textit{in vitro} treated viruses or viruses from cell extracts were transferred to LoBind tubes that were pre-blocked with PBS containing 1 \% bovine serum albumin (PBSA 1 \%). The volume was adjusted to 200 $\mu$L with PBSA 1 \%. The antibody was added in excess and incubated with the viral capsids for 1 h at 4 \textcelsius~ on a rotary shaker. Subsequently, 20 $\mu$L protein G-agarose beads were added. Following overnight incubation at 4 \textcelsius~ and centrifugation at 2500 rpm for 5 min the supernatant was discarded. The beads were washed 4 times with PBSA 1 \%. To remove the BSA an additional wash step was carried out with PBS. Finally, the beads were frozen at -20 \textcelsius~ until further use or immediately processed. 
+
+\nomenclature{IP}{Immunoprecipitation}
 
 \subsection{}
  

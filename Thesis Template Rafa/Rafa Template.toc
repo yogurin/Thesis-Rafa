@@ -7,16 +7,36 @@
 \vspace {1em}
 \contentsline {part}{\numberline {I}Introduction}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}Tropism}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}Structure}{3}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Parvoviruses in general}{3}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}MVM}{4}{subsection.1.2.2}
-\contentsline {chapter}{\numberline {2}Methods}{6}{chapter.2}
-\contentsline {section}{\numberline {2.1}Cell Cultures}{6}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Freezing and thawing of cells}{6}{subsection.2.1.1}
-\contentsline {section}{\numberline {2.2}Virus Stocks}{6}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Separation of empty and full capsids}{7}{subsection.2.2.1}
-\contentsline {section}{\numberline {2.3}Freezing bacteria stocks in glycerol}{7}{section.2.3}
-\contentsline {section}{\numberline {2.4}Anion-exchange chromatography}{7}{section.2.4}
-\contentsline {part}{\numberline {II}Publication}{9}{part.2}
-\contentsline {part}{\numberline {III}Discussion}{10}{part.3}
+\contentsline {section}{\numberline {1.1}Morphology}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Physicochemical properties}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Taxonomy}{2}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}The \textit {parvovirinae} subfamily}{3}{subsection.1.3.1}
+\contentsline {subsubsection}{\textit {Amdoparvovirus}}{3}{section*.8}
+\contentsline {subsubsection}{\textit {Aveparvovirus}}{4}{section*.9}
+\contentsline {subsubsection}{\textit {Copiparvovirus}}{4}{section*.10}
+\contentsline {subsubsection}{\textit {Bocaparvovirus}}{4}{section*.11}
+\contentsline {subsubsection}{\textit {Dependoparvovirus}}{4}{section*.12}
+\contentsline {subsubsection}{\textit {Erythroparvovirus}}{5}{section*.13}
+\contentsline {subsubsection}{\textit {Protoparvovirus}}{5}{section*.14}
+\contentsline {subsubsection}{\textit {Tetraparvovirus}}{5}{section*.15}
+\contentsline {section}{\numberline {1.4}Tropism}{9}{section.1.4}
+\contentsline {section}{\numberline {1.5}Structure}{10}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Parvoviruses in general}{10}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}MVM}{11}{subsection.1.5.2}
+\contentsline {section}{\numberline {1.6}Nucleic Acid}{12}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Genome organization}{12}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Transcriptome}{12}{subsection.1.6.2}
+\contentsline {section}{\numberline {1.7}Viral proteins}{12}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Structural Proteins}{12}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Non-structural proteins}{12}{subsection.1.7.2}
+\contentsline {chapter}{\numberline {2}Methods}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Cell Cultures}{13}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Freezing and thawing of cells}{13}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Virus Stocks}{13}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Separation of empty and full capsids}{14}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}Freezing bacteria stocks in glycerol}{14}{section.2.3}
+\contentsline {section}{\numberline {2.4}Anion-exchange chromatography}{14}{section.2.4}
+\contentsline {section}{\numberline {2.5}Quantitative PCR}{15}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Immunoprecipitation}{16}{subsection.2.5.1}
+\contentsline {part}{\numberline {II}Publication}{18}{part.2}
+\contentsline {part}{\numberline {III}Discussion}{19}{part.3}

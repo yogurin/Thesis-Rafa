@@ -13,7 +13,7 @@
 %	PREAMBLE: PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
-\documentclass[11pt, titlepage, a4paper, oneside, onecolumn]{scrbook} % Paper size, default font size and one-sided paper
+\documentclass[11pt, numbers=noenddot, titlepage, a4paper, oneside, onecolumn]{scrbook} % Paper size, default font size and one-sided paper
 
 
 \usepackage[ngerman,english]{babel}		%language
@@ -27,20 +27,26 @@
 \usepackage{multirow}
 \usepackage{graphicx}
 \usepackage{pdfpages}
+\usepackage{longtable}
 \usepackage{geometry}
 \usepackage{textcomp}
 \usepackage{tabu}
+\usepackage{array}
 \usepackage{tabularx}
 \usepackage{hyperref,url}
 \usepackage[all]{hypcap}
 \usepackage{nomencl}
+
+
+
 
 \graphicspath{{./Pictures/}} % Specifies the directory where pictures are stored
 
 
 \renewcommand*{\partformat}{\partname~\thepart \thispagestyle{empty}} %remove period after part and remove page number
 
-
+\setlength\LTleft{0pt}
+\setlength\LTright{0pt}
 
 
 \makenomenclature
@@ -145,8 +151,8 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 
 
 \nomenclature{B19V}{Human parvovirus B19}%
-\nomenclature{Bp}{Base pairs}%
-\nomenclature{Bp}{Base pairs}%
+\nomenclature{Bp}{Base pair}%
+
 
 \printnomenclature[1.5in]
 
@@ -157,7 +163,7 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 
 
 
-%\lhead{\emph{Abbreviations}} % Set the left side page header to "Abbreviations"
+%\l{\emph{Abbreviations}} % Set the left side page header to "Abbreviations"
 %\listofsymbols{ll} % Include a list of Abbreviations (a table of two columns)
 %{
 %\textbf{LAH} & \textbf{L}ist \textbf{A}bbreviations \textbf{H}ere \\
