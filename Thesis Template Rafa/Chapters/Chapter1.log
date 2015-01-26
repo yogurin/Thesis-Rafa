@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.6)  24 JAN 2015 13:46
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.6)  25 JAN 2015 16:38
 entering extended mode
 **Chapter1.tex
 
@@ -111,7 +111,7 @@ Overfull \hbox (17.88925pt too wide) in paragraph at lines 7--8
 
 ! Undefined control sequence.
 l.10 \section
-             {Morphology}
+             {Morphology .. ond wenn das etz so en meeeeega l√§nge Text w√§r...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -126,7 +126,8 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.10 \section{M
-               orphology}
+               orphology .. ond wenn das etz so en meeeeega l√§nge Text w√§r...
+
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -140,9 +141,85 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no y in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ∂ in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ? in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 10--11
-[] 
+[]
  []
 
 
@@ -8768,8 +8845,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 \begin{longtable}
-                      {@{\extracolsep{\fill}}l l l l l@{}}
+l.79 \begin{longtable}
+                      {@{\extracolsep{\fill}}l l l l l}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -8781,8 +8858,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 \begin{longtable}{@
-                        {\extracolsep{\fill}}l l l l l@{}}
+l.79 \begin{longtable}{@
+                        {\extracolsep{\fill}}l l l l l}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -8792,9 +8869,53 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no @ in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 80--81
+Overfull \hbox (20.0pt too wide) in paragraph at lines 79--80
+[]
+ []
+
+! Undefined control sequence.
+<argument> \LTleft 
+                   
+l.81 \setlength\LTleft{0pt}
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \setlength\LTleft{0pt}
+                           
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+! Undefined control sequence.
+<argument> \LTright 
+                    
+l.82 \setlength\LTright{0pt}
+                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 81--83
 []
  []
 
@@ -8805,14 +8926,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.82 \textbf{Genus}
+l.84 \textbf{Genus}
                     & \textbf{Species} & \textbf{Virus or virus variants} & ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Misplaced alignment tab character &.
-l.82 \textbf{Genus} &
+l.84 \textbf{Genus} &
                       \textbf{Species} & \textbf{Virus or virus variants} & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8822,7 +8943,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.82 \textbf{Genus} & \textbf{Species} &
+l.84 \textbf{Genus} & \textbf{Species} &
                                          \textbf{Virus or virus variants} & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8832,7 +8953,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.82 ...cies} & \textbf{Virus or virus variants} &
+l.84 ...cies} & \textbf{Virus or virus variants} &
                                                    \textbf{Abbreviation} & \...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8842,7 +8963,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.82 ... virus variants} & \textbf{Abbreviation} &
+l.84 ... virus variants} & \textbf{Abbreviation} &
                                                    \textbf{Accession \#}\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8854,88 +8975,88 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.83 \hline
+l.85 \hline
            
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (51.30676pt too wide) in paragraph at lines 82--83
+Overfull \hbox (51.30676pt too wide) in paragraph at lines 84--85
 []\OT1/cmr/bx/n/10 Genus
  []
 
 
-Overfull \hbox (36.48036pt too wide) in paragraph at lines 82--83
+Overfull \hbox (36.48036pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 Species
  []
 
 
-Overfull \hbox (27.54985pt too wide) in paragraph at lines 82--83
+Overfull \hbox (27.54985pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 Virus
  []
 
 
-Overfull \hbox (10.48607pt too wide) in paragraph at lines 82--83
+Overfull \hbox (10.48607pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 or
  []
 
 
-Overfull \hbox (24.92487pt too wide) in paragraph at lines 82--83
+Overfull \hbox (24.92487pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 virus
  []
 
 
-Overfull \hbox (22.78459pt too wide) in paragraph at lines 82--83
+Overfull \hbox (22.78459pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 vari-
  []
 
 
-Overfull \hbox (20.66791pt too wide) in paragraph at lines 82--83
+Overfull \hbox (20.66791pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 ants
  []
 
 
-Overfull \hbox (18.91656pt too wide) in paragraph at lines 82--83
+Overfull \hbox (18.91656pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 Ab-
  []
 
 
-Overfull \hbox (20.22908pt too wide) in paragraph at lines 82--83
+Overfull \hbox (20.22908pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 bre-
  []
 
 
-Overfull \hbox (13.09715pt too wide) in paragraph at lines 82--83
+Overfull \hbox (13.09715pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 vi-
  []
 
 
-Overfull \hbox (9.42354pt too wide) in paragraph at lines 82--83
+Overfull \hbox (9.42354pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 a-
  []
 
 
-Overfull \hbox (19.80545pt too wide) in paragraph at lines 82--83
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 tion
  []
 
 
-Overfull \hbox (17.6388pt too wide) in paragraph at lines 82--83
+Overfull \hbox (17.6388pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 Ac-
  []
 
 
-Overfull \hbox (18.75128pt too wide) in paragraph at lines 82--83
+Overfull \hbox (18.75128pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 ces-
  []
 
 
-Overfull \hbox (19.86932pt too wide) in paragraph at lines 82--83
+Overfull \hbox (19.86932pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 sion
  []
 
 
-Overfull \hbox (9.58328pt too wide) in paragraph at lines 82--83
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 84--85
 \OT1/cmr/bx/n/10 # 
  []
 
@@ -8946,14 +9067,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.84 \textit{Amdoparvovirus}
+l.86 \textit{Amdoparvovirus}
                              & \textbf{\textit{Carnivore amdoparvovirus 1}} ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Misplaced alignment tab character &.
-l.84 \textit{Amdoparvovirus} &
+l.86 \textit{Amdoparvovirus} &
                                \textbf{\textit{Carnivore amdoparvovirus 1}} ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8963,7 +9084,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.84 ...tbf{\textit{Carnivore amdoparvovirus 1}} &
+l.86 ...tbf{\textit{Carnivore amdoparvovirus 1}} &
                                                    Aleutian mink disease vir...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -8997,7 +9118,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.84 ...ovirus 1}} & Aleutian mink disease virus &
+l.86 ...ovirus 1}} & Aleutian mink disease virus &
                                                    AMDV & JN040434 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9011,7 +9132,7 @@ Missing character: There is no M in font nullfont!
 Missing character: There is no D in font nullfont!
 Missing character: There is no V in font nullfont!
 ! Misplaced alignment tab character &.
-l.84 ...1}} & Aleutian mink disease virus & AMDV &
+l.86 ...1}} & Aleutian mink disease virus & AMDV &
                                                    JN040434 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9031,7 +9152,7 @@ Missing character: There is no 4 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.85  &
+l.87  &
         \textit{Carnivore amdoparvovirus 2} & Gray fox amdovirus & GFAV & JN...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9041,7 +9162,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.85  & \textit{Carnivore amdoparvovirus 2} &
+l.87  & \textit{Carnivore amdoparvovirus 2} &
                                               Gray fox amdovirus & GFAV & JN...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9067,7 +9188,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.85 ...e amdoparvovirus 2} & Gray fox amdovirus &
+l.87 ...e amdoparvovirus 2} & Gray fox amdovirus &
                                                    GFAV & JN202450 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9081,7 +9202,7 @@ Missing character: There is no F in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no V in font nullfont!
 ! Misplaced alignment tab character &.
-l.85 ...arvovirus 2} & Gray fox amdovirus & GFAV &
+l.87 ...arvovirus 2} & Gray fox amdovirus & GFAV &
                                                    JN202450 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9099,7 +9220,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.86 \textit{Aveparvovirus} &
+l.88 \textit{Aveparvovirus} &
                               \textit{\textbf{Galliform aveparvovirus 1}} & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9109,7 +9230,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.86 ...xtit{\textbf{Galliform aveparvovirus 1}} &
+l.88 ...xtit{\textbf{Galliform aveparvovirus 1}} &
                                                    Chicken parvovirus & ChPV...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9136,7 +9257,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.86 ...m aveparvovirus 1}} & Chicken parvovirus &
+l.88 ...m aveparvovirus 1}} & Chicken parvovirus &
                                                    ChPV & GU214704 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9150,7 +9271,7 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no V in font nullfont!
 ! Misplaced alignment tab character &.
-l.86 ...rvovirus 1}} & Chicken parvovirus & ChPV &
+l.88 ...rvovirus 1}} & Chicken parvovirus & ChPV &
                                                    GU214704 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9170,7 +9291,7 @@ Missing character: There is no 4 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.87 &
+l.89 &
        & Turkey parvovirus & TuPV & GU214706 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9180,7 +9301,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.87 & &
+l.89 & &
          Turkey parvovirus & TuPV & GU214706 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9206,7 +9327,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.87 & & Turkey parvovirus &
+l.89 & & Turkey parvovirus &
                              TuPV & GU214706 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9220,7 +9341,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no V in font nullfont!
 ! Misplaced alignment tab character &.
-l.87 & & Turkey parvovirus & TuPV &
+l.89 & & Turkey parvovirus & TuPV &
                                     GU214706 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9238,7 +9359,7 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Misplaced alignment tab character &.
-l.88 \textit{Bocaparvovirus} &
+l.90 \textit{Bocaparvovirus} &
                                \textit{Carnivore bocaparvovirus 1} & Canine ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9248,7 +9369,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.88 ...s} & \textit{Carnivore bocaparvovirus 1} &
+l.90 ...s} & \textit{Carnivore bocaparvovirus 1} &
                                                    Canine minute virus & CnM...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9275,7 +9396,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.88 ... bocaparvovirus 1} & Canine minute virus &
+l.90 ... bocaparvovirus 1} & Canine minute virus &
                                                    CnMV & FJ214110 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9289,7 +9410,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no V in font nullfont!
 ! Misplaced alignment tab character &.
-l.88 ...rvovirus 1} & Canine minute virus & CnMV &
+l.90 ...rvovirus 1} & Canine minute virus & CnMV &
                                                    FJ214110 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9309,7 +9430,7 @@ Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.89 &
+l.91 &
        \textit{Carnivore bocaparvovirus 2} & Canine bocavirus 1 & CBoV & JN6...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9319,7 +9440,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.89 & \textit{Carnivore bocaparvovirus 2} &
+l.91 & \textit{Carnivore bocaparvovirus 2} &
                                              Canine bocavirus 1 & CBoV & JN6...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9345,7 +9466,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.89 ...e bocaparvovirus 2} & Canine bocavirus 1 &
+l.91 ...e bocaparvovirus 2} & Canine bocavirus 1 &
                                                    CBoV & JN648103 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9359,7 +9480,7 @@ Missing character: There is no B in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 ! Misplaced alignment tab character &.
-l.89 ...arvovirus 2} & Canine bocavirus 1 & CBoV &
+l.91 ...arvovirus 2} & Canine bocavirus 1 & CBoV &
                                                    JN648103 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9379,7 +9500,7 @@ Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.90 &
+l.92 &
        \textit{Carnivore bocaparvovirus 3} & Feline bocavirus & FBoV & JQ692...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9389,7 +9510,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.90 & \textit{Carnivore bocaparvovirus 3} &
+l.92 & \textit{Carnivore bocaparvovirus 3} &
                                              Feline bocavirus & FBoV & JQ692...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9414,7 +9535,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.90 ...ore bocaparvovirus 3} & Feline bocavirus &
+l.92 ...ore bocaparvovirus 3} & Feline bocavirus &
                                                    FBoV & JQ692585 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9428,7 +9549,7 @@ Missing character: There is no B in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 ! Misplaced alignment tab character &.
-l.90 ...aparvovirus 3} & Feline bocavirus & FBoV &
+l.92 ...aparvovirus 3} & Feline bocavirus & FBoV &
                                                    JQ692585 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9448,7 +9569,7 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.91 &
+l.93 &
        \textit{Pinniped bocaparvovirus 1} & California sea lion bocavirus 1 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9458,7 +9579,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.91 & \textit{Pinniped bocaparvovirus 1} &
+l.93 & \textit{Pinniped bocaparvovirus 1} &
                                             California sea lion bocavirus 1 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9495,7 +9616,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.91 ...rus 1} & California sea lion bocavirus 1 &
+l.93 ...rus 1} & California sea lion bocavirus 1 &
                                                    CslBoV1 & JN420361\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9512,7 +9633,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.91 ...alifornia sea lion bocavirus 1 & CslBoV1 &
+l.93 ...alifornia sea lion bocavirus 1 & CslBoV1 &
                                                    JN420361\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9532,7 +9653,7 @@ Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.92 &
+l.94 &
        & California sea lion bocavirus 2 & CslBoV2 & JN420366 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9542,7 +9663,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.92 & &
+l.94 & &
          California sea lion bocavirus 2 & CslBoV2 & JN420366 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9579,7 +9700,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
-l.92 & & California sea lion bocavirus 2 &
+l.94 & & California sea lion bocavirus 2 &
                                            CslBoV2 & JN420366 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9596,7 +9717,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
-l.92 ...alifornia sea lion bocavirus 2 & CslBoV2 &
+l.94 ...alifornia sea lion bocavirus 2 & CslBoV2 &
                                                    JN420366 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9616,7 +9737,7 @@ Missing character: There is no 6 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.93 &
+l.95 &
        \textit{Pinniped bocaparvovirus 2} & California sea lion bocavirus 3 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9626,7 +9747,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.93 & \textit{Pinniped bocaparvovirus 2} &
+l.95 & \textit{Pinniped bocaparvovirus 2} &
                                             California sea lion bocavirus 3 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9663,7 +9784,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
-l.93 ...rus 2} & California sea lion bocavirus 3 &
+l.95 ...rus 2} & California sea lion bocavirus 3 &
                                                    CslBoV3 & JN420365 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9680,7 +9801,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
-l.93 ...alifornia sea lion bocavirus 3 & CslBoV3 &
+l.95 ...alifornia sea lion bocavirus 3 & CslBoV3 &
                                                    JN420365 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9700,7 +9821,7 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.94  &
+l.96  &
         \textit{Primate bocaparvovirus 1} & Human bocavirus 1 & HBoV1 & JQ92...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9710,7 +9831,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.94  & \textit{Primate bocaparvovirus 1} &
+l.96  & \textit{Primate bocaparvovirus 1} &
                                             Human bocavirus 1 & HBoV1 & JQ92...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9735,7 +9856,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.94 ...te bocaparvovirus 1} & Human bocavirus 1 &
+l.96 ...te bocaparvovirus 1} & Human bocavirus 1 &
                                                    HBoV1 & JQ923422 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9750,7 +9871,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.94 ...arvovirus 1} & Human bocavirus 1 & HBoV1 &
+l.96 ...arvovirus 1} & Human bocavirus 1 & HBoV1 &
                                                    JQ923422 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9770,7 +9891,7 @@ Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.95  &
+l.97  &
         & Human bocavirus 3 & HBoV3 & EU918736 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9780,7 +9901,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.95  & &
+l.97  & &
           Human bocavirus 3 & HBoV3 & EU918736 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9805,7 +9926,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
-l.95  & & Human bocavirus 3 &
+l.97  & & Human bocavirus 3 &
                               HBoV3 & EU918736 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9820,7 +9941,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
-l.95  & & Human bocavirus 3 & HBoV3 &
+l.97  & & Human bocavirus 3 & HBoV3 &
                                       EU918736 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9840,7 +9961,7 @@ Missing character: There is no 6 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.96  &
+l.98  &
         & Gorilla bocavirus & GBoV & HM145750 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9850,7 +9971,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.96  & &
+l.98  & &
           Gorilla bocavirus & GBoV & HM145750 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9876,7 +9997,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.96  & & Gorilla bocavirus &
+l.98  & & Gorilla bocavirus &
                               GBoV & HM145750 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9890,7 +10011,7 @@ Missing character: There is no B in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 ! Misplaced alignment tab character &.
-l.96  & & Gorilla bocavirus & GBoV &
+l.98  & & Gorilla bocavirus & GBoV &
                                      HM145750 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9910,7 +10031,7 @@ Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.97  &
+l.99  &
         \textit{Primate bocaparvovirus 2} & Human bocavirus 2a & HBoV2a & FJ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9920,7 +10041,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.97  & \textit{Primate bocaparvovirus 2} &
+l.99  & \textit{Primate bocaparvovirus 2} &
                                             Human bocavirus 2a & HBoV2a & FJ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9946,7 +10067,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no a in font nullfont!
 ! Misplaced alignment tab character &.
-l.97 ...e bocaparvovirus 2} & Human bocavirus 2a &
+l.99 ...e bocaparvovirus 2} & Human bocavirus 2a &
                                                    HBoV2a & FJ973558 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9962,7 +10083,7 @@ Missing character: There is no V in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no a in font nullfont!
 ! Misplaced alignment tab character &.
-l.97 ...vovirus 2} & Human bocavirus 2a & HBoV2a &
+l.99 ...vovirus 2} & Human bocavirus 2a & HBoV2a &
                                                    FJ973558 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -9982,8 +10103,8 @@ Missing character: There is no 8 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.98  &
-        & Human bocavirus 2b & HBoV2b & FJ973560 \\
+l.100  &
+         & Human bocavirus 2b & HBoV2b & FJ973560 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -9992,8 +10113,8 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.98  & &
-          Human bocavirus 2b & HBoV2b & FJ973560 \\
+l.100  & &
+           Human bocavirus 2b & HBoV2b & FJ973560 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -10018,8 +10139,8 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no b in font nullfont!
 ! Misplaced alignment tab character &.
-l.98  & & Human bocavirus 2b &
-                               HBoV2b & FJ973560 \\
+l.100  & & Human bocavirus 2b &
+                                HBoV2b & FJ973560 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -10034,8 +10155,8 @@ Missing character: There is no V in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no b in font nullfont!
 ! Misplaced alignment tab character &.
-l.98  & & Human bocavirus 2b & HBoV2b &
-                                        FJ973560 \\
+l.100  & & Human bocavirus 2b & HBoV2b &
+                                         FJ973560 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -10054,8 +10175,8 @@ Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.99  &
-        & Human bocavirus 2c & HBoV2c & FJ170278 \\
+l.101  &
+         & Human bocavirus 2c & HBoV2c & FJ170278 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -10064,8 +10185,8 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.99  & &
-          Human bocavirus 2c & HBoV2c & FJ170278 \\
+l.101  & &
+           Human bocavirus 2c & HBoV2c & FJ170278 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -10090,8 +10211,8 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no c in font nullfont!
 ! Misplaced alignment tab character &.
-l.99  & & Human bocavirus 2c &
-                               HBoV2c & FJ170278 \\
+l.101  & & Human bocavirus 2c &
+                                HBoV2c & FJ170278 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -10106,8 +10227,8 @@ Missing character: There is no V in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no c in font nullfont!
 ! Misplaced alignment tab character &.
-l.99  & & Human bocavirus 2c & HBoV2c &
-                                        FJ170278 \\
+l.101  & & Human bocavirus 2c & HBoV2c &
+                                         FJ170278 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -10126,7 +10247,7 @@ Missing character: There is no 8 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.100  &
+l.102  &
          & Human bocavirus 4 & HBoV4 & FJ973561 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10136,7 +10257,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.100  & &
+l.102  & &
            Human bocavirus 4 & HBoV4 & FJ973561 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10161,7 +10282,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 4 in font nullfont!
 ! Misplaced alignment tab character &.
-l.100  & & Human bocavirus 4 &
+l.102  & & Human bocavirus 4 &
                                HBoV4 & FJ973561 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10176,7 +10297,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 4 in font nullfont!
 ! Misplaced alignment tab character &.
-l.100  & & Human bocavirus 4 & HBoV4 &
+l.102  & & Human bocavirus 4 & HBoV4 &
                                        FJ973561 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10196,7 +10317,7 @@ Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.101  &
+l.103  &
          \textit{\textbf{Ungulate bocaparvovirus 1}} & Bovine parvovirus & B...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10206,7 +10327,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.101 ...tit{\textbf{Ungulate bocaparvovirus 1}} &
+l.103 ...tit{\textbf{Ungulate bocaparvovirus 1}} &
                                                    Bovine parvovirus & BPV &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10232,7 +10353,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.101 ... bocaparvovirus 1}} & Bovine parvovirus &
+l.103 ... bocaparvovirus 1}} & Bovine parvovirus &
                                                    BPV & DQ335247 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10245,7 +10366,7 @@ Missing character: There is no B in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no V in font nullfont!
 ! Misplaced alignment tab character &.
-l.101 ...arvovirus 1}} & Bovine parvovirus & BPV &
+l.103 ...arvovirus 1}} & Bovine parvovirus & BPV &
                                                    DQ335247 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10265,7 +10386,7 @@ Missing character: There is no 7 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.102  &
+l.104  &
          \textit{Ungulate bocaparvovirus 2} & Porcine bocavirus 1 & PBoV1 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10275,7 +10396,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.102  & \textit{Ungulate bocaparvovirus 2} &
+l.104  & \textit{Ungulate bocaparvovirus 2} &
                                               Porcine bocavirus 1 & PBoV1 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10302,7 +10423,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.102 ...bocaparvovirus 2} & Porcine bocavirus 1 &
+l.104 ...bocaparvovirus 2} & Porcine bocavirus 1 &
                                                    PBoV1 & HM053693 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10317,7 +10438,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.102 ...ovirus 2} & Porcine bocavirus 1 & PBoV1 &
+l.104 ...ovirus 2} & Porcine bocavirus 1 & PBoV1 &
                                                    HM053693 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10337,7 +10458,7 @@ Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.103  &
+l.105  &
          & Porcine bocavirus 2 & PBoV2 & HM053694 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10347,7 +10468,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.103  & &
+l.105  & &
            Porcine bocavirus 2 & PBoV2 & HM053694 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10374,7 +10495,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
-l.103  & & Porcine bocavirus 2 &
+l.105  & & Porcine bocavirus 2 &
                                  PBoV2 & HM053694 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10389,7 +10510,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
-l.103  & & Porcine bocavirus 2 & PBoV2 &
+l.105  & & Porcine bocavirus 2 & PBoV2 &
                                          HM053694 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10409,7 +10530,7 @@ Missing character: There is no 4 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.104  &
+l.106  &
          & Porcine bocavirus 6 & PBoV6 & HQ291309 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10419,7 +10540,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.104  & &
+l.106  & &
            Porcine bocavirus 6 & PBoV6 & HQ291309 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10446,7 +10567,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Misplaced alignment tab character &.
-l.104  & & Porcine bocavirus 6 &
+l.106  & & Porcine bocavirus 6 &
                                  PBoV6 & HQ291309 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10461,7 +10582,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 6 in font nullfont!
 ! Misplaced alignment tab character &.
-l.104  & & Porcine bocavirus 6 & PBoV6 &
+l.106  & & Porcine bocavirus 6 & PBoV6 &
                                          HQ291309 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10481,7 +10602,7 @@ Missing character: There is no 9 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.105  &
+l.107  &
          \textit{Ungulate bocaparvovirus 3} & Porcine bocavirus 5 & PBoV5 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10491,7 +10612,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.105  & \textit{Ungulate bocaparvovirus 3} &
+l.107  & \textit{Ungulate bocaparvovirus 3} &
                                               Porcine bocavirus 5 & PBoV5 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10518,7 +10639,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
-l.105 ...bocaparvovirus 3} & Porcine bocavirus 5 &
+l.107 ...bocaparvovirus 3} & Porcine bocavirus 5 &
                                                    PBoV5 & HQ223038 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10533,7 +10654,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
-l.105 ...ovirus 3} & Porcine bocavirus 5 & PBoV5 &
+l.107 ...ovirus 3} & Porcine bocavirus 5 & PBoV5 &
                                                    HQ223038 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10553,7 +10674,7 @@ Missing character: There is no 8 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.106  &
+l.108  &
          \textit{Ungulate bocaparvovirus 4} & Porcine bocavirus 7 & PBoV7 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10563,7 +10684,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.106  & \textit{Ungulate bocaparvovirus 4} &
+l.108  & \textit{Ungulate bocaparvovirus 4} &
                                               Porcine bocavirus 7 & PBoV7 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10590,7 +10711,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 7 in font nullfont!
 ! Misplaced alignment tab character &.
-l.106 ...bocaparvovirus 4} & Porcine bocavirus 7 &
+l.108 ...bocaparvovirus 4} & Porcine bocavirus 7 &
                                                    PBoV7 & HQ291308 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10605,7 +10726,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 7 in font nullfont!
 ! Misplaced alignment tab character &.
-l.106 ...ovirus 4} & Porcine bocavirus 7 & PBoV7 &
+l.108 ...ovirus 4} & Porcine bocavirus 7 & PBoV7 &
                                                    HQ291308 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10625,7 +10746,7 @@ Missing character: There is no 8 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.107  &
+l.109  &
          \textit{Ungulate bocaparvovirus 5} & Porcine bocavirus 3 & PBoV3 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10635,7 +10756,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.107  & \textit{Ungulate bocaparvovirus 5} &
+l.109  & \textit{Ungulate bocaparvovirus 5} &
                                               Porcine bocavirus 3 & PBoV3 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10662,7 +10783,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
-l.107 ...bocaparvovirus 5} & Porcine bocavirus 3 &
+l.109 ...bocaparvovirus 5} & Porcine bocavirus 3 &
                                                    PBoV3 & JF429834 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10677,7 +10798,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
-l.107 ...ovirus 5} & Porcine bocavirus 3 & PBoV3 &
+l.109 ...ovirus 5} & Porcine bocavirus 3 & PBoV3 &
                                                    JF429834 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10697,7 +10818,7 @@ Missing character: There is no 4 in font nullfont!
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.108  &
+l.110  &
          & Porcine bocavirus 4-1 & PBoV4-1 & JF429835 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10707,7 +10828,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.108  & &
+l.110  & &
            Porcine bocavirus 4-1 & PBoV4-1 & JF429835 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -10736,14 +10857,14 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.108  & & Porcine bocavirus 4-1 &
+l.110  & & Porcine bocavirus 4-1 &
                                    PBoV4-1 & JF429835 \\
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 59 strings out of 494045
- 903 string characters out of 3147575
+ 61 strings out of 494045
+ 916 string characters out of 3147575
  53890 words of memory out of 3000000
- 3445 multiletter control sequences out of 15000+200000
+ 3447 multiletter control sequences out of 15000+200000
  4653 words of font info for 17 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  20i,4n,25p,982b,119s stack positions out of 5000i,500n,10000p,200000b,50000s

@@ -36,7 +36,7 @@
 \usepackage{hyperref,url}
 \usepackage[all]{hypcap}
 \usepackage{nomencl}
-
+\usepackage{tocloft}
 
 
 
@@ -111,8 +111,7 @@ Departement für Chemie und Biochemie}}
 
 \phantomsection\addcontentsline{toc}{chapter}{Declaration}
 \addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
-\includepdf[pagecommand=\thispagestyle{plain}]{declaration}
-
+\includepdf[pagecommand=\thispagestyle{plain}]{../pdfdocuments/declaration}
 
 \clearpage
 
@@ -181,9 +180,11 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 \lhead{\emph{Contents}} % Set the left side page header to "Contents"
 \tableofcontents % Write out the Table of Contents
 
+\clearpage
 \lhead{\emph{List of Figures}} % Set the left side page header to "List of Figures"
 \listoffigures % Write out the List of Figures
 
+\clearpage
 \lhead{\emph{List of Tables}} % Set the left side page header to "List of Tables"
 \listoftables % Write out the List of Tables
 
@@ -215,17 +216,17 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 
 
 
-\begin{figure}[b]
-  \centering
-    \includegraphics[scale=0.2]{test}
-  \caption{Structure of D440N}
-  \label{fig:D440N}
-\end{figure}
-Figure~\ref{fig:D440N} shows a photograph of D440N.
 
 
 
 \part{Publication}
+\renewcommand{\cftdot}{}
+\input{./Chapters/ChapterPub1}
+
+
+
+
+
 
 \part{Discussion}
 
