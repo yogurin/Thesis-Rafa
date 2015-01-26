@@ -13,14 +13,14 @@
 %	PREAMBLE: PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
-\documentclass[11pt, numbers=noenddot, titlepage, a4paper, oneside, onecolumn]{scrbook} % Paper size, default font size and one-sided paper
+\documentclass[11pt, numbers=noenddot, titlepage, a4paper, twoside, onecolumn, DIV=calc]{scrbook} % Paper size, default font size and one-sided paper
 
 
 \usepackage[ngerman,english]{babel}		%language
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
-\usepackage{fancyhdr}
+% \usepackage{fancyhdr}
 \usepackage{setspace}
 \usepackage{amsmath} 			%Greek letters
 \usepackage{fixltx2e} 			%subscript
@@ -36,9 +36,10 @@
 \usepackage{hyperref,url}
 \usepackage[all]{hypcap}
 \usepackage{nomencl}
+\usepackage{scrpage2}
 
 
-
+\deftripstyle{raphimen}{\headmark}{}{\pagemark}{}{}{}
 
 \graphicspath{{./Pictures/}} % Specifies the directory where pictures are stored
 
@@ -59,11 +60,11 @@
 
 
 % Define the page headers using the FancyHdr package and set up for one-sided printing
-\fancyhead{} % Clears all page headers and footers
-\rhead{\thepage} % Sets the right side header to show the page number
-\lhead{} % Clears the left side page header
+%\fancyhead{} % Clears all page headers and footers
+%\rhead{\thepage} % Sets the right side header to show the page number
+%\lhead{} % Clears the left side page header
 
-\pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
+%\pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
 
 
 \frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
@@ -174,17 +175,18 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 %	LIST OF CONTENTS/FIGURES/TABLES PAGES
 %----------------------------------------------------------------------------------------
 
-\pagestyle{plain} % The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
+% \lhead{\emph{Contents}} % Set the left side page header to "Contents"
+\pagestyle{scrheadings} % The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
 
 %\includepdfset{pagecommand=\thispagestyle{fancy}
 
-\lhead{\emph{Contents}} % Set the left side page header to "Contents"
+
 \tableofcontents % Write out the Table of Contents
 
-\lhead{\emph{List of Figures}} % Set the left side page header to "List of Figures"
+% \lhead{\emph{List of Figures}} % Set the left side page header to "List of Figures"
 \listoffigures % Write out the List of Figures
 
-\lhead{\emph{List of Tables}} % Set the left side page header to "List of Tables"
+% \lhead{\emph{List of Tables}} % Set the left side page header to "List of Tables"
 \listoftables % Write out the List of Tables
 
 
@@ -197,9 +199,12 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 
 \mainmatter % Begin numeric (1,2,3...) page numbering
 
-\pagestyle{fancy} % Return the page headers back to the "fancy" style
+% \pagestyle{fancy} % Return the page headers back to the "fancy" style
 
-\fancyfoot[C]{}
+\pagestyle{raphimen}
+
+
+% \fancyfoot[C]{}
 
 % Include the chapters of the thesis as separate files from the Chapters folder
 % Uncomment the lines as you write the chapters
