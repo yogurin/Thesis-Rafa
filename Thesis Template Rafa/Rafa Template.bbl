@@ -1,5 +1,24 @@
 \begin{thebibliography}{10}
 
+\bibitem{pmid4975639}
+{\sc L.~V. Crawford}, {\sc E.~A. Follett}, {\sc M.~G. Burdon}, and {\sc D.~J.
+  McGeoch},
+\newblock {{T}he {D}{N}{A} of a minute virus of mice},
+\newblock {\em J. Gen. Virol.} {\bf 4}, 37 (1969).
+
+\bibitem{pmid5264145}
+{\sc J.~A. Rose}, {\sc K.~I. Berns}, {\sc M.~D. Hoggan}, and {\sc F.~J.
+  Koczot},
+\newblock {{E}vidence for a single-stranded adenovirus-associated virus genome:
+  formation of a {D}{N}{A} density hybrid on release of viral {D}{N}{A}},
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 64}, 863 (1969).
+
+\bibitem{pmid5429749}
+{\sc K.~I. Berns} and {\sc J.~A. Rose},
+\newblock {{E}vidence for a single-stranded adenovirus-associated virus genome:
+  isolation and separation of complementary single strands},
+\newblock {\em J. Virol.} {\bf 5}, 693 (1970).
+
 \bibitem{pmid10497831}
 {\sc P.~Tijssen},
 \newblock {{M}olecular and structural basis of the evolution of parvovirus
@@ -12,6 +31,52 @@
 \newblock {\em {{V}irus taxonomy: {N}inth report of the {I}nternational
   {C}ommittee on {T}axonomy of {V}iruses.}},
 \newblock Elsevier Academic Press, San Diego, CA, 2012.
+
+\bibitem{CsCl}
+{\sc M.~D. Hoggan}, {\sc K.~Maramorosch}, and {\sc E.~Kurstak},
+\newblock {\em {{S}mall {D}{N}{A} viruses}},
+\newblock Academic Press, New York, NY, 1971.
+
+\bibitem{pmid4317344}
+{\sc L.~A. Salzman} and {\sc L.~A. Jori},
+\newblock {{C}haracterization of the {K}ilham rat virus},
+\newblock {\em J. Virol.} {\bf 5}, 114 (1970).
+
+\bibitem{pmid12935806}
+{\sc N.~Boschetti}, {\sc K.~Wyss}, {\sc A.~Mischler}, {\sc T.~Hostettler}, and
+  {\sc C.~Kempf},
+\newblock {{S}tability of minute virus of mice against temperature and sodium
+  hydroxide},
+\newblock {\em Biologicals} {\bf 31}, 181 (2003).
+
+\bibitem{pmid12385412}
+{\sc J.~Blumel}, {\sc I.~Schmidt}, {\sc H.~Willkommen}, and {\sc J.~Lower},
+\newblock {{I}nactivation of parvovirus {B}19 during pasteurization of human
+  serum albumin},
+\newblock {\em Transfusion} {\bf 42}, 1011 (2002).
+
+\bibitem{pmid4213983}
+{\sc R.~E. Harris}, {\sc P.~H. Coleman}, and {\sc P.~S. Morahan},
+\newblock {{S}tability of minute virus of mice to chemical and physical
+  agents},
+\newblock {\em Appl Microbiol} {\bf 28}, 351 (1974).
+
+\bibitem{pmid3416941}
+{\sc M.~Saknimit}, {\sc I.~Inatsuki}, {\sc Y.~Sugiyama}, and {\sc K.~Yagami},
+\newblock {{V}irucidal efficacy of physico-chemical treatments against
+  coronaviruses and parvoviruses of laboratory animals},
+\newblock {\em Jikken Dobutsu} {\bf 37}, 341 (1988).
+
+\bibitem{pmid7848502}
+{\sc S.~Brauniger}, {\sc I.~Fischer}, and {\sc J.~Peters},
+\newblock {[{T}he temperature stability of bovine parvovirus]},
+\newblock {\em Zentralbl Hyg Umweltmed} {\bf 196}, 270 (1994).
+
+\bibitem{pmid1520981}
+{\sc T.~F. Schwarz}, {\sc S.~Serke}, {\sc A.~Von~Brunn}, {\sc B.~Hottentrager},
+  {\sc D.~Huhn}, {\sc F.~Deinhardt}, and {\sc M.~Roggendorf},
+\newblock {{H}eat stability of parvovirus {B}19: kinetics of inactivation},
+\newblock {\em Zentralbl. Bakteriol.} {\bf 277}, 219 (1992).
 
 \bibitem{pmid5902774}
 {\sc C.~Brailovsky},
@@ -83,13 +148,6 @@
 \newblock {{S}eparation of two types of adeno-associated virus particles
   containing complementary polynucleotide chains},
 \newblock {\em J. Virol.} {\bf 9}, 394 (1972).
-
-\bibitem{pmid5264145}
-{\sc J.~A. Rose}, {\sc K.~I. Berns}, {\sc M.~D. Hoggan}, and {\sc F.~J.
-  Koczot},
-\newblock {{E}vidence for a single-stranded adenovirus-associated virus genome:
-  formation of a {D}{N}{A} density hybrid on release of viral {D}{N}{A}},
-\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 64}, 863 (1969).
 
 \bibitem{pmid6246271}
 {\sc E.~Lusby}, {\sc K.~H. Fife}, and {\sc K.~I. Berns},
@@ -204,6 +262,95 @@
 \newblock {{T}he genome of minute virus of mice, an autonomous parvovirus,
   encodes two overlapping transcription units},
 \newblock {\em Nucleic Acids Res.} {\bf 11}, 1019 (1983).
+
+\bibitem{pmid5083410}
+{\sc C.~Hallauer}, {\sc G.~Siegl}, and {\sc G.~Kronauer},
+\newblock {{P}arvoviruses as contaminants of permanent human cell lines. 3.
+  {B}iological properties of the isolated viruses},
+\newblock {\em Arch Gesamte Virusforsch} {\bf 38}, 366 (1972).
+
+\bibitem{pmid15956568}
+{\sc M.~S. Jones}, {\sc A.~Kapoor}, {\sc V.~V. Lukashov}, {\sc P.~Simmonds},
+  {\sc F.~Hecht}, and {\sc E.~Delwart},
+\newblock {{N}ew {D}{N}{A} viruses identified in patients with acute viral
+  infection syndrome},
+\newblock {\em J. Virol.} {\bf 79}, 8230 (2005).
+
+\bibitem{pmid20668071}
+{\sc C.~P. Sharp}, {\sc M.~LeBreton}, {\sc K.~Kantola}, {\sc A.~Nana}, {\sc
+  J.~l. e.~D. Diffo}, {\sc C.~F. Djoko}, {\sc U.~Tamoufe}, {\sc J.~A. Kiyang},
+  {\sc T.~G. Babila}, {\sc E.~M. Ngole}, {\sc O.~G. Pybus}, {\sc E.~Delwart},
+  {\sc E.~Delaporte}, {\sc M.~Peeters}, {\sc M.~Soderlund-Venermo}, {\sc
+  K.~Hedman}, {\sc N.~D. Wolfe}, and {\sc P.~Simmonds},
+\newblock {{W}idespread infection with homologues of human parvoviruses {B}19,
+  {P}{A}{R}{V}4, and human bocavirus of chimpanzees and gorillas in the wild},
+\newblock {\em J. Virol.} {\bf 84}, 10289 (2010).
+
+\bibitem{pmid18632954}
+{\sc S.~K. Lau}, {\sc P.~C. Woo}, {\sc H.~Tse}, {\sc C.~T. Fu}, {\sc W.~K. Au},
+  {\sc X.~C. Chen}, {\sc H.~W. Tsoi}, {\sc T.~H. Tsang}, {\sc J.~S. Chan}, {\sc
+  D.~N. Tsang}, {\sc K.~S. Li}, {\sc C.~W. Tse}, {\sc T.~K. Ng}, {\sc O.~T.
+  Tsang}, {\sc B.~J. Zheng}, {\sc S.~Tam}, {\sc K.~H. Chan}, {\sc B.~Zhou}, and
+  {\sc K.~Y. Yuen},
+\newblock {{I}dentification of novel porcine and bovine parvoviruses closely
+  related to human parvovirus 4},
+\newblock {\em J. Gen. Virol.} {\bf 89}, 1840 (2008).
+
+\bibitem{pmid20653980}
+{\sc C.~Adlhoch}, {\sc M.~Kaiser}, {\sc H.~Ellerbrok}, and {\sc G.~Pauli},
+\newblock {{H}igh prevalence of porcine {H}okovirus in {G}erman wild boar
+  populations},
+\newblock {\em Virol. J.} {\bf 7}, 171 (2010).
+
+\bibitem{pmid22247522}
+{\sc B.~Li}, {\sc J.~Ma}, {\sc S.~Xiao}, {\sc L.~Wen}, {\sc Y.~Ni}, {\sc
+  X.~Zhang}, {\sc L.~Fang}, and {\sc K.~He},
+\newblock {{G}enome sequence of a highly prevalent porcine partetravirus in
+  {M}ainland {C}hina},
+\newblock {\em J. Virol.} {\bf 86}, 1899 (2012).
+
+\bibitem{pmid21980506}
+{\sc H.~Tse}, {\sc H.~W. Tsoi}, {\sc J.~L. Teng}, {\sc X.~C. Chen}, {\sc
+  H.~Liu}, {\sc B.~Zhou}, {\sc B.~J. Zheng}, {\sc P.~C. Woo}, {\sc S.~K. Lau},
+  and {\sc K.~Y. Yuen},
+\newblock {{D}iscovery and genomic characterization of a novel ovine
+  partetravirus and a new genotype of bovine partetravirus},
+\newblock {\em PLoS ONE} {\bf 6}, e25619 (2011).
+
+\bibitem{pmid22492853}
+{\sc R.~Simmons}, {\sc C.~Sharp}, {\sc C.~P. McClure}, {\sc J.~Rohrbach}, {\sc
+  H.~Kovari}, {\sc E.~Frangou}, {\sc P.~Simmonds}, {\sc W.~Irving}, {\sc
+  A.~Rauch}, {\sc P.~Bowness}, {\sc P.~Klenerman}, {\sc M.~Battegay}, {\sc
+  E.~Bernasconi}, {\sc J.~Boni}, {\sc H.~C. Bucher}, {\sc P.~Burgisser}, {\sc
+  A.~Calmy}, {\sc S.~Cattacin}, {\sc M.~Cavassini}, {\sc R.~Dubs}, {\sc
+  M.~Egger}, {\sc L.~Elzi}, {\sc P.~Erb}, {\sc M.~Fischer}, {\sc M.~Flepp},
+  {\sc A.~Fontana}, {\sc P.~Francioli}, {\sc H.~Furrer}, {\sc C.~Fux}, {\sc
+  M.~Gorgievski}, {\sc H.~Gunthard}, {\sc H.~Hirsch}, {\sc B.~Hirschel}, {\sc
+  I.~Hosli}, {\sc C.~Kahlert}, {\sc L.~Kaiser}, {\sc U.~Karrer}, {\sc C.~Kind},
+  {\sc T.~Klimakait}, {\sc B.~Ledergerber}, {\sc G.~Martinetti}, {\sc
+  B.~Martinez}, {\sc N.~Muller}, {\sc D.~Nadal}, {\sc M.~Opravil}, {\sc
+  F.~Paccaud}, {\sc G.~Pantaleo}, {\sc A.~Rauch}, {\sc S.~Regenass}, {\sc
+  M.~Rickenbach}, {\sc C.~Rudin}, {\sc P.~Schmid}, {\sc D.~Schultze}, {\sc
+  J.~Schupach}, {\sc R.~Speck}, {\sc P.~Taffe}, {\sc P.~Tarr}, {\sc
+  A.~Telenti}, {\sc A.~Trkola}, {\sc P.~Vernazza}, {\sc R.~Weber}, and {\sc
+  S.~Yerly},
+\newblock {{P}arvovirus 4 infection and clinical outcome in high-risk
+  populations},
+\newblock {\em J. Infect. Dis.} {\bf 205}, 1816 (2012).
+
+\bibitem{pmid22235298}
+{\sc X.~Yu}, {\sc J.~Zhang}, {\sc L.~Hong}, {\sc J.~Wang}, {\sc Z.~Yuan}, {\sc
+  X.~Zhang}, and {\sc R.~Ghildyal},
+\newblock {{H}igh prevalence of human parvovirus 4 infection in {H}{B}{V} and
+  {H}{C}{V} infected individuals in shanghai},
+\newblock {\em PLoS ONE} {\bf 7}, e29474 (2012).
+
+\bibitem{pmid17397006}
+{\sc A.~Manning}, {\sc S.~J. Willey}, {\sc J.~E. Bell}, and {\sc P.~Simmonds},
+\newblock {{C}omparison of tissue distribution, persistence, and molecular
+  epidemiology of parvovirus {B}19 and novel human parvoviruses {P}{A}{R}{V}4
+  and human bocavirus},
+\newblock {\em J. Infect. Dis.} {\bf 195}, 1345 (2007).
 
 \bibitem{pmid12941411}
 {\sc K.~Hueffer} and {\sc C.~R. Parrish},
@@ -373,6 +520,22 @@
   W.~Keller}, and {\sc M.~G. Rossmann},
 \newblock {{S}tructure determination of monoclinic canine parvovirus},
 \newblock {\em Acta Crystallogr., B} {\bf 48 ( Pt 1)}, 75 (1992).
+
+\bibitem{pmid4321164}
+{\sc L.~A. Salzman} and {\sc W.~L. White},
+\newblock {{S}tructural proteins of {K}ilham rat virus},
+\newblock {\em Biochem. Biophys. Res. Commun.} {\bf 41}, 1551 (1970).
+
+\bibitem{pmid5132697}
+{\sc J.~A. Rose}, {\sc J.~V. Maizel}, {\sc J.~K. Inman}, and {\sc A.~J.
+  Shatkin},
+\newblock {{S}tructural proteins of adenovirus-associated viruses},
+\newblock {\em J. Virol.} {\bf 8}, 766 (1971).
+
+\bibitem{pmid5172922}
+{\sc F.~B. Johnson}, {\sc H.~L. Ozer}, and {\sc M.~D. Hoggan},
+\newblock {{S}tructural proteins of adenovirus-associated virus type 3},
+\newblock {\em J. Virol.} {\bf 8}, 860 (1971).
 
 \bibitem{pmid14213660}
 {\sc J.~W. LITTLEFIELD},
