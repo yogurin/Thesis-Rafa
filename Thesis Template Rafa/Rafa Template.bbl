@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{pmid4975639}
 {\sc L.~V. Crawford}, {\sc E.~A. Follett}, {\sc M.~G. Burdon}, and {\sc D.~J.
@@ -54,6 +54,18 @@
 \newblock {{I}nactivation of parvovirus {B}19 during pasteurization of human
   serum albumin},
 \newblock {\em Transfusion} {\bf 42}, 1011 (2002).
+
+\bibitem{pmid17880601}
+{\sc B.~Mani}, {\sc M.~Gerber}, {\sc P.~Lieby}, {\sc N.~Boschetti}, {\sc
+  C.~Kempf}, and {\sc C.~Ros},
+\newblock {{M}olecular mechanism underlying {B}19 virus inactivation and
+  comparison to other parvoviruses},
+\newblock {\em Transfusion} {\bf 47}, 1765 (2007).
+
+\bibitem{pmid19039515}
+{\sc A.~Sauerbrei} and {\sc P.~Wutzler},
+\newblock {{T}esting thermal resistance of viruses},
+\newblock {\em Arch. Virol.} {\bf 154}, 115 (2009).
 
 \bibitem{pmid4213983}
 {\sc R.~E. Harris}, {\sc P.~H. Coleman}, and {\sc P.~S. Morahan},
@@ -122,6 +134,32 @@
   implications for disease pathogenicity},
 \newblock {\em J. Virol.} {\bf 73}, 6882 (1999).
 
+\bibitem{pmid18766849}
+{\sc J.~Kisary}, {\sc B.~Nagy}, and {\sc Z.~Bitay},
+\newblock {{P}resence of parvoviruses in the intestine of chickens showing
+  stunting syndrome},
+\newblock {\em Avian Pathol.} {\bf 13}, 339 (1984).
+
+\bibitem{pmid6847550}
+{\sc D.~W. Trampel}, {\sc D.~A. Kinden}, {\sc R.~F. Solorzano}, and {\sc P.~L.
+  Stogsdill},
+\newblock {{P}arvovirus-like enteropathy in {M}issouri turkeys},
+\newblock {\em Avian Dis.} {\bf 27}, 49 (1983).
+
+\bibitem{pmid20097398}
+{\sc J.~M. Day} and {\sc L.~Zsak},
+\newblock {{D}etermination and analysis of the full-length chicken parvovirus
+  genome},
+\newblock {\em Virology} {\bf 399}, 59 (2010).
+
+\bibitem{pmid25510852}
+{\sc B.~S. Koo}, {\sc H.~R. Lee}, {\sc E.~O. Jeon}, {\sc M.~S. Han}, {\sc K.~C.
+  Min}, {\sc S.~B. Lee}, {\sc Y.~J. Bae}, {\sc S.~H. Cho}, {\sc J.~S. Mo}, {\sc
+  H.~M. Kwon}, {\sc H.~W. Sung}, {\sc J.~N. Kim}, and {\sc I.~P. Mo},
+\newblock {{G}enetic characterization of three novel chicken parvovirus strains
+  based on analysis of their coding sequences},
+\newblock {\em Avian Pathol.} {\bf 44}, 28 (2015).
+
 \bibitem{pmid3783814}
 {\sc K.~C. Chen}, {\sc B.~C. Shull}, {\sc E.~A. Moses}, {\sc M.~Lederman}, {\sc
   E.~R. Stout}, and {\sc R.~C. Bates},
@@ -136,12 +174,66 @@
   parvovirus that is most similar to bovine parvovirus},
 \newblock {\em Virology} {\bf 302}, 219 (2002).
 
+\bibitem{pmid17715221}
+{\sc J.~Qiu}, {\sc F.~Cheng}, {\sc F.~B. Johnson}, and {\sc D.~Pintel},
+\newblock {{T}he transcription profile of the bocavirus bovine parvovirus is
+  unlike those of previously characterized parvoviruses},
+\newblock {\em J. Virol.} {\bf 81}, 12080 (2007).
+
 \bibitem{pmid6319731}
 {\sc M.~Lederman}, {\sc J.~T. Patton}, {\sc E.~R. Stout}, and {\sc R.~C.
   Bates},
 \newblock {{V}irally coded noncapsid protein associated with bovine parvovirus
   infection},
 \newblock {\em J. Virol.} {\bf 49}, 315 (1984).
+
+\bibitem{pmid11562506}
+{\sc T.~Allander}, {\sc S.~U. Emerson}, {\sc R.~E. Engle}, {\sc R.~H. Purcell},
+  and {\sc J.~Bukh},
+\newblock {{A} virus discovery method incorporating {D}{N}ase treatment and its
+  application to the identification of two bovine parvovirus species},
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 98}, 11609 (2001).
+
+\bibitem{pmid16118271}
+{\sc T.~Allander}, {\sc M.~T. Tammi}, {\sc M.~Eriksson}, {\sc A.~Bjerkner},
+  {\sc A.~Tiveljung-Lindell}, and {\sc B.~Andersson},
+\newblock {{C}loning of a human parvovirus by molecular screening of
+  respiratory tract samples},
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 102}, 12891 (2005).
+
+\bibitem{pmid17553287}
+{\sc D.~Vicente}, {\sc G.~Cilla}, {\sc M.~Montes}, {\sc E.~G. Perez-Yarza}, and
+  {\sc E.~Perez-Trallero},
+\newblock {{H}uman bocavirus, a respiratory and enteric virus},
+\newblock {\em Emerging Infect. Dis.} {\bf 13}, 636 (2007).
+
+\bibitem{pmid17122013}
+{\sc N.~Bastien}, {\sc N.~Chui}, {\sc J.~L. Robinson}, {\sc B.~E. Lee}, {\sc
+  K.~Dust}, {\sc L.~Hart}, and {\sc Y.~Li},
+\newblock {{D}etection of human bocavirus in {C}anadian children in a 1-year
+  study},
+\newblock {\em J. Clin. Microbiol.} {\bf 45}, 610 (2007).
+
+\bibitem{pmid16517912}
+{\sc X.~Ma}, {\sc R.~Endo}, {\sc N.~Ishiguro}, {\sc T.~Ebihara}, {\sc
+  H.~Ishiko}, {\sc T.~Ariga}, and {\sc H.~Kikuta},
+\newblock {{D}etection of human bocavirus in {J}apanese children with lower
+  respiratory tract infections},
+\newblock {\em J. Clin. Microbiol.} {\bf 44}, 1132 (2006).
+
+\bibitem{pmid17041855}
+{\sc A.~Manning}, {\sc V.~Russell}, {\sc K.~Eastick}, {\sc G.~H. Leadbetter},
+  {\sc N.~Hallam}, {\sc K.~Templeton}, and {\sc P.~Simmonds},
+\newblock {{E}pidemiological profile and clinical associations of human
+  bocavirus and other human parvoviruses},
+\newblock {\em J. Infect. Dis.} {\bf 194}, 1283 (2006).
+
+\bibitem{pmid17176591}
+{\sc B.~Kupfer}, {\sc J.~Vehreschild}, {\sc O.~Cornely}, {\sc R.~Kaiser}, {\sc
+  G.~Plum}, {\sc S.~Viazov}, {\sc C.~Franzen}, {\sc R.~L. Tillmann}, {\sc
+  A.~Simon}, {\sc A.~Muller}, and {\sc O.~Schildgen},
+\newblock {{S}evere pneumonia and human bocavirus in adult},
+\newblock {\em Emerging Infect. Dis.} {\bf 12}, 1614 (2006).
 
 \bibitem{pmid5014934}
 {\sc K.~I. Berns} and {\sc S.~Adler},
@@ -213,6 +305,17 @@
 \newblock {{T}argeted integration of adeno-associated virus ({A}{A}{V}) into
   human chromosome 19},
 \newblock {\em EMBO J.} {\bf 10}, 3941 (1991).
+
+\bibitem{pmid18854481}
+{\sc S.~Daya} and {\sc K.~I. Berns},
+\newblock {{G}ene therapy using adeno-associated virus vectors},
+\newblock {\em Clin. Microbiol. Rev.} {\bf 21}, 583 (2008).
+
+\bibitem{pmid21499295}
+{\sc F.~Mingozzi} and {\sc K.~A. High},
+\newblock {{T}herapeutic in vivo gene transfer for genetic disease using
+  {A}{A}{V}: progress and challenges},
+\newblock {\em Nat. Rev. Genet.} {\bf 12}, 341 (2011).
 
 \bibitem{pmid2408228}
 {\sc V.~Deiss}, {\sc J.~D. Tratschin}, {\sc M.~Weitz}, and {\sc G.~Siegl},
@@ -317,23 +420,37 @@
   partetravirus and a new genotype of bovine partetravirus},
 \newblock {\em PLoS ONE} {\bf 6}, e25619 (2011).
 
+\bibitem{pmid22044541}
+{\sc S.~Lou}, {\sc B.~Xu}, {\sc Q.~Huang}, {\sc N.~Zhi}, {\sc F.~Cheng}, {\sc
+  S.~Wong}, {\sc K.~Brown}, {\sc E.~Delwart}, {\sc Z.~Liu}, and {\sc J.~Qiu},
+\newblock {{M}olecular characterization of the newly identified human
+  parvovirus 4 in the family {P}arvoviridae},
+\newblock {\em Virology} {\bf 422}, 59 (2012).
+
+\bibitem{pmid8106366}
+{\sc H.~K. Jindal}, {\sc C.~B. Yong}, {\sc G.~M. Wilson}, {\sc P.~Tam}, and
+  {\sc C.~R. Astell},
+\newblock {{M}utations in the {N}{T}{P}-binding motif of minute virus of mice
+  ({M}{V}{M}) {N}{S}-1 protein uncouple {A}{T}{P}ase and {D}{N}{A} helicase
+  functions},
+\newblock {\em J. Biol. Chem.} {\bf 269}, 3283 (1994).
+
+\bibitem{pmid9261429}
+{\sc S.~L. Walker}, {\sc R.~S. Wonderling}, and {\sc R.~A. Owens},
+\newblock {{M}utational analysis of the adeno-associated virus type 2 {R}ep68
+  protein helicase motifs},
+\newblock {\em J. Virol.} {\bf 71}, 6996 (1997).
+
+\bibitem{pmid7966641}
+{\sc M.~Momoeda}, {\sc S.~Wong}, {\sc M.~Kawase}, {\sc N.~S. Young}, and {\sc
+  S.~Kajigaya},
+\newblock {{A} putative nucleoside triphosphate-binding domain in the
+  nonstructural protein of {B}19 parvovirus is required for cytotoxicity},
+\newblock {\em J. Virol.} {\bf 68}, 8443 (1994).
+
 \bibitem{pmid22492853}
 {\sc R.~Simmons}, {\sc C.~Sharp}, {\sc C.~P. McClure}, {\sc J.~Rohrbach}, {\sc
-  H.~Kovari}, {\sc E.~Frangou}, {\sc P.~Simmonds}, {\sc W.~Irving}, {\sc
-  A.~Rauch}, {\sc P.~Bowness}, {\sc P.~Klenerman}, {\sc M.~Battegay}, {\sc
-  E.~Bernasconi}, {\sc J.~Boni}, {\sc H.~C. Bucher}, {\sc P.~Burgisser}, {\sc
-  A.~Calmy}, {\sc S.~Cattacin}, {\sc M.~Cavassini}, {\sc R.~Dubs}, {\sc
-  M.~Egger}, {\sc L.~Elzi}, {\sc P.~Erb}, {\sc M.~Fischer}, {\sc M.~Flepp},
-  {\sc A.~Fontana}, {\sc P.~Francioli}, {\sc H.~Furrer}, {\sc C.~Fux}, {\sc
-  M.~Gorgievski}, {\sc H.~Gunthard}, {\sc H.~Hirsch}, {\sc B.~Hirschel}, {\sc
-  I.~Hosli}, {\sc C.~Kahlert}, {\sc L.~Kaiser}, {\sc U.~Karrer}, {\sc C.~Kind},
-  {\sc T.~Klimakait}, {\sc B.~Ledergerber}, {\sc G.~Martinetti}, {\sc
-  B.~Martinez}, {\sc N.~Muller}, {\sc D.~Nadal}, {\sc M.~Opravil}, {\sc
-  F.~Paccaud}, {\sc G.~Pantaleo}, {\sc A.~Rauch}, {\sc S.~Regenass}, {\sc
-  M.~Rickenbach}, {\sc C.~Rudin}, {\sc P.~Schmid}, {\sc D.~Schultze}, {\sc
-  J.~Schupach}, {\sc R.~Speck}, {\sc P.~Taffe}, {\sc P.~Tarr}, {\sc
-  A.~Telenti}, {\sc A.~Trkola}, {\sc P.~Vernazza}, {\sc R.~Weber}, and {\sc
-  S.~Yerly},
+  H.~Kovari}, and {\sc et~al.},
 \newblock {{P}arvovirus 4 infection and clinical outcome in high-risk
   populations},
 \newblock {\em J. Infect. Dis.} {\bf 205}, 1816 (2012).
@@ -351,6 +468,43 @@
   epidemiology of parvovirus {B}19 and novel human parvoviruses {P}{A}{R}{V}4
   and human bocavirus},
 \newblock {\em J. Infect. Dis.} {\bf 195}, 1345 (2007).
+
+\bibitem{pmid23283958}
+{\sc R.~Simmons}, {\sc C.~Sharp}, {\sc J.~Levine}, {\sc P.~Bowness}, {\sc
+  P.~Simmonds}, {\sc A.~Cox}, and {\sc P.~Klenerman},
+\newblock {{E}volution of {C}{D}8+ {T} cell responses after acute {P}{A}{R}{V}4
+  infection},
+\newblock {\em J. Virol.} {\bf 87}, 3087 (2013).
+
+\bibitem{pmid22043925}
+{\sc C.~P. Sharp}, {\sc A.~Lail}, {\sc S.~Donfield}, {\sc E.~D. Gomperts}, and
+  {\sc P.~Simmonds},
+\newblock {{V}irologic and clinical features of primary infection with human
+  parvovirus 4 in subjects with hemophilia: frequent transmission by virally
+  inactivated clotting factor concentrates},
+\newblock {\em Transfusion} {\bf 52}, 1482 (2012).
+
+\bibitem{pmid22469425}
+{\sc M.~Lavoie}, {\sc C.~P. Sharp}, {\sc J.~Pepin}, {\sc C.~Pennington}, {\sc
+  Y.~Foupouapouognigni}, {\sc O.~G. Pybus}, {\sc R.~Njouom}, and {\sc
+  P.~Simmonds},
+\newblock {{H}uman parvovirus 4 infection, {C}ameroon},
+\newblock {\em Emerging Infect. Dis.} {\bf 18}, 680 (2012).
+
+\bibitem{pmid20587191}
+{\sc M.~Panning}, {\sc R.~Kobbe}, {\sc S.~Vollbach}, {\sc J.~F. Drexler}, {\sc
+  S.~Adjei}, {\sc O.~Adjei}, {\sc C.~Drosten}, {\sc J.~May}, and {\sc A.~M.
+  Eis-Hubinger},
+\newblock {{N}ovel human parvovirus 4 genotype 3 in infants, {G}hana},
+\newblock {\em Emerging Infect. Dis.} {\bf 16}, 1143 (2010).
+
+\bibitem{pmid24212889}
+{\sc S.~F. Cotmore}, {\sc M.~Agbandje-McKenna}, {\sc J.~A. Chiorini}, {\sc
+  D.~V. Mukha}, {\sc D.~J. Pintel}, {\sc J.~Qiu}, {\sc M.~Soderlund-Venermo},
+  {\sc P.~Tattersall}, {\sc P.~Tijssen}, {\sc D.~Gatherer}, and {\sc A.~J.
+  Davison},
+\newblock {{T}he family {P}arvoviridae},
+\newblock {\em Arch. Virol.} {\bf 159}, 1239 (2014).
 
 \bibitem{pmid12941411}
 {\sc K.~Hueffer} and {\sc C.~R. Parrish},

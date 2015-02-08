@@ -5,26 +5,34 @@
 \nomenclatureentry{aDNA@[{DNA}]\begingroup Deoxyribonucleic acid\nomeqref {\relax 1.0}|nompageref}{3}
 \nomenclatureentry{aAMDV@[{AMDV}]\begingroup Aleutian mink disease virus\nomeqref {\relax 1.0}|nompageref}{5}
 \nomenclatureentry{aGFAV@[{GFAV}]\begingroup Gray fox amdovirus\nomeqref {\relax 1.0}|nompageref}{5}
-\nomenclatureentry{aBPV@[{BPV}]\begingroup Bovine parvovirus\nomeqref {\relax 1.0}|nompageref}{5}
-\nomenclatureentry{akDa@[{kDa}]\begingroup Kilodalton\nomeqref {\relax 1.0}|nompageref}{5}
-\nomenclatureentry{aDa@[{Da}]\begingroup Dalton\nomeqref {\relax 1.0}|nompageref}{5}
-\nomenclatureentry{aNt@[{Nt}]\begingroup Nucleotide\nomeqref {\relax 1.0}|nompageref}{6}
-\nomenclatureentry{aITR@[{ITR}]\begingroup Inverted terminal repeat\nomeqref {\relax 1.0}|nompageref}{6}
-\nomenclatureentry{aKb@[{Kb}]\begingroup Kilo base\nomeqref {\relax 1.0}|nompageref}{6}
-\nomenclatureentry{aEPC@[{EPC}]\begingroup Erythroid progenitor cell\nomeqref {\relax 1.0}|nompageref}{6}
+\nomenclatureentry{aPLA2@[{PLA2}]\begingroup Phospholipase A2\nomeqref {\relax 1.0}|nompageref}{5}
+\nomenclatureentry{aChPV@[{ChPV}]\begingroup Chicken parvovirus\nomeqref {\relax 1.0}|nompageref}{5}
+\nomenclatureentry{aTuPV@[{TuPV}]\begingroup Turkey parvovirus\nomeqref {\relax 1.0}|nompageref}{5}
+\nomenclatureentry{aBPV@[{BPV}]\begingroup Bovine parvovirus\nomeqref {\relax 1.0}|nompageref}{6}
+\nomenclatureentry{akDa@[{kDa}]\begingroup Kilodalton\nomeqref {\relax 1.0}|nompageref}{6}
+\nomenclatureentry{aDa@[{Da}]\begingroup Dalton\nomeqref {\relax 1.0}|nompageref}{6}
+\nomenclatureentry{aNt@[{Nt}]\begingroup Nucleotide\nomeqref {\relax 1.0}|nompageref}{7}
+\nomenclatureentry{aITR@[{ITR}]\begingroup Inverted terminal repeat\nomeqref {\relax 1.0}|nompageref}{7}
+\nomenclatureentry{aKb@[{Kb}]\begingroup Kilo base\nomeqref {\relax 1.0}|nompageref}{7}
+\nomenclatureentry{aEPC@[{EPC}]\begingroup Erythroid progenitor cell\nomeqref {\relax 1.0}|nompageref}{7}
 \nomenclatureentry{aKRV@[{KRV}]\begingroup Kilham rat virus\nomeqref {\relax 1.0}|nompageref}{7}
-\nomenclatureentry{aPARV4@[{PARV4}]\begingroup Parvovirus 4\nomeqref {\relax 1.0}|nompageref}{7}
-\nomenclatureentry{aHBoV@[{HBoV}]\begingroup Human Bocavirus\nomeqref {\relax 1.0}|nompageref}{7}
-\nomenclatureentry{aNIH@[{NIH}]\begingroup National institutes of health\nomeqref {\relax 1.0}|nompageref}{9}
-\nomenclatureentry{aMVM@[{MVM}]\begingroup Minute virus of mice\nomeqref {\relax 1.0}|nompageref}{9}
-\nomenclatureentry{aCPV@[{CPV}]\begingroup Canine parvovirus\nomeqref {\relax 1.0}|nompageref}{9}
-\nomenclatureentry{aFPV@[{FPV}]\begingroup Feline parvovirus\nomeqref {\relax 1.0}|nompageref}{9}
-\nomenclatureentry{aAAV@[{AAV}]\begingroup Adeno-associated virus\nomeqref {\relax 1.0}|nompageref}{9}
-\nomenclatureentry{aMVMp@[{MVMp}]\begingroup Prototype strain of MVM\nomeqref {\relax 1.0}|nompageref}{10}
-\nomenclatureentry{aMVMi@[{MVMi}]\begingroup Immunosuppressive strain of MVM\nomeqref {\relax 1.0}|nompageref}{10}
-\nomenclatureentry{aPPV@[{PPV}]\begingroup Porcine parvovirus\nomeqref {\relax 1.0}|nompageref}{10}
-\nomenclatureentry{assDNA@[{ssDNA}]\begingroup Single stranded DNA \nomeqref {\relax 1.0}|nompageref}{11}
-\nomenclatureentry{adsDNA@[{dsDNA}]\begingroup Double stranded DNA\nomeqref {\relax 1.0}|nompageref}{11}
+\nomenclatureentry{aPARV4@[{PARV4}]\begingroup Parvovirus 4\nomeqref {\relax 1.0}|nompageref}{8}
+\nomenclatureentry{aHBoV@[{HBoV}]\begingroup Human Bocavirus\nomeqref {\relax 1.0}|nompageref}{8}
+\nomenclatureentry{aHIV@[{HIV}]\begingroup Human immunodeficiency virus\nomeqref {\relax 1.0}|nompageref}{8}
+\nomenclatureentry{aHCV@[{HCV}]\begingroup Hepatitis C virus\nomeqref {\relax 1.0}|nompageref}{8}
+\nomenclatureentry{aHBV@[{HBV}]\begingroup Hepatitis B virus\nomeqref {\relax 1.0}|nompageref}{8}
+\nomenclatureentry{aORF@[{ORF}]\begingroup Open reading frame\nomeqref {\relax 1.0}|nompageref}{8}
+\nomenclatureentry{aVP1u@[{VP1u}]\begingroup VP1 unique region\nomeqref {\relax 1.0}|nompageref}{8}
+\nomenclatureentry{aNIH@[{NIH}]\begingroup National institutes of health\nomeqref {\relax 1.0}|nompageref}{10}
+\nomenclatureentry{aMVM@[{MVM}]\begingroup Minute virus of mice\nomeqref {\relax 1.0}|nompageref}{11}
+\nomenclatureentry{aCPV@[{CPV}]\begingroup Canine parvovirus\nomeqref {\relax 1.0}|nompageref}{11}
+\nomenclatureentry{aFPV@[{FPV}]\begingroup Feline parvovirus\nomeqref {\relax 1.0}|nompageref}{11}
+\nomenclatureentry{aAAV@[{AAV}]\begingroup Adeno-associated virus\nomeqref {\relax 1.0}|nompageref}{11}
+\nomenclatureentry{aMVMp@[{MVMp}]\begingroup Prototype strain of MVM\nomeqref {\relax 1.0}|nompageref}{11}
+\nomenclatureentry{aMVMi@[{MVMi}]\begingroup Immunosuppressive strain of MVM\nomeqref {\relax 1.0}|nompageref}{11}
+\nomenclatureentry{aPPV@[{PPV}]\begingroup Porcine parvovirus\nomeqref {\relax 1.0}|nompageref}{11}
+\nomenclatureentry{assDNA@[{ssDNA}]\begingroup Single stranded DNA \nomeqref {\relax 1.0}|nompageref}{12}
+\nomenclatureentry{adsDNA@[{dsDNA}]\begingroup Double stranded DNA\nomeqref {\relax 1.0}|nompageref}{12}
 \nomenclatureentry{aSV40@[{SV40}]\begingroup Simian vacuolating virus 40 or Simian virus 40\nomeqref {\relax 2.0}|nompageref}{15}
 \nomenclatureentry{aIF@[{IF}]\begingroup Immunofluorescence\nomeqref {\relax 2.0}|nompageref}{15}
 \nomenclatureentry{amAb@[{mAb}]\begingroup Monoclonal antibody\nomeqref {\relax 2.0}|nompageref}{15}
