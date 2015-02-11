@@ -146,11 +146,12 @@
 \newblock {{P}arvovirus-like enteropathy in {M}issouri turkeys},
 \newblock {\em Avian Dis.} {\bf 27}, 49 (1983).
 
-\bibitem{pmid20097398}
-{\sc J.~M. Day} and {\sc L.~Zsak},
-\newblock {{D}etermination and analysis of the full-length chicken parvovirus
-  genome},
-\newblock {\em Virology} {\bf 399}, 59 (2010).
+\bibitem{pmid2995561}
+{\sc J.~Kisary}, {\sc B.~Avalosse}, {\sc A.~Miller-Faures}, and {\sc
+  J.~Rommelaere},
+\newblock {{T}he genome structure of a new chicken virus identifies it as a
+  parvovirus},
+\newblock {\em J. Gen. Virol.} {\bf 66 ( Pt 10)}, 2259 (1985).
 
 \bibitem{pmid25510852}
 {\sc B.~S. Koo}, {\sc H.~R. Lee}, {\sc E.~O. Jeon}, {\sc M.~S. Han}, {\sc K.~C.
@@ -159,6 +160,54 @@
 \newblock {{G}enetic characterization of three novel chicken parvovirus strains
   based on analysis of their coding sequences},
 \newblock {\em Avian Pathol.} {\bf 44}, 28 (2015).
+
+\bibitem{pmid18622862}
+{\sc L.~Zsak}, {\sc K.~O. Strother}, and {\sc J.~Kisary},
+\newblock {{P}artial genome sequence analysis of parvoviruses associated with
+  enteric disease in poultry},
+\newblock {\em Avian Pathol.} {\bf 37}, 435 (2008).
+
+\bibitem{pmid20097398}
+{\sc J.~M. Day} and {\sc L.~Zsak},
+\newblock {{D}etermination and analysis of the full-length chicken parvovirus
+  genome},
+\newblock {\em Virology} {\bf 399}, 59 (2010).
+
+\bibitem{pmid18766892}
+{\sc J.~Kisary},
+\newblock {{E}xperimental infection of chicken embryos and day-old chickens
+  with parvovirus of chicken origin},
+\newblock {\em Avian Pathol.} {\bf 14}, 1 (1985).
+
+\bibitem{pmid7150147}
+{\sc R.~K. Page}, {\sc O.~J. Fletcher}, {\sc G.~N. Rowland}, {\sc D.~Gaudry},
+  and {\sc P.~Villegas},
+\newblock {{M}alabsorption syndrome in broiler chickens},
+\newblock {\em Avian Dis.} {\bf 26}, 618 (1982).
+
+\bibitem{pmid6281962}
+{\sc D.~A. Pass}, {\sc M.~D. Robertson}, and {\sc G.~E. Wilcox},
+\newblock {{R}unting syndrome in broiler chickens in {A}ustralia},
+\newblock {\em Vet. Rec.} {\bf 110}, 386 (1982).
+
+\bibitem{pmid8363509}
+{\sc M.~A. Goodwin}, {\sc J.~F. Davis}, {\sc M.~S. McNulty}, {\sc J.~Brown},
+  and {\sc E.~C. Player},
+\newblock {{E}nteritis (so-called runting stunting syndrome) in {G}eorgia
+  broiler chicks},
+\newblock {\em Avian Dis.} {\bf 37}, 451 (1993).
+
+\bibitem{pmid10935280}
+{\sc H.~J. Barnes}, {\sc J.~S. Guy}, and {\sc J.~P. Vaillancourt},
+\newblock {{P}oult enteritis complex},
+\newblock {\em Rev. - Off. Int. Epizoot.} {\bf 19}, 565 (2000).
+
+\bibitem{PEMS}
+{\sc Y.~M. Saif}, {\sc H.~J. Barnes}, {\sc J.~R. Glisson}, {\sc A.~M. Fadly},
+  {\sc L.~R. McDougald}, and {\sc D.~E. Swayne},
+\newblock {\em {{D}iseases of {P}oultry 11th edn}},
+\newblock Wiley-Blackwell, Hoboken, NJ, 2003,
+\newblock pp 1171-1180.
 
 \bibitem{pmid3783814}
 {\sc K.~C. Chen}, {\sc B.~C. Shull}, {\sc E.~A. Moses}, {\sc M.~Lederman}, {\sc

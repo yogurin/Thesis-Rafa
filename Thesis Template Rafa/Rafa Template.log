@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.6)  8 FEB 2015 21:53
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.6)  11 FEB 2015 17:40
 entering extended mode
 **Rafa*Template.tex
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.tex
@@ -1216,92 +1216,92 @@ Underfull \hbox (badness 10000) detected at line 21
 
 
 Underfull \hbox (badness 10000) detected at line 23
-[]| \T1/lmr/m/n/10.95 dsDNA[]
+[]| \T1/lmr/m/n/10.95 DPV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 25
-[]| \T1/lmr/m/n/10.95 EPC[]
+[]| \T1/lmr/m/n/10.95 dsDNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 27
-[]| \T1/lmr/m/n/10.95 FCS[]
+[]| \T1/lmr/m/n/10.95 EPC[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 29
-[]| \T1/lmr/m/n/10.95 FPV[]
+[]| \T1/lmr/m/n/10.95 FCS[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 31
-[]| \T1/lmr/m/n/10.95 GFAV[]
+[]| \T1/lmr/m/n/10.95 FPV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 33
-[]| \T1/lmr/m/n/10.95 GmDNV[]
+[]| \T1/lmr/m/n/10.95 GFAV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 35
-[]| \T1/lmr/m/n/10.95 HBoV[]
+[]| \T1/lmr/m/n/10.95 GmDNV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 37
-[]| \T1/lmr/m/n/10.95 HBV[]
+[]| \T1/lmr/m/n/10.95 GPV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 39
-[]| \T1/lmr/m/n/10.95 HCV[]
+[]| \T1/lmr/m/n/10.95 HBoV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 41
-[]| \T1/lmr/m/n/10.95 HIV[]
+[]| \T1/lmr/m/n/10.95 HBV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 43
-[]| \T1/lmr/m/n/10.95 IF[]
+[]| \T1/lmr/m/n/10.95 HCV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 45
-[]| \T1/lmr/m/n/10.95 IP[]
+[]| \T1/lmr/m/n/10.95 HIV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 47
-[]| \T1/lmr/m/n/10.95 ITR[]
+[]| \T1/lmr/m/n/10.95 IF[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 49
+[]| \T1/lmr/m/n/10.95 IP[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 51
+[]| \T1/lmr/m/n/10.95 ITR[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 53
 []| \T1/lmr/m/n/10.95 Kb[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 50
+Underfull \hbox (badness 10000) detected at line 54
 []| \T1/lmr/m/n/10.95 kDa[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 52
-[]| \T1/lmr/m/n/10.95 KRV[]
- []
-
-
-Underfull \hbox (badness 10000) detected at line 54
-[]| \T1/lmr/m/n/10.95 mAb[]
- []
-
-
 Underfull \hbox (badness 10000) detected at line 56
-[]| \T1/lmr/m/n/10.95 MVM[]
+[]| \T1/lmr/m/n/10.95 KRV[]
  []
 
 [3
@@ -1310,81 +1310,106 @@ Underfull \hbox (badness 10000) detected at line 56
 
 ]
 Underfull \hbox (badness 10000) detected at line 58
-[]| \T1/lmr/m/n/10.95 MVMi[]
+[]| \T1/lmr/m/n/10.95 mAb[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 60
-[]| \T1/lmr/m/n/10.95 MVMp[]
+[]| \T1/lmr/m/n/10.95 MVM[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 62
-[]| \T1/lmr/m/n/10.95 NIH[]
+[]| \T1/lmr/m/n/10.95 MVMi[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 64
-[]| \T1/lmr/m/n/10.95 Nt[]
+[]| \T1/lmr/m/n/10.95 MVMp[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 66
-[]| \T1/lmr/m/n/10.95 ORF[]
+[]| \T1/lmr/m/n/10.95 NIH[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 68
-[]| \T1/lmr/m/n/10.95 PARV4[]
+[]| \T1/lmr/m/n/10.95 Nt[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 70
-[]| \T1/lmr/m/n/10.95 PCR[]
+[]| \T1/lmr/m/n/10.95 ORF[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 72
-[]| \T1/lmr/m/n/10.95 PLA2[]
+[]| \T1/lmr/m/n/10.95 PARV4[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 74
-[]| \T1/lmr/m/n/10.95 PPV[]
+[]| \T1/lmr/m/n/10.95 PCR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 76
-[]| \T1/lmr/m/n/10.95 PstDNV[]
+[]| \T1/lmr/m/n/10.95 PEC[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 78
-[]| \T1/lmr/m/n/10.95 qPCR[]
+[]| \T1/lmr/m/n/10.95 PEMS[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 80
-[]| \T1/lmr/m/n/10.95 SN[]
+[]| \T1/lmr/m/n/10.95 PLA2[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 82
-[]| \T1/lmr/m/n/10.95 ssDNA[]
+[]| \T1/lmr/m/n/10.95 PPV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 84
-[]| \T1/lmr/m/n/10.95 SV40[]
+[]| \T1/lmr/m/n/10.95 PstDNV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 86
-[]| \T1/lmr/m/n/10.95 TuPV[]
+[]| \T1/lmr/m/n/10.95 qPCR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 88
+[]| \T1/lmr/m/n/10.95 RSS[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 90
+[]| \T1/lmr/m/n/10.95 SN[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 92
+[]| \T1/lmr/m/n/10.95 ssDNA[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 94
+[]| \T1/lmr/m/n/10.95 SV40[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 96
+[]| \T1/lmr/m/n/10.95 TuPV[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 98
 []| \T1/lmr/m/n/10.95 VP1u[]
  []
 
@@ -1543,6 +1568,9 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
@@ -1559,55 +1587,59 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 [8]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[9]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 123.
+(Font)              <5> on input line 130.
 
-Overfull \hbox (3.0963pt too wide) in alignment at lines 119--125
+Overfull \hbox (3.0963pt too wide) in alignment at lines 126--132
 [] [] [] [] []
  []
 
 
-Overfull \hbox (3.0963pt too wide) in alignment at lines 125--146
+Overfull \hbox (3.0963pt too wide) in alignment at lines 132--153
 [] [] [] [] []
  []
 
 
-Overfull \hbox (7.76738pt too wide) in paragraph at lines 154--154
+Overfull \hbox (7.76738pt too wide) in paragraph at lines 161--161
 []|\T1/lmr/m/it/6 Dependoparvovirus| 
  []
 
 
-Overfull \hbox (3.0963pt too wide) in alignment at lines 146--166
+Overfull \hbox (3.0963pt too wide) in alignment at lines 153--173
 [] [] [] [] []
  []
 
 
-Overfull \hbox (4.9486pt too wide) in paragraph at lines 177--177
+Overfull \hbox (4.9486pt too wide) in paragraph at lines 184--184
 []|\T1/lmr/m/it/6 Erythroparvovirus| 
  []
 
 
-Overfull \hbox (3.0963pt too wide) in alignment at lines 166--186
+Overfull \hbox (3.0963pt too wide) in alignment at lines 173--193
 [] [] [] [] []
  []
 
 
-Overfull \hbox (3.0963pt too wide) in alignment at lines 186--206
+Overfull \hbox (3.0963pt too wide) in alignment at lines 193--213
 [] [] [] [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 []|\T1/lmr/m/n/6 PPV-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
 []|\T1/lmr/m/n/6 CnP-
  []
 
 
-Overfull \hbox (3.0963pt too wide) in alignment at lines 206--230
+Overfull \hbox (3.0963pt too wide) in alignment at lines 213--237
 [] [] [] [] []
  []
 
@@ -1615,11 +1647,11 @@ Overfull \hbox (3.0963pt too wide) in alignment at lines 206--230
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[9
+[10
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 236.
+(Font)              <9> on input line 243.
 
 Underfull \vbox (badness 7344) has occurred while \output is active []
 
@@ -1627,12 +1659,12 @@ Underfull \vbox (badness 7344) has occurred while \output is active []
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[10]
+[11]
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 257--260
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 264--267
 
  []
 
@@ -1643,29 +1675,29 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[12]
+[13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[13])
+[14])
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\Chapter2
 .tex"
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[14]
+[15] [16
+
+
+]
 Chapter 2.
 
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
 
-[15
-
-
-]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
@@ -1674,18 +1706,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[16]
+[18]
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[17])
+[19])
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[18] [19
+[20] [21
 
 
-] [20]
+] [22]
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\ChapterP
 ub1.tex"pdfTeX warning (ext4): destination with the same identifier (name{chapt
 er.1}) has been already used, duplicate ignored
@@ -1699,7 +1731,7 @@ Chapter 1.
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=617, 597.53236pt x 796.67639pt>
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=643, 597.53236pt x 796.67639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
 <use ./Pictures/../pdfdocuments/b19vpaper.pdf>
@@ -1725,7 +1757,7 @@ mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
 
-[21
+[23
 
 
 ]
@@ -1734,7 +1766,7 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=625, page=1, 597.53236pt x 796.67
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=651, page=1, 597.53236pt x 796.67
 639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 1>
@@ -1765,14 +1797,14 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page1 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [22 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [24 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=689, page=2, 597.53236pt x 796.67
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=714, page=2, 597.53236pt x 796.67
 639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 2>
@@ -1791,14 +1823,14 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page2 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [23 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [25 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=704, page=3, 597.53236pt x 796.67
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=729, page=3, 597.53236pt x 796.67
 639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 3>
@@ -1817,14 +1849,14 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page3 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [24 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [26 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=710, page=4, 597.53236pt x 796.67
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=735, page=4, 597.53236pt x 796.67
 639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 4>
@@ -1843,14 +1875,14 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page4 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [25 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [27 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=719, page=5, 597.53236pt x 796.67
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=744, page=5, 597.53236pt x 796.67
 639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 5>
@@ -1869,14 +1901,14 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page5 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [26 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [28 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=728, page=6, 597.53236pt x 796.67
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=754, page=6, 597.53236pt x 796.67
 639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 6>
@@ -1895,14 +1927,14 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page6 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [27 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [29 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=742, page=7, 597.53236pt x 796.67
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=768, page=7, 597.53236pt x 796.67
 639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 7>
@@ -1921,14 +1953,14 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page7 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [28 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [30 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=752, page=8, 597.53236pt x 796.67
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=777, page=8, 597.53236pt x 796.67
 639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 8>
@@ -1947,14 +1979,14 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page8 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [29 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [31 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=764, page=9, 597.53236pt x 796.67
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=789, page=9, 597.53236pt x 796.67
 639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 9>
@@ -1973,14 +2005,14 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page9 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [30 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [32 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=773, page=10, 597.53236pt x 796.6
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=798, page=10, 597.53236pt x 796.6
 7639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 10>
@@ -1999,14 +2031,14 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page10 used 
 on input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [31 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [33 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=779, page=11, 597.53236pt x 796.6
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=804, page=11, 597.53236pt x 796.6
 7639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 11>
@@ -2025,23 +2057,23 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page11 used 
 on input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [32 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [34 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>])
-[33
+[35
 
 
-] [34]
+] [36]
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.bbl
 "
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
 
-[35
+[37
 
 
-] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45])
+] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 250.
- [46]
+ [48]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 250.
 
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.aux
@@ -2053,10 +2085,10 @@ Package rerunfilecheck Info: File `Rafa*Template.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 250.
  ) 
 Here is how much of TeX's memory you used:
- 11857 strings out of 494045
- 176258 string characters out of 3147575
- 375809 words of memory out of 3000000
- 14674 multiletter control sequences out of 15000+200000
+ 11875 strings out of 494045
+ 176496 string characters out of 3147575
+ 376085 words of memory out of 3000000
+ 14682 multiletter control sequences out of 15000+200000
  140784 words of font info for 79 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  44i,19n,51p,2637b,532s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2079,9 +2111,9 @@ ic/lm/lmri12.pfb><C:/Program Files/Latex/Miktex/fonts/type1/public/lm/lmri7.pfb
 ><C:/Program Files/Latex/Miktex/fonts/type1/public/lm/lmro10.pfb><C:/Program Fi
 les/Latex/Miktex/fonts/type1/public/lm/lmssbo10.pfb><C:/Program Files/Latex/Mik
 tex/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on "Rafa Template.pdf" (55 pages, 3813831 bytes).
+Output written on "Rafa Template.pdf" (57 pages, 3821897 bytes).
 PDF statistics:
- 963 PDF objects out of 1000 (max. 8388607)
- 218 named destinations out of 1000 (max. 500000)
+ 989 PDF objects out of 1000 (max. 8388607)
+ 228 named destinations out of 1000 (max. 500000)
  360 words of extra memory for PDF output out of 10000 (max. 10000000)
 
