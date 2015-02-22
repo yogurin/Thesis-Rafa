@@ -40,11 +40,13 @@
 \usepackage{scrpage2}
 
 \deftripstyle{raphimen}[0pt][0pt]{\headmark}{}{\pagemark}{}{}{}
-\setlength{\skip\footins}{2.5cm}
+\setlength{\skip\footins}{1.5cm}
 \setlength{\footnotesep}{0.5cm}
 
 \setlength{\cftsecnumwidth}{0pt}
 \renewcommand{\cftsecaftersnumb}{\hspace{1.5em}}  % Noident for phantomsections in Contents (Publication Part)
+
+\textheight = 660pt
 
 \graphicspath{{./Pictures/}} % Specifies the directory where pictures are stored
 
@@ -243,6 +245,7 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 % BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
 
+\pagestyle{raphimen}
 \bibliography{MyBib}
 \bibliographystyle{jcp-tit}
 
