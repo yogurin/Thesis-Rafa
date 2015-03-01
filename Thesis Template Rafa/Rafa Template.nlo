@@ -6,7 +6,7 @@
 \nomenclatureentry{aRNA@[{RNA}]\begingroup Ribonucleic acid\nomeqref {\relax 1.0}|nompageref}{4}
 \nomenclatureentry{aAMDV@[{AMDV}]\begingroup Aleutian mink disease virus\nomeqref {\relax 1.0}|nompageref}{5}
 \nomenclatureentry{aGFAV@[{GFAV}]\begingroup Gray fox amdovirus\nomeqref {\relax 1.0}|nompageref}{5}
-\nomenclatureentry{aPLA2@[{PLA2}]\begingroup Phospholipase A2\nomeqref {\relax 1.0}|nompageref}{5}
+\nomenclatureentry{aPLA\textsubscript{2}@[{PLA\textsubscript{2}}]\begingroup Phospholipase A2\nomeqref {\relax 1.0}|nompageref}{5}
 \nomenclatureentry{aChPV@[{ChPV}]\begingroup Chicken parvovirus\nomeqref {\relax 1.0}|nompageref}{5}
 \nomenclatureentry{aTuPV@[{TuPV}]\begingroup Turkey parvovirus\nomeqref {\relax 1.0}|nompageref}{5}
 \nomenclatureentry{aGPV@[{GPV}]\begingroup Goose parvovirus\nomeqref {\relax 1.0}|nompageref}{5}
@@ -47,4 +47,5 @@
 \nomenclatureentry{aSN@[{SN}]\begingroup Supernatant\nomeqref {\relax 2.0}|nompageref}{15}
 \nomenclatureentry{aqPCR@[{qPCR}]\begingroup Quantitative PCR\nomeqref {\relax 2.0}|nompageref}{15}
 \nomenclatureentry{aPCR@[{PCR}]\begingroup Polymerase chain reaction\nomeqref {\relax 2.0}|nompageref}{15}
+\nomenclatureentry{aCV@[{CV}]\begingroup Column volume\nomeqref {\relax 2.0}|nompageref}{17}
 \nomenclatureentry{aIP@[{IP}]\begingroup Immunoprecipitation\nomeqref {\relax 2.0}|nompageref}{18}

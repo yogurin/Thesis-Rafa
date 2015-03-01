@@ -36,11 +36,12 @@
 \contentsline {subsection}{\numberline {2.2.1}Separation of empty and full capsids}{16}{subsection.2.2.1}
 \contentsline {section}{\numberline {2.3}Freezing bacteria stocks in glycerol}{16}{section.2.3}
 \contentsline {section}{\numberline {2.4}Anion-exchange chromatography}{16}{section.2.4}
-\contentsline {section}{\numberline {2.5}Quantitative PCR}{16}{section.2.5}
-\contentsline {section}{\numberline {2.6}Immunoprecipitation}{17}{section.2.6}
-\contentsline {section}{\numberline {2.7}Chymotrypsin treatment}{18}{section.2.7}
-\contentsline {part}{\numberline {II}Publication}{19}{part.2}
+\contentsline {section}{\numberline {2.5}Quantitative PCR}{17}{section.2.5}
+\contentsline {section}{\numberline {2.6}Immunoprecipitation}{18}{section.2.6}
+\contentsline {section}{\numberline {2.7}SDS-PAGE and Western blotting}{18}{section.2.7}
+\contentsline {section}{\numberline {2.8}Chymotrypsin treatment}{19}{section.2.8}
+\contentsline {part}{\numberline {II}Publication}{21}{part.2}
 \cftpagenumbersoff {chapter}
-\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{21}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{21}{section*.13}
-\contentsline {part}{\numberline {III}Discussion}{33}{part.3}
+\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{23}{chapter.1}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{23}{section*.13}
+\contentsline {part}{\numberline {III}Discussion}{35}{part.3}

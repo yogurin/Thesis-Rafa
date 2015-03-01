@@ -15,6 +15,8 @@
 		\nompageref{5}
   \item [{CPV}]\begingroup Canine parvovirus\nomeqref {\relax 1.0}
 		\nompageref{11}
+  \item [{CV}]\begingroup Column volume\nomeqref {\relax 2.0}
+		\nompageref{17}
   \item [{Da}]\begingroup Dalton\nomeqref {\relax 1.0}\nompageref{6}
   \item [{DMEM}]\begingroup Dulbecco modified Eagle's medium\nomeqref {\relax 2.0}
 		\nompageref{15}
@@ -25,7 +27,7 @@
   \item [{dsDNA}]\begingroup Double stranded DNA\nomeqref {\relax 1.0}
 		\nompageref{13}
   \item [{EPC}]\begingroup Erythroid progenitor cell\nomeqref {\relax 1.0}
-		\nompageref{7}
+		\nompageref{8}
   \item [{FCS}]\begingroup Fetal calf serum\nomeqref {\relax 2.0}
 		\nompageref{15}
   \item [{FPV}]\begingroup Feline parvovirus\nomeqref {\relax 1.0}
@@ -49,8 +51,8 @@
   \item [{IP}]\begingroup Immunoprecipitation\nomeqref {\relax 2.0}
 		\nompageref{18}
   \item [{ITR}]\begingroup Inverted terminal repeat\nomeqref {\relax 1.0}
-		\nompageref{7}
-  \item [{Kb}]\begingroup Kilo base\nomeqref {\relax 1.0}\nompageref{7}
+		\nompageref{8}
+  \item [{Kb}]\begingroup Kilo base\nomeqref {\relax 1.0}\nompageref{8}
   \item [{kDa}]\begingroup Kilodalton\nomeqref {\relax 1.0}
 		\nompageref{6}
   \item [{KRV}]\begingroup Kilham rat virus\nomeqref {\relax 1.0}
@@ -66,7 +68,7 @@
   \item [{NIH}]\begingroup National institutes of health\nomeqref {\relax 1.0}
 		\nompageref{11}
   \item [{Nt}]\begingroup Nucleotide\nomeqref {\relax 1.0}
-		\nompageref{7}
+		\nompageref{8}
   \item [{ORF}]\begingroup Open reading frame\nomeqref {\relax 1.0}
 		\nompageref{9}
   \item [{PARV4}]\begingroup Parvovirus 4\nomeqref {\relax 1.0}
@@ -77,7 +79,7 @@
 		\nompageref{5}
   \item [{PEMS}]\begingroup Poult enteritis mortality syndrome\nomeqref {\relax 1.0}
 		\nompageref{5}
-  \item [{PLA2}]\begingroup Phospholipase A2\nomeqref {\relax 1.0}
+  \item [{PLA\textsubscript{2}}]\begingroup Phospholipase A2\nomeqref {\relax 1.0}
 		\nompageref{5}
   \item [{PPV}]\begingroup Porcine parvovirus\nomeqref {\relax 1.0}
 		\nompageref{12}
