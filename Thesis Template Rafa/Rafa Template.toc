@@ -7,41 +7,42 @@
 \vspace {1em}
 \contentsline {part}{\numberline {I}Introduction}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}
-\contentsline {section}{\numberline {1.1}Morphology}{3}{section.1.1}
-\contentsline {section}{\numberline {1.2}Physicochemical properties}{3}{section.1.2}
-\contentsline {section}{\numberline {1.3}Taxonomy}{3}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}The \textit {Parvovirinae} subfamily}{4}{subsection.1.3.1}
-\contentsline {subsubsection}{\textit {Amdoparvovirus}}{4}{section*.5}
+\contentsline {section}{\numberline {1.1}Discovery and brief history}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Morphology}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Physicochemical properties}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}Taxonomy}{4}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}The \textit {Parvovirinae} subfamily}{5}{subsection.1.4.1}
+\contentsline {subsubsection}{\textit {Amdoparvovirus}}{5}{section*.5}
 \contentsline {subsubsection}{\textit {Aveparvovirus}}{5}{section*.6}
-\contentsline {subsubsection}{\textit {Bocaparvovirus}}{5}{section*.7}
-\contentsline {subsubsection}{\textit {Copiparvovirus}}{6}{section*.8}
+\contentsline {subsubsection}{\textit {Bocaparvovirus}}{6}{section*.7}
+\contentsline {subsubsection}{\textit {Copiparvovirus}}{7}{section*.8}
 \contentsline {subsubsection}{\textit {Dependoparvovirus}}{7}{section*.9}
-\contentsline {subsubsection}{\textit {Erythroparvovirus}}{7}{section*.10}
+\contentsline {subsubsection}{\textit {Erythroparvovirus}}{8}{section*.10}
 \contentsline {subsubsection}{\textit {Protoparvovirus}}{8}{section*.11}
-\contentsline {subsubsection}{\textit {Tetraparvovirus}}{8}{section*.12}
-\contentsline {section}{\numberline {1.4}Tropism}{11}{section.1.4}
-\contentsline {section}{\numberline {1.5}Structure}{12}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Parvoviruses in general}{12}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}MVM}{13}{subsection.1.5.2}
-\contentsline {section}{\numberline {1.6}Nucleic Acid}{14}{section.1.6}
-\contentsline {subsection}{\numberline {1.6.1}Genome organization}{14}{subsection.1.6.1}
-\contentsline {subsection}{\numberline {1.6.2}Transcriptome}{14}{subsection.1.6.2}
-\contentsline {section}{\numberline {1.7}Viral proteins}{14}{section.1.7}
-\contentsline {subsection}{\numberline {1.7.1}Structural Proteins}{14}{subsection.1.7.1}
-\contentsline {subsection}{\numberline {1.7.2}Non-structural proteins}{14}{subsection.1.7.2}
-\contentsline {chapter}{\numberline {2}Methods}{15}{chapter.2}
-\contentsline {section}{\numberline {2.1}Cell Cultures}{15}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Freezing and thawing of cells}{15}{subsection.2.1.1}
-\contentsline {section}{\numberline {2.2}Virus Stocks}{15}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Separation of empty and full capsids}{16}{subsection.2.2.1}
-\contentsline {section}{\numberline {2.3}Freezing bacteria stocks in glycerol}{16}{section.2.3}
-\contentsline {section}{\numberline {2.4}Anion-exchange chromatography}{16}{section.2.4}
-\contentsline {section}{\numberline {2.5}Quantitative PCR}{17}{section.2.5}
-\contentsline {section}{\numberline {2.6}Immunoprecipitation}{18}{section.2.6}
-\contentsline {section}{\numberline {2.7}SDS-PAGE and Western blotting}{18}{section.2.7}
-\contentsline {section}{\numberline {2.8}Chymotrypsin treatment}{19}{section.2.8}
-\contentsline {part}{\numberline {II}Publication}{21}{part.2}
+\contentsline {subsubsection}{\textit {Tetraparvovirus}}{9}{section*.12}
+\contentsline {section}{\numberline {1.5}Tissue Tropism and Pathogenicity Determinants}{11}{section.1.5}
+\contentsline {section}{\numberline {1.6}Structure}{13}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Parvoviruses in general}{13}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}MVM}{13}{subsection.1.6.2}
+\contentsline {section}{\numberline {1.7}Nucleic Acid}{14}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Genome organization}{14}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Transcriptome}{14}{subsection.1.7.2}
+\contentsline {section}{\numberline {1.8}Viral proteins}{14}{section.1.8}
+\contentsline {subsection}{\numberline {1.8.1}Structural Proteins}{14}{subsection.1.8.1}
+\contentsline {subsection}{\numberline {1.8.2}Non-structural proteins}{15}{subsection.1.8.2}
+\contentsline {chapter}{\numberline {2}Methods}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Cell Cultures}{17}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Freezing and thawing of cells}{17}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Virus Stocks}{17}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Separation of empty and full capsids}{18}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}Freezing bacteria stocks in glycerol}{18}{section.2.3}
+\contentsline {section}{\numberline {2.4}Anion-exchange chromatography}{18}{section.2.4}
+\contentsline {section}{\numberline {2.5}Quantitative PCR}{19}{section.2.5}
+\contentsline {section}{\numberline {2.6}Immunoprecipitation}{20}{section.2.6}
+\contentsline {section}{\numberline {2.7}SDS-PAGE and Western blotting}{20}{section.2.7}
+\contentsline {section}{\numberline {2.8}Chymotrypsin treatment}{21}{section.2.8}
+\contentsline {part}{\numberline {II}Publication}{23}{part.2}
 \cftpagenumbersoff {chapter}
-\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{23}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{23}{section*.13}
-\contentsline {part}{\numberline {III}Discussion}{35}{part.3}
+\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{25}{chapter.1}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{25}{section*.13}
+\contentsline {part}{\numberline {III}Discussion}{37}{part.3}

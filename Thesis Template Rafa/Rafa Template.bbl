@@ -1,5 +1,47 @@
 \begin{thebibliography}{100}
 
+\bibitem{pmid3855242}
+{\sc R.~Sahli}, {\sc G.~K. McMaster}, and {\sc B.~Hirt},
+\newblock {{D}{N}{A} sequence comparison between two tissue-specific variants
+  of the autonomous parvovirus, minute virus of mice},
+\newblock {\em Nucleic Acids Res.} {\bf 13}, 3617 (1985).
+
+\bibitem{pmid5945715}
+{\sc L.~V. Crawford},
+\newblock {{A} minute virus of mice},
+\newblock {\em Virology} {\bf 29}, 605 (1966).
+
+\bibitem{pmid4673484}
+{\sc P.~Tattersall},
+\newblock {{R}eplication of the parvovirus {M}{V}{M}. {I}. {D}ependence of
+  virus multiplication and plaque formation on cell growth},
+\newblock {\em J. Virol.} {\bf 10}, 586 (1972).
+
+\bibitem{MVMp}
+{\sc B.~A. Spalholz}, {\sc J.~Bratton}, {\sc D.~C. Ward}, and {\sc
+  P.~Tattersall},
+\newblock {\em {{T}umor {V}iruses and {D}ifferentiation}},
+\newblock Academic Press, New York, NY, 1982.
+
+\bibitem{pmid1244418}
+{\sc G.~D. Bonnard}, {\sc E.~K. Manders}, {\sc D.~A. Campbell}, {\sc R.~B.
+  Herberman}, and {\sc M.~J. Collins},
+\newblock {{I}mmunosuppressive activity of a subline of the mouse {E}{L}-4
+  lymphoma. {E}vidence for minute virus of mice causing the inhibition},
+\newblock {\em J. Exp. Med.} {\bf 143}, 187 (1976).
+
+\bibitem{pmid6457871}
+{\sc H.~D. Engers}, {\sc J.~A. Louis}, {\sc R.~H. Zubler}, and {\sc B.~Hirt},
+\newblock {{I}nhibition of {T} cell-mediated functions by {M}{V}{M}(i), a
+  parvovirus closely related to minute virus of mice},
+\newblock {\em J. Immunol.} {\bf 127}, 2280 (1981).
+
+\bibitem{pmid6264106}
+{\sc G.~K. McMaster}, {\sc P.~Beard}, {\sc H.~D. Engers}, and {\sc B.~Hirt},
+\newblock {{C}haracterization of an immunosuppressive parvovirus related to the
+  minute virus of mice},
+\newblock {\em J. Virol.} {\bf 38}, 317 (1981).
+
 \bibitem{pmid4975639}
 {\sc L.~V. Crawford}, {\sc E.~A. Follett}, {\sc M.~G. Burdon}, and {\sc D.~J.
   McGeoch},
@@ -103,6 +145,28 @@
   vertebrate genomes: the parvoviridae and circoviridae are more than 40 to 50
   million years old},
 \newblock {\em J. Virol.} {\bf 84}, 12458 (2010).
+
+\bibitem{pmid1649336}
+{\sc E.~Gottschalck}, {\sc S.~Alexandersen}, {\sc A.~Cohn}, {\sc L.~A.
+  Poulsen}, {\sc M.~E. Bloom}, and {\sc B.~Aasted},
+\newblock {{N}ucleotide sequence analysis of {A}leutian mink disease parvovirus
+  shows that multiple virus types are present in infected mink},
+\newblock {\em J. Virol.} {\bf 65}, 4378 (1991).
+
+\bibitem{pmid12716974}
+{\sc G.~Gao}, {\sc M.~R. Alvira}, {\sc S.~Somanathan}, {\sc Y.~Lu}, {\sc L.~H.
+  Vandenberghe}, {\sc J.~J. Rux}, {\sc R.~Calcedo}, {\sc J.~Sanmiguel}, {\sc
+  Z.~Abbas}, and {\sc J.~M. Wilson},
+\newblock {{A}deno-associated viruses undergo substantial evolution in primates
+  during natural infections},
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 100}, 6081 (2003).
+
+\bibitem{pmid10411508}
+{\sc H.~A. Wichman}, {\sc M.~R. Badgett}, {\sc L.~A. Scott}, {\sc C.~M.
+  Boulianne}, and {\sc J.~J. Bull},
+\newblock {{D}ifferent trajectories of parallel evolution during viral
+  adaptation},
+\newblock {\em Science} {\bf 285}, 422 (1999).
 
 \bibitem{pmid16537636}
 {\sc L.~A. Shackelton} and {\sc E.~C. Holmes},
@@ -675,34 +739,52 @@
 \newblock {{P}arvovirus host range, cell tropism and evolution},
 \newblock {\em Curr. Opin. Microbiol.} {\bf 6}, 392 (2003).
 
-\bibitem{pmid5945715}
-{\sc L.~V. Crawford},
-\newblock {{A} minute virus of mice},
-\newblock {\em Virology} {\bf 29}, 605 (1966).
+\bibitem{pmid6602221}
+{\sc B.~A. Spalholz} and {\sc P.~Tattersall},
+\newblock {{I}nteraction of minute virus of mice with differentiated cells:
+  strain-dependent target cell specificity is mediated by intracellular
+  factors},
+\newblock {\em J. Virol.} {\bf 46}, 937 (1983).
 
-\bibitem{pmid1244418}
-{\sc G.~D. Bonnard}, {\sc E.~K. Manders}, {\sc D.~A. Campbell}, {\sc R.~B.
-  Herberman}, and {\sc M.~J. Collins},
-\newblock {{I}mmunosuppressive activity of a subline of the mouse {E}{L}-4
-  lymphoma. {E}vidence for minute virus of mice causing the inhibition},
-\newblock {\em J. Exp. Med.} {\bf 143}, 187 (1976).
+\bibitem{pmid6602222}
+{\sc P.~Tattersall} and {\sc J.~Bratton},
+\newblock {{R}eciprocal productive and restrictive virus-cell interactions of
+  immunosuppressive and prototype strains of minute virus of mice},
+\newblock {\em J. Virol.} {\bf 46}, 944 (1983).
 
-\bibitem{pmid6457871}
-{\sc H.~D. Engers}, {\sc J.~A. Louis}, {\sc R.~H. Zubler}, and {\sc B.~Hirt},
-\newblock {{I}nhibition of {T} cell-mediated functions by {M}{V}{M}(i), a
-  parvovirus closely related to minute virus of mice},
-\newblock {\em J. Immunol.} {\bf 127}, 2280 (1981).
+\bibitem{pmid3257270}
+{\sc J.~P. Antonietti}, {\sc R.~Sahli}, {\sc P.~Beard}, and {\sc B.~Hirt},
+\newblock {{C}haracterization of the cell type-specific determinant in the
+  genome of minute virus of mice},
+\newblock {\em J. Virol.} {\bf 62} (1988).
 
-\bibitem{pmid6264106}
-{\sc G.~K. McMaster}, {\sc P.~Beard}, {\sc H.~D. Engers}, and {\sc B.~Hirt},
-\newblock {{C}haracterization of an immunosuppressive parvovirus related to the
-  minute virus of mice},
-\newblock {\em J. Virol.} {\bf 38}, 317 (1981).
+\bibitem{pmid9519837}
+{\sc M.~C. Colomar}, {\sc B.~Hirt}, and {\sc P.~Beard},
+\newblock {{T}wo segments in the genome of the immunosuppressive minute virus
+  of mice determine the host-cell specificity, control viral {D}{N}{A}
+  replication and affect viral {R}{N}{A} metabolism},
+\newblock {\em J. Gen. Virol.} {\bf 79 ( Pt 3)}, 581 (1998).
 
-\bibitem{pmid11528091}
-{\sc D.~G. Baker},
-\newblock {{F}uture {D}irections in {R}odent {P}athogen {C}ontrol},
-\newblock {\em ILAR J} {\bf 39}, 312 (1998).
+\bibitem{pmid1871965}
+{\sc L.~J. Ball-Goodrich}, {\sc R.~D. Moir}, and {\sc P.~Tattersall},
+\newblock {{P}arvoviral target cell specificity: acquisition of fibrotropism by
+  a mutant of the lymphotropic strain of minute virus of mice involves multiple
+  amino acid substitutions within the capsid},
+\newblock {\em Virology} {\bf 184}, 175 (1991).
+
+\bibitem{pmid7637028}
+{\sc I.~H. Maxwell}, {\sc A.~L. Spitzer}, {\sc F.~Maxwell}, and {\sc D.~J.
+  Pintel},
+\newblock {{T}he capsid determinant of fibrotropism for the {M}{V}{M}p strain
+  of minute virus of mice functions via {V}{P}2 and not {V}{P}1},
+\newblock {\em J. Virol.} {\bf 69}, 5829 (1995).
+
+\bibitem{pmid1316457}
+{\sc L.~J. Ball-Goodrich} and {\sc P.~Tattersall},
+\newblock {{T}wo amino acid substitutions within the capsid are coordinately
+  required for acquisition of fibrotropism by the lymphotropic strain of minute
+  virus of mice},
+\newblock {\em J. Virol.} {\bf 66}, 3415 (1992).
 
 \bibitem{pmid3357208}
 {\sc E.~M. Gardiner} and {\sc P.~Tattersall},
@@ -716,11 +798,26 @@
   determinants of the parvovirus minute virus of mice},
 \newblock {\em J. Virol.} {\bf 62}, 2605 (1988).
 
-\bibitem{pmid3257270}
-{\sc J.~P. Antonietti}, {\sc R.~Sahli}, {\sc P.~Beard}, and {\sc B.~Hirt},
-\newblock {{C}haracterization of the cell type-specific determinant in the
-  genome of minute virus of mice},
-\newblock {\em J. Virol.} {\bf 62} (1988).
+\bibitem{pmid14581558}
+{\sc L.~Govindasamy}, {\sc K.~Hueffer}, {\sc C.~R. Parrish}, and {\sc
+  M.~Agbandje-McKenna},
+\newblock {{S}tructures of host range-controlling regions of the capsids of
+  canine and feline parvoviruses and mutants},
+\newblock {\em J. Virol.} {\bf 77}, 12211 (2003).
+
+\bibitem{pmid12941920}
+{\sc K.~Hueffer}, {\sc L.~Govindasamy}, {\sc M.~Agbandje-McKenna}, and {\sc
+  C.~R. Parrish},
+\newblock {{C}ombinations of two capsid regions controlling canine host range
+  determine canine transferrin receptor binding by canine and feline
+  parvoviruses},
+\newblock {\em J. Virol.} {\bf 77}, 10099 (2003).
+
+\bibitem{pmid1532105}
+{\sc J.~Vasudevacharya} and {\sc R.~W. Compans},
+\newblock {{T}he {N}{S} and capsid genes determine the host range of porcine
+  parvovirus},
+\newblock {\em Virology} {\bf 187}, 515 (1992).
 
 \bibitem{pmid9817841}
 {\sc M.~Agbandje-McKenna}, {\sc A.~L. Llamas-Saiz}, {\sc F.~Wang}, {\sc
@@ -728,6 +825,61 @@
 \newblock {{F}unctional implications of the structure of the murine parvovirus,
   minute virus of mice},
 \newblock {\em Structure} {\bf 6}, 1369 (1998).
+
+\bibitem{pmid3712557}
+{\sc P.~B. Kimsey}, {\sc H.~D. Engers}, {\sc B.~Hirt}, and {\sc C.~V.
+  Jongeneel},
+\newblock {{P}athogenicity of fibroblast- and lymphocyte-specific variants of
+  minute virus of mice},
+\newblock {\em J. Virol.} {\bf 59}, 8 (1986).
+
+\bibitem{pmid1373202}
+{\sc D.~G. Brownstein}, {\sc A.~L. Smith}, {\sc E.~A. Johnson}, {\sc D.~J.
+  Pintel}, {\sc L.~K. Naeger}, and {\sc P.~Tattersall},
+\newblock {{T}he pathogenesis of infection with minute virus of mice depends on
+  expression of the small nonstructural protein {N}{S}2 and on the genotype of
+  the allotropic determinants {V}{P}1 and {V}{P}2},
+\newblock {\em J. Virol.} {\bf 66}, 3118 (1992).
+
+\bibitem{pmid1653878}
+{\sc D.~G. Brownstein}, {\sc A.~L. Smith}, {\sc R.~O. Jacoby}, {\sc E.~A.
+  Johnson}, {\sc G.~Hansen}, and {\sc P.~Tattersall},
+\newblock {{P}athogenesis of infection with a virulent allotropic variant of
+  minute virus of mice and regulation by host genotype},
+\newblock {\em Lab. Invest.} {\bf 65}, 357 (1991).
+
+\bibitem{pmid7707557}
+{\sc J.~C. Segovia}, {\sc J.~A. Bueren}, and {\sc J.~M. Almendral},
+\newblock {{M}yeloid depression follows infection of susceptible newborn mice
+  with the parvovirus minute virus of mice (strain i)},
+\newblock {\em J. Virol.} {\bf 69}, 3229 (1995).
+
+\bibitem{pmid8892936}
+{\sc J.~C. Ramirez}, {\sc A.~Fairen}, and {\sc J.~M. Almendral},
+\newblock {{P}arvovirus minute virus of mice strain i multiplication and
+  pathogenesis in the newborn mouse brain are restricted to proliferative areas
+  and to migratory cerebellar young neurons},
+\newblock {\em J. Virol.} {\bf 70}, 8109 (1996).
+
+\bibitem{pmid15308740}
+{\sc R.~Itah}, {\sc J.~Tal}, and {\sc C.~Davis},
+\newblock {{H}ost cell specificity of minute virus of mice in the developing
+  mouse embryo},
+\newblock {\em J. Virol.} {\bf 78}, 9474 (2004).
+
+\bibitem{pmid12857918}
+{\sc J.~C. Segovia}, {\sc G.~Guenechea}, {\sc J.~M. Gallego}, {\sc J.~M.
+  Almendral}, and {\sc J.~A. Bueren},
+\newblock {{P}arvovirus infection suppresses long-term repopulating
+  hematopoietic stem cells},
+\newblock {\em J. Virol.} {\bf 77}, 8495 (2003).
+
+\bibitem{pmid9971754}
+{\sc J.~C. Segovia}, {\sc J.~M. Gallego}, {\sc J.~A. Bueren}, and {\sc J.~M.
+  Almendral},
+\newblock {{S}evere leukopenia and dysregulated erythropoiesis in {S}{C}{I}{D}
+  mice persistently infected with the parvovirus minute virus of mice},
+\newblock {\em J. Virol.} {\bf 73}, 1774 (1999).
 
 \bibitem{pmid8396664}
 {\sc M.~E. Bloom}, {\sc B.~D. Berry}, {\sc W.~Wei}, {\sc S.~Perryman}, and {\sc
