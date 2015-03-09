@@ -34,12 +34,13 @@
 \nomenclatureentry{aCPV@[{CPV}]\begingroup Canine parvovirus\nomeqref {\relax 1.0}|nompageref}{11}
 \nomenclatureentry{aFPV@[{FPV}]\begingroup Feline parvovirus\nomeqref {\relax 1.0}|nompageref}{11}
 \nomenclatureentry{aAAV@[{AAV}]\begingroup Adeno-associated virus\nomeqref {\relax 1.0}|nompageref}{11}
-\nomenclatureentry{aMVMp@[{MVMp}]\begingroup Prototype strain of MVM\nomeqref {\relax 1.0}|nompageref}{12}
-\nomenclatureentry{aMVMi@[{MVMi}]\begingroup Immunosuppressive strain of MVM\nomeqref {\relax 1.0}|nompageref}{12}
-\nomenclatureentry{aPPV@[{PPV}]\begingroup Porcine parvovirus\nomeqref {\relax 1.0}|nompageref}{12}
+\nomenclatureentry{aMVMp@[{MVMp}]\begingroup Prototype strain of MVM\nomeqref {\relax 1.0}|nompageref}{11}
+\nomenclatureentry{aMVMi@[{MVMi}]\begingroup Immunosuppressive strain of MVM\nomeqref {\relax 1.0}|nompageref}{11}
+\nomenclatureentry{aPPV@[{PPV}]\begingroup Porcine parvovirus\nomeqref {\relax 1.0}|nompageref}{13}
 \nomenclatureentry{aSCID@[{SCID}]\begingroup Severe combined immunodeficiency\nomeqref {\relax 1.0}|nompageref}{13}
-\nomenclatureentry{assDNA@[{ssDNA}]\begingroup Single stranded DNA \nomeqref {\relax 1.0}|nompageref}{13}
-\nomenclatureentry{adsDNA@[{dsDNA}]\begingroup Double stranded DNA\nomeqref {\relax 1.0}|nompageref}{13}
+\nomenclatureentry{aRF@[{RF}]\begingroup Replicative form\nomeqref {\relax 1.0}|nompageref}{13}
+\nomenclatureentry{assDNA@[{ssDNA}]\begingroup Single stranded DNA \nomeqref {\relax 1.0}|nompageref}{14}
+\nomenclatureentry{adsDNA@[{dsDNA}]\begingroup Double stranded DNA\nomeqref {\relax 1.0}|nompageref}{14}
 \nomenclatureentry{aSV40@[{SV40}]\begingroup Simian vacuolating virus 40 or Simian virus 40\nomeqref {\relax 2.0}|nompageref}{17}
 \nomenclatureentry{aIF@[{IF}]\begingroup Immunofluorescence\nomeqref {\relax 2.0}|nompageref}{17}
 \nomenclatureentry{amAb@[{mAb}]\begingroup Monoclonal antibody\nomeqref {\relax 2.0}|nompageref}{17}

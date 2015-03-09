@@ -214,12 +214,6 @@
 \newblock {{T}he autonomously replicating parvoviruses of vertebrates},
 \newblock {\em Adv. Virus Res.} {\bf 33}, 91 (1987).
 
-\bibitem{parvoviruses}
-{\sc J.~R. Kerr}, {\sc M.~E. Bloom}, {\sc S.~Cotmore}, {\sc R.~M. Linden}, and
-  {\sc C.~R. Parrish},
-\newblock {\em {{P}arvoviruses}},
-\newblock Hodder Arnold, London, UK, 2005.
-
 \bibitem{pmid24212889}
 {\sc S.~F. Cotmore}, {\sc M.~Agbandje-McKenna}, {\sc J.~A. Chiorini}, {\sc
   D.~V. Mukha}, {\sc D.~J. Pintel}, {\sc J.~Qiu}, {\sc M.~Soderlund-Venermo},
@@ -608,6 +602,13 @@
   {B}iological properties of the isolated viruses},
 \newblock {\em Arch Gesamte Virusforsch} {\bf 38}, 366 (1972).
 
+\bibitem{protoparvovirus}
+{\sc P.~Tattersall},
+\newblock {T}he evolution of parvovirus taxonomy,
+\newblock in {\em {{P}arvoviruses}}, edited by {\sc J.~R. Kerr}, {\sc M.~E.
+  Bloom}, {\sc S.~Cotmore}, {\sc R.~M. Linden}, and {\sc C.~R. Parrish}, p.~9,
+  Hodder Arnold, London, UK, 2006.
+
 \bibitem{pmid15956568}
 {\sc M.~S. Jones}, {\sc A.~Kapoor}, {\sc V.~V. Lukashov}, {\sc P.~Simmonds},
   {\sc F.~Hecht}, and {\sc E.~Delwart},
@@ -734,10 +735,12 @@
 \newblock {{N}ovel human parvovirus 4 genotype 3 in infants, {G}hana},
 \newblock {\em Emerging Infect. Dis.} {\bf 16}, 1143 (2010).
 
-\bibitem{pmid12941411}
-{\sc K.~Hueffer} and {\sc C.~R. Parrish},
-\newblock {{P}arvovirus host range, cell tropism and evolution},
-\newblock {\em Curr. Opin. Microbiol.} {\bf 6}, 392 (2003).
+\bibitem{pmid1871965}
+{\sc L.~J. Ball-Goodrich}, {\sc R.~D. Moir}, and {\sc P.~Tattersall},
+\newblock {{P}arvoviral target cell specificity: acquisition of fibrotropism by
+  a mutant of the lymphotropic strain of minute virus of mice involves multiple
+  amino acid substitutions within the capsid},
+\newblock {\em Virology} {\bf 184}, 175 (1991).
 
 \bibitem{pmid6602221}
 {\sc B.~A. Spalholz} and {\sc P.~Tattersall},
@@ -764,13 +767,6 @@
   of mice determine the host-cell specificity, control viral {D}{N}{A}
   replication and affect viral {R}{N}{A} metabolism},
 \newblock {\em J. Gen. Virol.} {\bf 79 ( Pt 3)}, 581 (1998).
-
-\bibitem{pmid1871965}
-{\sc L.~J. Ball-Goodrich}, {\sc R.~D. Moir}, and {\sc P.~Tattersall},
-\newblock {{P}arvoviral target cell specificity: acquisition of fibrotropism by
-  a mutant of the lymphotropic strain of minute virus of mice involves multiple
-  amino acid substitutions within the capsid},
-\newblock {\em Virology} {\bf 184}, 175 (1991).
 
 \bibitem{pmid7637028}
 {\sc I.~H. Maxwell}, {\sc A.~L. Spitzer}, {\sc F.~Maxwell}, and {\sc D.~J.
@@ -867,6 +863,11 @@
   mouse embryo},
 \newblock {\em J. Virol.} {\bf 78}, 9474 (2004).
 
+\bibitem{pmid6823332}
+{\sc G.~C. Bosma}, {\sc R.~P. Custer}, and {\sc M.~J. Bosma},
+\newblock {{A} severe combined immunodeficiency mutation in the mouse},
+\newblock {\em Nature} {\bf 301}, 527 (1983).
+
 \bibitem{pmid12857918}
 {\sc J.~C. Segovia}, {\sc G.~Guenechea}, {\sc J.~M. Gallego}, {\sc J.~M.
   Almendral}, and {\sc J.~A. Bueren},
@@ -880,6 +881,29 @@
 \newblock {{S}evere leukopenia and dysregulated erythropoiesis in {S}{C}{I}{D}
   mice persistently infected with the parvovirus minute virus of mice},
 \newblock {\em J. Virol.} {\bf 73}, 1774 (1999).
+
+\bibitem{pmid16415031}
+{\sc A.~Lopez-Bueno}, {\sc M.~P. Rubio}, {\sc N.~Bryant}, {\sc R.~McKenna},
+  {\sc M.~Agbandje-McKenna}, and {\sc J.~M. Almendral},
+\newblock {{H}ost-selected amino acid changes at the sialic acid binding pocket
+  of the parvovirus capsid modulate cell binding affinity and determine
+  virulence},
+\newblock {\em J. Virol.} {\bf 80}, 1563 (2006).
+
+\bibitem{pmid16103180}
+{\sc M.~P. Rubio}, {\sc A.~Lopez-Bueno}, and {\sc J.~M. Almendral},
+\newblock {{V}irulent variants emerging in mice infected with the apathogenic
+  prototype strain of the parvovirus minute virus of mice exhibit a capsid with
+  low avidity for a primary receptor},
+\newblock {\em J. Virol.} {\bf 79}, 11280 (2005).
+
+\bibitem{pmid18045943}
+{\sc A.~Lopez-Bueno}, {\sc J.~C. Segovia}, {\sc J.~A. Bueren}, {\sc M.~G.
+  O'Sullivan}, {\sc F.~Wang}, {\sc P.~Tattersall}, and {\sc J.~M. Almendral},
+\newblock {{E}volution to pathogenicity of the parvovirus minute virus of mice
+  in immunodeficient mice involves genetic heterogeneity at the capsid domain
+  that determines tropism},
+\newblock {\em J. Virol.} {\bf 82}, 1195 (2008).
 
 \bibitem{pmid8396664}
 {\sc M.~E. Bloom}, {\sc B.~D. Berry}, {\sc W.~Wei}, {\sc S.~Perryman}, and {\sc
@@ -915,6 +939,32 @@
 \newblock {{C}haracterization of the feline host range and a specific epitope
   of feline panleukopenia virus},
 \newblock {\em Virology} {\bf 200}, 494 (1994).
+
+\bibitem{tropism}
+{\sc M.~Agbandje-McKenna} and {\sc M.~S. Chapman},
+\newblock {C}orrelating structure with function in the viral capsid,
+\newblock in {\em {{P}arvoviruses}}, edited by {\sc J.~R. Kerr}, {\sc M.~E.
+  Bloom}, {\sc S.~Cotmore}, {\sc R.~M. Linden}, and {\sc C.~R. Parrish}, pp.
+  125--139, Hodder Arnold, London, UK, 2006.
+
+\bibitem{pmid12941411}
+{\sc K.~Hueffer} and {\sc C.~R. Parrish},
+\newblock {{P}arvovirus host range, cell tropism and evolution},
+\newblock {\em Curr. Opin. Microbiol.} {\bf 6}, 392 (2003).
+
+\bibitem{pmid9311862}
+{\sc N.~Previsani}, {\sc S.~Fontana}, {\sc B.~Hirt}, and {\sc P.~Beard},
+\newblock {{G}rowth of the parvovirus minute virus of mice {M}{V}{M}p3 in
+  {E}{L}4 lymphocytes is restricted after cell entry and before viral {D}{N}{A}
+  amplification: cell-specific differences in virus uncoating in vitro},
+\newblock {\em J. Virol.} {\bf 71}, 7769 (1997).
+
+\bibitem{pmid1322591}
+{\sc M.~Horiuchi}, {\sc N.~Ishiguro}, {\sc H.~Goto}, and {\sc M.~Shinagawa},
+\newblock {{C}haracterization of the stage(s) in the virus replication cycle at
+  which the host-cell specificity of the feline parvovirus subgroup is
+  regulated in canine cells},
+\newblock {\em Virology} {\bf 189}, 600 (1992).
 
 \bibitem{pmid16242744}
 {\sc C.~Ros}, {\sc C.~Baltzer}, {\sc B.~Mani}, and {\sc C.~Kempf},
