@@ -1,1082 +1,1284 @@
-\begin{thebibliography}{100}
+\begin{thebibliography}{}
 
-\bibitem{pmid3855242}
-{\sc R.~Sahli}, {\sc G.~K. McMaster}, and {\sc B.~Hirt},
-\newblock {{D}{N}{A} sequence comparison between two tissue-specific variants
-  of the autonomous parvovirus, minute virus of mice},
-\newblock {\em Nucleic Acids Res.} {\bf 13}, 3617 (1985).
-
-\bibitem{pmid5945715}
-{\sc L.~V. Crawford},
-\newblock {{A} minute virus of mice},
-\newblock {\em Virology} {\bf 29}, 605 (1966).
-
-\bibitem{pmid4673484}
-{\sc P.~Tattersall},
-\newblock {{R}eplication of the parvovirus {M}{V}{M}. {I}. {D}ependence of
-  virus multiplication and plaque formation on cell growth},
-\newblock {\em J. Virol.} {\bf 10}, 586 (1972).
-
-\bibitem{MVMp}
-{\sc B.~A. Spalholz}, {\sc J.~Bratton}, {\sc D.~C. Ward}, and {\sc
-  P.~Tattersall},
-\newblock {\em {{T}umor {V}iruses and {D}ifferentiation}},
-\newblock Academic Press, New York, NY, 1982.
-
-\bibitem{pmid1244418}
-{\sc G.~D. Bonnard}, {\sc E.~K. Manders}, {\sc D.~A. Campbell}, {\sc R.~B.
-  Herberman}, and {\sc M.~J. Collins},
-\newblock {{I}mmunosuppressive activity of a subline of the mouse {E}{L}-4
-  lymphoma. {E}vidence for minute virus of mice causing the inhibition},
-\newblock {\em J. Exp. Med.} {\bf 143}, 187 (1976).
-
-\bibitem{pmid6457871}
-{\sc H.~D. Engers}, {\sc J.~A. Louis}, {\sc R.~H. Zubler}, and {\sc B.~Hirt},
-\newblock {{I}nhibition of {T} cell-mediated functions by {M}{V}{M}(i), a
-  parvovirus closely related to minute virus of mice},
-\newblock {\em J. Immunol.} {\bf 127}, 2280 (1981).
-
-\bibitem{pmid6264106}
-{\sc G.~K. McMaster}, {\sc P.~Beard}, {\sc H.~D. Engers}, and {\sc B.~Hirt},
-\newblock {{C}haracterization of an immunosuppressive parvovirus related to the
-  minute virus of mice},
-\newblock {\em J. Virol.} {\bf 38}, 317 (1981).
-
-\bibitem{pmid4975639}
-{\sc L.~V. Crawford}, {\sc E.~A. Follett}, {\sc M.~G. Burdon}, and {\sc D.~J.
-  McGeoch},
-\newblock {{T}he {D}{N}{A} of a minute virus of mice},
-\newblock {\em J. Gen. Virol.} {\bf 4}, 37 (1969).
-
-\bibitem{pmid5264145}
-{\sc J.~A. Rose}, {\sc K.~I. Berns}, {\sc M.~D. Hoggan}, and {\sc F.~J.
-  Koczot},
-\newblock {{E}vidence for a single-stranded adenovirus-associated virus genome:
-  formation of a {D}{N}{A} density hybrid on release of viral {D}{N}{A}},
-\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 64}, 863 (1969).
-
-\bibitem{pmid5429749}
-{\sc K.~I. Berns} and {\sc J.~A. Rose},
-\newblock {{E}vidence for a single-stranded adenovirus-associated virus genome:
-  isolation and separation of complementary single strands},
-\newblock {\em J. Virol.} {\bf 5}, 693 (1970).
-
-\bibitem{pmid10497831}
-{\sc P.~Tijssen},
-\newblock {{M}olecular and structural basis of the evolution of parvovirus
-  tropism},
-\newblock {\em Acta Vet. Hung.} {\bf 47}, 379 (1999).
-
-\bibitem{icvt}
-{\sc A.~M.~Q. King}, {\sc M.~J. Adams}, {\sc E.~B. Carstens}, and {\sc E.~J.
-  Lefkowitz},
-\newblock {\em {{V}irus taxonomy: {N}inth report of the {I}nternational
-  {C}ommittee on {T}axonomy of {V}iruses.}},
-\newblock Elsevier Academic Press, San Diego, CA, 2012.
-
-\bibitem{CsCl}
-{\sc M.~D. Hoggan}, {\sc K.~Maramorosch}, and {\sc E.~Kurstak},
-\newblock {\em {{S}mall {D}{N}{A} viruses}},
-\newblock Academic Press, New York, NY, 1971.
-
-\bibitem{pmid4317344}
-{\sc L.~A. Salzman} and {\sc L.~A. Jori},
-\newblock {{C}haracterization of the {K}ilham rat virus},
-\newblock {\em J. Virol.} {\bf 5}, 114 (1970).
-
-\bibitem{pmid12935806}
-{\sc N.~Boschetti}, {\sc K.~Wyss}, {\sc A.~Mischler}, {\sc T.~Hostettler}, and
-  {\sc C.~Kempf},
-\newblock {{S}tability of minute virus of mice against temperature and sodium
-  hydroxide},
-\newblock {\em Biologicals} {\bf 31}, 181 (2003).
-
-\bibitem{pmid12385412}
-{\sc J.~Blumel}, {\sc I.~Schmidt}, {\sc H.~Willkommen}, and {\sc J.~Lower},
-\newblock {{I}nactivation of parvovirus {B}19 during pasteurization of human
-  serum albumin},
-\newblock {\em Transfusion} {\bf 42}, 1011 (2002).
-
-\bibitem{pmid17880601}
-{\sc B.~Mani}, {\sc M.~Gerber}, {\sc P.~Lieby}, {\sc N.~Boschetti}, {\sc
-  C.~Kempf}, and {\sc C.~Ros},
-\newblock {{M}olecular mechanism underlying {B}19 virus inactivation and
-  comparison to other parvoviruses},
-\newblock {\em Transfusion} {\bf 47}, 1765 (2007).
-
-\bibitem{pmid19039515}
-{\sc A.~Sauerbrei} and {\sc P.~Wutzler},
-\newblock {{T}esting thermal resistance of viruses},
-\newblock {\em Arch. Virol.} {\bf 154}, 115 (2009).
-
-\bibitem{pmid4213983}
-{\sc R.~E. Harris}, {\sc P.~H. Coleman}, and {\sc P.~S. Morahan},
-\newblock {{S}tability of minute virus of mice to chemical and physical
-  agents},
-\newblock {\em Appl Microbiol} {\bf 28}, 351 (1974).
-
-\bibitem{pmid3416941}
-{\sc M.~Saknimit}, {\sc I.~Inatsuki}, {\sc Y.~Sugiyama}, and {\sc K.~Yagami},
-\newblock {{V}irucidal efficacy of physico-chemical treatments against
-  coronaviruses and parvoviruses of laboratory animals},
-\newblock {\em Jikken Dobutsu} {\bf 37}, 341 (1988).
-
-\bibitem{pmid7848502}
-{\sc S.~Brauniger}, {\sc I.~Fischer}, and {\sc J.~Peters},
-\newblock {[{T}he temperature stability of bovine parvovirus]},
-\newblock {\em Zentralbl Hyg Umweltmed} {\bf 196}, 270 (1994).
-
-\bibitem{pmid1520981}
-{\sc T.~F. Schwarz}, {\sc S.~Serke}, {\sc A.~Von~Brunn}, {\sc B.~Hottentrager},
-  {\sc D.~Huhn}, {\sc F.~Deinhardt}, and {\sc M.~Roggendorf},
-\newblock {{H}eat stability of parvovirus {B}19: kinetics of inactivation},
-\newblock {\em Zentralbl. Bakteriol.} {\bf 277}, 219 (1992).
-
-\bibitem{pmid5902774}
-{\sc C.~Brailovsky},
-\newblock {[{R}esearch on the rat {K} virus ({P}arvovirus ratti). {I}. {A}
-  method of titration by plaques and its application to the study of the
-  multiplication cycle of the virus]},
-\newblock {\em Ann Inst Pasteur (Paris)} {\bf 110}, 49 (1966).
-
-\bibitem{pmid20861255}
-{\sc V.~A. Belyi}, {\sc A.~J. Levine}, and {\sc A.~M. Skalka},
-\newblock {{S}equences from ancestral single-stranded {D}{N}{A} viruses in
-  vertebrate genomes: the parvoviridae and circoviridae are more than 40 to 50
-  million years old},
-\newblock {\em J. Virol.} {\bf 84}, 12458 (2010).
-
-\bibitem{pmid1649336}
-{\sc E.~Gottschalck}, {\sc S.~Alexandersen}, {\sc A.~Cohn}, {\sc L.~A.
-  Poulsen}, {\sc M.~E. Bloom}, and {\sc B.~Aasted},
-\newblock {{N}ucleotide sequence analysis of {A}leutian mink disease parvovirus
-  shows that multiple virus types are present in infected mink},
-\newblock {\em J. Virol.} {\bf 65}, 4378 (1991).
-
-\bibitem{pmid12716974}
-{\sc G.~Gao}, {\sc M.~R. Alvira}, {\sc S.~Somanathan}, {\sc Y.~Lu}, {\sc L.~H.
-  Vandenberghe}, {\sc J.~J. Rux}, {\sc R.~Calcedo}, {\sc J.~Sanmiguel}, {\sc
-  Z.~Abbas}, and {\sc J.~M. Wilson},
-\newblock {{A}deno-associated viruses undergo substantial evolution in primates
-  during natural infections},
-\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 100}, 6081 (2003).
-
-\bibitem{pmid10411508}
-{\sc H.~A. Wichman}, {\sc M.~R. Badgett}, {\sc L.~A. Scott}, {\sc C.~M.
-  Boulianne}, and {\sc J.~J. Bull},
-\newblock {{D}ifferent trajectories of parallel evolution during viral
-  adaptation},
-\newblock {\em Science} {\bf 285}, 422 (1999).
-
-\bibitem{pmid16537636}
-{\sc L.~A. Shackelton} and {\sc E.~C. Holmes},
-\newblock {{P}hylogenetic evidence for the rapid evolution of human {B}19
-  erythrovirus},
-\newblock {\em J. Virol.} {\bf 80}, 3666 (2006).
-
-\bibitem{pmid15626758}
-{\sc L.~A. Shackelton}, {\sc C.~R. Parrish}, {\sc U.~Truyen}, and {\sc E.~C.
-  Holmes},
-\newblock {{H}igh rate of viral evolution associated with the emergence of
-  carnivore parvovirus},
-\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 102}, 379 (2005).
-
-\bibitem{pmid21795474}
-{\sc A.~F. Streck}, {\sc S.~L. Bonatto}, {\sc T.~Homeier}, {\sc C.~K. Souza},
-  {\sc K.~R. Goncalves}, {\sc D.~Gava}, {\sc C.~W. Canal}, and {\sc U.~Truyen},
-\newblock {{H}igh rate of viral evolution in the capsid protein of porcine
-  parvovirus},
-\newblock {\em J. Gen. Virol.} {\bf 92}, 2628 (2011).
-
-\bibitem{pmid6319731}
-{\sc M.~Lederman}, {\sc J.~T. Patton}, {\sc E.~R. Stout}, and {\sc R.~C.
-  Bates},
-\newblock {{V}irally coded noncapsid protein associated with bovine parvovirus
-  infection},
-\newblock {\em J. Virol.} {\bf 49}, 315 (1984).
-
-\bibitem{pmid21049037}
-{\sc W.~X. Cheng}, {\sc J.~S. Li}, {\sc C.~P. Huang}, {\sc D.~P. Yao}, {\sc
-  N.~Liu}, {\sc S.~X. Cui}, {\sc Y.~Jin}, and {\sc Z.~J. Duan},
-\newblock {{I}dentification and nearly full-length genome characterization of
-  novel porcine bocaviruses},
-\newblock {\em PLoS ONE} {\bf 5}, e13583 (2010).
-
-\bibitem{pmid20339886}
-{\sc A.~K. Cheung}, {\sc G.~Wu}, {\sc D.~Wang}, {\sc D.~O. Bayles}, {\sc K.~M.
-  Lager}, and {\sc A.~L. Vincent},
-\newblock {{I}dentification and molecular cloning of a novel porcine
-  parvovirus},
-\newblock {\em Arch. Virol.} {\bf 155}, 801 (2010).
-
-\bibitem{pmid3296697}
-{\sc S.~F. Cotmore} and {\sc P.~Tattersall},
-\newblock {{T}he autonomously replicating parvoviruses of vertebrates},
-\newblock {\em Adv. Virus Res.} {\bf 33}, 91 (1987).
-
-\bibitem{pmid24212889}
-{\sc S.~F. Cotmore}, {\sc M.~Agbandje-McKenna}, {\sc J.~A. Chiorini}, {\sc
-  D.~V. Mukha}, {\sc D.~J. Pintel}, {\sc J.~Qiu}, {\sc M.~Soderlund-Venermo},
-  {\sc P.~Tattersall}, {\sc P.~Tijssen}, {\sc D.~Gatherer}, and {\sc A.~J.
-  Davison},
-\newblock {{T}he family {P}arvoviridae},
-\newblock {\em Arch. Virol.} {\bf 159}, 1239 (2014).
-
-\bibitem{pmid11222696}
-{\sc V.~V. Lukashov} and {\sc J.~Goudsmit},
-\newblock {{E}volutionary relationships among parvoviruses: virus-host
-  coevolution among autonomous primate parvoviruses and links between
-  adeno-associated and avian parvoviruses},
-\newblock {\em J. Virol.} {\bf 75}, 2729 (2001).
-
-\bibitem{pmid6252342}
-{\sc M.~E. Bloom}, {\sc R.~E. Race}, and {\sc J.~B. Wolfinbarger},
-\newblock {{C}haracterization of {A}leutian disease virus as a parvovirus},
-\newblock {\em J. Virol.} {\bf 35}, 836 (1980).
-
-\bibitem{pmid2843669}
-{\sc S.~Alexandersen}, {\sc M.~E. Bloom}, and {\sc S.~Perryman},
-\newblock {{D}etailed transcription map of {A}leutian mink disease parvovirus},
-\newblock {\em J. Virol.} {\bf 62}, 3684 (1988).
-
-\bibitem{pmid16378968}
-{\sc J.~Qiu}, {\sc F.~Cheng}, {\sc L.~R. Burger}, and {\sc D.~Pintel},
-\newblock {{T}he transcription profile of {A}leutian mink disease virus in
-  {C}{R}{F}{K} cells is generated by alternative processing of pre-m{R}{N}{A}s
-  produced from a single promoter},
-\newblock {\em J. Virol.} {\bf 80}, 654 (2006).
-
-\bibitem{pmid22000359}
-{\sc L.~Li}, {\sc P.~A. Pesavento}, {\sc L.~Woods}, {\sc D.~L. Clifford}, {\sc
-  J.~Luff}, {\sc C.~Wang}, and {\sc E.~Delwart},
-\newblock {{N}ovel amdovirus in gray foxes},
-\newblock {\em Emerging Infect. Dis.} {\bf 17}, 1876 (2011).
-
-\bibitem{pmid10400786}
-{\sc R.~McKenna}, {\sc N.~H. Olson}, {\sc P.~R. Chipman}, {\sc T.~S. Baker},
-  {\sc T.~F. Booth}, {\sc J.~Christensen}, {\sc B.~Aasted}, {\sc J.~M. Fox},
-  {\sc M.~E. Bloom}, {\sc J.~B. Wolfinbarger}, and {\sc M.~Agbandje-McKenna},
-\newblock {{T}hree-dimensional structure of {A}leutian mink disease parvovirus:
-  implications for disease pathogenicity},
-\newblock {\em J. Virol.} {\bf 73}, 6882 (1999).
-
-\bibitem{pmid18766849}
-{\sc J.~Kisary}, {\sc B.~Nagy}, and {\sc Z.~Bitay},
-\newblock {{P}resence of parvoviruses in the intestine of chickens showing
-  stunting syndrome},
-\newblock {\em Avian Pathol.} {\bf 13}, 339 (1984).
-
-\bibitem{pmid6847550}
-{\sc D.~W. Trampel}, {\sc D.~A. Kinden}, {\sc R.~F. Solorzano}, and {\sc P.~L.
-  Stogsdill},
-\newblock {{P}arvovirus-like enteropathy in {M}issouri turkeys},
-\newblock {\em Avian Dis.} {\bf 27}, 49 (1983).
-
-\bibitem{pmid2995561}
-{\sc J.~Kisary}, {\sc B.~Avalosse}, {\sc A.~Miller-Faures}, and {\sc
-  J.~Rommelaere},
-\newblock {{T}he genome structure of a new chicken virus identifies it as a
-  parvovirus},
-\newblock {\em J. Gen. Virol.} {\bf 66 ( Pt 10)}, 2259 (1985).
-
-\bibitem{pmid25510852}
-{\sc B.~S. Koo}, {\sc H.~R. Lee}, {\sc E.~O. Jeon}, {\sc M.~S. Han}, {\sc K.~C.
-  Min}, {\sc S.~B. Lee}, {\sc Y.~J. Bae}, {\sc S.~H. Cho}, {\sc J.~S. Mo}, {\sc
-  H.~M. Kwon}, {\sc H.~W. Sung}, {\sc J.~N. Kim}, and {\sc I.~P. Mo},
-\newblock {{G}enetic characterization of three novel chicken parvovirus strains
-  based on analysis of their coding sequences},
-\newblock {\em Avian Pathol.} {\bf 44}, 28 (2015).
-
-\bibitem{pmid18622862}
-{\sc L.~Zsak}, {\sc K.~O. Strother}, and {\sc J.~Kisary},
-\newblock {{P}artial genome sequence analysis of parvoviruses associated with
-  enteric disease in poultry},
-\newblock {\em Avian Pathol.} {\bf 37}, 435 (2008).
-
-\bibitem{pmid20097398}
-{\sc J.~M. Day} and {\sc L.~Zsak},
-\newblock {{D}etermination and analysis of the full-length chicken parvovirus
-  genome},
-\newblock {\em Virology} {\bf 399}, 59 (2010).
-
-\bibitem{pmid18766892}
-{\sc J.~Kisary},
-\newblock {{E}xperimental infection of chicken embryos and day-old chickens
-  with parvovirus of chicken origin},
-\newblock {\em Avian Pathol.} {\bf 14}, 1 (1985).
-
-\bibitem{pmid7150147}
-{\sc R.~K. Page}, {\sc O.~J. Fletcher}, {\sc G.~N. Rowland}, {\sc D.~Gaudry},
-  and {\sc P.~Villegas},
-\newblock {{M}alabsorption syndrome in broiler chickens},
-\newblock {\em Avian Dis.} {\bf 26}, 618 (1982).
-
-\bibitem{pmid6281962}
-{\sc D.~A. Pass}, {\sc M.~D. Robertson}, and {\sc G.~E. Wilcox},
-\newblock {{R}unting syndrome in broiler chickens in {A}ustralia},
-\newblock {\em Vet. Rec.} {\bf 110}, 386 (1982).
-
-\bibitem{pmid8363509}
-{\sc M.~A. Goodwin}, {\sc J.~F. Davis}, {\sc M.~S. McNulty}, {\sc J.~Brown},
-  and {\sc E.~C. Player},
-\newblock {{E}nteritis (so-called runting stunting syndrome) in {G}eorgia
-  broiler chicks},
-\newblock {\em Avian Dis.} {\bf 37}, 451 (1993).
-
-\bibitem{pmid10935280}
-{\sc H.~J. Barnes}, {\sc J.~S. Guy}, and {\sc J.~P. Vaillancourt},
-\newblock {{P}oult enteritis complex},
-\newblock {\em Rev. - Off. Int. Epizoot.} {\bf 19}, 565 (2000).
-
-\bibitem{PEMS}
-{\sc Y.~M. Saif}, {\sc H.~J. Barnes}, {\sc J.~R. Glisson}, {\sc A.~M. Fadly},
-  {\sc L.~R. McDougald}, and {\sc D.~E. Swayne},
-\newblock {\em {{D}iseases of {P}oultry 11th edn}},
-\newblock Wiley-Blackwell, Hoboken, NJ, 2003,
-\newblock pp 1171-1180.
-
-\bibitem{pmid3783814}
-{\sc K.~C. Chen}, {\sc B.~C. Shull}, {\sc E.~A. Moses}, {\sc M.~Lederman}, {\sc
-  E.~R. Stout}, and {\sc R.~C. Bates},
-\newblock {{C}omplete nucleotide sequence and genome organization of bovine
-  parvovirus},
-\newblock {\em J. Virol.} {\bf 60}, 1085 (1986).
-
-\bibitem{pmid12441065}
-{\sc D.~Schwartz}, {\sc B.~Green}, {\sc L.~E. Carmichael}, and {\sc C.~R.
-  Parrish},
-\newblock {{T}he canine minute virus (minute virus of canines) is a distinct
-  parvovirus that is most similar to bovine parvovirus},
-\newblock {\em Virology} {\bf 302}, 219 (2002).
-
-\bibitem{pmid17715221}
-{\sc J.~Qiu}, {\sc F.~Cheng}, {\sc F.~B. Johnson}, and {\sc D.~Pintel},
-\newblock {{T}he transcription profile of the bocavirus bovine parvovirus is
-  unlike those of previously characterized parvoviruses},
-\newblock {\em J. Virol.} {\bf 81}, 12080 (2007).
-
-\bibitem{pmid11562506}
-{\sc T.~Allander}, {\sc S.~U. Emerson}, {\sc R.~E. Engle}, {\sc R.~H. Purcell},
-  and {\sc J.~Bukh},
-\newblock {{A} virus discovery method incorporating {D}{N}ase treatment and its
-  application to the identification of two bovine parvovirus species},
-\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 98}, 11609 (2001).
-
-\bibitem{pmid16118271}
-{\sc T.~Allander}, {\sc M.~T. Tammi}, {\sc M.~Eriksson}, {\sc A.~Bjerkner},
-  {\sc A.~Tiveljung-Lindell}, and {\sc B.~Andersson},
-\newblock {{C}loning of a human parvovirus by molecular screening of
-  respiratory tract samples},
-\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 102}, 12891 (2005).
-
-\bibitem{pmid17553287}
-{\sc D.~Vicente}, {\sc G.~Cilla}, {\sc M.~Montes}, {\sc E.~G. Perez-Yarza}, and
-  {\sc E.~Perez-Trallero},
-\newblock {{H}uman bocavirus, a respiratory and enteric virus},
-\newblock {\em Emerging Infect. Dis.} {\bf 13}, 636 (2007).
-
-\bibitem{pmid17122013}
-{\sc N.~Bastien}, {\sc N.~Chui}, {\sc J.~L. Robinson}, {\sc B.~E. Lee}, {\sc
-  K.~Dust}, {\sc L.~Hart}, and {\sc Y.~Li},
-\newblock {{D}etection of human bocavirus in {C}anadian children in a 1-year
-  study},
-\newblock {\em J. Clin. Microbiol.} {\bf 45}, 610 (2007).
-
-\bibitem{pmid16517912}
-{\sc X.~Ma}, {\sc R.~Endo}, {\sc N.~Ishiguro}, {\sc T.~Ebihara}, {\sc
-  H.~Ishiko}, {\sc T.~Ariga}, and {\sc H.~Kikuta},
-\newblock {{D}etection of human bocavirus in {J}apanese children with lower
-  respiratory tract infections},
-\newblock {\em J. Clin. Microbiol.} {\bf 44}, 1132 (2006).
-
-\bibitem{pmid17041855}
-{\sc A.~Manning}, {\sc V.~Russell}, {\sc K.~Eastick}, {\sc G.~H. Leadbetter},
-  {\sc N.~Hallam}, {\sc K.~Templeton}, and {\sc P.~Simmonds},
-\newblock {{E}pidemiological profile and clinical associations of human
-  bocavirus and other human parvoviruses},
-\newblock {\em J. Infect. Dis.} {\bf 194}, 1283 (2006).
-
-\bibitem{pmid17176591}
-{\sc B.~Kupfer}, {\sc J.~Vehreschild}, {\sc O.~Cornely}, {\sc R.~Kaiser}, {\sc
-  G.~Plum}, {\sc S.~Viazov}, {\sc C.~Franzen}, {\sc R.~L. Tillmann}, {\sc
-  A.~Simon}, {\sc A.~Muller}, and {\sc O.~Schildgen},
-\newblock {{S}evere pneumonia and human bocavirus in adult},
-\newblock {\em Emerging Infect. Dis.} {\bf 12}, 1614 (2006).
-
-\bibitem{pmid21092136}
-{\sc L.~Huang}, {\sc S.~L. Zhai}, {\sc A.~K. Cheung}, {\sc H.~B. Zhang}, {\sc
-  J.~X. Long}, and {\sc S.~S. Yuan},
-\newblock {{D}etection of a novel porcine parvovirus, {P}{P}{V}4, in {C}hinese
-  swine herds},
-\newblock {\em Virol. J.} {\bf 7}, 333 (2010).
-
-\bibitem{pmid22967311}
-{\sc A.~L. Blomstrom}, {\sc K.~Stahl}, {\sc C.~Masembe}, {\sc E.~Okoth}, {\sc
-  A.~R. Okurut}, {\sc P.~Atmnedi}, {\sc S.~Kemp}, {\sc R.~Bishop}, {\sc
-  S.~Belak}, and {\sc M.~Berg},
-\newblock {{V}iral metagenomic analysis of bushpigs ({P}otamochoerus larvatus)
-  in {U}ganda identifies novel variants of {P}orcine parvovirus 4 and {T}orque
-  teno sus virus 1 and 2},
-\newblock {\em Virol. J.} {\bf 9}, 192 (2012).
-
-\bibitem{pmid23405295}
-{\sc C.~T. Xiao}, {\sc P.~G. Halbur}, and {\sc T.~Opriessnig},
-\newblock {{C}omplete {G}enome {S}equence of a {N}ovel {P}orcine {P}arvovirus
-  ({P}{P}{V}) {P}rovisionally {D}esignated {P}{P}{V}5},
-\newblock {\em Genome Announc} {\bf 1} (2013).
-
-\bibitem{pmid25442288}
-{\sc J.~Ni}, {\sc C.~Qiao}, {\sc X.~Han}, {\sc T.~Han}, {\sc W.~Kang}, {\sc
-  Z.~Zi}, {\sc Z.~Cao}, {\sc X.~Zhai}, and {\sc X.~Cai},
-\newblock {{I}dentification and genomic characterization of a novel porcine
-  parvovirus ({P}{P}{V}6) in china},
-\newblock {\em Virol. J.} {\bf 11}, 203 (2014).
-
-\bibitem{pmid23762339}
-{\sc C.~T. Xiao}, {\sc L.~G. Gimenez-Lirola}, {\sc Y.~H. Jiang}, {\sc P.~G.
-  Halbur}, and {\sc T.~Opriessnig},
-\newblock {{C}haracterization of a novel porcine parvovirus tentatively
-  designated {P}{P}{V}5},
-\newblock {\em PLoS ONE} {\bf 8}, e65312 (2013).
-
-\bibitem{pmid6314634}
-{\sc L.~A. van Leengoed}, {\sc J.~Vos}, {\sc E.~Gruys}, {\sc P.~Rondhuis}, and
-  {\sc A.~Brand},
-\newblock {{P}orcine {P}arvovirus infection: review and diagnosis in a sow herd
-  with reproductive failure},
-\newblock {\em Vet Q} {\bf 5}, 131 (1983).
-
-\bibitem{pmid427636}
-{\sc W.~L. Mengeling},
-\newblock {{P}renatal infection following maternal exposure to porcine
-  parvovirus on either the seventh or fourteenth day of gestation},
-\newblock {\em Can. J. Comp. Med.} {\bf 43}, 106 (1979).
-
-\bibitem{pmid999067}
-{\sc W.~L. Mengeling} and {\sc R.~C. Cutlip},
-\newblock {{R}eproductive disease experimentally induced by exposing pregnant
-  gilts to porcine parvovirus},
-\newblock {\em Am. J. Vet. Res.} {\bf 37}, 1393 (1976).
-
-\bibitem{pmid3006323}
-{\sc J.~I. Kresse}, {\sc W.~D. Taylor}, {\sc W.~W. Stewart}, and {\sc K.~A.
-  Eernisse},
-\newblock {{P}arvovirus infection in pigs with necrotic and vesicle-like
-  lesions},
-\newblock {\em Vet. Microbiol.} {\bf 10}, 525 (1985).
-
-\bibitem{pmid5014934}
-{\sc K.~I. Berns} and {\sc S.~Adler},
-\newblock {{S}eparation of two types of adeno-associated virus particles
-  containing complementary polynucleotide chains},
-\newblock {\em J. Virol.} {\bf 9}, 394 (1972).
-
-\bibitem{pmid6246271}
-{\sc E.~Lusby}, {\sc K.~H. Fife}, and {\sc K.~I. Berns},
-\newblock {{N}ucleotide sequence of the inverted terminal repetition in
-  adeno-associated virus {D}{N}{A}},
-\newblock {\em J. Virol.} {\bf 34}, 402 (1980).
-
-\bibitem{pmid6253077}
-{\sc M.~R. Green} and {\sc R.~G. Roeder},
-\newblock {{D}efinition of a novel promoter for the major adenovirus-associated
-  virus m{R}{N}{A}},
-\newblock {\em Cell} {\bf 22}, 231 (1980).
-
-\bibitem{pmid6281463}
-{\sc E.~W. Lusby} and {\sc K.~I. Berns},
-\newblock {{M}apping of the 5' termini of two adeno-associated virus 2
-  {R}{N}{A}s in the left half of the genome},
-\newblock {\em J. Virol.} {\bf 41}, 518 (1982).
-
-\bibitem{pmid4318977}
-{\sc R.~W. Atchison},
-\newblock {{T}he role of herpesviruses in adenovirus-associated virus
-  replication in vitro},
-\newblock {\em Virology} {\bf 42}, 155 (1970).
-
-\bibitem{pmid6270377}
-{\sc R.~M. Buller}, {\sc J.~E. Janik}, {\sc E.~D. Sebring}, and {\sc J.~A.
-  Rose},
-\newblock {{H}erpes simplex virus types 1 and 2 completely help
-  adenovirus-associated virus replication},
-\newblock {\em J. Virol.} {\bf 40}, 241 (1981).
-
-\bibitem{pmid5227666}
-{\sc M.~D. Hoggan}, {\sc N.~R. Blacklow}, and {\sc W.~P. Rowe},
-\newblock {{S}tudies of small {D}{N}{A} viruses found in various adenovirus
-  preparations: physical, biological, and immunological characteristics},
-\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 55}, 1467 (1966).
-
-\bibitem{pmid2156265}
-{\sc R.~M. Kotin}, {\sc M.~Siniscalco}, {\sc R.~J. Samulski}, {\sc X.~D. Zhu},
-  {\sc L.~Hunter}, {\sc C.~A. Laughlin}, {\sc S.~McLaughlin}, {\sc
-  N.~Muzyczka}, {\sc M.~Rocchi}, and {\sc K.~I. Berns},
-\newblock {{S}ite-specific integration by adeno-associated virus},
-\newblock {\em Proc. Natl. Acad. Sci. U.S.A.} {\bf 87}, 2211 (1990).
-
-\bibitem{pmid1653762}
-{\sc R.~M. Kotin}, {\sc J.~C. Menninger}, {\sc D.~C. Ward}, and {\sc K.~I.
-  Berns},
-\newblock {{M}apping and direct visualization of a region-specific viral
-  {D}{N}{A} integration site on chromosome 19q13-qter},
-\newblock {\em Genomics} {\bf 10}, 831 (1991).
-
-\bibitem{pmid1334463}
-{\sc R.~M. Kotin}, {\sc R.~M. Linden}, and {\sc K.~I. Berns},
-\newblock {{C}haracterization of a preferred site on human chromosome 19q for
-  integration of adeno-associated virus {D}{N}{A} by non-homologous
-  recombination},
-\newblock {\em EMBO J.} {\bf 11}, 5071 (1992).
-
-\bibitem{pmid1657596}
-{\sc R.~J. Samulski}, {\sc X.~Zhu}, {\sc X.~Xiao}, {\sc J.~D. Brook}, {\sc
-  D.~E. Housman}, {\sc N.~Epstein}, and {\sc L.~A. Hunter},
-\newblock {{T}argeted integration of adeno-associated virus ({A}{A}{V}) into
-  human chromosome 19},
-\newblock {\em EMBO J.} {\bf 10}, 3941 (1991).
-
-\bibitem{pmid18854481}
-{\sc S.~Daya} and {\sc K.~I. Berns},
-\newblock {{G}ene therapy using adeno-associated virus vectors},
-\newblock {\em Clin. Microbiol. Rev.} {\bf 21}, 583 (2008).
-
-\bibitem{pmid21499295}
-{\sc F.~Mingozzi} and {\sc K.~A. High},
-\newblock {{T}herapeutic in vivo gene transfer for genetic disease using
-  {A}{A}{V}: progress and challenges},
-\newblock {\em Nat. Rev. Genet.} {\bf 12}, 341 (2011).
-
-\bibitem{pmid2408228}
-{\sc V.~Deiss}, {\sc J.~D. Tratschin}, {\sc M.~Weitz}, and {\sc G.~Siegl},
-\newblock {{C}loning of the human parvovirus {B}19 genome and structural
-  analysis of its palindromic termini},
-\newblock {\em Virology} {\bf 175}, 247 (1990).
-
-\bibitem{pmid3824910}
-{\sc C.~Doerig}, {\sc P.~Beard}, and {\sc B.~Hirt},
-\newblock {{A} transcriptional promoter of the human parvovirus {B}19 active in
-  vitro and in vivo},
-\newblock {\em Virology} {\bf 157}, 539 (1987).
-
-\bibitem{pmid3599180}
-{\sc K.~Ozawa}, {\sc J.~Ayub}, {\sc Y.~S. Hao}, {\sc G.~Kurtzman}, {\sc
-  T.~Shimada}, and {\sc N.~Young},
-\newblock {{N}ovel transcription map for the {B}19 (human) pathogenic
-  parvovirus},
-\newblock {\em J. Virol.} {\bf 61}, 2395 (1987).
-
-\bibitem{pmid12097253}
-{\sc E.~D. Heegaard} and {\sc K.~E. Brown},
-\newblock {{H}uman parvovirus {B}19},
-\newblock {\em Clin. Microbiol. Rev.} {\bf 15}, 485 (2002).
-
-\bibitem{pmid13669314}
-{\sc L.~KILHAM} and {\sc L.~J. OLIVIER},
-\newblock {{A} latent virus of rats isolated in tissue culture},
-\newblock {\em Virology} {\bf 7}, 428 (1959).
-
-\bibitem{pmid6694260}
-{\sc R.~C. Bates}, {\sc C.~E. Snyder}, {\sc P.~T. Banerjee}, and {\sc
-  S.~Mitra},
-\newblock {{A}utonomous parvovirus {L}u{I}{I}{I} encapsidates equal amounts of
-  plus and minus {D}{N}{A} strands},
-\newblock {\em J. Virol.} {\bf 49}, 319 (1984).
-
-\bibitem{pmid6298737}
-{\sc C.~R. Astell}, {\sc M.~Thomson}, {\sc M.~Merchlinsky}, and {\sc D.~C.
-  Ward},
-\newblock {{T}he complete {D}{N}{A} sequence of minute virus of mice, an
-  autonomous parvovirus},
-\newblock {\em Nucleic Acids Res.} {\bf 11}, 999 (1983).
-
-\bibitem{pmid6828378}
-{\sc D.~Pintel}, {\sc D.~Dadachanji}, {\sc C.~R. Astell}, and {\sc D.~C. Ward},
-\newblock {{T}he genome of minute virus of mice, an autonomous parvovirus,
-  encodes two overlapping transcription units},
-\newblock {\em Nucleic Acids Res.} {\bf 11}, 1019 (1983).
-
-\bibitem{pmid5083410}
-{\sc C.~Hallauer}, {\sc G.~Siegl}, and {\sc G.~Kronauer},
-\newblock {{P}arvoviruses as contaminants of permanent human cell lines. 3.
-  {B}iological properties of the isolated viruses},
-\newblock {\em Arch Gesamte Virusforsch} {\bf 38}, 366 (1972).
-
-\bibitem{protoparvovirus}
-{\sc P.~Tattersall},
-\newblock {T}he evolution of parvovirus taxonomy,
-\newblock in {\em {{P}arvoviruses}}, edited by {\sc J.~R. Kerr}, {\sc M.~E.
-  Bloom}, {\sc S.~Cotmore}, {\sc R.~M. Linden}, and {\sc C.~R. Parrish}, p.~9,
-  Hodder Arnold, London, UK, 2006.
-
-\bibitem{pmid15956568}
-{\sc M.~S. Jones}, {\sc A.~Kapoor}, {\sc V.~V. Lukashov}, {\sc P.~Simmonds},
-  {\sc F.~Hecht}, and {\sc E.~Delwart},
-\newblock {{N}ew {D}{N}{A} viruses identified in patients with acute viral
-  infection syndrome},
-\newblock {\em J. Virol.} {\bf 79}, 8230 (2005).
-
-\bibitem{pmid20668071}
-{\sc C.~P. Sharp}, {\sc M.~LeBreton}, {\sc K.~Kantola}, {\sc A.~Nana}, {\sc
-  J.~l. e.~D. Diffo}, {\sc C.~F. Djoko}, {\sc U.~Tamoufe}, {\sc J.~A. Kiyang},
-  {\sc T.~G. Babila}, {\sc E.~M. Ngole}, {\sc O.~G. Pybus}, {\sc E.~Delwart},
-  {\sc E.~Delaporte}, {\sc M.~Peeters}, {\sc M.~Soderlund-Venermo}, {\sc
-  K.~Hedman}, {\sc N.~D. Wolfe}, and {\sc P.~Simmonds},
-\newblock {{W}idespread infection with homologues of human parvoviruses {B}19,
-  {P}{A}{R}{V}4, and human bocavirus of chimpanzees and gorillas in the wild},
-\newblock {\em J. Virol.} {\bf 84}, 10289 (2010).
-
-\bibitem{pmid18632954}
-{\sc S.~K. Lau}, {\sc P.~C. Woo}, {\sc H.~Tse}, {\sc C.~T. Fu}, {\sc W.~K. Au},
-  {\sc X.~C. Chen}, {\sc H.~W. Tsoi}, {\sc T.~H. Tsang}, {\sc J.~S. Chan}, {\sc
-  D.~N. Tsang}, {\sc K.~S. Li}, {\sc C.~W. Tse}, {\sc T.~K. Ng}, {\sc O.~T.
-  Tsang}, {\sc B.~J. Zheng}, {\sc S.~Tam}, {\sc K.~H. Chan}, {\sc B.~Zhou}, and
-  {\sc K.~Y. Yuen},
-\newblock {{I}dentification of novel porcine and bovine parvoviruses closely
-  related to human parvovirus 4},
-\newblock {\em J. Gen. Virol.} {\bf 89}, 1840 (2008).
-
-\bibitem{pmid20653980}
-{\sc C.~Adlhoch}, {\sc M.~Kaiser}, {\sc H.~Ellerbrok}, and {\sc G.~Pauli},
+\bibitem[\protect\astroncite{Adlhoch et~al.}{2010}]{pmid20653980}
+Adlhoch, C., Kaiser, M., Ellerbrok, H., and Pauli, G. (2010).
 \newblock {{H}igh prevalence of porcine {H}okovirus in {G}erman wild boar
-  populations},
-\newblock {\em Virol. J.} {\bf 7}, 171 (2010).
+  populations}.
+\newblock {\em Virol. J.}, 7:171.
 
-\bibitem{pmid22247522}
-{\sc B.~Li}, {\sc J.~Ma}, {\sc S.~Xiao}, {\sc L.~Wen}, {\sc Y.~Ni}, {\sc
-  X.~Zhang}, {\sc L.~Fang}, and {\sc K.~He},
-\newblock {{G}enome sequence of a highly prevalent porcine partetravirus in
-  {M}ainland {C}hina},
-\newblock {\em J. Virol.} {\bf 86}, 1899 (2012).
+\bibitem[\protect\astroncite{Agbandje et~al.}{1993}]{pmid8392729}
+Agbandje, M., McKenna, R., Rossmann, M.~G., Strassheim, M.~L., and Parrish,
+  C.~R. (1993).
+\newblock {{S}tructure determination of feline panleukopenia virus empty
+  particles}.
+\newblock {\em Proteins}, 16(2):155--171.
 
-\bibitem{pmid21980506}
-{\sc H.~Tse}, {\sc H.~W. Tsoi}, {\sc J.~L. Teng}, {\sc X.~C. Chen}, {\sc
-  H.~Liu}, {\sc B.~Zhou}, {\sc B.~J. Zheng}, {\sc P.~C. Woo}, {\sc S.~K. Lau},
-  and {\sc K.~Y. Yuen},
-\newblock {{D}iscovery and genomic characterization of a novel ovine
-  partetravirus and a new genotype of bovine partetravirus},
-\newblock {\em PLoS ONE} {\bf 6}, e25619 (2011).
+\bibitem[\protect\astroncite{Agbandje et~al.}{1995}]{pmid25555192}
+Agbandje, M., Parrish, C., and Rossmann, M. (1995).
+\newblock {{T}he structure of parvoviruses}.
+\newblock {\em Seminars in Virology}, 6(5):299--309.
 
-\bibitem{pmid22044541}
-{\sc S.~Lou}, {\sc B.~Xu}, {\sc Q.~Huang}, {\sc N.~Zhi}, {\sc F.~Cheng}, {\sc
-  S.~Wong}, {\sc K.~Brown}, {\sc E.~Delwart}, {\sc Z.~Liu}, and {\sc J.~Qiu},
-\newblock {{M}olecular characterization of the newly identified human
-  parvovirus 4 in the family {P}arvoviridae},
-\newblock {\em Virology} {\bf 422}, 59 (2012).
+\bibitem[\protect\astroncite{Agbandje-McKenna and Chapman}{2006}]{tropism}
+Agbandje-McKenna, M. and Chapman, M.~S. (2006).
+\newblock {C}orrelating structure with function in the viral capsid.
+\newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
+  Parrish, C.~R., editors, {\em {{P}arvoviruses}}, pages 125--139. Hodder
+  Arnold, London, UK.
 
-\bibitem{pmid8106366}
-{\sc H.~K. Jindal}, {\sc C.~B. Yong}, {\sc G.~M. Wilson}, {\sc P.~Tam}, and
-  {\sc C.~R. Astell},
-\newblock {{M}utations in the {N}{T}{P}-binding motif of minute virus of mice
-  ({M}{V}{M}) {N}{S}-1 protein uncouple {A}{T}{P}ase and {D}{N}{A} helicase
-  functions},
-\newblock {\em J. Biol. Chem.} {\bf 269}, 3283 (1994).
+\bibitem[\protect\astroncite{Agbandje-McKenna et~al.}{1998}]{pmid9817841}
+Agbandje-McKenna, M., Llamas-Saiz, A.~L., Wang, F., Tattersall, P., and
+  Rossmann, M.~G. (1998).
+\newblock {{F}unctional implications of the structure of the murine parvovirus,
+  minute virus of mice}.
+\newblock {\em Structure}, 6(11):1369--1381.
 
-\bibitem{pmid9261429}
-{\sc S.~L. Walker}, {\sc R.~S. Wonderling}, and {\sc R.~A. Owens},
-\newblock {{M}utational analysis of the adeno-associated virus type 2 {R}ep68
-  protein helicase motifs},
-\newblock {\em J. Virol.} {\bf 71}, 6996 (1997).
+\bibitem[\protect\astroncite{Alexandersen et~al.}{1988}]{pmid2843669}
+Alexandersen, S., Bloom, M.~E., and Perryman, S. (1988).
+\newblock {{D}etailed transcription map of {A}leutian mink disease parvovirus}.
+\newblock {\em J. Virol.}, 62(10):3684--3694.
 
-\bibitem{pmid7966641}
-{\sc M.~Momoeda}, {\sc S.~Wong}, {\sc M.~Kawase}, {\sc N.~S. Young}, and {\sc
-  S.~Kajigaya},
-\newblock {{A} putative nucleoside triphosphate-binding domain in the
-  nonstructural protein of {B}19 parvovirus is required for cytotoxicity},
-\newblock {\em J. Virol.} {\bf 68}, 8443 (1994).
+\bibitem[\protect\astroncite{Allander et~al.}{2001}]{pmid11562506}
+Allander, T., Emerson, S.~U., Engle, R.~E., Purcell, R.~H., and Bukh, J.
+  (2001).
+\newblock {{A} virus discovery method incorporating {D}{N}ase treatment and its
+  application to the identification of two bovine parvovirus species}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 98(20):11609--11614.
 
-\bibitem{pmid22492853}
-{\sc R.~Simmons}, {\sc C.~Sharp}, {\sc C.~P. McClure}, {\sc J.~Rohrbach}, {\sc
-  H.~Kovari}, and {\sc et~al.},
-\newblock {{P}arvovirus 4 infection and clinical outcome in high-risk
-  populations},
-\newblock {\em J. Infect. Dis.} {\bf 205}, 1816 (2012).
+\bibitem[\protect\astroncite{Allander et~al.}{2005}]{pmid16118271}
+Allander, T., Tammi, M.~T., Eriksson, M., Bjerkner, A., Tiveljung-Lindell, A.,
+  and Andersson, B. (2005).
+\newblock {{C}loning of a human parvovirus by molecular screening of
+  respiratory tract samples}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 102(36):12891--12896.
 
-\bibitem{pmid22235298}
-{\sc X.~Yu}, {\sc J.~Zhang}, {\sc L.~Hong}, {\sc J.~Wang}, {\sc Z.~Yuan}, {\sc
-  X.~Zhang}, and {\sc R.~Ghildyal},
-\newblock {{H}igh prevalence of human parvovirus 4 infection in {H}{B}{V} and
-  {H}{C}{V} infected individuals in shanghai},
-\newblock {\em PLoS ONE} {\bf 7}, e29474 (2012).
+\bibitem[\protect\astroncite{Antonietti et~al.}{1988}]{pmid3257270}
+Antonietti, J.~P., Sahli, R., Beard, P., and Hirt, B. (1988).
+\newblock {{C}haracterization of the cell type-specific determinant in the
+  genome of minute virus of mice}.
+\newblock {\em J. Virol.}, 62(2).
 
-\bibitem{pmid17397006}
-{\sc A.~Manning}, {\sc S.~J. Willey}, {\sc J.~E. Bell}, and {\sc P.~Simmonds},
-\newblock {{C}omparison of tissue distribution, persistence, and molecular
-  epidemiology of parvovirus {B}19 and novel human parvoviruses {P}{A}{R}{V}4
-  and human bocavirus},
-\newblock {\em J. Infect. Dis.} {\bf 195}, 1345 (2007).
+\bibitem[\protect\astroncite{Astell et~al.}{1985}]{pmid3973977}
+Astell, C.~R., Chow, M.~B., and Ward, D.~C. (1985).
+\newblock {{S}equence analysis of the termini of virion and replicative forms
+  of minute virus of mice {D}{N}{A} suggests a modified rolling hairpin model
+  for autonomous parvovirus {D}{N}{A} replication}.
+\newblock {\em J. Virol.}, 54(1):171--177.
 
-\bibitem{pmid23283958}
-{\sc R.~Simmons}, {\sc C.~Sharp}, {\sc J.~Levine}, {\sc P.~Bowness}, {\sc
-  P.~Simmonds}, {\sc A.~Cox}, and {\sc P.~Klenerman},
-\newblock {{E}volution of {C}{D}8+ {T} cell responses after acute {P}{A}{R}{V}4
-  infection},
-\newblock {\em J. Virol.} {\bf 87}, 3087 (2013).
+\bibitem[\protect\astroncite{Astell et~al.}{1979}]{pmid225040}
+Astell, C.~R., Smith, M., Chow, M.~B., and Ward, D.~C. (1979).
+\newblock {{S}tructure of the 3' hairpin termini of four rodent parvovirus
+  genomes: nucleotide sequence homology at origins of {D}{N}{A} replication}.
+\newblock {\em Cell}, 17(3):691--703.
 
-\bibitem{pmid22043925}
-{\sc C.~P. Sharp}, {\sc A.~Lail}, {\sc S.~Donfield}, {\sc E.~D. Gomperts}, and
-  {\sc P.~Simmonds},
-\newblock {{V}irologic and clinical features of primary infection with human
-  parvovirus 4 in subjects with hemophilia: frequent transmission by virally
-  inactivated clotting factor concentrates},
-\newblock {\em Transfusion} {\bf 52}, 1482 (2012).
+\bibitem[\protect\astroncite{Astell et~al.}{1983a}]{pmid6602687}
+Astell, C.~R., Thomson, M., Chow, M.~B., and Ward, D.~C. (1983a).
+\newblock {{S}tructure and replication of minute virus of mice {D}{N}{A}}.
+\newblock {\em Cold Spring Harb. Symp. Quant. Biol.}, 47 Pt 2:751--762.
 
-\bibitem{pmid22469425}
-{\sc M.~Lavoie}, {\sc C.~P. Sharp}, {\sc J.~Pepin}, {\sc C.~Pennington}, {\sc
-  Y.~Foupouapouognigni}, {\sc O.~G. Pybus}, {\sc R.~Njouom}, and {\sc
-  P.~Simmonds},
-\newblock {{H}uman parvovirus 4 infection, {C}ameroon},
-\newblock {\em Emerging Infect. Dis.} {\bf 18}, 680 (2012).
+\bibitem[\protect\astroncite{Astell et~al.}{1983b}]{pmid6298737}
+Astell, C.~R., Thomson, M., Merchlinsky, M., and Ward, D.~C. (1983b).
+\newblock {{T}he complete {D}{N}{A} sequence of minute virus of mice, an
+  autonomous parvovirus}.
+\newblock {\em Nucleic Acids Res.}, 11(4):999--1018.
 
-\bibitem{pmid20587191}
-{\sc M.~Panning}, {\sc R.~Kobbe}, {\sc S.~Vollbach}, {\sc J.~F. Drexler}, {\sc
-  S.~Adjei}, {\sc O.~Adjei}, {\sc C.~Drosten}, {\sc J.~May}, and {\sc A.~M.
-  Eis-Hubinger},
-\newblock {{N}ovel human parvovirus 4 genotype 3 in infants, {G}hana},
-\newblock {\em Emerging Infect. Dis.} {\bf 16}, 1143 (2010).
+\bibitem[\protect\astroncite{Atchison}{1970}]{pmid4318977}
+Atchison, R.~W. (1970).
+\newblock {{T}he role of herpesviruses in adenovirus-associated virus
+  replication in vitro}.
+\newblock {\em Virology}, 42(1):155--162.
 
-\bibitem{pmid1871965}
-{\sc L.~J. Ball-Goodrich}, {\sc R.~D. Moir}, and {\sc P.~Tattersall},
+\bibitem[\protect\astroncite{Ball-Goodrich et~al.}{1991}]{pmid1871965}
+Ball-Goodrich, L.~J., Moir, R.~D., and Tattersall, P. (1991).
 \newblock {{P}arvoviral target cell specificity: acquisition of fibrotropism by
   a mutant of the lymphotropic strain of minute virus of mice involves multiple
-  amino acid substitutions within the capsid},
-\newblock {\em Virology} {\bf 184}, 175 (1991).
+  amino acid substitutions within the capsid}.
+\newblock {\em Virology}, 184(1):175--186.
 
-\bibitem{pmid6602221}
-{\sc B.~A. Spalholz} and {\sc P.~Tattersall},
-\newblock {{I}nteraction of minute virus of mice with differentiated cells:
-  strain-dependent target cell specificity is mediated by intracellular
-  factors},
-\newblock {\em J. Virol.} {\bf 46}, 937 (1983).
-
-\bibitem{pmid6602222}
-{\sc P.~Tattersall} and {\sc J.~Bratton},
-\newblock {{R}eciprocal productive and restrictive virus-cell interactions of
-  immunosuppressive and prototype strains of minute virus of mice},
-\newblock {\em J. Virol.} {\bf 46}, 944 (1983).
-
-\bibitem{pmid3257270}
-{\sc J.~P. Antonietti}, {\sc R.~Sahli}, {\sc P.~Beard}, and {\sc B.~Hirt},
-\newblock {{C}haracterization of the cell type-specific determinant in the
-  genome of minute virus of mice},
-\newblock {\em J. Virol.} {\bf 62} (1988).
-
-\bibitem{pmid9519837}
-{\sc M.~C. Colomar}, {\sc B.~Hirt}, and {\sc P.~Beard},
-\newblock {{T}wo segments in the genome of the immunosuppressive minute virus
-  of mice determine the host-cell specificity, control viral {D}{N}{A}
-  replication and affect viral {R}{N}{A} metabolism},
-\newblock {\em J. Gen. Virol.} {\bf 79 ( Pt 3)}, 581 (1998).
-
-\bibitem{pmid7637028}
-{\sc I.~H. Maxwell}, {\sc A.~L. Spitzer}, {\sc F.~Maxwell}, and {\sc D.~J.
-  Pintel},
-\newblock {{T}he capsid determinant of fibrotropism for the {M}{V}{M}p strain
-  of minute virus of mice functions via {V}{P}2 and not {V}{P}1},
-\newblock {\em J. Virol.} {\bf 69}, 5829 (1995).
-
-\bibitem{pmid1316457}
-{\sc L.~J. Ball-Goodrich} and {\sc P.~Tattersall},
+\bibitem[\protect\astroncite{Ball-Goodrich and Tattersall}{1992}]{pmid1316457}
+Ball-Goodrich, L.~J. and Tattersall, P. (1992).
 \newblock {{T}wo amino acid substitutions within the capsid are coordinately
   required for acquisition of fibrotropism by the lymphotropic strain of minute
-  virus of mice},
-\newblock {\em J. Virol.} {\bf 66}, 3415 (1992).
+  virus of mice}.
+\newblock {\em J. Virol.}, 66(6):3415--3423.
 
-\bibitem{pmid3357208}
-{\sc E.~M. Gardiner} and {\sc P.~Tattersall},
-\newblock {{E}vidence that developmentally regulated control of gene expression
-  by a parvoviral allotropic determinant is particle mediated},
-\newblock {\em J. Virol.} {\bf 62}, 1713 (1988).
+\bibitem[\protect\astroncite{Barnes et~al.}{2000}]{pmid10935280}
+Barnes, H.~J., Guy, J.~S., and Vaillancourt, J.~P. (2000).
+\newblock {{P}oult enteritis complex}.
+\newblock {\em Rev. - Off. Int. Epizoot.}, 19(2):565--588.
 
-\bibitem{pmid3392768}
-{\sc E.~M. Gardiner} and {\sc P.~Tattersall},
-\newblock {{M}apping of the fibrotropic and lymphotropic host range
-  determinants of the parvovirus minute virus of mice},
-\newblock {\em J. Virol.} {\bf 62}, 2605 (1988).
+\bibitem[\protect\astroncite{Bastien et~al.}{2007}]{pmid17122013}
+Bastien, N., Chui, N., Robinson, J.~L., Lee, B.~E., Dust, K., Hart, L., and Li,
+  Y. (2007).
+\newblock {{D}etection of human bocavirus in {C}anadian children in a 1-year
+  study}.
+\newblock {\em J. Clin. Microbiol.}, 45(2):610--613.
 
-\bibitem{pmid14581558}
-{\sc L.~Govindasamy}, {\sc K.~Hueffer}, {\sc C.~R. Parrish}, and {\sc
-  M.~Agbandje-McKenna},
-\newblock {{S}tructures of host range-controlling regions of the capsids of
-  canine and feline parvoviruses and mutants},
-\newblock {\em J. Virol.} {\bf 77}, 12211 (2003).
+\bibitem[\protect\astroncite{Bates et~al.}{1984}]{pmid6694260}
+Bates, R.~C., Snyder, C.~E., Banerjee, P.~T., and Mitra, S. (1984).
+\newblock {{A}utonomous parvovirus {L}u{I}{I}{I} encapsidates equal amounts of
+  plus and minus {D}{N}{A} strands}.
+\newblock {\em J. Virol.}, 49(2):319--324.
 
-\bibitem{pmid12941920}
-{\sc K.~Hueffer}, {\sc L.~Govindasamy}, {\sc M.~Agbandje-McKenna}, and {\sc
-  C.~R. Parrish},
-\newblock {{C}ombinations of two capsid regions controlling canine host range
-  determine canine transferrin receptor binding by canine and feline
-  parvoviruses},
-\newblock {\em J. Virol.} {\bf 77}, 10099 (2003).
+\bibitem[\protect\astroncite{Belyi et~al.}{2010}]{pmid20861255}
+Belyi, V.~A., Levine, A.~J., and Skalka, A.~M. (2010).
+\newblock {{S}equences from ancestral single-stranded {D}{N}{A} viruses in
+  vertebrate genomes: the parvoviridae and circoviridae are more than 40 to 50
+  million years old}.
+\newblock {\em J. Virol.}, 84(23):12458--12462.
 
-\bibitem{pmid1532105}
-{\sc J.~Vasudevacharya} and {\sc R.~W. Compans},
-\newblock {{T}he {N}{S} and capsid genes determine the host range of porcine
-  parvovirus},
-\newblock {\em Virology} {\bf 187}, 515 (1992).
-
-\bibitem{pmid9817841}
-{\sc M.~Agbandje-McKenna}, {\sc A.~L. Llamas-Saiz}, {\sc F.~Wang}, {\sc
-  P.~Tattersall}, and {\sc M.~G. Rossmann},
-\newblock {{F}unctional implications of the structure of the murine parvovirus,
-  minute virus of mice},
-\newblock {\em Structure} {\bf 6}, 1369 (1998).
-
-\bibitem{pmid3712557}
-{\sc P.~B. Kimsey}, {\sc H.~D. Engers}, {\sc B.~Hirt}, and {\sc C.~V.
-  Jongeneel},
-\newblock {{P}athogenicity of fibroblast- and lymphocyte-specific variants of
-  minute virus of mice},
-\newblock {\em J. Virol.} {\bf 59}, 8 (1986).
-
-\bibitem{pmid1373202}
-{\sc D.~G. Brownstein}, {\sc A.~L. Smith}, {\sc E.~A. Johnson}, {\sc D.~J.
-  Pintel}, {\sc L.~K. Naeger}, and {\sc P.~Tattersall},
-\newblock {{T}he pathogenesis of infection with minute virus of mice depends on
-  expression of the small nonstructural protein {N}{S}2 and on the genotype of
-  the allotropic determinants {V}{P}1 and {V}{P}2},
-\newblock {\em J. Virol.} {\bf 66}, 3118 (1992).
-
-\bibitem{pmid1653878}
-{\sc D.~G. Brownstein}, {\sc A.~L. Smith}, {\sc R.~O. Jacoby}, {\sc E.~A.
-  Johnson}, {\sc G.~Hansen}, and {\sc P.~Tattersall},
-\newblock {{P}athogenesis of infection with a virulent allotropic variant of
-  minute virus of mice and regulation by host genotype},
-\newblock {\em Lab. Invest.} {\bf 65}, 357 (1991).
-
-\bibitem{pmid7707557}
-{\sc J.~C. Segovia}, {\sc J.~A. Bueren}, and {\sc J.~M. Almendral},
-\newblock {{M}yeloid depression follows infection of susceptible newborn mice
-  with the parvovirus minute virus of mice (strain i)},
-\newblock {\em J. Virol.} {\bf 69}, 3229 (1995).
-
-\bibitem{pmid8892936}
-{\sc J.~C. Ramirez}, {\sc A.~Fairen}, and {\sc J.~M. Almendral},
-\newblock {{P}arvovirus minute virus of mice strain i multiplication and
-  pathogenesis in the newborn mouse brain are restricted to proliferative areas
-  and to migratory cerebellar young neurons},
-\newblock {\em J. Virol.} {\bf 70}, 8109 (1996).
-
-\bibitem{pmid15308740}
-{\sc R.~Itah}, {\sc J.~Tal}, and {\sc C.~Davis},
-\newblock {{H}ost cell specificity of minute virus of mice in the developing
-  mouse embryo},
-\newblock {\em J. Virol.} {\bf 78}, 9474 (2004).
-
-\bibitem{pmid6823332}
-{\sc G.~C. Bosma}, {\sc R.~P. Custer}, and {\sc M.~J. Bosma},
-\newblock {{A} severe combined immunodeficiency mutation in the mouse},
-\newblock {\em Nature} {\bf 301}, 527 (1983).
-
-\bibitem{pmid12857918}
-{\sc J.~C. Segovia}, {\sc G.~Guenechea}, {\sc J.~M. Gallego}, {\sc J.~M.
-  Almendral}, and {\sc J.~A. Bueren},
-\newblock {{P}arvovirus infection suppresses long-term repopulating
-  hematopoietic stem cells},
-\newblock {\em J. Virol.} {\bf 77}, 8495 (2003).
-
-\bibitem{pmid9971754}
-{\sc J.~C. Segovia}, {\sc J.~M. Gallego}, {\sc J.~A. Bueren}, and {\sc J.~M.
-  Almendral},
-\newblock {{S}evere leukopenia and dysregulated erythropoiesis in {S}{C}{I}{D}
-  mice persistently infected with the parvovirus minute virus of mice},
-\newblock {\em J. Virol.} {\bf 73}, 1774 (1999).
-
-\bibitem{pmid16415031}
-{\sc A.~Lopez-Bueno}, {\sc M.~P. Rubio}, {\sc N.~Bryant}, {\sc R.~McKenna},
-  {\sc M.~Agbandje-McKenna}, and {\sc J.~M. Almendral},
-\newblock {{H}ost-selected amino acid changes at the sialic acid binding pocket
-  of the parvovirus capsid modulate cell binding affinity and determine
-  virulence},
-\newblock {\em J. Virol.} {\bf 80}, 1563 (2006).
-
-\bibitem{pmid16103180}
-{\sc M.~P. Rubio}, {\sc A.~Lopez-Bueno}, and {\sc J.~M. Almendral},
-\newblock {{V}irulent variants emerging in mice infected with the apathogenic
-  prototype strain of the parvovirus minute virus of mice exhibit a capsid with
-  low avidity for a primary receptor},
-\newblock {\em J. Virol.} {\bf 79}, 11280 (2005).
-
-\bibitem{pmid18045943}
-{\sc A.~Lopez-Bueno}, {\sc J.~C. Segovia}, {\sc J.~A. Bueren}, {\sc M.~G.
-  O'Sullivan}, {\sc F.~Wang}, {\sc P.~Tattersall}, and {\sc J.~M. Almendral},
-\newblock {{E}volution to pathogenicity of the parvovirus minute virus of mice
-  in immunodeficient mice involves genetic heterogeneity at the capsid domain
-  that determines tropism},
-\newblock {\em J. Virol.} {\bf 82}, 1195 (2008).
-
-\bibitem{pmid8396664}
-{\sc M.~E. Bloom}, {\sc B.~D. Berry}, {\sc W.~Wei}, {\sc S.~Perryman}, and {\sc
-  J.~B. Wolfinbarger},
-\newblock {{C}haracterization of chimeric full-length molecular clones of
-  {A}leutian mink disease parvovirus ({A}{D}{V}): identification of a
-  determinant governing replication of {A}{D}{V} in cell culture},
-\newblock {\em J. Virol.} {\bf 67}, 5976 (1993).
-
-\bibitem{pmid8642680}
-{\sc J.~Bergeron}, {\sc B.~Hebert}, and {\sc P.~Tijssen},
+\bibitem[\protect\astroncite{Bergeron et~al.}{1996}]{pmid8642680}
+Bergeron, J., Hebert, B., and Tijssen, P. (1996).
 \newblock {{G}enome organization of the {K}resse strain of porcine parvovirus:
   identification of the allotropic determinant and comparison with those of
-  {N}{A}{D}{L}-2 and field isolates},
-\newblock {\em J. Virol.} {\bf 70}, 2508 (1996).
+  {N}{A}{D}{L}-2 and field isolates}.
+\newblock {\em J. Virol.}, 70(4):2508--2515.
 
-\bibitem{pmid3176341}
-{\sc C.~R. Parrish}, {\sc C.~F. Aquadro}, and {\sc L.~E. Carmichael},
-\newblock {{C}anine host range and a specific epitope map along with variant
-  sequences in the capsid protein gene of canine parvovirus and related feline,
-  mink, and raccoon parvoviruses},
-\newblock {\em Virology} {\bf 166}, 293 (1988).
+\bibitem[\protect\astroncite{Berns and Adler}{1972}]{pmid5014934}
+Berns, K.~I. and Adler, S. (1972).
+\newblock {{S}eparation of two types of adeno-associated virus particles
+  containing complementary polynucleotide chains}.
+\newblock {\em J. Virol.}, 9(2):394--396.
 
-\bibitem{pmid1331498}
-{\sc S.~F. Chang}, {\sc J.~Y. Sgro}, and {\sc C.~R. Parrish},
+\bibitem[\protect\astroncite{Berns and Rose}{1970}]{pmid5429749}
+Berns, K.~I. and Rose, J.~A. (1970).
+\newblock {{E}vidence for a single-stranded adenovirus-associated virus genome:
+  isolation and separation of complementary single strands}.
+\newblock {\em J. Virol.}, 5(6):693--699.
+
+\bibitem[\protect\astroncite{Blomstrom et~al.}{2012}]{pmid22967311}
+Blomstrom, A.~L., Stahl, K., Masembe, C., Okoth, E., Okurut, A.~R., Atmnedi,
+  P., Kemp, S., Bishop, R., Belak, S., and Berg, M. (2012).
+\newblock {{V}iral metagenomic analysis of bushpigs ({P}otamochoerus larvatus)
+  in {U}ganda identifies novel variants of {P}orcine parvovirus 4 and {T}orque
+  teno sus virus 1 and 2}.
+\newblock {\em Virol. J.}, 9:192.
+
+\bibitem[\protect\astroncite{Bloom et~al.}{1993}]{pmid8396664}
+Bloom, M.~E., Berry, B.~D., Wei, W., Perryman, S., and Wolfinbarger, J.~B.
+  (1993).
+\newblock {{C}haracterization of chimeric full-length molecular clones of
+  {A}leutian mink disease parvovirus ({A}{D}{V}): identification of a
+  determinant governing replication of {A}{D}{V} in cell culture}.
+\newblock {\em J. Virol.}, 67(10):5976--5988.
+
+\bibitem[\protect\astroncite{Bloom et~al.}{1980}]{pmid6252342}
+Bloom, M.~E., Race, R.~E., and Wolfinbarger, J.~B. (1980).
+\newblock {{C}haracterization of {A}leutian disease virus as a parvovirus}.
+\newblock {\em J. Virol.}, 35(3):836--843.
+
+\bibitem[\protect\astroncite{Blumel et~al.}{2002}]{pmid12385412}
+Blumel, J., Schmidt, I., Willkommen, H., and Lower, J. (2002).
+\newblock {{I}nactivation of parvovirus {B}19 during pasteurization of human
+  serum albumin}.
+\newblock {\em Transfusion}, 42(8):1011--1018.
+
+\bibitem[\protect\astroncite{Bonnard et~al.}{1976}]{pmid1244418}
+Bonnard, G.~D., Manders, E.~K., Campbell, D.~A., Herberman, R.~B., and Collins,
+  M.~J. (1976).
+\newblock {{I}mmunosuppressive activity of a subline of the mouse {E}{L}-4
+  lymphoma. {E}vidence for minute virus of mice causing the inhibition}.
+\newblock {\em J. Exp. Med.}, 143(1):187--205.
+
+\bibitem[\protect\astroncite{Boschetti et~al.}{2003}]{pmid12935806}
+Boschetti, N., Wyss, K., Mischler, A., Hostettler, T., and Kempf, C. (2003).
+\newblock {{S}tability of minute virus of mice against temperature and sodium
+  hydroxide}.
+\newblock {\em Biologicals}, 31(3):181--185.
+
+\bibitem[\protect\astroncite{Bosma et~al.}{1983}]{pmid6823332}
+Bosma, G.~C., Custer, R.~P., and Bosma, M.~J. (1983).
+\newblock {{A} severe combined immunodeficiency mutation in the mouse}.
+\newblock {\em Nature}, 301(5900):527--530.
+
+\bibitem[\protect\astroncite{Brailovsky}{1966}]{pmid5902774}
+Brailovsky, C. (1966).
+\newblock {[{R}esearch on the rat {K} virus ({P}arvovirus ratti). {I}. {A}
+  method of titration by plaques and its application to the study of the
+  multiplication cycle of the virus]}.
+\newblock {\em Ann Inst Pasteur (Paris)}, 110(1):49--59.
+
+\bibitem[\protect\astroncite{Brauniger et~al.}{1994}]{pmid7848502}
+Brauniger, S., Fischer, I., and Peters, J. (1994).
+\newblock {[{T}he temperature stability of bovine parvovirus]}.
+\newblock {\em Zentralbl Hyg Umweltmed}, 196(3):270--278.
+
+\bibitem[\protect\astroncite{Brownstein et~al.}{1991}]{pmid1653878}
+Brownstein, D.~G., Smith, A.~L., Jacoby, R.~O., Johnson, E.~A., Hansen, G., and
+  Tattersall, P. (1991).
+\newblock {{P}athogenesis of infection with a virulent allotropic variant of
+  minute virus of mice and regulation by host genotype}.
+\newblock {\em Lab. Invest.}, 65(3):357--364.
+
+\bibitem[\protect\astroncite{Brownstein et~al.}{1992}]{pmid1373202}
+Brownstein, D.~G., Smith, A.~L., Johnson, E.~A., Pintel, D.~J., Naeger, L.~K.,
+  and Tattersall, P. (1992).
+\newblock {{T}he pathogenesis of infection with minute virus of mice depends on
+  expression of the small nonstructural protein {N}{S}2 and on the genotype of
+  the allotropic determinants {V}{P}1 and {V}{P}2}.
+\newblock {\em J. Virol.}, 66(5):3118--3124.
+
+\bibitem[\protect\astroncite{Bruemmer et~al.}{2005}]{pmid15769470}
+Bruemmer, A., Scholari, F., Lopez-Ferber, M., Conway, J.~F., and Hewat, E.~A.
+  (2005).
+\newblock {{S}tructure of an insect parvovirus ({J}unonia coenia {D}ensovirus)
+  determined by cryo-electron microscopy}.
+\newblock {\em J. Mol. Biol.}, 347(4):791--801.
+
+\bibitem[\protect\astroncite{Buller et~al.}{1981}]{pmid6270377}
+Buller, R.~M., Janik, J.~E., Sebring, E.~D., and Rose, J.~A. (1981).
+\newblock {{H}erpes simplex virus types 1 and 2 completely help
+  adenovirus-associated virus replication}.
+\newblock {\em J. Virol.}, 40(1):241--247.
+
+\bibitem[\protect\astroncite{Burnett et~al.}{2006}]{pmid16928767}
+Burnett, E., Cotmore, S.~F., and Tattersall, P. (2006).
+\newblock {{S}egregation of a single outboard left-end origin is essential for
+  the viability of parvovirus minute virus of mice}.
+\newblock {\em J. Virol.}, 80(21):10879--10883.
+
+\bibitem[\protect\astroncite{Burnett and Tattersall}{2003}]{pmid12885883}
+Burnett, E. and Tattersall, P. (2003).
+\newblock {{R}everse genetic system for the analysis of parvovirus telomeres
+  reveals interactions between transcription factor binding sites in the
+  hairpin stem}.
+\newblock {\em J. Virol.}, 77(16):8650--8660.
+
+\bibitem[\protect\astroncite{Chang et~al.}{1992}]{pmid1331498}
+Chang, S.~F., Sgro, J.~Y., and Parrish, C.~R. (1992).
 \newblock {{M}ultiple amino acids in the capsid structure of canine parvovirus
   coordinately determine the canine host range and specific antigenic and
-  hemagglutination properties},
-\newblock {\em J. Virol.} {\bf 66}, 6858 (1992).
+  hemagglutination properties}.
+\newblock {\em J. Virol.}, 66(12):6858--6867.
 
-\bibitem{pmid7513918}
-{\sc U.~Truyen}, {\sc M.~Agbandje}, and {\sc C.~R. Parrish},
-\newblock {{C}haracterization of the feline host range and a specific epitope
-  of feline panleukopenia virus},
-\newblock {\em Virology} {\bf 200}, 494 (1994).
+\bibitem[\protect\astroncite{Chapman and Rossmann}{1993}]{pmid8503170}
+Chapman, M.~S. and Rossmann, M.~G. (1993).
+\newblock {{S}tructure, sequence, and function correlations among
+  parvoviruses}.
+\newblock {\em Virology}, 194(2):491--508.
 
-\bibitem{tropism}
-{\sc M.~Agbandje-McKenna} and {\sc M.~S. Chapman},
-\newblock {C}orrelating structure with function in the viral capsid,
-\newblock in {\em {{P}arvoviruses}}, edited by {\sc J.~R. Kerr}, {\sc M.~E.
-  Bloom}, {\sc S.~Cotmore}, {\sc R.~M. Linden}, and {\sc C.~R. Parrish}, pp.
-  125--139, Hodder Arnold, London, UK, 2006.
+\bibitem[\protect\astroncite{Chapman and Rossmann}{1995}]{pmid7735832}
+Chapman, M.~S. and Rossmann, M.~G. (1995).
+\newblock {{S}ingle-stranded {D}{N}{A}-protein interactions in canine
+  parvovirus}.
+\newblock {\em Structure}, 3(2):151--162.
 
-\bibitem{pmid12941411}
-{\sc K.~Hueffer} and {\sc C.~R. Parrish},
-\newblock {{P}arvovirus host range, cell tropism and evolution},
-\newblock {\em Curr. Opin. Microbiol.} {\bf 6}, 392 (2003).
+\bibitem[\protect\astroncite{Chen et~al.}{1986}]{pmid3783814}
+Chen, K.~C., Shull, B.~C., Moses, E.~A., Lederman, M., Stout, E.~R., and Bates,
+  R.~C. (1986).
+\newblock {{C}omplete nucleotide sequence and genome organization of bovine
+  parvovirus}.
+\newblock {\em J. Virol.}, 60(3):1085--1097.
 
-\bibitem{pmid9311862}
-{\sc N.~Previsani}, {\sc S.~Fontana}, {\sc B.~Hirt}, and {\sc P.~Beard},
-\newblock {{G}rowth of the parvovirus minute virus of mice {M}{V}{M}p3 in
-  {E}{L}4 lymphocytes is restricted after cell entry and before viral {D}{N}{A}
-  amplification: cell-specific differences in virus uncoating in vitro},
-\newblock {\em J. Virol.} {\bf 71}, 7769 (1997).
+\bibitem[\protect\astroncite{Cheng et~al.}{2010}]{pmid21049037}
+Cheng, W.~X., Li, J.~S., Huang, C.~P., Yao, D.~P., Liu, N., Cui, S.~X., Jin,
+  Y., and Duan, Z.~J. (2010).
+\newblock {{I}dentification and nearly full-length genome characterization of
+  novel porcine bocaviruses}.
+\newblock {\em PLoS ONE}, 5(10):e13583.
 
-\bibitem{pmid1322591}
-{\sc M.~Horiuchi}, {\sc N.~Ishiguro}, {\sc H.~Goto}, and {\sc M.~Shinagawa},
+\bibitem[\protect\astroncite{Cheung et~al.}{2010}]{pmid20339886}
+Cheung, A.~K., Wu, G., Wang, D., Bayles, D.~O., Lager, K.~M., and Vincent,
+  A.~L. (2010).
+\newblock {{I}dentification and molecular cloning of a novel porcine
+  parvovirus}.
+\newblock {\em Arch. Virol.}, 155(5):801--806.
+
+\bibitem[\protect\astroncite{Christensen et~al.}{1997a}]{pmid8995666}
+Christensen, J., Cotmore, S.~F., and Tattersall, P. (1997a).
+\newblock {{A} novel cellular site-specific {D}{N}{A}-binding protein
+  cooperates with the viral {N}{S}1 polypeptide to initiate parvovirus
+  {D}{N}{A} replication}.
+\newblock {\em J. Virol.}, 71(2):1405--1416.
+
+\bibitem[\protect\astroncite{Christensen et~al.}{1997b}]{pmid9223459}
+Christensen, J., Cotmore, S.~F., and Tattersall, P. (1997b).
+\newblock {{P}arvovirus initiation factor {P}{I}{F}: a novel human
+  {D}{N}{A}-binding factor which coordinately recognizes two {A}{C}{G}{T}
+  motifs}.
+\newblock {\em J. Virol.}, 71(8):5733--5741.
+
+\bibitem[\protect\astroncite{Christensen et~al.}{1999}]{pmid10523663}
+Christensen, J., Cotmore, S.~F., and Tattersall, P. (1999).
+\newblock {{T}wo new members of the emerging {K}{D}{W}{K} family of
+  combinatorial transcription modulators bind as a heterodimer to flexibly
+  spaced {P}u{C}{G}{P}y half-sites}.
+\newblock {\em Mol. Cell. Biol.}, 19(11):7741--7750.
+
+\bibitem[\protect\astroncite{Colomar et~al.}{1998}]{pmid9519837}
+Colomar, M.~C., Hirt, B., and Beard, P. (1998).
+\newblock {{T}wo segments in the genome of the immunosuppressive minute virus
+  of mice determine the host-cell specificity, control viral {D}{N}{A}
+  replication and affect viral {R}{N}{A} metabolism}.
+\newblock {\em J. Gen. Virol.}, 79 ( Pt 3):581--586.
+
+\bibitem[\protect\astroncite{Cossons et~al.}{1996}]{pmid8614999}
+Cossons, N., Faust, E.~A., and Zannis-Hadjopoulos, M. (1996).
+\newblock {{D}{N}{A} polymerase delta-dependent formation of a hairpin
+  structure at the 5' terminal palindrome of the minute virus of mice genome}.
+\newblock {\em Virology}, 216(1):258--264.
+
+\bibitem[\protect\astroncite{Cotmore et~al.}{2014}]{pmid24212889}
+Cotmore, S.~F., Agbandje-McKenna, M., Chiorini, J.~A., Mukha, D.~V., Pintel,
+  D.~J., Qiu, J., Soderlund-Venermo, M., Tattersall, P., Tijssen, P., Gatherer,
+  D., and Davison, A.~J. (2014).
+\newblock {{T}he family {P}arvoviridae}.
+\newblock {\em Arch. Virol.}, 159(5):1239--1247.
+
+\bibitem[\protect\astroncite{Cotmore et~al.}{1995}]{pmid7853501}
+Cotmore, S.~F., Christensen, J., Nuesch, J.~P., and Tattersall, P. (1995).
+\newblock {{T}he {N}{S}1 polypeptide of the murine parvovirus minute virus of
+  mice binds to {D}{N}{A} sequences containing the motif [{A}{C}{C}{A}]2-3}.
+\newblock {\em J. Virol.}, 69(3):1652--1660.
+
+\bibitem[\protect\astroncite{Cotmore et~al.}{2000}]{pmid10627544}
+Cotmore, S.~F., Christensen, J., and Tattersall, P. (2000).
+\newblock {{T}wo widely spaced initiator binding sites create an
+  {H}{M}{G}1-dependent parvovirus rolling-hairpin replication origin}.
+\newblock {\em J. Virol.}, 74(3):1332--1341.
+
+\bibitem[\protect\astroncite{Cotmore et~al.}{1992}]{pmid1388310}
+Cotmore, S.~F., Nuesch, J.~P., and Tattersall, P. (1992).
+\newblock {{I}n vitro excision and replication of 5' telomeres of minute virus
+  of mice {D}{N}{A} from cloned palindromic concatemer junctions}.
+\newblock {\em Virology}, 190(1):365--377.
+
+\bibitem[\protect\astroncite{Cotmore and Tattersall}{1986}]{pmid2939261}
+Cotmore, S.~F. and Tattersall, P. (1986).
+\newblock {{O}rganization of nonstructural genes of the autonomous parvovirus
+  minute virus of mice}.
+\newblock {\em J. Virol.}, 58(3):724--732.
+
+\bibitem[\protect\astroncite{Cotmore and Tattersall}{1987}]{pmid3296697}
+Cotmore, S.~F. and Tattersall, P. (1987).
+\newblock {{T}he autonomously replicating parvoviruses of vertebrates}.
+\newblock {\em Adv. Virus Res.}, 33:91--174.
+
+\bibitem[\protect\astroncite{Cotmore and Tattersall}{1994}]{pmid8076610}
+Cotmore, S.~F. and Tattersall, P. (1994).
+\newblock {{A}n asymmetric nucleotide in the parvoviral 3' hairpin directs
+  segregation of a single active origin of {D}{N}{A} replication}.
+\newblock {\em EMBO J.}, 13(17):4145--4152.
+
+\bibitem[\protect\astroncite{Cotmore and Tattersall}{1995}]{replication}
+Cotmore, S.~F. and Tattersall, P. (1995).
+\newblock {{D}{N}{A} replication in the autonomous parvoviruses}.
+\newblock {\em Semin. Virol.}, 6:271--281.
+
+\bibitem[\protect\astroncite{Cotmore and Tattersall}{1996}]{telomere2}
+Cotmore, S.~F. and Tattersall, P. (1996).
+\newblock {P}arvovirus {D}{N}{A} replication.
+\newblock In DePamphilis, M., editor, {\em {{D}{N}{A} replication in eukaryotic
+  cells}}, pages 799--813. Cold Spring Harbor Laboratory Press, Cold Spring
+  Harbor, NY.
+
+\bibitem[\protect\astroncite{Cotmore and Tattersall}{1998}]{pmid9765384}
+Cotmore, S.~F. and Tattersall, P. (1998).
+\newblock {{H}igh-mobility group 1/2 proteins are essential for initiating
+  rolling-circle-type {D}{N}{A} replication at a parvovirus hairpin origin}.
+\newblock {\em J. Virol.}, 72(11):8477--8484.
+
+\bibitem[\protect\astroncite{Cotmore and Tattersall}{2005}]{pmid15681430}
+Cotmore, S.~F. and Tattersall, P. (2005).
+\newblock {{G}enome packaging sense is controlled by the efficiency of the nick
+  site in the right-end replication origin of parvoviruses minute virus of mice
+  and {L}u{I}{I}{I}}.
+\newblock {\em J. Virol.}, 79(4):2287--2300.
+
+\bibitem[\protect\astroncite{Cotmore and Tattersall}{2006}]{telomere}
+Cotmore, S.~F. and Tattersall, P. (2006).
+\newblock {S}tructure and organization of the viral genome.
+\newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
+  Parrish, C.~R., editors, {\em {{P}arvoviruses}}, pages 73--90. Hodder Arnold,
+  London, UK.
+
+\bibitem[\protect\astroncite{Crawford}{1966}]{pmid5945715}
+Crawford, L.~V. (1966).
+\newblock {{A} minute virus of mice}.
+\newblock {\em Virology}, 29(4):605--612.
+
+\bibitem[\protect\astroncite{Crawford et~al.}{1969}]{pmid4975639}
+Crawford, L.~V., Follett, E.~A., Burdon, M.~G., and McGeoch, D.~J. (1969).
+\newblock {{T}he {D}{N}{A} of a minute virus of mice}.
+\newblock {\em J. Gen. Virol.}, 4(1):37--46.
+
+\bibitem[\protect\astroncite{Day and Zsak}{2010}]{pmid20097398}
+Day, J.~M. and Zsak, L. (2010).
+\newblock {{D}etermination and analysis of the full-length chicken parvovirus
+  genome}.
+\newblock {\em Virology}, 399(1):59--64.
+
+\bibitem[\protect\astroncite{Daya and Berns}{2008}]{pmid18854481}
+Daya, S. and Berns, K.~I. (2008).
+\newblock {{G}ene therapy using adeno-associated virus vectors}.
+\newblock {\em Clin. Microbiol. Rev.}, 21(4):583--593.
+
+\bibitem[\protect\astroncite{Deiss et~al.}{1990}]{pmid2408228}
+Deiss, V., Tratschin, J.~D., Weitz, M., and Siegl, G. (1990).
+\newblock {{C}loning of the human parvovirus {B}19 genome and structural
+  analysis of its palindromic termini}.
+\newblock {\em Virology}, 175(1):247--254.
+
+\bibitem[\protect\astroncite{Deleu et~al.}{1998}]{pmid9418888}
+Deleu, L., Fuks, F., Spitkovsky, D., Horlein, R., Faisst, S., and Rommelaere,
+  J. (1998).
+\newblock {{O}pposite transcriptional effects of cyclic {A}{M}{P}-responsive
+  elements in confluent or p27{K}{I}{P}-overexpressing cells versus
+  serum-starved or growing cells}.
+\newblock {\em Mol. Cell. Biol.}, 18(1):409--419.
+
+\bibitem[\protect\astroncite{Doerig et~al.}{1987}]{pmid3824910}
+Doerig, C., Beard, P., and Hirt, B. (1987).
+\newblock {{A} transcriptional promoter of the human parvovirus {B}19 active in
+  vitro and in vivo}.
+\newblock {\em Virology}, 157(2):539--542.
+
+\bibitem[\protect\astroncite{Engers et~al.}{1981}]{pmid6457871}
+Engers, H.~D., Louis, J.~A., Zubler, R.~H., and Hirt, B. (1981).
+\newblock {{I}nhibition of {T} cell-mediated functions by {M}{V}{M}(i), a
+  parvovirus closely related to minute virus of mice}.
+\newblock {\em J. Immunol.}, 127(6):2280--2285.
+
+\bibitem[\protect\astroncite{Gao et~al.}{2003}]{pmid12716974}
+Gao, G., Alvira, M.~R., Somanathan, S., Lu, Y., Vandenberghe, L.~H., Rux,
+  J.~J., Calcedo, R., Sanmiguel, J., Abbas, Z., and Wilson, J.~M. (2003).
+\newblock {{A}deno-associated viruses undergo substantial evolution in primates
+  during natural infections}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 100(10):6081--6086.
+
+\bibitem[\protect\astroncite{Gardiner and Tattersall}{1988a}]{pmid3357208}
+Gardiner, E.~M. and Tattersall, P. (1988a).
+\newblock {{E}vidence that developmentally regulated control of gene expression
+  by a parvoviral allotropic determinant is particle mediated}.
+\newblock {\em J. Virol.}, 62(5):1713--1722.
+
+\bibitem[\protect\astroncite{Gardiner and Tattersall}{1988b}]{pmid3392768}
+Gardiner, E.~M. and Tattersall, P. (1988b).
+\newblock {{M}apping of the fibrotropic and lymphotropic host range
+  determinants of the parvovirus minute virus of mice}.
+\newblock {\em J. Virol.}, 62(8):2605--2613.
+
+\bibitem[\protect\astroncite{Goodwin et~al.}{1993}]{pmid8363509}
+Goodwin, M.~A., Davis, J.~F., McNulty, M.~S., Brown, J., and Player, E.~C.
+  (1993).
+\newblock {{E}nteritis (so-called runting stunting syndrome) in {G}eorgia
+  broiler chicks}.
+\newblock {\em Avian Dis.}, 37(2):451--458.
+
+\bibitem[\protect\astroncite{Gottschalck et~al.}{1991}]{pmid1649336}
+Gottschalck, E., Alexandersen, S., Cohn, A., Poulsen, L.~A., Bloom, M.~E., and
+  Aasted, B. (1991).
+\newblock {{N}ucleotide sequence analysis of {A}leutian mink disease parvovirus
+  shows that multiple virus types are present in infected mink}.
+\newblock {\em J. Virol.}, 65(8):4378--4386.
+
+\bibitem[\protect\astroncite{Govindasamy et~al.}{2003}]{pmid14581558}
+Govindasamy, L., Hueffer, K., Parrish, C.~R., and Agbandje-McKenna, M. (2003).
+\newblock {{S}tructures of host range-controlling regions of the capsids of
+  canine and feline parvoviruses and mutants}.
+\newblock {\em J. Virol.}, 77(22):12211--12221.
+
+\bibitem[\protect\astroncite{Green and Roeder}{1980}]{pmid6253077}
+Green, M.~R. and Roeder, R.~G. (1980).
+\newblock {{D}efinition of a novel promoter for the major adenovirus-associated
+  virus m{R}{N}{A}}.
+\newblock {\em Cell}, 22(1 Pt 1):231--242.
+
+\bibitem[\protect\astroncite{Gurda et~al.}{2010}]{pmid20375175}
+Gurda, B.~L., Parent, K.~N., Bladek, H., Sinkovits, R.~S., DiMattia, M.~A.,
+  Rence, C., Castro, A., McKenna, R., Olson, N., Brown, K., Baker, T.~S., and
+  Agbandje-McKenna, M. (2010).
+\newblock {{H}uman bocavirus capsid structure: insights into the structural
+  repertoire of the parvoviridae}.
+\newblock {\em J. Virol.}, 84(12):5880--5889.
+
+\bibitem[\protect\astroncite{Hallauer et~al.}{1972}]{pmid5083410}
+Hallauer, C., Siegl, G., and Kronauer, G. (1972).
+\newblock {{P}arvoviruses as contaminants of permanent human cell lines. 3.
+  {B}iological properties of the isolated viruses}.
+\newblock {\em Arch Gesamte Virusforsch}, 38(4):366--382.
+
+\bibitem[\protect\astroncite{Harlow et~al.}{1981}]{pmid6169844}
+Harlow, E., Crawford, L.~V., Pim, D.~C., and Williamson, N.~M. (1981).
+\newblock {{M}onoclonal antibodies specific for simian virus 40 tumor
+  antigens}.
+\newblock {\em J. Virol.}, 39(3):861--869.
+
+\bibitem[\protect\astroncite{Harris et~al.}{1974}]{pmid4213983}
+Harris, R.~E., Coleman, P.~H., and Morahan, P.~S. (1974).
+\newblock {{S}tability of minute virus of mice to chemical and physical
+  agents}.
+\newblock {\em Appl Microbiol}, 28(3):351--354.
+
+\bibitem[\protect\astroncite{Heegaard and Brown}{2002}]{pmid12097253}
+Heegaard, E.~D. and Brown, K.~E. (2002).
+\newblock {{H}uman parvovirus {B}19}.
+\newblock {\em Clin. Microbiol. Rev.}, 15(3):485--505.
+
+\bibitem[\protect\astroncite{Hoggan et~al.}{1966}]{pmid5227666}
+Hoggan, M.~D., Blacklow, N.~R., and Rowe, W.~P. (1966).
+\newblock {{S}tudies of small {D}{N}{A} viruses found in various adenovirus
+  preparations: physical, biological, and immunological characteristics}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 55(6):1467--1474.
+
+\bibitem[\protect\astroncite{Hoggan et~al.}{1971}]{CsCl}
+Hoggan, M.~D., Maramorosch, K., and Kurstak, E. (1971).
+\newblock {\em {{S}mall {D}{N}{A} viruses}}.
+\newblock Academic Press, New York, NY.
+
+\bibitem[\protect\astroncite{Horiuchi et~al.}{1992}]{pmid1322591}
+Horiuchi, M., Ishiguro, N., Goto, H., and Shinagawa, M. (1992).
 \newblock {{C}haracterization of the stage(s) in the virus replication cycle at
   which the host-cell specificity of the feline parvovirus subgroup is
-  regulated in canine cells},
-\newblock {\em Virology} {\bf 189}, 600 (1992).
+  regulated in canine cells}.
+\newblock {\em Virology}, 189(2):600--608.
 
-\bibitem{pmid16242744}
-{\sc C.~Ros}, {\sc C.~Baltzer}, {\sc B.~Mani}, and {\sc C.~Kempf},
-\newblock {{P}arvovirus uncoating in vitro reveals a mechanism of {D}{N}{A}
-  release without capsid disassembly and striking differences in encapsidated
-  {D}{N}{A} stability},
-\newblock {\em Virology} {\bf 345}, 137 (2006).
+\bibitem[\protect\astroncite{Huang et~al.}{2010}]{pmid21092136}
+Huang, L., Zhai, S.~L., Cheung, A.~K., Zhang, H.~B., Long, J.~X., and Yuan,
+  S.~S. (2010).
+\newblock {{D}etection of a novel porcine parvovirus, {P}{P}{V}4, in {C}hinese
+  swine herds}.
+\newblock {\em Virol. J.}, 7:333.
 
-\bibitem{pmid25555192}
-{\sc M.~Agbandje}, {\sc C.~Parrish}, and {\sc M.~Rossmann},
-\newblock {{T}he structure of parvoviruses},
-\newblock {\em Seminars in Virology} {\bf 6}, 299 (1995).
+\bibitem[\protect\astroncite{Hueffer et~al.}{2003}]{pmid12941920}
+Hueffer, K., Govindasamy, L., Agbandje-McKenna, M., and Parrish, C.~R. (2003).
+\newblock {{C}ombinations of two capsid regions controlling canine host range
+  determine canine transferrin receptor binding by canine and feline
+  parvoviruses}.
+\newblock {\em J. Virol.}, 77(18):10099--10105.
 
-\bibitem{pmid8392729}
-{\sc M.~Agbandje}, {\sc R.~McKenna}, {\sc M.~G. Rossmann}, {\sc M.~L.
-  Strassheim}, and {\sc C.~R. Parrish},
-\newblock {{S}tructure determination of feline panleukopenia virus empty
-  particles},
-\newblock {\em Proteins} {\bf 16}, 155 (1993).
+\bibitem[\protect\astroncite{Hueffer and Parrish}{2003}]{pmid12941411}
+Hueffer, K. and Parrish, C.~R. (2003).
+\newblock {{P}arvovirus host range, cell tropism and evolution}.
+\newblock {\em Curr. Opin. Microbiol.}, 6(4):392--398.
 
-\bibitem{pmid11827486}
-{\sc A.~A. Simpson}, {\sc B.~Hebert}, {\sc G.~M. Sullivan}, {\sc C.~R.
-  Parrish}, {\sc Z.~Zadori}, {\sc P.~Tijssen}, and {\sc M.~G. Rossmann},
-\newblock {{T}he structure of porcine parvovirus: comparison with related
-  viruses},
-\newblock {\em J. Mol. Biol.} {\bf 315}, 1189 (2002).
+\bibitem[\protect\astroncite{Itah et~al.}{2004}]{pmid15308740}
+Itah, R., Tal, J., and Davis, C. (2004).
+\newblock {{H}ost cell specificity of minute virus of mice in the developing
+  mouse embryo}.
+\newblock {\em J. Virol.}, 78(17):9474--9486.
 
-\bibitem{pmid2006420}
-{\sc J.~Tsao}, {\sc M.~S. Chapman}, {\sc M.~Agbandje}, {\sc W.~Keller}, {\sc
-  K.~Smith}, {\sc H.~Wu}, {\sc M.~Luo}, {\sc T.~J. Smith}, {\sc M.~G.
-  Rossmann}, and {\sc R.~W. Compans},
-\newblock {{T}he three-dimensional structure of canine parvovirus and its
-  functional implications},
-\newblock {\em Science} {\bf 251}, 1456 (1991).
+\bibitem[\protect\astroncite{Jindal et~al.}{1994}]{pmid8106366}
+Jindal, H.~K., Yong, C.~B., Wilson, G.~M., Tam, P., and Astell, C.~R. (1994).
+\newblock {{M}utations in the {N}{T}{P}-binding motif of minute virus of mice
+  ({M}{V}{M}) {N}{S}-1 protein uncouple {A}{T}{P}ase and {D}{N}{A} helicase
+  functions}.
+\newblock {\em J. Biol. Chem.}, 269(5):3283--3289.
 
-\bibitem{pmid15299974}
-{\sc A.~L. Llamas-Saiz}, {\sc M.~Agbandje-McKenna}, {\sc W.~R. Wikoff}, {\sc
-  J.~Bratton}, {\sc P.~Tattersall}, and {\sc M.~G. Rossmann},
-\newblock {{S}tructure determination of minute virus of mice},
-\newblock {\em Acta Crystallogr. D Biol. Crystallogr.} {\bf 53}, 93 (1997).
+\bibitem[\protect\astroncite{Johnson et~al.}{1971}]{pmid5172922}
+Johnson, F.~B., Ozer, H.~L., and Hoggan, M.~D. (1971).
+\newblock {{S}tructural proteins of adenovirus-associated virus type 3}.
+\newblock {\em J. Virol.}, 8(6):860--863.
 
-\bibitem{pmid2673017}
-{\sc M.~G. Rossmann} and {\sc J.~E. Johnson},
-\newblock {{I}cosahedral {R}{N}{A} virus structure},
-\newblock {\em Annu. Rev. Biochem.} {\bf 58}, 533 (1989).
+\bibitem[\protect\astroncite{Jones et~al.}{2005}]{pmid15956568}
+Jones, M.~S., Kapoor, A., Lukashov, V.~V., Simmonds, P., Hecht, F., and
+  Delwart, E. (2005).
+\newblock {{N}ew {D}{N}{A} viruses identified in patients with acute viral
+  infection syndrome}.
+\newblock {\em J. Virol.}, 79(13):8230--8236.
 
-\bibitem{pmid15299494}
-{\sc H.~Wu}, {\sc W.~Keller}, and {\sc M.~G. Rossmann},
-\newblock {{D}etermination and refinement of the canine parvovirus empty-capsid
-  structure},
-\newblock {\em Acta Crystallogr. D Biol. Crystallogr.} {\bf 49}, 572 (1993).
+\bibitem[\protect\astroncite{Jongeneel et~al.}{1986}]{pmid2942705}
+Jongeneel, C.~V., Sahli, R., McMaster, G.~K., and Hirt, B. (1986).
+\newblock {{A} precise map of splice junctions in the m{R}{N}{A}s of minute
+  virus of mice, an autonomous parvovirus}.
+\newblock {\em J. Virol.}, 59(3):564--573.
 
-\bibitem{pmid8969301}
-{\sc Q.~Xie} and {\sc M.~S. Chapman},
-\newblock {{C}anine parvovirus capsid structure, analyzed at 2.9 {A}
-  resolution},
-\newblock {\em J. Mol. Biol.} {\bf 264}, 497 (1996).
+\bibitem[\protect\astroncite{KILHAM and OLIVIER}{1959}]{pmid13669314}
+KILHAM, L. and OLIVIER, L.~J. (1959).
+\newblock {{A} latent virus of rats isolated in tissue culture}.
+\newblock {\em Virology}, 7(4):428--437.
 
-\bibitem{pmid8503170}
-{\sc M.~S. Chapman} and {\sc M.~G. Rossmann},
-\newblock {{S}tructure, sequence, and function correlations among
-  parvoviruses},
-\newblock {\em Virology} {\bf 194}, 491 (1993).
+\bibitem[\protect\astroncite{Kimsey et~al.}{1986}]{pmid3712557}
+Kimsey, P.~B., Engers, H.~D., Hirt, B., and Jongeneel, C.~V. (1986).
+\newblock {{P}athogenicity of fibroblast- and lymphocyte-specific variants of
+  minute virus of mice}.
+\newblock {\em J. Virol.}, 59(1):8--13.
 
-\bibitem{pmid7735832}
-{\sc M.~S. Chapman} and {\sc M.~G. Rossmann},
-\newblock {{S}ingle-stranded {D}{N}{A}-protein interactions in canine
-  parvovirus},
-\newblock {\em Structure} {\bf 3}, 151 (1995).
+\bibitem[\protect\astroncite{King et~al.}{2012}]{icvt}
+King, A. M.~Q., Adams, M.~J., Carstens, E.~B., and Lefkowitz, E.~J. (2012).
+\newblock {\em {{V}irus taxonomy: {N}inth report of the {I}nternational
+  {C}ommittee on {T}axonomy of {V}iruses.}}
+\newblock Elsevier Academic Press, San Diego, CA.
 
-\bibitem{pmid1616694}
-{\sc J.~Tsao}, {\sc M.~S. Chapman}, {\sc H.~Wu}, {\sc M.~Agbandje}, {\sc
-  W.~Keller}, and {\sc M.~G. Rossmann},
-\newblock {{S}tructure determination of monoclinic canine parvovirus},
-\newblock {\em Acta Crystallogr., B} {\bf 48 ( Pt 1)}, 75 (1992).
+\bibitem[\protect\astroncite{Kisary}{1985}]{pmid18766892}
+Kisary, J. (1985).
+\newblock {{E}xperimental infection of chicken embryos and day-old chickens
+  with parvovirus of chicken origin}.
+\newblock {\em Avian Pathol.}, 14(1):1--7.
 
-\bibitem{pmid4321164}
-{\sc L.~A. Salzman} and {\sc W.~L. White},
-\newblock {{S}tructural proteins of {K}ilham rat virus},
-\newblock {\em Biochem. Biophys. Res. Commun.} {\bf 41}, 1551 (1970).
+\bibitem[\protect\astroncite{Kisary et~al.}{1985}]{pmid2995561}
+Kisary, J., Avalosse, B., Miller-Faures, A., and Rommelaere, J. (1985).
+\newblock {{T}he genome structure of a new chicken virus identifies it as a
+  parvovirus}.
+\newblock {\em J. Gen. Virol.}, 66 ( Pt 10):2259--2263.
 
-\bibitem{pmid5132697}
-{\sc J.~A. Rose}, {\sc J.~V. Maizel}, {\sc J.~K. Inman}, and {\sc A.~J.
-  Shatkin},
-\newblock {{S}tructural proteins of adenovirus-associated viruses},
-\newblock {\em J. Virol.} {\bf 8}, 766 (1971).
+\bibitem[\protect\astroncite{Kisary et~al.}{1984}]{pmid18766849}
+Kisary, J., Nagy, B., and Bitay, Z. (1984).
+\newblock {{P}resence of parvoviruses in the intestine of chickens showing
+  stunting syndrome}.
+\newblock {\em Avian Pathol.}, 13(2):339--343.
 
-\bibitem{pmid5172922}
-{\sc F.~B. Johnson}, {\sc H.~L. Ozer}, and {\sc M.~D. Hoggan},
-\newblock {{S}tructural proteins of adenovirus-associated virus type 3},
-\newblock {\em J. Virol.} {\bf 8}, 860 (1971).
+\bibitem[\protect\astroncite{Koo et~al.}{2015}]{pmid25510852}
+Koo, B.~S., Lee, H.~R., Jeon, E.~O., Han, M.~S., Min, K.~C., Lee, S.~B., Bae,
+  Y.~J., Cho, S.~H., Mo, J.~S., Kwon, H.~M., Sung, H.~W., Kim, J.~N., and Mo,
+  I.~P. (2015).
+\newblock {{G}enetic characterization of three novel chicken parvovirus strains
+  based on analysis of their coding sequences}.
+\newblock {\em Avian Pathol.}, 44(1):28--34.
 
-\bibitem{pmid14213660}
-{\sc J.~W. LITTLEFIELD},
+\bibitem[\protect\astroncite{Kotin et~al.}{1992}]{pmid1334463}
+Kotin, R.~M., Linden, R.~M., and Berns, K.~I. (1992).
+\newblock {{C}haracterization of a preferred site on human chromosome 19q for
+  integration of adeno-associated virus {D}{N}{A} by non-homologous
+  recombination}.
+\newblock {\em EMBO J.}, 11(13):5071--5078.
+
+\bibitem[\protect\astroncite{Kotin et~al.}{1991}]{pmid1653762}
+Kotin, R.~M., Menninger, J.~C., Ward, D.~C., and Berns, K.~I. (1991).
+\newblock {{M}apping and direct visualization of a region-specific viral
+  {D}{N}{A} integration site on chromosome 19q13-qter}.
+\newblock {\em Genomics}, 10(3):831--834.
+
+\bibitem[\protect\astroncite{Kotin et~al.}{1990}]{pmid2156265}
+Kotin, R.~M., Siniscalco, M., Samulski, R.~J., Zhu, X.~D., Hunter, L.,
+  Laughlin, C.~A., McLaughlin, S., Muzyczka, N., Rocchi, M., and Berns, K.~I.
+  (1990).
+\newblock {{S}ite-specific integration by adeno-associated virus}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 87(6):2211--2215.
+
+\bibitem[\protect\astroncite{Kresse et~al.}{1985}]{pmid3006323}
+Kresse, J.~I., Taylor, W.~D., Stewart, W.~W., and Eernisse, K.~A. (1985).
+\newblock {{P}arvovirus infection in pigs with necrotic and vesicle-like
+  lesions}.
+\newblock {\em Vet. Microbiol.}, 10(6):525--531.
+
+\bibitem[\protect\astroncite{Kupfer et~al.}{2006}]{pmid17176591}
+Kupfer, B., Vehreschild, J., Cornely, O., Kaiser, R., Plum, G., Viazov, S.,
+  Franzen, C., Tillmann, R.~L., Simon, A., Muller, A., and Schildgen, O.
+  (2006).
+\newblock {{S}evere pneumonia and human bocavirus in adult}.
+\newblock {\em Emerging Infect. Dis.}, 12(10):1614--1616.
+
+\bibitem[\protect\astroncite{Lau et~al.}{2008}]{pmid18632954}
+Lau, S.~K., Woo, P.~C., Tse, H., Fu, C.~T., Au, W.~K., Chen, X.~C., Tsoi,
+  H.~W., Tsang, T.~H., Chan, J.~S., Tsang, D.~N., Li, K.~S., Tse, C.~W., Ng,
+  T.~K., Tsang, O.~T., Zheng, B.~J., Tam, S., Chan, K.~H., Zhou, B., and Yuen,
+  K.~Y. (2008).
+\newblock {{I}dentification of novel porcine and bovine parvoviruses closely
+  related to human parvovirus 4}.
+\newblock {\em J. Gen. Virol.}, 89(Pt 8):1840--1848.
+
+\bibitem[\protect\astroncite{Lavoie et~al.}{2012}]{pmid22469425}
+Lavoie, M., Sharp, C.~P., Pepin, J., Pennington, C., Foupouapouognigni, Y.,
+  Pybus, O.~G., Njouom, R., and Simmonds, P. (2012).
+\newblock {{H}uman parvovirus 4 infection, {C}ameroon}.
+\newblock {\em Emerging Infect. Dis.}, 18(4):680--683.
+
+\bibitem[\protect\astroncite{Lederman et~al.}{1984}]{pmid6319731}
+Lederman, M., Patton, J.~T., Stout, E.~R., and Bates, R.~C. (1984).
+\newblock {{V}irally coded noncapsid protein associated with bovine parvovirus
+  infection}.
+\newblock {\em J. Virol.}, 49(2):315--318.
+
+\bibitem[\protect\astroncite{Li et~al.}{2012}]{pmid22247522}
+Li, B., Ma, J., Xiao, S., Wen, L., Ni, Y., Zhang, X., Fang, L., and He, K.
+  (2012).
+\newblock {{G}enome sequence of a highly prevalent porcine partetravirus in
+  {M}ainland {C}hina}.
+\newblock {\em J. Virol.}, 86(3):1899.
+
+\bibitem[\protect\astroncite{Li et~al.}{2011}]{pmid22000359}
+Li, L., Pesavento, P.~A., Woods, L., Clifford, D.~L., Luff, J., Wang, C., and
+  Delwart, E. (2011).
+\newblock {{N}ovel amdovirus in gray foxes}.
+\newblock {\em Emerging Infect. Dis.}, 17(10):1876--1878.
+
+\bibitem[\protect\astroncite{LITTLEFIELD}{1964}]{pmid14213660}
+LITTLEFIELD, J.~W. (1964).
 \newblock {{T}{H}{R}{E}{E} {D}{E}{G}{R}{E}{E}{S} {O}{F}
   {G}{U}{A}{N}{Y}{L}{I}{C} {A}{C}{I}{D}--{I}{N}{O}{S}{I}{N}{I}{C} {A}{C}{I}{D}
   {P}{Y}{R}{O}{P}{H}{O}{S}{P}{H}{O}{R}{Y}{L}{A}{S}{E}
   {D}{E}{F}{I}{C}{I}{E}{N}{C}{Y} {I}{N} {M}{O}{U}{S}{E}
-  {F}{I}{B}{R}{O}{B}{L}{A}{S}{T}{S}},
-\newblock {\em Nature} {\bf 203}, 1142 (1964).
+  {F}{I}{B}{R}{O}{B}{L}{A}{S}{T}{S}}.
+\newblock {\em Nature}, 203:1142--1144.
 
-\bibitem{pmid13911591}
-{\sc H.~M. SHEIN} and {\sc J.~F. ENDERS},
+\bibitem[\protect\astroncite{Llamas-Saiz et~al.}{1997}]{pmid15299974}
+Llamas-Saiz, A.~L., Agbandje-McKenna, M., Wikoff, W.~R., Bratton, J.,
+  Tattersall, P., and Rossmann, M.~G. (1997).
+\newblock {{S}tructure determination of minute virus of mice}.
+\newblock {\em Acta Crystallogr. D Biol. Crystallogr.}, 53(Pt 1):93--102.
+
+\bibitem[\protect\astroncite{Lopez-Bueno et~al.}{2003}]{pmid12552010}
+Lopez-Bueno, A., Mateu, M.~G., and Almendral, J.~M. (2003).
+\newblock {{H}igh mutant frequency in populations of a {D}{N}{A} virus allows
+  evasion from antibody therapy in an immunodeficient host}.
+\newblock {\em J. Virol.}, 77(4):2701--2708.
+
+\bibitem[\protect\astroncite{Lopez-Bueno et~al.}{2006}]{pmid16415031}
+Lopez-Bueno, A., Rubio, M.~P., Bryant, N., McKenna, R., Agbandje-McKenna, M.,
+  and Almendral, J.~M. (2006).
+\newblock {{H}ost-selected amino acid changes at the sialic acid binding pocket
+  of the parvovirus capsid modulate cell binding affinity and determine
+  virulence}.
+\newblock {\em J. Virol.}, 80(3):1563--1573.
+
+\bibitem[\protect\astroncite{Lopez-Bueno et~al.}{2008}]{pmid18045943}
+Lopez-Bueno, A., Segovia, J.~C., Bueren, J.~A., O'Sullivan, M.~G., Wang, F.,
+  Tattersall, P., and Almendral, J.~M. (2008).
+\newblock {{E}volution to pathogenicity of the parvovirus minute virus of mice
+  in immunodeficient mice involves genetic heterogeneity at the capsid domain
+  that determines tropism}.
+\newblock {\em J. Virol.}, 82(3):1195--1203.
+
+\bibitem[\protect\astroncite{Lou et~al.}{2012}]{pmid22044541}
+Lou, S., Xu, B., Huang, Q., Zhi, N., Cheng, F., Wong, S., Brown, K., Delwart,
+  E., Liu, Z., and Qiu, J. (2012).
+\newblock {{M}olecular characterization of the newly identified human
+  parvovirus 4 in the family {P}arvoviridae}.
+\newblock {\em Virology}, 422(1):59--69.
+
+\bibitem[\protect\astroncite{Lukashov and Goudsmit}{2001}]{pmid11222696}
+Lukashov, V.~V. and Goudsmit, J. (2001).
+\newblock {{E}volutionary relationships among parvoviruses: virus-host
+  coevolution among autonomous primate parvoviruses and links between
+  adeno-associated and avian parvoviruses}.
+\newblock {\em J. Virol.}, 75(6):2729--2740.
+
+\bibitem[\protect\astroncite{Lusby et~al.}{1980}]{pmid6246271}
+Lusby, E., Fife, K.~H., and Berns, K.~I. (1980).
+\newblock {{N}ucleotide sequence of the inverted terminal repetition in
+  adeno-associated virus {D}{N}{A}}.
+\newblock {\em J. Virol.}, 34(2):402--409.
+
+\bibitem[\protect\astroncite{Lusby and Berns}{1982}]{pmid6281463}
+Lusby, E.~W. and Berns, K.~I. (1982).
+\newblock {{M}apping of the 5' termini of two adeno-associated virus 2
+  {R}{N}{A}s in the left half of the genome}.
+\newblock {\em J. Virol.}, 41(2):518--526.
+
+\bibitem[\protect\astroncite{Ma et~al.}{2006}]{pmid16517912}
+Ma, X., Endo, R., Ishiguro, N., Ebihara, T., Ishiko, H., Ariga, T., and Kikuta,
+  H. (2006).
+\newblock {{D}etection of human bocavirus in {J}apanese children with lower
+  respiratory tract infections}.
+\newblock {\em J. Clin. Microbiol.}, 44(3):1132--1134.
+
+\bibitem[\protect\astroncite{Mani et~al.}{2007}]{pmid17880601}
+Mani, B., Gerber, M., Lieby, P., Boschetti, N., Kempf, C., and Ros, C. (2007).
+\newblock {{M}olecular mechanism underlying {B}19 virus inactivation and
+  comparison to other parvoviruses}.
+\newblock {\em Transfusion}, 47(10):1765--1774.
+
+\bibitem[\protect\astroncite{Manning et~al.}{2006}]{pmid17041855}
+Manning, A., Russell, V., Eastick, K., Leadbetter, G.~H., Hallam, N.,
+  Templeton, K., and Simmonds, P. (2006).
+\newblock {{E}pidemiological profile and clinical associations of human
+  bocavirus and other human parvoviruses}.
+\newblock {\em J. Infect. Dis.}, 194(9):1283--1290.
+
+\bibitem[\protect\astroncite{Manning et~al.}{2007}]{pmid17397006}
+Manning, A., Willey, S.~J., Bell, J.~E., and Simmonds, P. (2007).
+\newblock {{C}omparison of tissue distribution, persistence, and molecular
+  epidemiology of parvovirus {B}19 and novel human parvoviruses {P}{A}{R}{V}4
+  and human bocavirus}.
+\newblock {\em J. Infect. Dis.}, 195(9):1345--1352.
+
+\bibitem[\protect\astroncite{Maxwell et~al.}{1995}]{pmid7637028}
+Maxwell, I.~H., Spitzer, A.~L., Maxwell, F., and Pintel, D.~J. (1995).
+\newblock {{T}he capsid determinant of fibrotropism for the {M}{V}{M}p strain
+  of minute virus of mice functions via {V}{P}2 and not {V}{P}1}.
+\newblock {\em J. Virol.}, 69(9):5829--5832.
+
+\bibitem[\protect\astroncite{McKenna et~al.}{1999}]{pmid10400786}
+McKenna, R., Olson, N.~H., Chipman, P.~R., Baker, T.~S., Booth, T.~F.,
+  Christensen, J., Aasted, B., Fox, J.~M., Bloom, M.~E., Wolfinbarger, J.~B.,
+  and Agbandje-McKenna, M. (1999).
+\newblock {{T}hree-dimensional structure of {A}leutian mink disease parvovirus:
+  implications for disease pathogenicity}.
+\newblock {\em J. Virol.}, 73(8):6882--6891.
+
+\bibitem[\protect\astroncite{McMaster et~al.}{1981}]{pmid6264106}
+McMaster, G.~K., Beard, P., Engers, H.~D., and Hirt, B. (1981).
+\newblock {{C}haracterization of an immunosuppressive parvovirus related to the
+  minute virus of mice}.
+\newblock {\em J. Virol.}, 38(1):317--326.
+
+\bibitem[\protect\astroncite{Mengeling}{1979}]{pmid427636}
+Mengeling, W.~L. (1979).
+\newblock {{P}renatal infection following maternal exposure to porcine
+  parvovirus on either the seventh or fourteenth day of gestation}.
+\newblock {\em Can. J. Comp. Med.}, 43(1):106--109.
+
+\bibitem[\protect\astroncite{Mengeling and Cutlip}{1976}]{pmid999067}
+Mengeling, W.~L. and Cutlip, R.~C. (1976).
+\newblock {{R}eproductive disease experimentally induced by exposing pregnant
+  gilts to porcine parvovirus}.
+\newblock {\em Am. J. Vet. Res.}, 37(12):1393--1400.
+
+\bibitem[\protect\astroncite{Mingozzi and High}{2011}]{pmid21499295}
+Mingozzi, F. and High, K.~A. (2011).
+\newblock {{T}herapeutic in vivo gene transfer for genetic disease using
+  {A}{A}{V}: progress and challenges}.
+\newblock {\em Nat. Rev. Genet.}, 12(5):341--355.
+
+\bibitem[\protect\astroncite{Momoeda et~al.}{1994}]{pmid7966641}
+Momoeda, M., Wong, S., Kawase, M., Young, N.~S., and Kajigaya, S. (1994).
+\newblock {{A} putative nucleoside triphosphate-binding domain in the
+  nonstructural protein of {B}19 parvovirus is required for cytotoxicity}.
+\newblock {\em J. Virol.}, 68(12):8443--8446.
+
+\bibitem[\protect\astroncite{Muzyczka and Berns}{2001}]{telomere3}
+Muzyczka, N. and Berns, K.~I. (2001).
+\newblock {P}arvoviridae: the viruses and their replication.
+\newblock In Knipe, D.~M. and Howley, P.~M., editors, {\em {{F}ields
+  virology}}. Lippincott Williams and Wilkins, Philadelphia, PA, 4 edition.
+
+\bibitem[\protect\astroncite{Ni et~al.}{2014}]{pmid25442288}
+Ni, J., Qiao, C., Han, X., Han, T., Kang, W., Zi, Z., Cao, Z., Zhai, X., and
+  Cai, X. (2014).
+\newblock {{I}dentification and genomic characterization of a novel porcine
+  parvovirus ({P}{P}{V}6) in china}.
+\newblock {\em Virol. J.}, 11(1):203.
+
+\bibitem[\protect\astroncite{Ozawa et~al.}{1987}]{pmid3599180}
+Ozawa, K., Ayub, J., Hao, Y.~S., Kurtzman, G., Shimada, T., and Young, N.
+  (1987).
+\newblock {{N}ovel transcription map for the {B}19 (human) pathogenic
+  parvovirus}.
+\newblock {\em J. Virol.}, 61(8):2395--2406.
+
+\bibitem[\protect\astroncite{Padron et~al.}{2005}]{pmid15795290}
+Padron, E., Bowman, V., Kaludov, N., Govindasamy, L., Levy, H., Nick, P.,
+  McKenna, R., Muzyczka, N., Chiorini, J.~A., Baker, T.~S., and
+  Agbandje-McKenna, M. (2005).
+\newblock {{S}tructure of adeno-associated virus type 4}.
+\newblock {\em J. Virol.}, 79(8):5047--5058.
+
+\bibitem[\protect\astroncite{Page et~al.}{1982}]{pmid7150147}
+Page, R.~K., Fletcher, O.~J., Rowland, G.~N., Gaudry, D., and Villegas, P.
+  (1982).
+\newblock {{M}alabsorption syndrome in broiler chickens}.
+\newblock {\em Avian Dis.}, 26(3):618--624.
+
+\bibitem[\protect\astroncite{Panning et~al.}{2010}]{pmid20587191}
+Panning, M., Kobbe, R., Vollbach, S., Drexler, J.~F., Adjei, S., Adjei, O.,
+  Drosten, C., May, J., and Eis-Hubinger, A.~M. (2010).
+\newblock {{N}ovel human parvovirus 4 genotype 3 in infants, {G}hana}.
+\newblock {\em Emerging Infect. Dis.}, 16(7):1143--1146.
+
+\bibitem[\protect\astroncite{Parrish et~al.}{1988}]{pmid3176341}
+Parrish, C.~R., Aquadro, C.~F., and Carmichael, L.~E. (1988).
+\newblock {{C}anine host range and a specific epitope map along with variant
+  sequences in the capsid protein gene of canine parvovirus and related feline,
+  mink, and raccoon parvoviruses}.
+\newblock {\em Virology}, 166(2):293--307.
+
+\bibitem[\protect\astroncite{Pass et~al.}{1982}]{pmid6281962}
+Pass, D.~A., Robertson, M.~D., and Wilcox, G.~E. (1982).
+\newblock {{R}unting syndrome in broiler chickens in {A}ustralia}.
+\newblock {\em Vet. Rec.}, 110(16):386--387.
+
+\bibitem[\protect\astroncite{Pintel et~al.}{1983}]{pmid6828378}
+Pintel, D., Dadachanji, D., Astell, C.~R., and Ward, D.~C. (1983).
+\newblock {{T}he genome of minute virus of mice, an autonomous parvovirus,
+  encodes two overlapping transcription units}.
+\newblock {\em Nucleic Acids Res.}, 11(4):1019--1038.
+
+\bibitem[\protect\astroncite{Previsani et~al.}{1997}]{pmid9311862}
+Previsani, N., Fontana, S., Hirt, B., and Beard, P. (1997).
+\newblock {{G}rowth of the parvovirus minute virus of mice {M}{V}{M}p3 in
+  {E}{L}4 lymphocytes is restricted after cell entry and before viral {D}{N}{A}
+  amplification: cell-specific differences in virus uncoating in vitro}.
+\newblock {\em J. Virol.}, 71(10):7769--7780.
+
+\bibitem[\protect\astroncite{Qiu et~al.}{2006}]{pmid16378968}
+Qiu, J., Cheng, F., Burger, L.~R., and Pintel, D. (2006).
+\newblock {{T}he transcription profile of {A}leutian mink disease virus in
+  {C}{R}{F}{K} cells is generated by alternative processing of pre-m{R}{N}{A}s
+  produced from a single promoter}.
+\newblock {\em J. Virol.}, 80(2):654--662.
+
+\bibitem[\protect\astroncite{Qiu et~al.}{2007}]{pmid17715221}
+Qiu, J., Cheng, F., Johnson, F.~B., and Pintel, D. (2007).
+\newblock {{T}he transcription profile of the bocavirus bovine parvovirus is
+  unlike those of previously characterized parvoviruses}.
+\newblock {\em J. Virol.}, 81(21):12080--12085.
+
+\bibitem[\protect\astroncite{Ramirez et~al.}{1996}]{pmid8892936}
+Ramirez, J.~C., Fairen, A., and Almendral, J.~M. (1996).
+\newblock {{P}arvovirus minute virus of mice strain i multiplication and
+  pathogenesis in the newborn mouse brain are restricted to proliferative areas
+  and to migratory cerebellar young neurons}.
+\newblock {\em J. Virol.}, 70(11):8109--8116.
+
+\bibitem[\protect\astroncite{Ron and Tal}{1986}]{pmid3005655}
+Ron, D. and Tal, J. (1986).
+\newblock {{S}pontaneous curing of a minute virus of mice carrier state by
+  selection of cells with an intracellular block of viral replication}.
+\newblock {\em J. Virol.}, 58(1):26--30.
+
+\bibitem[\protect\astroncite{Ros et~al.}{2006}]{pmid16242744}
+Ros, C., Baltzer, C., Mani, B., and Kempf, C. (2006).
+\newblock {{P}arvovirus uncoating in vitro reveals a mechanism of {D}{N}{A}
+  release without capsid disassembly and striking differences in encapsidated
+  {D}{N}{A} stability}.
+\newblock {\em Virology}, 345(1):137--147.
+
+\bibitem[\protect\astroncite{Rose et~al.}{1969}]{pmid5264145}
+Rose, J.~A., Berns, K.~I., Hoggan, M.~D., and Koczot, F.~J. (1969).
+\newblock {{E}vidence for a single-stranded adenovirus-associated virus genome:
+  formation of a {D}{N}{A} density hybrid on release of viral {D}{N}{A}}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 64(3):863--869.
+
+\bibitem[\protect\astroncite{Rose et~al.}{1971}]{pmid5132697}
+Rose, J.~A., Maizel, J.~V., Inman, J.~K., and Shatkin, A.~J. (1971).
+\newblock {{S}tructural proteins of adenovirus-associated viruses}.
+\newblock {\em J. Virol.}, 8(5):766--770.
+
+\bibitem[\protect\astroncite{Rossmann and Johnson}{1989}]{pmid2673017}
+Rossmann, M.~G. and Johnson, J.~E. (1989).
+\newblock {{I}cosahedral {R}{N}{A} virus structure}.
+\newblock {\em Annu. Rev. Biochem.}, 58:533--573.
+
+\bibitem[\protect\astroncite{Rubio et~al.}{2005}]{pmid16103180}
+Rubio, M.~P., Lopez-Bueno, A., and Almendral, J.~M. (2005).
+\newblock {{V}irulent variants emerging in mice infected with the apathogenic
+  prototype strain of the parvovirus minute virus of mice exhibit a capsid with
+  low avidity for a primary receptor}.
+\newblock {\em J. Virol.}, 79(17):11280--11290.
+
+\bibitem[\protect\astroncite{Sahli et~al.}{1985}]{pmid3855242}
+Sahli, R., McMaster, G.~K., and Hirt, B. (1985).
+\newblock {{D}{N}{A} sequence comparison between two tissue-specific variants
+  of the autonomous parvovirus, minute virus of mice}.
+\newblock {\em Nucleic Acids Res.}, 13(10):3617--3633.
+
+\bibitem[\protect\astroncite{Saif et~al.}{2003}]{PEMS}
+Saif, Y.~M., Barnes, H.~J., Glisson, J.~R., Fadly, A.~M., McDougald, L.~R., and
+  Swayne, D.~E. (2003).
+\newblock {\em {{D}iseases of {P}oultry 11th edn}}.
+\newblock Wiley-Blackwell, Hoboken, NJ.
+\newblock pp 1171-1180.
+
+\bibitem[\protect\astroncite{Saknimit et~al.}{1988}]{pmid3416941}
+Saknimit, M., Inatsuki, I., Sugiyama, Y., and Yagami, K. (1988).
+\newblock {{V}irucidal efficacy of physico-chemical treatments against
+  coronaviruses and parvoviruses of laboratory animals}.
+\newblock {\em Jikken Dobutsu}, 37(3):341--345.
+
+\bibitem[\protect\astroncite{Salzman and Jori}{1970}]{pmid4317344}
+Salzman, L.~A. and Jori, L.~A. (1970).
+\newblock {{C}haracterization of the {K}ilham rat virus}.
+\newblock {\em J. Virol.}, 5(2):114--122.
+
+\bibitem[\protect\astroncite{Salzman and White}{1970}]{pmid4321164}
+Salzman, L.~A. and White, W.~L. (1970).
+\newblock {{S}tructural proteins of {K}ilham rat virus}.
+\newblock {\em Biochem. Biophys. Res. Commun.}, 41(6):1551--1556.
+
+\bibitem[\protect\astroncite{Samulski et~al.}{1991}]{pmid1657596}
+Samulski, R.~J., Zhu, X., Xiao, X., Brook, J.~D., Housman, D.~E., Epstein, N.,
+  and Hunter, L.~A. (1991).
+\newblock {{T}argeted integration of adeno-associated virus ({A}{A}{V}) into
+  human chromosome 19}.
+\newblock {\em EMBO J.}, 10(12):3941--3950.
+
+\bibitem[\protect\astroncite{Sauerbrei and Wutzler}{2009}]{pmid19039515}
+Sauerbrei, A. and Wutzler, P. (2009).
+\newblock {{T}esting thermal resistance of viruses}.
+\newblock {\em Arch. Virol.}, 154(1):115--119.
+
+\bibitem[\protect\astroncite{Schwartz et~al.}{2002}]{pmid12441065}
+Schwartz, D., Green, B., Carmichael, L.~E., and Parrish, C.~R. (2002).
+\newblock {{T}he canine minute virus (minute virus of canines) is a distinct
+  parvovirus that is most similar to bovine parvovirus}.
+\newblock {\em Virology}, 302(2):219--223.
+
+\bibitem[\protect\astroncite{Schwarz et~al.}{1992}]{pmid1520981}
+Schwarz, T.~F., Serke, S., Von~Brunn, A., Hottentrager, B., Huhn, D.,
+  Deinhardt, F., and Roggendorf, M. (1992).
+\newblock {{H}eat stability of parvovirus {B}19: kinetics of inactivation}.
+\newblock {\em Zentralbl. Bakteriol.}, 277(2):219--223.
+
+\bibitem[\protect\astroncite{Segovia et~al.}{1995}]{pmid7707557}
+Segovia, J.~C., Bueren, J.~A., and Almendral, J.~M. (1995).
+\newblock {{M}yeloid depression follows infection of susceptible newborn mice
+  with the parvovirus minute virus of mice (strain i)}.
+\newblock {\em J. Virol.}, 69(5):3229--3232.
+
+\bibitem[\protect\astroncite{Segovia et~al.}{1999}]{pmid9971754}
+Segovia, J.~C., Gallego, J.~M., Bueren, J.~A., and Almendral, J.~M. (1999).
+\newblock {{S}evere leukopenia and dysregulated erythropoiesis in {S}{C}{I}{D}
+  mice persistently infected with the parvovirus minute virus of mice}.
+\newblock {\em J. Virol.}, 73(3):1774--1784.
+
+\bibitem[\protect\astroncite{Segovia et~al.}{2003}]{pmid12857918}
+Segovia, J.~C., Guenechea, G., Gallego, J.~M., Almendral, J.~M., and Bueren,
+  J.~A. (2003).
+\newblock {{P}arvovirus infection suppresses long-term repopulating
+  hematopoietic stem cells}.
+\newblock {\em J. Virol.}, 77(15):8495--8503.
+
+\bibitem[\protect\astroncite{Shackelton and Holmes}{2006}]{pmid16537636}
+Shackelton, L.~A. and Holmes, E.~C. (2006).
+\newblock {{P}hylogenetic evidence for the rapid evolution of human {B}19
+  erythrovirus}.
+\newblock {\em J. Virol.}, 80(7):3666--3669.
+
+\bibitem[\protect\astroncite{Shackelton et~al.}{2005}]{pmid15626758}
+Shackelton, L.~A., Parrish, C.~R., Truyen, U., and Holmes, E.~C. (2005).
+\newblock {{H}igh rate of viral evolution associated with the emergence of
+  carnivore parvovirus}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 102(2):379--384.
+
+\bibitem[\protect\astroncite{Sharp et~al.}{2012}]{pmid22043925}
+Sharp, C.~P., Lail, A., Donfield, S., Gomperts, E.~D., and Simmonds, P. (2012).
+\newblock {{V}irologic and clinical features of primary infection with human
+  parvovirus 4 in subjects with hemophilia: frequent transmission by virally
+  inactivated clotting factor concentrates}.
+\newblock {\em Transfusion}, 52(7):1482--1489.
+
+\bibitem[\protect\astroncite{Sharp et~al.}{2010}]{pmid20668071}
+Sharp, C.~P., LeBreton, M., Kantola, K., Nana, A., Diffo, J. l. e.~D., Djoko,
+  C.~F., Tamoufe, U., Kiyang, J.~A., Babila, T.~G., Ngole, E.~M., Pybus, O.~G.,
+  Delwart, E., Delaporte, E., Peeters, M., Soderlund-Venermo, M., Hedman, K.,
+  Wolfe, N.~D., and Simmonds, P. (2010).
+\newblock {{W}idespread infection with homologues of human parvoviruses {B}19,
+  {P}{A}{R}{V}4, and human bocavirus of chimpanzees and gorillas in the wild}.
+\newblock {\em J. Virol.}, 84(19):10289--10296.
+
+\bibitem[\protect\astroncite{SHEIN and ENDERS}{1962}]{pmid13911591}
+SHEIN, H.~M. and ENDERS, J.~F. (1962).
 \newblock {{M}ultiplication and cytopathogenicity of {S}imian vacuolating virus
-  40 in cultures of human tissues},
-\newblock {\em Proc. Soc. Exp. Biol. Med.} {\bf 109}, 495 (1962).
+  40 in cultures of human tissues}.
+\newblock {\em Proc. Soc. Exp. Biol. Med.}, 109:495--500.
 
-\bibitem{pmid6169844}
-{\sc E.~Harlow}, {\sc L.~V. Crawford}, {\sc D.~C. Pim}, and {\sc N.~M.
-  Williamson},
-\newblock {{M}onoclonal antibodies specific for simian virus 40 tumor
-  antigens},
-\newblock {\em J. Virol.} {\bf 39}, 861 (1981).
+\bibitem[\protect\astroncite{Simmons et~al.}{2013}]{pmid23283958}
+Simmons, R., Sharp, C., Levine, J., Bowness, P., Simmonds, P., Cox, A., and
+  Klenerman, P. (2013).
+\newblock {{E}volution of {C}{D}8+ {T} cell responses after acute {P}{A}{R}{V}4
+  infection}.
+\newblock {\em J. Virol.}, 87(6):3087--3096.
+
+\bibitem[\protect\astroncite{Simmons et~al.}{2012}]{pmid22492853}
+Simmons, R., Sharp, C., McClure, C.~P., Rohrbach, J., Kovari, H., and et~al.
+  (2012).
+\newblock {{P}arvovirus 4 infection and clinical outcome in high-risk
+  populations}.
+\newblock {\em J. Infect. Dis.}, 205(12):1816--1820.
+
+\bibitem[\protect\astroncite{Simpson et~al.}{1998}]{pmid9817847}
+Simpson, A.~A., Chipman, P.~R., Baker, T.~S., Tijssen, P., and Rossmann, M.~G.
+  (1998).
+\newblock {{T}he structure of an insect parvovirus ({G}alleria mellonella
+  densovirus) at 3.7 {A} resolution}.
+\newblock {\em Structure}, 6(11):1355--1367.
+
+\bibitem[\protect\astroncite{Simpson et~al.}{2002}]{pmid11827486}
+Simpson, A.~A., Hebert, B., Sullivan, G.~M., Parrish, C.~R., Zadori, Z.,
+  Tijssen, P., and Rossmann, M.~G. (2002).
+\newblock {{T}he structure of porcine parvovirus: comparison with related
+  viruses}.
+\newblock {\em J. Mol. Biol.}, 315(5):1189--1198.
+
+\bibitem[\protect\astroncite{Spalholz et~al.}{1982}]{MVMp}
+Spalholz, B.~A., Bratton, J., Ward, D.~C., and Tattersall, P. (1982).
+\newblock {\em {{T}umor {V}iruses and {D}ifferentiation}}.
+\newblock Academic Press, New York, NY.
+
+\bibitem[\protect\astroncite{Spalholz and Tattersall}{1983}]{pmid6602221}
+Spalholz, B.~A. and Tattersall, P. (1983).
+\newblock {{I}nteraction of minute virus of mice with differentiated cells:
+  strain-dependent target cell specificity is mediated by intracellular
+  factors}.
+\newblock {\em J. Virol.}, 46(3):937--943.
+
+\bibitem[\protect\astroncite{Streck et~al.}{2011}]{pmid21795474}
+Streck, A.~F., Bonatto, S.~L., Homeier, T., Souza, C.~K., Goncalves, K.~R.,
+  Gava, D., Canal, C.~W., and Truyen, U. (2011).
+\newblock {{H}igh rate of viral evolution in the capsid protein of porcine
+  parvovirus}.
+\newblock {\em J. Gen. Virol.}, 92(Pt 11):2628--2636.
+
+\bibitem[\protect\astroncite{Tattersall}{1972}]{pmid4673484}
+Tattersall, P. (1972).
+\newblock {{R}eplication of the parvovirus {M}{V}{M}. {I}. {D}ependence of
+  virus multiplication and plaque formation on cell growth}.
+\newblock {\em J. Virol.}, 10(4):586--590.
+
+\bibitem[\protect\astroncite{Tattersall}{2006}]{protoparvovirus}
+Tattersall, P. (2006).
+\newblock {T}he evolution of parvovirus taxonomy.
+\newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
+  Parrish, C.~R., editors, {\em {{P}arvoviruses}}, page~9. Hodder Arnold,
+  London, UK.
+
+\bibitem[\protect\astroncite{Tattersall and Bratton}{1983}]{pmid6602222}
+Tattersall, P. and Bratton, J. (1983).
+\newblock {{R}eciprocal productive and restrictive virus-cell interactions of
+  immunosuppressive and prototype strains of minute virus of mice}.
+\newblock {\em J. Virol.}, 46(3):944--955.
+
+\bibitem[\protect\astroncite{Tattersall and Gardiner}{1990}]{S-phase}
+Tattersall, P. and Gardiner, E.~M. (1990).
+\newblock {A}utonomous parvovirus-host-cell interactions.
+\newblock In Tijssen, P., editor, {\em {{H}andbook of parvoviruses}}, volume~1,
+  pages 111--121. CRC Press, Inc., Boca Raton, FL.
+
+\bibitem[\protect\astroncite{Tattersall et~al.}{1977}]{pmid864702}
+Tattersall, P., Shatkin, A.~J., and Ward, D.~C. (1977).
+\newblock {{S}equence homology between the structural polypeptides of minute
+  virus of mice}.
+\newblock {\em J. Mol. Biol.}, 111(4):375--394.
+
+\bibitem[\protect\astroncite{Tattersall and Ward}{1978}]{Genome1}
+Tattersall, P. and Ward, D.~C. (1978).
+\newblock {T}he parvoviruses - an introduction.
+\newblock In Ward, D.~C. and Tattersall, P., editors, {\em {{R}eplication of
+  mammalian parvoviruses.}}, pages 3--12. Cold Spring Harbor Laboratory Press,
+  Cold Spring Harbor, NY.
+
+\bibitem[\protect\astroncite{Tennant et~al.}{1969}]{pmid16789120}
+Tennant, R.~W., Layman, K.~R., and Hand, R.~E. (1969).
+\newblock {{E}ffect of cell physiological state on infection by rat virus}.
+\newblock {\em J. Virol.}, 4(6):872--878.
+
+\bibitem[\protect\astroncite{Tijssen}{1990}]{handbook}
+Tijssen, P. (1990).
+\newblock {\em {{H}andbook of parvoviruses}}, volume~1.
+\newblock CRC Press, Inc., Boca Raton, FL.
+
+\bibitem[\protect\astroncite{Tijssen}{1999}]{pmid10497831}
+Tijssen, P. (1999).
+\newblock {{M}olecular and structural basis of the evolution of parvovirus
+  tropism}.
+\newblock {\em Acta Vet. Hung.}, 47(3):379--394.
+
+\bibitem[\protect\astroncite{Trampel et~al.}{1983}]{pmid6847550}
+Trampel, D.~W., Kinden, D.~A., Solorzano, R.~F., and Stogsdill, P.~L. (1983).
+\newblock {{P}arvovirus-like enteropathy in {M}issouri turkeys}.
+\newblock {\em Avian Dis.}, 27(1):49--54.
+
+\bibitem[\protect\astroncite{Truyen et~al.}{1994}]{pmid7513918}
+Truyen, U., Agbandje, M., and Parrish, C.~R. (1994).
+\newblock {{C}haracterization of the feline host range and a specific epitope
+  of feline panleukopenia virus}.
+\newblock {\em Virology}, 200(2):494--503.
+
+\bibitem[\protect\astroncite{Tsao et~al.}{1991}]{pmid2006420}
+Tsao, J., Chapman, M.~S., Agbandje, M., Keller, W., Smith, K., Wu, H., Luo, M.,
+  Smith, T.~J., Rossmann, M.~G., and Compans, R.~W. (1991).
+\newblock {{T}he three-dimensional structure of canine parvovirus and its
+  functional implications}.
+\newblock {\em Science}, 251(5000):1456--1464.
+
+\bibitem[\protect\astroncite{Tsao et~al.}{1992}]{pmid1616694}
+Tsao, J., Chapman, M.~S., Wu, H., Agbandje, M., Keller, W., and Rossmann, M.~G.
+  (1992).
+\newblock {{S}tructure determination of monoclinic canine parvovirus}.
+\newblock {\em Acta Crystallogr., B}, 48 ( Pt 1):75--88.
+
+\bibitem[\protect\astroncite{Tse et~al.}{2011}]{pmid21980506}
+Tse, H., Tsoi, H.~W., Teng, J.~L., Chen, X.~C., Liu, H., Zhou, B., Zheng,
+  B.~J., Woo, P.~C., Lau, S.~K., and Yuen, K.~Y. (2011).
+\newblock {{D}iscovery and genomic characterization of a novel ovine
+  partetravirus and a new genotype of bovine partetravirus}.
+\newblock {\em PLoS ONE}, 6(9):e25619.
+
+\bibitem[\protect\astroncite{Tullis et~al.}{1992}]{pmid1448928}
+Tullis, G.~E., Burger, L.~R., and Pintel, D.~J. (1992).
+\newblock {{T}he trypsin-sensitive {R}{V}{E}{R} domain in the capsid proteins
+  of minute virus of mice is required for efficient cell binding and viral
+  infection but not for proteolytic processing in vivo}.
+\newblock {\em Virology}, 191(2):846--857.
+
+\bibitem[\protect\astroncite{van Leengoed et~al.}{1983}]{pmid6314634}
+van Leengoed, L.~A., Vos, J., Gruys, E., Rondhuis, P., and Brand, A. (1983).
+\newblock {{P}orcine {P}arvovirus infection: review and diagnosis in a sow herd
+  with reproductive failure}.
+\newblock {\em Vet Q}, 5(3):131--141.
+
+\bibitem[\protect\astroncite{Vasudevacharya and Compans}{1992}]{pmid1532105}
+Vasudevacharya, J. and Compans, R.~W. (1992).
+\newblock {{T}he {N}{S} and capsid genes determine the host range of porcine
+  parvovirus}.
+\newblock {\em Virology}, 187(2):515--524.
+
+\bibitem[\protect\astroncite{Vicente et~al.}{2007}]{pmid17553287}
+Vicente, D., Cilla, G., Montes, M., Perez-Yarza, E.~G., and Perez-Trallero, E.
+  (2007).
+\newblock {{H}uman bocavirus, a respiratory and enteric virus}.
+\newblock {\em Emerging Infect. Dis.}, 13(4):636--637.
+
+\bibitem[\protect\astroncite{Walker et~al.}{1997}]{pmid9261429}
+Walker, S.~L., Wonderling, R.~S., and Owens, R.~A. (1997).
+\newblock {{M}utational analysis of the adeno-associated virus type 2 {R}ep68
+  protein helicase motifs}.
+\newblock {\em J. Virol.}, 71(9):6996--7004.
+
+\bibitem[\protect\astroncite{Ward and Tattersall}{1982}]{Genome2}
+Ward, D.~C. and Tattersall, P. (1982).
+\newblock {M}inute virus of mice.
+\newblock In Foster, H.~L., Small, J.~D., and Fox, J.~G., editors, {\em {{T}he
+  mouse in biomedical research}}, volume~2, pages 313--334. Academic Press,
+  Inc., New York, NY.
+
+\bibitem[\protect\astroncite{Weichert et~al.}{1998}]{pmid9770425}
+Weichert, W.~S., Parker, J.~S., Wahid, A.~T., Chang, S.~F., Meier, E., and
+  Parrish, C.~R. (1998).
+\newblock {{A}ssaying for structural variation in the parvovirus capsid and its
+  role in infection}.
+\newblock {\em Virology}, 250(1):106--117.
+
+\bibitem[\protect\astroncite{Wichman et~al.}{1999}]{pmid10411508}
+Wichman, H.~A., Badgett, M.~R., Scott, L.~A., Boulianne, C.~M., and Bull, J.~J.
+  (1999).
+\newblock {{D}ifferent trajectories of parallel evolution during viral
+  adaptation}.
+\newblock {\em Science}, 285(5426):422--424.
+
+\bibitem[\protect\astroncite{Wu et~al.}{1993}]{pmid15299494}
+Wu, H., Keller, W., and Rossmann, M.~G. (1993).
+\newblock {{D}etermination and refinement of the canine parvovirus empty-capsid
+  structure}.
+\newblock {\em Acta Crystallogr. D Biol. Crystallogr.}, 49(Pt 6):572--579.
+
+\bibitem[\protect\astroncite{Xiao et~al.}{2013a}]{pmid23762339}
+Xiao, C.~T., Gimenez-Lirola, L.~G., Jiang, Y.~H., Halbur, P.~G., and
+  Opriessnig, T. (2013a).
+\newblock {{C}haracterization of a novel porcine parvovirus tentatively
+  designated {P}{P}{V}5}.
+\newblock {\em PLoS ONE}, 8(6):e65312.
+
+\bibitem[\protect\astroncite{Xiao et~al.}{2013b}]{pmid23405295}
+Xiao, C.~T., Halbur, P.~G., and Opriessnig, T. (2013b).
+\newblock {{C}omplete {G}enome {S}equence of a {N}ovel {P}orcine {P}arvovirus
+  ({P}{P}{V}) {P}rovisionally {D}esignated {P}{P}{V}5}.
+\newblock {\em Genome Announc}, 1(1).
+
+\bibitem[\protect\astroncite{Xie et~al.}{2002}]{pmid12136130}
+Xie, Q., Bu, W., Bhatia, S., Hare, J., Somasundaram, T., Azzi, A., and Chapman,
+  M.~S. (2002).
+\newblock {{T}he atomic structure of adeno-associated virus ({A}{A}{V}-2), a
+  vector for human gene therapy}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 99(16):10405--10410.
+
+\bibitem[\protect\astroncite{Xie and Chapman}{1996}]{pmid8969301}
+Xie, Q. and Chapman, M.~S. (1996).
+\newblock {{C}anine parvovirus capsid structure, analyzed at 2.9 {A}
+  resolution}.
+\newblock {\em J. Mol. Biol.}, 264(3):497--520.
+
+\bibitem[\protect\astroncite{Yu et~al.}{2012}]{pmid22235298}
+Yu, X., Zhang, J., Hong, L., Wang, J., Yuan, Z., Zhang, X., and Ghildyal, R.
+  (2012).
+\newblock {{H}igh prevalence of human parvovirus 4 infection in {H}{B}{V} and
+  {H}{C}{V} infected individuals in shanghai}.
+\newblock {\em PLoS ONE}, 7(1):e29474.
+
+\bibitem[\protect\astroncite{Zsak et~al.}{2008}]{pmid18622862}
+Zsak, L., Strother, K.~O., and Kisary, J. (2008).
+\newblock {{P}artial genome sequence analysis of parvoviruses associated with
+  enteric disease in poultry}.
+\newblock {\em Avian Pathol.}, 37(4):435--441.
 
 \end{thebibliography}

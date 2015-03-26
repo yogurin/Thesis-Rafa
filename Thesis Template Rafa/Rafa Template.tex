@@ -38,6 +38,20 @@
 \usepackage{nomencl}
 \usepackage{tocloft}
 \usepackage{scrpage2}
+\usepackage[numbers]{natbib}
+\usepackage{sidecap}
+
+\usepackage{graphicx} 
+\usepackage{caption}
+\captionsetup[table]{font=small,skip=0pt}
+\captionsetup[figure]{font=small,skip=0pt}      
+\usepackage[font=small,skip=0pt]{caption}
+
+\setlength\intextsep{0pt} %space between figures and text..
+
+%\usepackage{float}
+%\floatstyle{boxed}
+%\restylefloat{figure} if thin borders around all figures are wished
 
 \deftripstyle{raphimen}[0pt][0pt]{\headmark}{}{\pagemark}{}{}{}
 \setlength{\skip\footins}{1.5cm}
@@ -246,8 +260,9 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 %----------------------------------------------------------------------------------------
 
 \pagestyle{raphimen}
+\bibliographystyle{apa}
 \bibliography{MyBib}
-\bibliographystyle{jcp-tit}
+%\bibliographystyle{jcp-tit}
 
 
 \end{document}
