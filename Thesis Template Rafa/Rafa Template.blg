@@ -1,9 +1,8 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Rafa Template.aux
-The style file: apa.bst
+The style file: abbrvnat.bst
 Database file #1: MyBib.bib
 I was expecting a `,' or a `}'---line 2220 of file MyBib.bib
  :   edition = 4
  :              th,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for ""
 (There was 1 error message)

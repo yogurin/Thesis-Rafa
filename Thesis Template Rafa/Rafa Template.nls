@@ -5,7 +5,7 @@
   \item [{AAV}]\begingroup Adeno-associated virus\nomeqref {\relax 1.0}
 		\nompageref{13}
   \item [{AMDV}]\begingroup Aleutian mink disease virus\nomeqref {\relax 1.0}
-		\nompageref{7}
+		\nompageref{6}
   \item [{B19V}]\begingroup Human parvovirus B19\nomeqref {\relax 0}
 		\nompageref{III}
   \item [{Bp}]\begingroup Base pair\nomeqref {\relax 0}\nompageref{III}
@@ -16,52 +16,59 @@
   \item [{CPV}]\begingroup Canine parvovirus\nomeqref {\relax 1.0}
 		\nompageref{13}
   \item [{CRE}]\begingroup cAMP-responsive element\nomeqref {\relax 1.0}
-		\nompageref{19}
+		\nompageref{18}
+  \item [{cRF}]\begingroup Closed replicative form DNA\nomeqref {\relax 1.0}
+		\nompageref{20}
   \item [{CV}]\begingroup Column volume\nomeqref {\relax 2.0}
-		\nompageref{25}
+		\nompageref{24}
   \item [{Da}]\begingroup Dalton\nomeqref {\relax 1.0}\nompageref{8}
   \item [{DMEM}]\begingroup Dulbecco modified Eagle's medium\nomeqref {\relax 2.0}
 		\nompageref{23}
   \item [{DNA}]\begingroup Deoxyribonucleic acid\nomeqref {\relax 1.0}
-		\nompageref{4}
+		\nompageref{5}
   \item [{DPV}]\begingroup Duck parvovirus\nomeqref {\relax 1.0}
 		\nompageref{7}
+  \item [{dRF}]\begingroup Dimeric replicative form DNA\nomeqref {\relax 1.0}
+		\nompageref{20}
   \item [{dsDNA}]\begingroup Double stranded DNA\nomeqref {\relax 1.0}
-		\nompageref{16}
+		\nompageref{15}
   \item [{EPC}]\begingroup Erythroid progenitor cell\nomeqref {\relax 1.0}
-		\nompageref{10}
+		\nompageref{9}
   \item [{FCS}]\begingroup Fetal calf serum\nomeqref {\relax 2.0}
 		\nompageref{23}
   \item [{FPV}]\begingroup Feline parvovirus\nomeqref {\relax 1.0}
 		\nompageref{13}
   \item [{GFAV}]\begingroup Gray fox amdovirus\nomeqref {\relax 1.0}
-		\nompageref{7}
+		\nompageref{6}
   \item [{GmDNV}]\begingroup Galleria mellonella densovirus\nomeqref {\relax 1.0}
-		\nompageref{4}
+		\nompageref{5}
   \item [{GPV}]\begingroup Goose parvovirus\nomeqref {\relax 1.0}
 		\nompageref{7}
   \item [{HBoV}]\begingroup Human Bocavirus\nomeqref {\relax 1.0}
-		\nompageref{11}
+		\nompageref{10}
   \item [{HBV}]\begingroup Hepatitis B virus\nomeqref {\relax 1.0}
-		\nompageref{11}
+		\nompageref{10}
   \item [{HCV}]\begingroup Hepatitis C virus\nomeqref {\relax 1.0}
-		\nompageref{11}
+		\nompageref{10}
   \item [{HIV}]\begingroup Human immunodeficiency virus\nomeqref {\relax 1.0}
-		\nompageref{11}
+		\nompageref{10}
+  \item [{HMG~1/2}]\begingroup High mobility group proteins 1 and 2\nomeqref {\relax 1.0}
+		\nompageref{20}
   \item [{IF}]\begingroup Immunofluorescence\nomeqref {\relax 2.0}
 		\nompageref{23}
   \item [{IP}]\begingroup Immunoprecipitation\nomeqref {\relax 2.0}
 		\nompageref{26}
   \item [{ITR}]\begingroup Inverted terminal repeat\nomeqref {\relax 1.0}
-		\nompageref{10}
-  \item [{Kb}]\begingroup Kilo base\nomeqref {\relax 1.0}
-		\nompageref{10}
+		\nompageref{9}
+  \item [{Kb}]\begingroup Kilo base\nomeqref {\relax 1.0}\nompageref{9}
   \item [{kDa}]\begingroup Kilodalton\nomeqref {\relax 1.0}
 		\nompageref{8}
   \item [{KRV}]\begingroup Kilham rat virus\nomeqref {\relax 1.0}
 		\nompageref{10}
   \item [{mAb}]\begingroup Monoclonal antibody\nomeqref {\relax 2.0}
 		\nompageref{23}
+  \item [{mRF}]\begingroup Monomeric replicative form DNA\nomeqref {\relax 1.0}
+		\nompageref{20}
   \item [{MVM}]\begingroup Minute virus of mice\nomeqref {\relax 1.0}
 		\nompageref{13}
   \item [{MVMi}]\begingroup Immunosuppressive strain of MVM\nomeqref {\relax 1.0}
@@ -69,15 +76,17 @@
   \item [{MVMp}]\begingroup Prototype strain of MVM\nomeqref {\relax 1.0}
 		\nompageref{13}
   \item [{NIH}]\begingroup National institutes of health\nomeqref {\relax 1.0}
-		\nompageref{13}
+		\nompageref{12}
   \item [{NS}]\begingroup Non-structural (protein)\nomeqref {\relax 1.0}
-		\nompageref{19}
+		\nompageref{18}
   \item [{Nt}]\begingroup Nucleotide\nomeqref {\relax 1.0}
-		\nompageref{10}
+		\nompageref{9}
   \item [{ORF}]\begingroup Open reading frame\nomeqref {\relax 1.0}
-		\nompageref{11}
+		\nompageref{10}
   \item [{PARV4}]\begingroup Parvovirus 4\nomeqref {\relax 1.0}
-		\nompageref{11}
+		\nompageref{10}
+  \item [{PCNA}]\begingroup Proliferating cell nuclear antigen\nomeqref {\relax 1.0}
+		\nompageref{20}
   \item [{PCR}]\begingroup Polymerase chain reaction\nomeqref {\relax 2.0}
 		\nompageref{23}
   \item [{PEC}]\begingroup Poult enteritis complex\nomeqref {\relax 1.0}
@@ -85,40 +94,44 @@
   \item [{PEMS}]\begingroup Poult enteritis mortality syndrome\nomeqref {\relax 1.0}
 		\nompageref{7}
   \item [{PIF}]\begingroup Parvovirus initiation factor\nomeqref {\relax 1.0}
-		\nompageref{19}
+		\nompageref{18}
   \item [{PLA\textsubscript{2}}]\begingroup Phospholipase A2\nomeqref {\relax 1.0}
-		\nompageref{7}
+		\nompageref{6}
   \item [{PPV}]\begingroup Porcine parvovirus\nomeqref {\relax 1.0}
-		\nompageref{15}
+		\nompageref{14}
   \item [{PstDNV}]\begingroup Penaeus stylirostris densovirus\nomeqref {\relax 1.0}
-		\nompageref{4}
+		\nompageref{5}
   \item [{qPCR}]\begingroup Quantitative PCR\nomeqref {\relax 2.0}
 		\nompageref{23}
+  \item [{RCR}]\begingroup Rolling circle replication\nomeqref {\relax 1.0}
+		\nompageref{20}
   \item [{RF}]\begingroup Replicative form\nomeqref {\relax 1.0}
-		\nompageref{16}
+		\nompageref{15}
+  \item [{RHR}]\begingroup Rolling hairpin replication\nomeqref {\relax 1.0}
+		\nompageref{20}
   \item [{RNA}]\begingroup Ribonucleic acid\nomeqref {\relax 1.0}
 		\nompageref{5}
   \item [{RSS}]\begingroup Runting-stunting syndrome\nomeqref {\relax 1.0}
 		\nompageref{7}
   \item [{SAT}]\begingroup Small alternatively translated protein\nomeqref {\relax 1.0}
-		\nompageref{19}
+		\nompageref{18}
   \item [{SCID}]\begingroup Severe combined immunodeficiency\nomeqref {\relax 1.0}
-		\nompageref{16}
+		\nompageref{15}
   \item [{SN}]\begingroup Supernatant\nomeqref {\relax 2.0}
 		\nompageref{23}
   \item [{ssDNA}]\begingroup Single stranded DNA \nomeqref {\relax 1.0}
-		\nompageref{16}
+		\nompageref{15}
   \item [{SV40}]\begingroup Simian vacuolating virus 40 or Simian virus 40\nomeqref {\relax 2.0}
 		\nompageref{23}
   \item [{TuPV}]\begingroup Turkey parvovirus\nomeqref {\relax 1.0}
 		\nompageref{7}
   \item [{VP1}]\begingroup Viral protein 1\nomeqref {\relax 1.0}
-		\nompageref{19}
+		\nompageref{18}
   \item [{VP1u}]\begingroup VP1 unique region\nomeqref {\relax 1.0}
-		\nompageref{11}
+		\nompageref{10}
   \item [{VP2}]\begingroup Viral protein 2\nomeqref {\relax 1.0}
-		\nompageref{19}
+		\nompageref{18}
   \item [{VP3}]\begingroup Viral protein 3\nomeqref {\relax 1.0}
-		\nompageref{19}
+		\nompageref{18}
 
 \end{thenomenclature}
