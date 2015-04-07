@@ -27,11 +27,11 @@
 \contentsline {section}{\numberline {1.7}Nucleic Acids}{16}{section.1.7}
 \contentsline {subsection}{\numberline {1.7.1}Genome architecture}{16}{subsection.1.7.1}
 \contentsline {subsection}{\numberline {1.7.2}Replication}{18}{subsection.1.7.2}
-\contentsline {subsection}{\numberline {1.7.3}Transcriptome}{21}{subsection.1.7.3}
-\contentsline {section}{\numberline {1.8}Viral proteins}{21}{section.1.8}
-\contentsline {subsection}{\numberline {1.8.1}Structural Proteins}{21}{subsection.1.8.1}
-\contentsline {subsection}{\numberline {1.8.2}Non-structural proteins}{21}{subsection.1.8.2}
-\contentsline {subsection}{\numberline {1.8.3}Packaging}{21}{subsection.1.8.3}
+\contentsline {subsection}{\numberline {1.7.3}Transcriptome}{22}{subsection.1.7.3}
+\contentsline {section}{\numberline {1.8}Viral proteins}{22}{section.1.8}
+\contentsline {subsection}{\numberline {1.8.1}Structural Proteins}{22}{subsection.1.8.1}
+\contentsline {subsection}{\numberline {1.8.2}Non-structural proteins}{22}{subsection.1.8.2}
+\contentsline {subsection}{\numberline {1.8.3}Packaging}{22}{subsection.1.8.3}
 \contentsline {chapter}{\numberline {2}Methods}{23}{chapter.2}
 \contentsline {section}{\numberline {2.1}Cell Cultures}{23}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Freezing and thawing of cells}{23}{subsection.2.1.1}
@@ -47,5 +47,5 @@
 \contentsline {part}{\numberline {II}Publication}{29}{part.2}
 \cftpagenumbersoff {chapter}
 \contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{31}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{31}{section*.18}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{31}{section*.19}
 \contentsline {part}{\numberline {III}Discussion}{43}{part.3}

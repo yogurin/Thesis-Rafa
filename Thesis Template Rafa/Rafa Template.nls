@@ -18,18 +18,18 @@
   \item [{CRE}]\begingroup cAMP-responsive element\nomeqref {\relax 1.0}
 		\nompageref{18}
   \item [{cRF}]\begingroup Closed replicative form DNA\nomeqref {\relax 1.0}
-		\nompageref{20}
+		\nompageref{21}
   \item [{CV}]\begingroup Column volume\nomeqref {\relax 2.0}
 		\nompageref{24}
   \item [{Da}]\begingroup Dalton\nomeqref {\relax 1.0}\nompageref{8}
   \item [{DMEM}]\begingroup Dulbecco modified Eagle's medium\nomeqref {\relax 2.0}
 		\nompageref{23}
   \item [{DNA}]\begingroup Deoxyribonucleic acid\nomeqref {\relax 1.0}
-		\nompageref{5}
+		\nompageref{4}
   \item [{DPV}]\begingroup Duck parvovirus\nomeqref {\relax 1.0}
 		\nompageref{7}
   \item [{dRF}]\begingroup Dimeric replicative form DNA\nomeqref {\relax 1.0}
-		\nompageref{20}
+		\nompageref{21}
   \item [{dsDNA}]\begingroup Double stranded DNA\nomeqref {\relax 1.0}
 		\nompageref{15}
   \item [{EPC}]\begingroup Erythroid progenitor cell\nomeqref {\relax 1.0}
@@ -41,7 +41,7 @@
   \item [{GFAV}]\begingroup Gray fox amdovirus\nomeqref {\relax 1.0}
 		\nompageref{6}
   \item [{GmDNV}]\begingroup Galleria mellonella densovirus\nomeqref {\relax 1.0}
-		\nompageref{5}
+		\nompageref{4}
   \item [{GPV}]\begingroup Goose parvovirus\nomeqref {\relax 1.0}
 		\nompageref{7}
   \item [{HBoV}]\begingroup Human Bocavirus\nomeqref {\relax 1.0}
@@ -52,8 +52,8 @@
 		\nompageref{10}
   \item [{HIV}]\begingroup Human immunodeficiency virus\nomeqref {\relax 1.0}
 		\nompageref{10}
-  \item [{HMG~1/2}]\begingroup High mobility group proteins 1 and 2\nomeqref {\relax 1.0}
-		\nompageref{20}
+  \item [{HMG 1/2}]\begingroup High mobility group proteins 1 and 2\nomeqref {\relax 1.0}
+		\nompageref{21}
   \item [{IF}]\begingroup Immunofluorescence\nomeqref {\relax 2.0}
 		\nompageref{23}
   \item [{IP}]\begingroup Immunoprecipitation\nomeqref {\relax 2.0}
@@ -68,7 +68,7 @@
   \item [{mAb}]\begingroup Monoclonal antibody\nomeqref {\relax 2.0}
 		\nompageref{23}
   \item [{mRF}]\begingroup Monomeric replicative form DNA\nomeqref {\relax 1.0}
-		\nompageref{20}
+		\nompageref{21}
   \item [{MVM}]\begingroup Minute virus of mice\nomeqref {\relax 1.0}
 		\nompageref{13}
   \item [{MVMi}]\begingroup Immunosuppressive strain of MVM\nomeqref {\relax 1.0}
@@ -86,7 +86,7 @@
   \item [{PARV4}]\begingroup Parvovirus 4\nomeqref {\relax 1.0}
 		\nompageref{10}
   \item [{PCNA}]\begingroup Proliferating cell nuclear antigen\nomeqref {\relax 1.0}
-		\nompageref{20}
+		\nompageref{21}
   \item [{PCR}]\begingroup Polymerase chain reaction\nomeqref {\relax 2.0}
 		\nompageref{23}
   \item [{PEC}]\begingroup Poult enteritis complex\nomeqref {\relax 1.0}
@@ -100,15 +100,15 @@
   \item [{PPV}]\begingroup Porcine parvovirus\nomeqref {\relax 1.0}
 		\nompageref{14}
   \item [{PstDNV}]\begingroup Penaeus stylirostris densovirus\nomeqref {\relax 1.0}
-		\nompageref{5}
+		\nompageref{4}
   \item [{qPCR}]\begingroup Quantitative PCR\nomeqref {\relax 2.0}
 		\nompageref{23}
   \item [{RCR}]\begingroup Rolling circle replication\nomeqref {\relax 1.0}
-		\nompageref{20}
+		\nompageref{21}
   \item [{RF}]\begingroup Replicative form\nomeqref {\relax 1.0}
 		\nompageref{15}
   \item [{RHR}]\begingroup Rolling hairpin replication\nomeqref {\relax 1.0}
-		\nompageref{20}
+		\nompageref{21}
   \item [{RNA}]\begingroup Ribonucleic acid\nomeqref {\relax 1.0}
 		\nompageref{5}
   \item [{RSS}]\begingroup Runting-stunting syndrome\nomeqref {\relax 1.0}
