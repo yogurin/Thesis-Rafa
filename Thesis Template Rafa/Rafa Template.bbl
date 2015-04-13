@@ -1,9 +1,16 @@
-\begin{thebibliography}{230}
+\begin{thebibliography}{266}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adeyemi et~al.(2010)Adeyemi, Landry, Davis, Weitzman, and
+  Pintel]{pmid20949077}
+R.~O. Adeyemi, S.~Landry, M.~E. Davis, M.~D. Weitzman, and D.~J. Pintel.
+\newblock {{P}arvovirus minute virus of mice induces a {D}{N}{A} damage
+  response that facilitates viral replication}.
+\newblock \emph{PLoS Pathog.}, 6\penalty0 (10):\penalty0 e1001141, 2010.
 
 \bibitem[Adlhoch et~al.(2010)Adlhoch, Kaiser, Ellerbrok, and
   Pauli]{pmid20653980}
@@ -38,6 +45,12 @@ M.~Agbandje-McKenna, A.~L. Llamas-Saiz, F.~Wang, P.~Tattersall, and M.~G.
 \newblock {{F}unctional implications of the structure of the murine parvovirus,
   minute virus of mice}.
 \newblock \emph{Structure}, 6\penalty0 (11):\penalty0 1369--1381, Nov 1998.
+
+\bibitem[Ahn et~al.(1989)Ahn, Gavin, Kumar, and Ward]{pmid2585609}
+J.~K. Ahn, B.~J. Gavin, G.~Kumar, and D.~C. Ward.
+\newblock {{T}ranscriptional analysis of minute virus of mice {P}4 promoter
+  mutants}.
+\newblock \emph{J. Virol.}, 63\penalty0 (12):\penalty0 5425--5439, Dec 1989.
 
 \bibitem[Alexandersen et~al.(1988)Alexandersen, Bloom, and
   Perryman]{pmid2843669}
@@ -97,6 +110,13 @@ C.~R. Astell, M.~B. Chow, and D.~C. Ward.
   for autonomous parvovirus {D}{N}{A} replication}.
 \newblock \emph{J. Virol.}, 54\penalty0 (1):\penalty0 171--177, Apr 1985.
 
+\bibitem[Astell et~al.(1986)Astell, Gardiner, and Tattersall]{pmid3502703}
+C.~R. Astell, E.~M. Gardiner, and P.~Tattersall.
+\newblock {{D}{N}{A} sequence of the lymphotropic variant of minute virus of
+  mice, {M}{V}{M}(i), and comparison with the {D}{N}{A} sequence of the
+  fibrotropic prototype strain}.
+\newblock \emph{J. Virol.}, 57\penalty0 (2):\penalty0 656--669, Feb 1986.
+
 \bibitem[Atchison(1970)]{pmid4318977}
 R.~W. Atchison.
 \newblock {{T}he role of herpesviruses in adenovirus-associated virus
@@ -138,6 +158,13 @@ T.~Bashir, R.~Horlein, J.~Rommelaere, and K.~Willwand.
   elongation machinery in vitro: {A} parvovirus {D}{N}{A} replication model}.
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 97\penalty0 (10):\penalty0
   5522--5527, May 2000.
+
+\bibitem[Bashir et~al.(2001)Bashir, Rommelaere, and Cziepluch]{pmid11287588}
+T.~Bashir, J.~Rommelaere, and C.~Cziepluch.
+\newblock {{I}n vivo accumulation of cyclin {A} and cellular replication
+  factors in autonomous parvovirus minute virus of mice-associated replication
+  bodies}.
+\newblock \emph{J. Virol.}, 75\penalty0 (9):\penalty0 4394--4398, May 2001.
 
 \bibitem[Bastien et~al.(2007)Bastien, Chui, Robinson, Lee, Dust, Hart, and
   Li]{pmid17122013}
@@ -236,15 +263,15 @@ G.~J. Bourguignon, P.~J. Tattersall, and D.~C. Ward.
 
 \bibitem[Brailovsky(1966)]{pmid5902774}
 C.~Brailovsky.
-\newblock {[{R}esearch on the rat {K} virus ({P}arvovirus ratti). {I}. {A}
+\newblock {{R}esearch on the rat {K} virus ({P}arvovirus ratti). {I}. {A}
   method of titration by plaques and its application to the study of the
-  multiplication cycle of the virus]}.
+  multiplication cycle of the virus}.
 \newblock \emph{Ann Inst Pasteur (Paris)}, 110\penalty0 (1):\penalty0 49--59,
   Jan 1966.
 
 \bibitem[Brauniger et~al.(1994)Brauniger, Fischer, and Peters]{pmid7848502}
 S.~Brauniger, I.~Fischer, and J.~Peters.
-\newblock {[{T}he temperature stability of bovine parvovirus]}.
+\newblock {{T}he temperature stability of bovine parvovirus}.
 \newblock \emph{Zentralbl Hyg Umweltmed}, 196\penalty0 (3):\penalty0 270--278,
   Oct 1994.
 
@@ -375,11 +402,24 @@ J.~Christensen, S.~F. Cotmore, and P.~Tattersall.
   with origin {D}{N}{A} for nicking to occur}.
 \newblock \emph{J. Virol.}, 75\penalty0 (15):\penalty0 7009--7017, Aug 2001.
 
+\bibitem[Clemens and Pintel(1987)]{pmid3660591}
+K.~E. Clemens and D.~Pintel.
+\newblock {{M}inute virus of mice ({M}{V}{M}) m{R}{N}{A}s predominantly
+  polyadenylate at a single site}.
+\newblock \emph{Virology}, 160\penalty0 (2):\penalty0 511--514, Oct 1987.
+
 \bibitem[Clemens and Pintel(1988)]{pmid3346950}
 K.~E. Clemens and D.~J. Pintel.
 \newblock {{T}he two transcription units of the autonomous parvovirus minute
   virus of mice are transcribed in a temporal order}.
 \newblock \emph{J. Virol.}, 62\penalty0 (4):\penalty0 1448--1451, Apr 1988.
+
+\bibitem[Clemens et~al.(1990)Clemens, Cerutis, Burger, Yang, and
+  Pintel]{pmid2164605}
+K.~E. Clemens, D.~R. Cerutis, L.~R. Burger, C.~Q. Yang, and D.~J. Pintel.
+\newblock {{C}loning of minute virus of mice c{D}{N}{A}s and preliminary
+  analysis of individual viral proteins expressed in murine cells}.
+\newblock \emph{J. Virol.}, 64\penalty0 (8):\penalty0 3967--3973, Aug 1990.
 
 \bibitem[Colomar et~al.(1998)Colomar, Hirt, and Beard]{pmid9519837}
 M.~C. Colomar, B.~Hirt, and P.~Beard.
@@ -394,6 +434,12 @@ N.~Cossons, E.~A. Faust, and M.~Zannis-Hadjopoulos.
 \newblock {{D}{N}{A} polymerase delta-dependent formation of a hairpin
   structure at the 5' terminal palindrome of the minute virus of mice genome}.
 \newblock \emph{Virology}, 216\penalty0 (1):\penalty0 258--264, Feb 1996.
+
+\bibitem[Cotmore(1990)]{polII}
+S.~F. Cotmore.
+\newblock {G}ene expression in the autonomous parvoviruses.
+\newblock In P.~Tijssen, editor, \emph{{{H}andbook of parvoviruses}}, volume~1,
+  pages 141--154. CRC Press, Inc., Boca Raton, FL, 1990.
 
 \bibitem[Cotmore and Tattersall(1986)]{pmid2939261}
 S.~F. Cotmore and P.~Tattersall.
@@ -418,6 +464,13 @@ S.~F. Cotmore and P.~Tattersall.
 \newblock {{A} genome-linked copy of the {N}{S}-1 polypeptide is located on the
   outside of infectious parvovirus particles}.
 \newblock \emph{J. Virol.}, 63\penalty0 (9):\penalty0 3902--3911, Sep 1989.
+
+\bibitem[Cotmore and Tattersall(1990)]{pmid2142555}
+S.~F. Cotmore and P.~Tattersall.
+\newblock {{A}lternate splicing in a parvoviral nonstructural gene links a
+  common amino-terminal sequence to downstream domains which confer radically
+  different localization and turnover characteristics}.
+\newblock \emph{Virology}, 177\penalty0 (2):\penalty0 477--487, Aug 1990.
 
 \bibitem[Cotmore and Tattersall(1992)]{pmid1530771}
 S.~F. Cotmore and P.~Tattersall.
@@ -497,6 +550,13 @@ S.~F. Cotmore and P.~Tattersall.
 \newblock {{P}arvoviruses: {S}mall {D}oes {N}ot {M}ean {S}imple}.
 \newblock \emph{Annual Review of Virol.}, 1:\penalty0 515--537, Jul 2014.
 
+\bibitem[Cotmore et~al.(1983)Cotmore, Sturzenbecker, and
+  Tattersall]{pmid6623929}
+S.~F. Cotmore, L.~J. Sturzenbecker, and P.~Tattersall.
+\newblock {{T}he autonomous parvovirus {M}{V}{M} encodes two nonstructural
+  proteins in addition to its capsid polypeptides}.
+\newblock \emph{Virology}, 129\penalty0 (2):\penalty0 333--343, Sep 1983.
+
 \bibitem[Cotmore et~al.(1989)Cotmore, Gunther, and Tattersall]{pmid2911112}
 S.~F. Cotmore, M.~Gunther, and P.~Tattersall.
 \newblock {{E}vidence for a ligation step in the {D}{N}{A} replication of the
@@ -543,6 +603,13 @@ L.~V. Crawford, E.~A. Follett, M.~G. Burdon, and D.~J. McGeoch.
 \newblock {{T}he {D}{N}{A} of a minute virus of mice}.
 \newblock \emph{J. Gen. Virol.}, 4\penalty0 (1):\penalty0 37--46, Jan 1969.
 
+\bibitem[Cziepluch et~al.(2000)Cziepluch, Lampel, Grewenig, Grund, Lichter, and
+  Rommelaere]{pmid10775619}
+C.~Cziepluch, S.~Lampel, A.~Grewenig, C.~Grund, P.~Lichter, and J.~Rommelaere.
+\newblock {{H}-1 parvovirus-associated replication bodies: a distinct
+  virus-induced nuclear structure}.
+\newblock \emph{J. Virol.}, 74\penalty0 (10):\penalty0 4807--4815, May 2000.
+
 \bibitem[Day and Zsak(2010)]{pmid20097398}
 J.~M. Day and L.~Zsak.
 \newblock {{D}etermination and analysis of the full-length chicken parvovirus
@@ -582,6 +649,21 @@ H.~D. Engers, J.~A. Louis, R.~H. Zubler, and B.~Hirt.
   parvovirus closely related to minute virus of mice}.
 \newblock \emph{J. Immunol.}, 127\penalty0 (6):\penalty0 2280--2285, Dec 1981.
 
+\bibitem[Faisst et~al.(1994)Faisst, Perros, Deleu, Spruyt, and
+  Rommelaere]{pmid8009857}
+S.~Faisst, M.~Perros, L.~Deleu, N.~Spruyt, and J.~Rommelaere.
+\newblock {{M}apping of upstream regulatory elements in the {P}4 promoter of
+  parvovirus minute virus of mice}.
+\newblock \emph{Virology}, 202\penalty0 (1):\penalty0 466--470, Jul 1994.
+
+\bibitem[Fuks et~al.(1996)Fuks, Deleu, Dinsart, Rommelaere, and
+  Faisst]{pmid8627649}
+F.~Fuks, L.~Deleu, C.~Dinsart, J.~Rommelaere, and S.~Faisst.
+\newblock {ras oncogene-dependent activation of the {P}4 promoter of minute
+  virus of mice through a proximal {P}4 element interacting with the {E}ts
+  family of transcription factors}.
+\newblock \emph{J. Virol.}, 70\penalty0 (3):\penalty0 1331--1339, Mar 1996.
+
 \bibitem[Gao et~al.(2003)Gao, Alvira, Somanathan, Lu, Vandenberghe, Rux,
   Calcedo, Sanmiguel, Abbas, and Wilson]{pmid12716974}
 G.~Gao, M.~R. Alvira, S.~Somanathan, Y.~Lu, L.~H. Vandenberghe, J.~J. Rux,
@@ -604,6 +686,20 @@ E.~M. Gardiner and P.~Tattersall.
   determinants of the parvovirus minute virus of mice}.
 \newblock \emph{J. Virol.}, 62\penalty0 (8):\penalty0 2605--2613, Aug
   1988{\natexlab{b}}.
+
+\bibitem[Gavin and Ward(1990)]{pmid2325201}
+B.~J. Gavin and D.~C. Ward.
+\newblock {{P}ositive and negative regulation of the minute virus of mice {P}38
+  promoter}.
+\newblock \emph{J. Virol.}, 64\penalty0 (5):\penalty0 2057--2063, May 1990.
+
+\bibitem[Gersappe and Pintel(1999)]{pmid9858560}
+A.~Gersappe and D.~J. Pintel.
+\newblock {{C}{A}- and purine-rich elements form a novel bipartite exon
+  enhancer which governs inclusion of the minute virus of mice {N}{S}2-specific
+  exon in both singly and doubly spliced m{R}{N}{A}s}.
+\newblock \emph{Mol. Cell. Biol.}, 19\penalty0 (1):\penalty0 364--375, Jan
+  1999.
 
 \bibitem[Gershon et~al.(1966)Gershon, Sachs, and Winocour]{pmid16578647}
 D.~Gershon, L.~Sachs, and E.~Winocour.
@@ -634,11 +730,24 @@ L.~Govindasamy, K.~Hueffer, C.~R. Parrish, and M.~Agbandje-McKenna.
   canine and feline parvoviruses and mutants}.
 \newblock \emph{J. Virol.}, 77\penalty0 (22):\penalty0 12211--12221, Nov 2003.
 
+\bibitem[Green(1991)]{pmid1839712}
+M.~R. Green.
+\newblock {{B}iochemical mechanisms of constitutive and regulated
+  pre-m{R}{N}{A} splicing}.
+\newblock \emph{Annu. Rev. Cell Biol.}, 7:\penalty0 559--599, 1991.
+
 \bibitem[Green and Roeder(1980)]{pmid6253077}
 M.~R. Green and R.~G. Roeder.
 \newblock {{D}efinition of a novel promoter for the major adenovirus-associated
   virus m{R}{N}{A}}.
 \newblock \emph{Cell}, 22\penalty0 (1 Pt 1):\penalty0 231--242, Nov 1980.
+
+\bibitem[Gu et~al.(1995)Gu, Plaza, Perros, Cziepluch, Rommelaere, and
+  Cornelis]{pmid7983715}
+Z.~Gu, S.~Plaza, M.~Perros, C.~Cziepluch, J.~Rommelaere, and J.~J. Cornelis.
+\newblock {{N}{F}-{Y} controls transcription of the minute virus of mice {P}4
+  promoter through interaction with an unusual binding site}.
+\newblock \emph{J. Virol.}, 69\penalty0 (1):\penalty0 239--246, Jan 1995.
 
 \bibitem[Gunther and Tattersall(1988)]{pmid3203742}
 M.~Gunther and P.~Tattersall.
@@ -680,6 +789,19 @@ M.~Hatanaka and R.~Dulbecco.
 \newblock {{I}nduction of {D}{N}{A} synthesis by {S}{V}40}.
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 56\penalty0 (2):\penalty0
   736--740, Aug 1966.
+
+\bibitem[Haut and Pintel(1998)]{pmid9499034}
+D.~D. Haut and D.~J. Pintel.
+\newblock {{I}ntron definition is required for excision of the minute virus of
+  mice small intron and definition of the upstream exon}.
+\newblock \emph{J. Virol.}, 72\penalty0 (3):\penalty0 1834--1843, Mar 1998.
+
+\bibitem[Haut and Pintel(1999)]{pmid10329570}
+D.~D. Haut and D.~J. Pintel.
+\newblock {{I}nclusion of the {N}{S}2-specific exon in minute virus of mice
+  m{R}{N}{A} is facilitated by an intronic splicing enhancer that affects
+  definition of the downstream small intron}.
+\newblock \emph{Virology}, 258\penalty0 (1):\penalty0 84--94, May 1999.
 
 \bibitem[Heegaard and Brown(2002)]{pmid12097253}
 E.~D. Heegaard and K.~E. Brown.
@@ -854,6 +976,12 @@ B.~Kupfer, J.~Vehreschild, O.~Cornely, R.~Kaiser, G.~Plum, S.~Viazov,
 \newblock \emph{Emerging Infect. Dis.}, 12\penalty0 (10):\penalty0 1614--1616,
   Oct 2006.
 
+\bibitem[Labieniec-Pintel and Pintel(1986)]{pmid3951017}
+L.~Labieniec-Pintel and D.~Pintel.
+\newblock {{T}he minute virus of mice {P}39 transcription unit can encode both
+  capsid proteins}.
+\newblock \emph{J. Virol.}, 57\penalty0 (3):\penalty0 1163--1167, Mar 1986.
+
 \bibitem[Lau et~al.(2008)Lau, Woo, Tse, Fu, Au, Chen, Tsoi, Tsang, Chan, Tsang,
   Li, Tse, Ng, Tsang, Zheng, Tam, Chan, Zhou, and Yuen]{pmid18632954}
 S.~K. Lau, P.~C. Woo, H.~Tse, C.~T. Fu, W.~K. Au, X.~C. Chen, H.~W. Tsoi, T.~H.
@@ -886,12 +1014,19 @@ M.~Lederman, J.~T. Patton, E.~R. Stout, and R.~C. Bates.
   infection}.
 \newblock \emph{J. Virol.}, 49\penalty0 (2):\penalty0 315--318, Feb 1984.
 
-\bibitem[Li et~al.(2012)Li, Ma, Xiao, Wen, Ni, Zhang, Fang, and
+\bibitem[Legendre and Rommelaere(1992)]{pmid1388209}
+D.~Legendre and J.~Rommelaere.
+\newblock {{T}erminal regions of the {N}{S}-1 protein of the parvovirus minute
+  virus of mice are involved in cytotoxicity and promoter trans inhibition}.
+\newblock \emph{J. Virol.}, 66\penalty0 (10):\penalty0 5705--5713, Oct 1992.
+
+\bibitem[Li et~al.(2012{\natexlab{a}})Li, Ma, Xiao, Wen, Ni, Zhang, Fang, and
   He]{pmid22247522}
 B.~Li, J.~Ma, S.~Xiao, L.~Wen, Y.~Ni, X.~Zhang, L.~Fang, and K.~He.
 \newblock {{G}enome sequence of a highly prevalent porcine partetravirus in
   {M}ainland {C}hina}.
-\newblock \emph{J. Virol.}, 86\penalty0 (3):\penalty0 1899, Feb 2012.
+\newblock \emph{J. Virol.}, 86\penalty0 (3):\penalty0 1899, Feb
+  2012{\natexlab{a}}.
 
 \bibitem[Li et~al.(2011)Li, Pesavento, Woods, Clifford, Luff, Wang, and
   Delwart]{pmid22000359}
@@ -901,13 +1036,19 @@ L.~Li, P.~A. Pesavento, L.~Woods, D.~L. Clifford, J.~Luff, C.~Wang, and
 \newblock \emph{Emerging Infect. Dis.}, 17\penalty0 (10):\penalty0 1876--1878,
   Oct 2011.
 
-\bibitem[LITTLEFIELD(1964)]{pmid14213660}
-J.~W. LITTLEFIELD.
-\newblock {{T}{H}{R}{E}{E} {D}{E}{G}{R}{E}{E}{S} {O}{F}
-  {G}{U}{A}{N}{Y}{L}{I}{C} {A}{C}{I}{D}--{I}{N}{O}{S}{I}{N}{I}{C} {A}{C}{I}{D}
-  {P}{Y}{R}{O}{P}{H}{O}{S}{P}{H}{O}{R}{Y}{L}{A}{S}{E}
-  {D}{E}{F}{I}{C}{I}{E}{N}{C}{Y} {I}{N} {M}{O}{U}{S}{E}
-  {F}{I}{B}{R}{O}{B}{L}{A}{S}{T}{S}}.
+\bibitem[Li et~al.(2012{\natexlab{b}})Li, Cotmore, and
+  Tattersall]{pmid22933276}
+L.~Li, S.~F. Cotmore, and P.~Tattersall.
+\newblock {{M}aintenance of the flip sequence orientation of the ears in the
+  parvoviral left-end hairpin is a nonessential consequence of the critical
+  asymmetry in the hairpin stem}.
+\newblock \emph{J. Virol.}, 86\penalty0 (22):\penalty0 12187--12197, Nov
+  2012{\natexlab{b}}.
+
+\bibitem[Littlefield(1964)]{pmid14213660}
+J.~W. Littlefield.
+\newblock {{T}hree degrees of guanylic acid - inosinic acid pyrophosphorylase
+  deficiency in mouse fibroblasts}.
 \newblock \emph{Nature}, 203:\penalty0 1142--1144, Sep 1964.
 
 \bibitem[Llamas-Saiz et~al.(1997)Llamas-Saiz, Agbandje-McKenna, Wikoff,
@@ -998,6 +1139,11 @@ B.~Mani, M.~Gerber, P.~Lieby, N.~Boschetti, C.~Kempf, and C.~Ros.
   comparison to other parvoviruses}.
 \newblock \emph{Transfusion}, 47\penalty0 (10):\penalty0 1765--1774, Oct 2007.
 
+\bibitem[Maniatis(1991)]{pmid1824726}
+T.~Maniatis.
+\newblock {{M}echanisms of alternative pre-m{R}{N}{A} splicing}.
+\newblock \emph{Science}, 251\penalty0 (4989):\penalty0 33--34, Jan 1991.
+
 \bibitem[Manning et~al.(2006)Manning, Russell, Eastick, Leadbetter, Hallam,
   Templeton, and Simmonds]{pmid17041855}
 A.~Manning, V.~Russell, K.~Eastick, G.~H. Leadbetter, N.~Hallam, K.~Templeton,
@@ -1031,6 +1177,11 @@ R.~McKenna, N.~H. Olson, P.~R. Chipman, T.~S. Baker, T.~F. Booth,
 \newblock {{T}hree-dimensional structure of {A}leutian mink disease parvovirus:
   implications for disease pathogenicity}.
 \newblock \emph{J. Virol.}, 73\penalty0 (8):\penalty0 6882--6891, Aug 1999.
+
+\bibitem[McKeown(1992)]{pmid1335742}
+M.~McKeown.
+\newblock {{A}lternative m{R}{N}{A} splicing}.
+\newblock \emph{Annu. Rev. Cell Biol.}, 8:\penalty0 133--155, 1992.
 
 \bibitem[McMaster et~al.(1981)McMaster, Beard, Engers, and Hirt]{pmid6264106}
 G.~K. McMaster, P.~Beard, H.~D. Engers, and B.~Hirt.
@@ -1072,11 +1223,25 @@ M.~Momoeda, S.~Wong, M.~Kawase, N.~S. Young, and S.~Kajigaya.
   nonstructural protein of {B}19 parvovirus is required for cytotoxicity}.
 \newblock \emph{J. Virol.}, 68\penalty0 (12):\penalty0 8443--8446, Dec 1994.
 
+\bibitem[Morgan and Ward(1986)]{pmid3783817}
+W.~R. Morgan and D.~C. Ward.
+\newblock {{T}hree splicing patterns are used to excise the small intron common
+  to all minute virus of mice {R}{N}{A}s}.
+\newblock \emph{J. Virol.}, 60\penalty0 (3):\penalty0 1170--1174, Dec 1986.
+
 \bibitem[Muzyczka and Berns(2001)]{telomere3}
 N.~Muzyczka and K.~I. Berns.
 \newblock {P}arvoviridae: the viruses and their replication.
 \newblock In D.~M. Knipe and P.~M. Howley, editors, \emph{{{F}ields virology}}.
   Lippincott Williams and Wilkins, Philadelphia, PA, 4 edition, 2001.
+
+\bibitem[Naeger et~al.(1992)Naeger, Schoborg, Zhao, Tullis, and
+  Pintel]{pmid1592259}
+L.~K. Naeger, R.~V. Schoborg, Q.~Zhao, G.~E. Tullis, and D.~J. Pintel.
+\newblock {{N}onsense mutations inhibit splicing of {M}{V}{M} {R}{N}{A} in cis
+  when they interrupt the reading frame of either exon of the final spliced
+  product}.
+\newblock \emph{Genes Dev.}, 6\penalty0 (6):\penalty0 1107--1119, Jun 1992.
 
 \bibitem[Ni et~al.(2014)Ni, Qiao, Han, Han, Kang, Zi, Cao, Zhai, and
   Cai]{pmid25442288}
@@ -1098,6 +1263,12 @@ K.~Ozawa, J.~Ayub, Y.~S. Hao, G.~Kurtzman, T.~Shimada, and N.~Young.
 \newblock {{N}ovel transcription map for the {B}19 (human) pathogenic
   parvovirus}.
 \newblock \emph{J. Virol.}, 61\penalty0 (8):\penalty0 2395--2406, Aug 1987.
+
+\bibitem[Padgett et~al.(1986)Padgett, Grabowski, Konarska, Seiler, and
+  Sharp]{pmid2943217}
+R.~A. Padgett, P.~J. Grabowski, M.~M. Konarska, S.~Seiler, and P.~A. Sharp.
+\newblock {{S}plicing of messenger {R}{N}{A} precursors}.
+\newblock \emph{Annu. Rev. Biochem.}, 55:\penalty0 1119--1150, 1986.
 
 \bibitem[Padron et~al.(2005)Padron, Bowman, Kaludov, Govindasamy, Levy, Nick,
   McKenna, Muzyczka, Chiorini, Baker, and Agbandje-McKenna]{pmid15795290}
@@ -1132,6 +1303,14 @@ D.~A. Pass, M.~D. Robertson, and G.~E. Wilcox.
 \newblock {{R}unting syndrome in broiler chickens in {A}ustralia}.
 \newblock \emph{Vet. Rec.}, 110\penalty0 (16):\penalty0 386--387, Apr 1982.
 
+\bibitem[Perros et~al.(1995)Perros, Deleu, Vanacker, Kherrouche, Spruyt,
+  Faisst, and Rommelaere]{pmid7636996}
+M.~Perros, L.~Deleu, J.~M. Vanacker, Z.~Kherrouche, N.~Spruyt, S.~Faisst, and
+  J.~Rommelaere.
+\newblock {{U}pstream {C}{R}{E}s participate in the basal activity of minute
+  virus of mice promoter {P}4 and in its stimulation in ras-transformed cells}.
+\newblock \emph{J. Virol.}, 69\penalty0 (9):\penalty0 5506--5515, Sep 1995.
+
 \bibitem[Pettersen et~al.(2004)Pettersen, Goddard, Huang, Couch, Greenblatt,
   Meng, and Ferrin]{pmid15264254}
 E.~F. Pettersen, T.~D. Goddard, C.~C. Huang, G.~S. Couch, D.~M. Greenblatt,
@@ -1147,6 +1326,11 @@ D.~Pintel, D.~Dadachanji, C.~R. Astell, and D.~C. Ward.
   encodes two overlapping transcription units}.
 \newblock \emph{Nucleic Acids Res.}, 11\penalty0 (4):\penalty0 1019--1038, Feb
   1983.
+
+\bibitem[Pitluk and Ward(1991)]{pmid1942250}
+Z.~W. Pitluk and D.~C. Ward.
+\newblock {{U}nusual {S}p1-{G}{C} box interaction in a parvovirus promoter}.
+\newblock \emph{J. Virol.}, 65\penalty0 (12):\penalty0 6661--6670, Dec 1991.
 
 \bibitem[Previsani et~al.(1997)Previsani, Fontana, Hirt, and
   Beard]{pmid9311862}
@@ -1168,6 +1352,13 @@ J.~Qiu, F.~Cheng, F.~B. Johnson, and D.~Pintel.
 \newblock {{T}he transcription profile of the bocavirus bovine parvovirus is
   unlike those of previously characterized parvoviruses}.
 \newblock \emph{J. Virol.}, 81\penalty0 (21):\penalty0 12080--12085, Nov 2007.
+
+\bibitem[Qui et~al.(2006)Qui, Yoto, Tullis, and Pintel]{Transcription}
+J.~Qui, Y.~Yoto, G.~Tullis, and D.~J. Pintel.
+\newblock {P}arvovirus {R}{N}{A} processing strategies.
+\newblock In J.~R. Kerr, M.~E. Bloom, S.~F. Cotmore, R.~M. Linden, and C.~R.
+  Parrish, editors, \emph{{{P}arvoviruses}}, pages 253--273. Hodder Arnold,
+  London, UK, 2006.
 
 \bibitem[Ramirez et~al.(1996)Ramirez, Fairen, and Almendral]{pmid8892936}
 J.~C. Ramirez, A.~Fairen, and J.~M. Almendral.
@@ -1259,6 +1450,13 @@ A.~Sauerbrei and P.~Wutzler.
 \newblock {{T}esting thermal resistance of viruses}.
 \newblock \emph{Arch. Virol.}, 154\penalty0 (1):\penalty0 115--119, 2009.
 
+\bibitem[Schoborg and Pintel(1991)]{pmid1825251}
+R.~V. Schoborg and D.~J. Pintel.
+\newblock {{A}ccumulation of {M}{V}{M} gene products is differentially
+  regulated by transcription initiation, {R}{N}{A} processing and protein
+  stability}.
+\newblock \emph{Virology}, 181\penalty0 (1):\penalty0 22--34, Mar 1991.
+
 \bibitem[Schwartz et~al.(2002)Schwartz, Green, Carmichael, and
   Parrish]{pmid12441065}
 D.~Schwartz, B.~Green, L.~E. Carmichael, and C.~R. Parrish.
@@ -1327,8 +1525,8 @@ C.~P. Sharp, A.~Lail, S.~Donfield, E.~D. Gomperts, and P.~Simmonds.
   inactivated clotting factor concentrates}.
 \newblock \emph{Transfusion}, 52\penalty0 (7):\penalty0 1482--1489, Jul 2012.
 
-\bibitem[SHEIN and ENDERS(1962)]{pmid13911591}
-H.~M. SHEIN and J.~F. ENDERS.
+\bibitem[Shein and Enders(1962)]{pmid13911591}
+H.~M. Shein and J.~F. Enders.
 \newblock {{M}ultiplication and cytopathogenicity of {S}imian vacuolating virus
   40 in cultures of human tissues}.
 \newblock \emph{Proc. Soc. Exp. Biol. Med.}, 109:\penalty0 495--500, Mar 1962.
@@ -1364,6 +1562,11 @@ A.~A. Simpson, B.~Hebert, G.~M. Sullivan, C.~R. Parrish, Z.~Zadori, P.~Tijssen,
   viruses}.
 \newblock \emph{J. Mol. Biol.}, 315\penalty0 (5):\penalty0 1189--1198, Feb
   2002.
+
+\bibitem[Smith et~al.(1989)Smith, Patton, and Nadal-Ginard]{pmid2694943}
+C.~W. Smith, J.~G. Patton, and B.~Nadal-Ginard.
+\newblock {{A}lternative splicing in the control of gene expression}.
+\newblock \emph{Annu. Rev. Genet.}, 23:\penalty0 527--577, 1989.
 
 \bibitem[Spalholz and Tattersall(1983)]{pmid6602221}
 B.~A. Spalholz and P.~Tattersall.
@@ -1589,12 +1792,49 @@ Q.~Xie, W.~Bu, S.~Bhatia, J.~Hare, T.~Somasundaram, A.~Azzi, and M.~S. Chapman.
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 99\penalty0 (16):\penalty0
   10405--10410, Aug 2002.
 
+\bibitem[Young et~al.(2002)Young, Jensen, Burger, Pintel, and
+  Lorson]{pmid11907229}
+P.~J. Young, K.~T. Jensen, L.~R. Burger, D.~J. Pintel, and C.~L. Lorson.
+\newblock {{M}inute virus of mice {N}{S}1 interacts with the {S}{M}{N} protein,
+  and they colocalize in novel nuclear bodies induced by parvovirus infection}.
+\newblock \emph{J. Virol.}, 76\penalty0 (8):\penalty0 3892--3904, Apr 2002.
+
 \bibitem[Yu et~al.(2012)Yu, Zhang, Hong, Wang, Yuan, Zhang, and
   Ghildyal]{pmid22235298}
 X.~Yu, J.~Zhang, L.~Hong, J.~Wang, Z.~Yuan, X.~Zhang, and R.~Ghildyal.
 \newblock {{H}igh prevalence of human parvovirus 4 infection in {H}{B}{V} and
   {H}{C}{V} infected individuals in shanghai}.
 \newblock \emph{PLoS ONE}, 7\penalty0 (1):\penalty0 e29474, 2012.
+
+\bibitem[Zadori et~al.(2005)Zadori, Szelei, and Tijssen]{pmid16189014}
+Z.~Zadori, J.~Szelei, and P.~Tijssen.
+\newblock {{S}{A}{T}: a late {N}{S} protein of porcine parvovirus}.
+\newblock \emph{J. Virol.}, 79\penalty0 (20):\penalty0 13129--13138, Oct 2005.
+
+\bibitem[Zhao et~al.(1994)Zhao, Schoborg, and Pintel]{pmid8151756}
+Q.~Zhao, R.~V. Schoborg, and D.~J. Pintel.
+\newblock {{A}lternative splicing of pre-m{R}{N}{A}s encoding the nonstructural
+  proteins of minute virus of mice is facilitated by sequences within the
+  downstream intron}.
+\newblock \emph{J. Virol.}, 68\penalty0 (5):\penalty0 2849--2859, May 1994.
+
+\bibitem[Zhao et~al.(1995{\natexlab{a}})Zhao, Gersappe, and
+  Pintel]{pmid7666519}
+Q.~Zhao, A.~Gersappe, and D.~J. Pintel.
+\newblock {{E}fficient excision of the upstream large intron from
+  {P}4-generated pre-m{R}{N}{A} of the parvovirus minute virus of mice requires
+  at least one donor and the 3' splice site of the small downstream intron}.
+\newblock \emph{J. Virol.}, 69\penalty0 (10):\penalty0 6170--6179, Oct
+  1995{\natexlab{a}}.
+
+\bibitem[Zhao et~al.(1995{\natexlab{b}})Zhao, Mathur, Burger, and
+  Pintel]{pmid7637034}
+Q.~Zhao, S.~Mathur, L.~R. Burger, and D.~J. Pintel.
+\newblock {{S}equences within the parvovirus minute virus of mice
+  {N}{S}2-specific exon are required for inclusion of this exon into spliced
+  steady-state {R}{N}{A}}.
+\newblock \emph{J. Virol.}, 69\penalty0 (9):\penalty0 5864--5868, Sep
+  1995{\natexlab{b}}.
 
 \bibitem[Zsak et~al.(2008)Zsak, Strother, and Kisary]{pmid18622862}
 L.~Zsak, K.~O. Strother, and J.~Kisary.

@@ -43,6 +43,7 @@
 \usepackage{sidecap}
 \usepackage{multicol}
 \usepackage{float}
+\usepackage[bottom, hang]{footmisc}
 
 \usepackage{graphicx} 
 \usepackage[hang, bf]{caption}
@@ -54,6 +55,9 @@
 \usepackage[font=scriptsize]{caption}
 
 
+\usepackage{ragged2e}
+\usepackage{etoolbox}
+\AtBeginEnvironment{multicols}{\RaggedRight}
 
 %\setlength\intextsep{0pt} %space between figures and text..
 
@@ -66,6 +70,7 @@
 
 \setlength{\skip\footins}{1.5cm}
 \setlength{\footnotesep}{0.5cm}
+\setlength\footnotemargin{10pt}
 
 \setlength{\cftsecnumwidth}{0pt}
 \renewcommand{\cftsecaftersnumb}{\hspace{1.5em}}  % Noident for phantomsections in Contents (Publication Part)
@@ -110,6 +115,7 @@
 }
 \makeatother 
 
+\newcommand{\RM}[1]{\MakeUppercase{\romannumeral #1}}
 
 
 \begin{document}
@@ -210,9 +216,7 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 
 
 \begin{multicols}{2}[\chapter*{\nomname}] 
- \begin{flushleft}
-  \printnomenclature[1.0 in]
- \end{flushleft}  
+ \printnomenclature[1.0 in]
 \end{multicols} 
 
 

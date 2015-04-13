@@ -13,10 +13,10 @@
 \contentsline {section}{\numberline {1.4}Taxonomy}{5}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}The \textit {Parvovirinae} subfamily}{5}{subsection.1.4.1}
 \contentsline {subsubsection}{\textit {Amdoparvovirus}}{5}{section*.7}
-\contentsline {subsubsection}{\textit {Aveparvovirus}}{6}{section*.8}
+\contentsline {subsubsection}{\textit {Aveparvovirus}}{7}{section*.8}
 \contentsline {subsubsection}{\textit {Bocaparvovirus}}{7}{section*.9}
 \contentsline {subsubsection}{\textit {Copiparvovirus}}{8}{section*.10}
-\contentsline {subsubsection}{\textit {Dependoparvovirus}}{8}{section*.11}
+\contentsline {subsubsection}{\textit {Dependoparvovirus}}{9}{section*.11}
 \contentsline {subsubsection}{\textit {Erythroparvovirus}}{9}{section*.12}
 \contentsline {subsubsection}{\textit {Protoparvovirus}}{9}{section*.13}
 \contentsline {subsubsection}{\textit {Tetraparvovirus}}{10}{section*.14}
@@ -26,26 +26,27 @@
 \contentsline {subsection}{\numberline {1.6.2}MVM}{15}{subsection.1.6.2}
 \contentsline {section}{\numberline {1.7}Nucleic Acids}{16}{section.1.7}
 \contentsline {subsection}{\numberline {1.7.1}Genome architecture}{16}{subsection.1.7.1}
-\contentsline {subsection}{\numberline {1.7.2}Replication}{18}{subsection.1.7.2}
-\contentsline {subsection}{\numberline {1.7.3}Transcriptome}{22}{subsection.1.7.3}
-\contentsline {section}{\numberline {1.8}Viral proteins}{22}{section.1.8}
-\contentsline {subsection}{\numberline {1.8.1}Structural Proteins}{22}{subsection.1.8.1}
-\contentsline {subsection}{\numberline {1.8.2}Non-structural proteins}{22}{subsection.1.8.2}
-\contentsline {subsection}{\numberline {1.8.3}Packaging}{22}{subsection.1.8.3}
-\contentsline {chapter}{\numberline {2}Methods}{23}{chapter.2}
-\contentsline {section}{\numberline {2.1}Cell Cultures}{23}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Freezing and thawing of cells}{23}{subsection.2.1.1}
-\contentsline {section}{\numberline {2.2}Virus Stocks}{23}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Separation of empty and full capsids}{23}{subsection.2.2.1}
-\contentsline {section}{\numberline {2.3}Freezing bacteria stocks in glycerol}{24}{section.2.3}
-\contentsline {section}{\numberline {2.4}Anion-exchange chromatography}{24}{section.2.4}
-\contentsline {section}{\numberline {2.5}Quantitative PCR}{24}{section.2.5}
-\contentsline {section}{\numberline {2.6}Immunoprecipitation}{25}{section.2.6}
-\contentsline {section}{\numberline {2.7}Dot Blot}{26}{section.2.7}
-\contentsline {section}{\numberline {2.8}SDS-PAGE and Western blotting}{26}{section.2.8}
-\contentsline {section}{\numberline {2.9}Chymotrypsin treatment}{27}{section.2.9}
-\contentsline {part}{\numberline {II}Publication}{29}{part.2}
+\contentsline {subsection}{\numberline {1.7.2}Genetic variability}{18}{subsection.1.7.2}
+\contentsline {subsection}{\numberline {1.7.3}Replication}{19}{subsection.1.7.3}
+\contentsline {subsection}{\numberline {1.7.4}Transcription}{21}{subsection.1.7.4}
+\contentsline {section}{\numberline {1.8}Viral proteins}{24}{section.1.8}
+\contentsline {subsection}{\numberline {1.8.1}Structural Proteins}{24}{subsection.1.8.1}
+\contentsline {subsection}{\numberline {1.8.2}Non-structural proteins}{24}{subsection.1.8.2}
+\contentsline {subsection}{\numberline {1.8.3}Packaging}{24}{subsection.1.8.3}
+\contentsline {chapter}{\numberline {2}Methods}{27}{chapter.2}
+\contentsline {section}{\numberline {2.1}Cell Cultures}{27}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Freezing and thawing of cells}{27}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Virus Stocks}{27}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Separation of empty and full capsids}{27}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}Freezing bacteria stocks in glycerol}{28}{section.2.3}
+\contentsline {section}{\numberline {2.4}Anion-exchange chromatography}{28}{section.2.4}
+\contentsline {section}{\numberline {2.5}Quantitative PCR}{28}{section.2.5}
+\contentsline {section}{\numberline {2.6}Immunoprecipitation}{29}{section.2.6}
+\contentsline {section}{\numberline {2.7}Dot Blot}{30}{section.2.7}
+\contentsline {section}{\numberline {2.8}SDS-PAGE and Western blotting}{30}{section.2.8}
+\contentsline {section}{\numberline {2.9}Chymotrypsin treatment}{31}{section.2.9}
+\contentsline {part}{\numberline {II}Publication}{33}{part.2}
 \cftpagenumbersoff {chapter}
-\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{31}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{31}{section*.19}
-\contentsline {part}{\numberline {III}Discussion}{43}{part.3}
+\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{35}{chapter.1}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{35}{section*.20}
+\contentsline {part}{\numberline {III}Discussion}{47}{part.3}
