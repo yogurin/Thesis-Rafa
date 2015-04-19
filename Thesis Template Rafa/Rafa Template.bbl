@@ -1,4 +1,4 @@
-\begin{thebibliography}{266}
+\begin{thebibliography}{270}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -18,18 +18,6 @@ C.~Adlhoch, M.~Kaiser, H.~Ellerbrok, and G.~Pauli.
 \newblock {{H}igh prevalence of porcine {H}okovirus in {G}erman wild boar
   populations}.
 \newblock \emph{Virol. J.}, 7:\penalty0 171, 2010.
-
-\bibitem[Agbandje et~al.(1993)Agbandje, McKenna, Rossmann, Strassheim, and
-  Parrish]{pmid8392729}
-M.~Agbandje, R.~McKenna, M.~G. Rossmann, M.~L. Strassheim, and C.~R. Parrish.
-\newblock {{S}tructure determination of feline panleukopenia virus empty
-  particles}.
-\newblock \emph{Proteins}, 16\penalty0 (2):\penalty0 155--171, Jun 1993.
-
-\bibitem[Agbandje et~al.(1995)Agbandje, Parrish, and Rossmann]{pmid25555192}
-M.~Agbandje, C.~Parrish, and M.~Rossmann.
-\newblock {{T}he structure of parvoviruses}.
-\newblock \emph{Seminars in Virology}, 6\penalty0 (5):\penalty0 299--309, 1995.
 
 \bibitem[Agbandje-McKenna and Chapman(2006)]{tropism}
 M.~Agbandje-McKenna and M.~S. Chapman.
@@ -318,6 +306,14 @@ E.~Burnett, S.~F. Cotmore, and P.~Tattersall.
   the viability of parvovirus minute virus of mice}.
 \newblock \emph{J. Virol.}, 80\penalty0 (21):\penalty0 10879--10883, Nov 2006.
 
+\bibitem[Carreira et~al.(2004)Carreira, Menendez, Reguera, Almendral, and
+  Mateu]{pmid14660623}
+A.~Carreira, M.~Menendez, J.~Reguera, J.~M. Almendral, and M.~G. Mateu.
+\newblock {{I}n vitro disassembly of a parvovirus capsid and effect on capsid
+  stability of heterologous peptide insertions in surface loops}.
+\newblock \emph{J. Biol. Chem.}, 279\penalty0 (8):\penalty0 6517--6525, Feb
+  2004.
+
 \bibitem[Chang et~al.(1992)Chang, Sgro, and Parrish]{pmid1331498}
 S.~F. Chang, J.~Y. Sgro, and C.~R. Parrish.
 \newblock {{M}ultiple amino acids in the capsid structure of canine parvovirus
@@ -420,6 +416,12 @@ K.~E. Clemens, D.~R. Cerutis, L.~R. Burger, C.~Q. Yang, and D.~J. Pintel.
 \newblock {{C}loning of minute virus of mice c{D}{N}{A}s and preliminary
   analysis of individual viral proteins expressed in murine cells}.
 \newblock \emph{J. Virol.}, 64\penalty0 (8):\penalty0 3967--3973, Aug 1990.
+
+\bibitem[Clinton and Hayashi(1976)]{pmid982825}
+G.~M. Clinton and M.~Hayashi.
+\newblock {{T}he parvovirus {M}{V}{M}: a comparison of heavy and light particle
+  infectivity and their density conversion in vitro}.
+\newblock \emph{Virology}, 74\penalty0 (1):\penalty0 57--63, Oct 1976.
 
 \bibitem[Colomar et~al.(1998)Colomar, Hirt, and Beard]{pmid9519837}
 M.~C. Colomar, B.~Hirt, and P.~Beard.
@@ -643,6 +645,12 @@ C.~Doerig, P.~Beard, and B.~Hirt.
   vitro and in vivo}.
 \newblock \emph{Virology}, 157\penalty0 (2):\penalty0 539--542, Apr 1987.
 
+\bibitem[Doerig et~al.(1988)Doerig, Hirt, Beard, and Antonietti]{pmid3171551}
+C.~Doerig, B.~Hirt, P.~Beard, and J.~P. Antonietti.
+\newblock {{M}inute virus of mice non-structural protein {N}{S}-1 is necessary
+  and sufficient for trans-activation of the viral {P}39 promoter}.
+\newblock \emph{J. Gen. Virol.}, 69 ( Pt 10):\penalty0 2563--2573, Oct 1988.
+
 \bibitem[Engers et~al.(1981)Engers, Louis, Zubler, and Hirt]{pmid6457871}
 H.~D. Engers, J.~A. Louis, R.~H. Zubler, and B.~Hirt.
 \newblock {{I}nhibition of {T} cell-mediated functions by {M}{V}{M}(i), a
@@ -808,6 +816,11 @@ E.~D. Heegaard and K.~E. Brown.
 \newblock {{H}uman parvovirus {B}19}.
 \newblock \emph{Clin. Microbiol. Rev.}, 15\penalty0 (3):\penalty0 485--505, Jul
   2002.
+
+\bibitem[Hirt(2000)]{pmid10941577}
+B.~Hirt.
+\newblock {{M}olecular biology of autonomous parvoviruses}.
+\newblock \emph{Contrib Microbiol}, 4:\penalty0 163--177, 2000.
 
 \bibitem[Hoggan et~al.(1966)Hoggan, Blacklow, and Rowe]{pmid5227666}
 M.~D. Hoggan, N.~R. Blacklow, and W.~P. Rowe.
@@ -1291,6 +1304,12 @@ M.~Panning, R.~Kobbe, S.~Vollbach, J.~F. Drexler, S.~Adjei, O.~Adjei,
 \newblock \emph{Emerging Infect. Dis.}, 16\penalty0 (7):\penalty0 1143--1146,
   Jul 2010.
 
+\bibitem[Paradiso et~al.(1984)Paradiso, Williams, and Costantino]{pmid6481856}
+P.~R. Paradiso, K.~R. Williams, and R.~L. Costantino.
+\newblock {{M}apping of the amino terminus of the {H}-1 parvovirus major capsid
+  protein}.
+\newblock \emph{J. Virol.}, 52\penalty0 (1):\penalty0 77--81, Oct 1984.
+
 \bibitem[Parrish et~al.(1988)Parrish, Aquadro, and Carmichael]{pmid3176341}
 C.~R. Parrish, C.~F. Aquadro, and L.~E. Carmichael.
 \newblock {{C}anine host range and a specific epitope map along with variant
@@ -1367,18 +1386,17 @@ J.~C. Ramirez, A.~Fairen, and J.~M. Almendral.
   and to migratory cerebellar young neurons}.
 \newblock \emph{J. Virol.}, 70\penalty0 (11):\penalty0 8109--8116, Nov 1996.
 
+\bibitem[Rhode(1985)]{pmid4020972}
+S.~L. Rhode.
+\newblock {trans-{A}ctivation of parvovirus {P}38 promoter by the 76{K}
+  noncapsid protein}.
+\newblock \emph{J. Virol.}, 55\penalty0 (3):\penalty0 886--889, Sep 1985.
+
 \bibitem[Ron and Tal(1986)]{pmid3005655}
 D.~Ron and J.~Tal.
 \newblock {{S}pontaneous curing of a minute virus of mice carrier state by
   selection of cells with an intracellular block of viral replication}.
 \newblock \emph{J. Virol.}, 58\penalty0 (1):\penalty0 26--30, Apr 1986.
-
-\bibitem[Ros et~al.(2006)Ros, Baltzer, Mani, and Kempf]{pmid16242744}
-C.~Ros, C.~Baltzer, B.~Mani, and C.~Kempf.
-\newblock {{P}arvovirus uncoating in vitro reveals a mechanism of {D}{N}{A}
-  release without capsid disassembly and striking differences in encapsidated
-  {D}{N}{A} stability}.
-\newblock \emph{Virology}, 345\penalty0 (1):\penalty0 137--147, Feb 2006.
 
 \bibitem[Rose et~al.(1969)Rose, Berns, Hoggan, and Koczot]{pmid5264145}
 J.~A. Rose, K.~I. Berns, M.~D. Hoggan, and F.~J. Koczot.
@@ -1554,15 +1572,6 @@ A.~A. Simpson, P.~R. Chipman, T.~S. Baker, P.~Tijssen, and M.~G. Rossmann.
   densovirus) at 3.7 {A} resolution}.
 \newblock \emph{Structure}, 6\penalty0 (11):\penalty0 1355--1367, Nov 1998.
 
-\bibitem[Simpson et~al.(2002)Simpson, Hebert, Sullivan, Parrish, Zadori,
-  Tijssen, and Rossmann]{pmid11827486}
-A.~A. Simpson, B.~Hebert, G.~M. Sullivan, C.~R. Parrish, Z.~Zadori, P.~Tijssen,
-  and M.~G. Rossmann.
-\newblock {{T}he structure of porcine parvovirus: comparison with related
-  viruses}.
-\newblock \emph{J. Mol. Biol.}, 315\penalty0 (5):\penalty0 1189--1198, Feb
-  2002.
-
 \bibitem[Smith et~al.(1989)Smith, Patton, and Nadal-Ginard]{pmid2694943}
 C.~W. Smith, J.~G. Patton, and B.~Nadal-Ginard.
 \newblock {{A}lternative splicing in the control of gene expression}.
@@ -1627,6 +1636,13 @@ P.~Tattersall and D.~C. Ward.
   mammalian parvoviruses.}}, pages 3--12. Cold Spring Harbor Laboratory Press,
   Cold Spring Harbor, NY, 1978.
 
+\bibitem[Tattersall et~al.(1976)Tattersall, Cawte, Shatkin, and
+  Ward]{pmid988192}
+P.~Tattersall, P.~J. Cawte, A.~J. Shatkin, and D.~C. Ward.
+\newblock {{T}hree structural polypeptides coded for by minite virus of mice, a
+  parvovirus}.
+\newblock \emph{J. Virol.}, 20\penalty0 (1):\penalty0 273--289, Oct 1976.
+
 \bibitem[Tattersall et~al.(1977)Tattersall, Shatkin, and Ward]{pmid864702}
 P.~Tattersall, A.~J. Shatkin, and D.~C. Ward.
 \newblock {{S}equence homology between the structural polypeptides of minute
@@ -1689,6 +1705,13 @@ G.~E. Tullis, L.~R. Burger, and D.~J. Pintel.
   of minute virus of mice is required for efficient cell binding and viral
   infection but not for proteolytic processing in vivo}.
 \newblock \emph{Virology}, 191\penalty0 (2):\penalty0 846--857, Dec 1992.
+
+\bibitem[Tullis et~al.(1993)Tullis, Burger, and Pintel]{pmid8416366}
+G.~E. Tullis, L.~R. Burger, and D.~J. Pintel.
+\newblock {{T}he minor capsid protein {V}{P}1 of the autonomous parvovirus
+  minute virus of mice is dispensable for encapsidation of progeny
+  single-stranded {D}{N}{A} but is required for infectivity}.
+\newblock \emph{J. Virol.}, 67\penalty0 (1):\penalty0 131--141, Jan 1993.
 
 \bibitem[van Leengoed et~al.(1983)van Leengoed, Vos, Gruys, Rondhuis, and
   Brand]{pmid6314634}
