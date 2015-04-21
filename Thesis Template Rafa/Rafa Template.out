@@ -2,38 +2,45 @@
 \BOOKMARK [0][-]{section*.2}{Abstract}{}% 2
 \BOOKMARK [0][-]{section*.3}{Nomenclature}{}% 3
 \BOOKMARK [-1][-]{part.1}{Introduction}{}% 4
-\BOOKMARK [0][-]{chapter.1}{Introduction}{part.1}% 5
-\BOOKMARK [1][-]{section.1.1}{Discovery and brief history}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.2}{Physicochemical properties}{chapter.1}% 7
-\BOOKMARK [1][-]{section.1.3}{Morphology}{chapter.1}% 8
-\BOOKMARK [1][-]{section.1.4}{Taxonomy}{chapter.1}% 9
-\BOOKMARK [2][-]{subsection.1.4.1}{The Parvovirinae subfamily}{section.1.4}% 10
-\BOOKMARK [1][-]{section.1.5}{Tissue Tropism and Pathogenicity Determinants}{chapter.1}% 11
-\BOOKMARK [1][-]{section.1.6}{Structure}{chapter.1}% 12
-\BOOKMARK [2][-]{subsection.1.6.1}{Parvoviruses in general}{section.1.6}% 13
-\BOOKMARK [2][-]{subsection.1.6.2}{MVM}{section.1.6}% 14
-\BOOKMARK [1][-]{section.1.7}{Nucleic Acids}{chapter.1}% 15
-\BOOKMARK [2][-]{subsection.1.7.1}{Genome architecture}{section.1.7}% 16
-\BOOKMARK [2][-]{subsection.1.7.2}{Genetic variability}{section.1.7}% 17
-\BOOKMARK [2][-]{subsection.1.7.3}{Replication}{section.1.7}% 18
-\BOOKMARK [2][-]{subsection.1.7.4}{Transcription}{section.1.7}% 19
-\BOOKMARK [1][-]{section.1.8}{Viral proteins}{chapter.1}% 20
-\BOOKMARK [2][-]{subsection.1.8.1}{Structural Proteins}{section.1.8}% 21
-\BOOKMARK [2][-]{subsection.1.8.2}{Non-structural proteins}{section.1.8}% 22
-\BOOKMARK [2][-]{subsection.1.8.3}{Packaging}{section.1.8}% 23
-\BOOKMARK [0][-]{chapter.2}{Methods}{part.1}% 24
-\BOOKMARK [1][-]{section.2.1}{Cell Cultures}{chapter.2}% 25
-\BOOKMARK [2][-]{subsection.2.1.1}{Freezing and thawing of cells}{section.2.1}% 26
-\BOOKMARK [1][-]{section.2.2}{Virus Stocks}{chapter.2}% 27
-\BOOKMARK [2][-]{subsection.2.2.1}{Separation of empty and full capsids}{section.2.2}% 28
-\BOOKMARK [1][-]{section.2.3}{Freezing bacteria stocks in glycerol}{chapter.2}% 29
-\BOOKMARK [1][-]{section.2.4}{Anion-exchange chromatography}{chapter.2}% 30
-\BOOKMARK [1][-]{section.2.5}{Quantitative PCR}{chapter.2}% 31
-\BOOKMARK [1][-]{section.2.6}{Immunoprecipitation}{chapter.2}% 32
-\BOOKMARK [1][-]{section.2.7}{Dot Blot}{chapter.2}% 33
-\BOOKMARK [1][-]{section.2.8}{SDS-PAGE and Western blotting}{chapter.2}% 34
-\BOOKMARK [1][-]{section.2.9}{Chymotrypsin treatment}{chapter.2}% 35
-\BOOKMARK [-1][-]{part.2}{Publication}{}% 36
-\BOOKMARK [0][-]{chapter.1}{Wolfisberg et al., Journal of Virological Methods, 2013}{part.2}% 37
-\BOOKMARK [1][-]{section*.20}{Impaired genome encapsidation restricts the in vitro propagation of human parvovirus B19.}{chapter.1}% 38
-\BOOKMARK [-1][-]{part.3}{Discussion}{}% 39
+\BOOKMARK [0][-]{chapter.1}{Discovery and brief history}{part.1}% 5
+\BOOKMARK [0][-]{chapter.2}{Taxonomy}{part.1}% 6
+\BOOKMARK [1][-]{section.2.1}{The Parvovirinae subfamily}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.1.1}{Amdoparvovirus}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.2}{Aveparvovirus}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.3}{Bocaparvovirus}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.4}{Copiparvovirus}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.5}{Dependoparvovirus}{section.2.1}% 12
+\BOOKMARK [2][-]{subsection.2.1.6}{Erythroparvovirus}{section.2.1}% 13
+\BOOKMARK [2][-]{subsection.2.1.7}{Protoparvovirus}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.8}{Tetraparvovirus}{section.2.1}% 15
+\BOOKMARK [0][-]{chapter.3}{Morphology}{part.1}% 16
+\BOOKMARK [0][-]{chapter.4}{The rugged virion}{part.1}% 17
+\BOOKMARK [1][-]{section.4.1}{Physicochemical properties}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.2}{Atomic structure}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.3}{Structural proteins}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.4}{Functional domains of VP1u}{chapter.4}% 21
+\BOOKMARK [2][-]{subsection.4.4.1}{The Phospholipase A2 \(PLA2\) Motif}{section.4.4}% 22
+\BOOKMARK [2][-]{subsection.4.4.2}{The Nuclear Localization Signal \(NLS\)}{section.4.4}% 23
+\BOOKMARK [0][-]{chapter.5}{Tissue Tropism and Pathogenicity Determinants}{part.1}% 24
+\BOOKMARK [0][-]{chapter.6}{Genome Architecture}{part.1}% 25
+\BOOKMARK [1][-]{section.6.1}{Genetic variability}{chapter.6}% 26
+\BOOKMARK [0][-]{chapter.7}{The Parvovirus Life Cycle}{part.1}% 27
+\BOOKMARK [1][-]{section.7.1}{Replication}{chapter.7}% 28
+\BOOKMARK [1][-]{section.7.2}{Transcription}{chapter.7}% 29
+\BOOKMARK [-1][-]{part.2}{Methods}{}% 30
+\BOOKMARK [0][-]{chapter.8}{Methods}{part.2}% 31
+\BOOKMARK [1][-]{section.8.1}{Cell Cultures}{chapter.8}% 32
+\BOOKMARK [2][-]{subsection.8.1.1}{Freezing and thawing of cells}{section.8.1}% 33
+\BOOKMARK [1][-]{section.8.2}{Virus Stocks}{chapter.8}% 34
+\BOOKMARK [2][-]{subsection.8.2.1}{Separation of empty and full capsids}{section.8.2}% 35
+\BOOKMARK [1][-]{section.8.3}{Freezing bacteria stocks in glycerol}{chapter.8}% 36
+\BOOKMARK [1][-]{section.8.4}{Anion-exchange chromatography}{chapter.8}% 37
+\BOOKMARK [1][-]{section.8.5}{Quantitative PCR}{chapter.8}% 38
+\BOOKMARK [1][-]{section.8.6}{Immunoprecipitation}{chapter.8}% 39
+\BOOKMARK [1][-]{section.8.7}{Dot Blot}{chapter.8}% 40
+\BOOKMARK [1][-]{section.8.8}{SDS-PAGE and Western blotting}{chapter.8}% 41
+\BOOKMARK [1][-]{section.8.9}{Chymotrypsin treatment}{chapter.8}% 42
+\BOOKMARK [-1][-]{part.3}{Publication}{}% 43
+\BOOKMARK [0][-]{chapter.1}{Wolfisberg et al., Journal of Virological Methods, 2013}{part.3}% 44
+\BOOKMARK [1][-]{section*.12}{Impaired genome encapsidation restricts the in vitro propagation of human parvovirus B19.}{chapter.1}% 45
+\BOOKMARK [-1][-]{part.4}{Discussion}{}% 46

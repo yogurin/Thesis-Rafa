@@ -1,4 +1,4 @@
-\begin{thebibliography}{270}
+\begin{thebibliography}{286}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -168,6 +168,12 @@ R.~C. Bates, C.~E. Snyder, P.~T. Banerjee, and S.~Mitra.
   plus and minus {D}{N}{A} strands}.
 \newblock \emph{J. Virol.}, 49\penalty0 (2):\penalty0 319--324, Feb 1984.
 
+\bibitem[Bayburt and Gelb(1997)]{pmid9115999}
+T.~Bayburt and M.~H. Gelb.
+\newblock {{I}nterfacial catalysis by human 85 k{D}a cytosolic phospholipase
+  {A}2 on anionic vesicles in the scooting mode}.
+\newblock \emph{Biochemistry}, 36\penalty0 (11):\penalty0 3216--3231, Mar 1997.
+
 \bibitem[Belyi et~al.(2010)Belyi, Levine, and Skalka]{pmid20861255}
 V.~A. Belyi, A.~J. Levine, and A.~M. Skalka.
 \newblock {{S}equences from ancestral single-stranded {D}{N}{A} viruses in
@@ -306,6 +312,14 @@ E.~Burnett, S.~F. Cotmore, and P.~Tattersall.
   the viability of parvovirus minute virus of mice}.
 \newblock \emph{J. Virol.}, 80\penalty0 (21):\penalty0 10879--10883, Nov 2006.
 
+\bibitem[Canaan et~al.(2004)Canaan, Zadori, Ghomashchi, Bollinger, Sadilek,
+  Moreau, Tijssen, and Gelb]{pmid14726513}
+S.~Canaan, Z.~Zadori, F.~Ghomashchi, J.~Bollinger, M.~Sadilek, M.~E. Moreau,
+  P.~Tijssen, and M.~H. Gelb.
+\newblock {{I}nterfacial enzymology of parvovirus phospholipases {A}2}.
+\newblock \emph{J. Biol. Chem.}, 279\penalty0 (15):\penalty0 14502--14508, Apr
+  2004.
+
 \bibitem[Carreira et~al.(2004)Carreira, Menendez, Reguera, Almendral, and
   Mateu]{pmid14660623}
 A.~Carreira, M.~Menendez, J.~Reguera, J.~M. Almendral, and M.~G. Mateu.
@@ -320,12 +334,6 @@ S.~F. Chang, J.~Y. Sgro, and C.~R. Parrish.
   coordinately determine the canine host range and specific antigenic and
   hemagglutination properties}.
 \newblock \emph{J. Virol.}, 66\penalty0 (12):\penalty0 6858--6867, Dec 1992.
-
-\bibitem[Chapman and Rossmann(1993)]{pmid8503170}
-M.~S. Chapman and M.~G. Rossmann.
-\newblock {{S}tructure, sequence, and function correlations among
-  parvoviruses}.
-\newblock \emph{Virology}, 194\penalty0 (2):\penalty0 491--508, Jun 1993.
 
 \bibitem[Chapman and Rossmann(1995)]{pmid7735832}
 M.~S. Chapman and M.~G. Rossmann.
@@ -461,12 +469,6 @@ S.~F. Cotmore and P.~Tattersall.
   single strands}.
 \newblock \emph{J. Virol.}, 62\penalty0 (3):\penalty0 851--860, Mar 1988.
 
-\bibitem[Cotmore and Tattersall(1989)]{pmid2527311}
-S.~F. Cotmore and P.~Tattersall.
-\newblock {{A} genome-linked copy of the {N}{S}-1 polypeptide is located on the
-  outside of infectious parvovirus particles}.
-\newblock \emph{J. Virol.}, 63\penalty0 (9):\penalty0 3902--3911, Sep 1989.
-
 \bibitem[Cotmore and Tattersall(1990)]{pmid2142555}
 S.~F. Cotmore and P.~Tattersall.
 \newblock {{A}lternate splicing in a parvoviral nonstructural gene links a
@@ -578,6 +580,14 @@ S.~F. Cotmore, J.~Christensen, J.~P. Nuesch, and P.~Tattersall.
   mice binds to {D}{N}{A} sequences containing the motif [{A}{C}{C}{A}]2-3}.
 \newblock \emph{J. Virol.}, 69\penalty0 (3):\penalty0 1652--1660, Mar 1995.
 
+\bibitem[Cotmore et~al.(1999)Cotmore, D'abramo, Ticknor, and
+  Tattersall]{pmid9927584}
+S.~F. Cotmore, A.~M. D'abramo, C.~M. Ticknor, and P.~Tattersall.
+\newblock {{C}ontrolled conformational transitions in the {M}{V}{M} virion
+  expose the {V}{P}1 {N}-terminus and viral genome without particle
+  disassembly}.
+\newblock \emph{Virology}, 254\penalty0 (1):\penalty0 169--181, Feb 1999.
+
 \bibitem[Cotmore et~al.(2000)Cotmore, Christensen, and
   Tattersall]{pmid10627544}
 S.~F. Cotmore, J.~Christensen, and P.~Tattersall.
@@ -611,6 +621,14 @@ C.~Cziepluch, S.~Lampel, A.~Grewenig, C.~Grund, P.~Lichter, and J.~Rommelaere.
 \newblock {{H}-1 parvovirus-associated replication bodies: a distinct
   virus-induced nuclear structure}.
 \newblock \emph{J. Virol.}, 74\penalty0 (10):\penalty0 4807--4815, May 2000.
+
+\bibitem[Daigle et~al.(2001)Daigle, Beaudouin, Hartnell, Imreh, Hallberg,
+  Lippincott-Schwartz, and Ellenberg]{pmid11448991}
+N.~Daigle, J.~Beaudouin, L.~Hartnell, G.~Imreh, E.~Hallberg,
+  J.~Lippincott-Schwartz, and J.~Ellenberg.
+\newblock {{N}uclear pore complexes form immobile networks and have a very low
+  turnover in live mammalian cells}.
+\newblock \emph{J. Cell Biol.}, 154\penalty0 (1):\penalty0 71--84, Jul 2001.
 
 \bibitem[Day and Zsak(2010)]{pmid20097398}
 J.~M. Day and L.~Zsak.
@@ -651,6 +669,20 @@ C.~Doerig, B.~Hirt, P.~Beard, and J.~P. Antonietti.
   and sufficient for trans-activation of the viral {P}39 promoter}.
 \newblock \emph{J. Gen. Virol.}, 69 ( Pt 10):\penalty0 2563--2573, Oct 1988.
 
+\bibitem[Dorsch et~al.(2002)Dorsch, Liebisch, Kaufmann, von Landenberg,
+  Hoffmann, Drobnik, and Modrow]{pmid11799199}
+S.~Dorsch, G.~Liebisch, B.~Kaufmann, P.~von Landenberg, J.~H. Hoffmann,
+  W.~Drobnik, and S.~Modrow.
+\newblock {{T}he {V}{P}1 unique region of parvovirus {B}19 and its constituent
+  phospholipase {A}2-like activity}.
+\newblock \emph{J. Virol.}, 76\penalty0 (4):\penalty0 2014--2018, Feb 2002.
+
+\bibitem[Dworetzky and Feldherr(1988)]{pmid2450095}
+S.~I. Dworetzky and C.~M. Feldherr.
+\newblock {{T}ranslocation of {R}{N}{A}-coated gold particles through the
+  nuclear pores of oocytes}.
+\newblock \emph{J. Cell Biol.}, 106\penalty0 (3):\penalty0 575--584, Mar 1988.
+
 \bibitem[Engers et~al.(1981)Engers, Louis, Zubler, and Hirt]{pmid6457871}
 H.~D. Engers, J.~A. Louis, R.~H. Zubler, and B.~Hirt.
 \newblock {{I}nhibition of {T} cell-mediated functions by {M}{V}{M}(i), a
@@ -663,6 +695,13 @@ S.~Faisst, M.~Perros, L.~Deleu, N.~Spruyt, and J.~Rommelaere.
 \newblock {{M}apping of upstream regulatory elements in the {P}4 promoter of
   parvovirus minute virus of mice}.
 \newblock \emph{Virology}, 202\penalty0 (1):\penalty0 466--470, Jul 1994.
+
+\bibitem[Farr et~al.(2005)Farr, Zhang, and Tattersall]{pmid16284249}
+G.~A. Farr, L.~G. Zhang, and P.~Tattersall.
+\newblock {{P}arvoviral virions deploy a capsid-tethered lipolytic enzyme to
+  breach the endosomal membrane during cell entry}.
+\newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 102\penalty0 (47):\penalty0
+  17148--17153, Nov 2005.
 
 \bibitem[Fuks et~al.(1996)Fuks, Deleu, Dinsart, Rommelaere, and
   Faisst]{pmid8627649}
@@ -701,6 +740,12 @@ B.~J. Gavin and D.~C. Ward.
   promoter}.
 \newblock \emph{J. Virol.}, 64\penalty0 (5):\penalty0 2057--2063, May 1990.
 
+\bibitem[Gelb et~al.(1995)Gelb, Jain, Hanel, and Berg]{pmid7574497}
+M.~H. Gelb, M.~K. Jain, A.~M. Hanel, and O.~G. Berg.
+\newblock {{I}nterfacial enzymology of glycerolipid hydrolases: lessons from
+  secreted phospholipases {A}2}.
+\newblock \emph{Annu. Rev. Biochem.}, 64:\penalty0 653--688, 1995.
+
 \bibitem[Gersappe and Pintel(1999)]{pmid9858560}
 A.~Gersappe and D.~J. Pintel.
 \newblock {{C}{A}- and purine-rich elements form a novel bipartite exon
@@ -715,6 +760,15 @@ D.~Gershon, L.~Sachs, and E.~Winocour.
   in contact-inhibited and in x-irradiated cells}.
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 56\penalty0 (3):\penalty0
   918--925, Sep 1966.
+
+\bibitem[Girod et~al.(2002)Girod, Wobus, Zadori, Ried, Leike, Tijssen,
+  Kleinschmidt, and Hallek]{pmid11961250}
+A.~Girod, C.~E. Wobus, Z.~Zadori, M.~Ried, K.~Leike, P.~Tijssen, J.~A.
+  Kleinschmidt, and M.~Hallek.
+\newblock {{T}he {V}{P}1 capsid protein of adeno-associated virus type 2 is
+  carrying a phospholipase {A}2 domain required for virus infectivity}.
+\newblock \emph{J. Gen. Virol.}, 83\penalty0 (Pt 5):\penalty0 973--978, May
+  2002.
 
 \bibitem[Goodwin et~al.(1993)Goodwin, Davis, McNulty, Brown, and
   Player]{pmid8363509}
@@ -817,6 +871,14 @@ E.~D. Heegaard and K.~E. Brown.
 \newblock \emph{Clin. Microbiol. Rev.}, 15\penalty0 (3):\penalty0 485--505, Jul
   2002.
 
+\bibitem[Hernando et~al.(2000)Hernando, Llamas-Saiz, Foces-Foces, McKenna,
+  Portman, Agbandje-McKenna, and Almendral]{pmid10662625}
+E.~Hernando, A.~L. Llamas-Saiz, C.~Foces-Foces, R.~McKenna, I.~Portman,
+  M.~Agbandje-McKenna, and J.~M. Almendral.
+\newblock {{B}iochemical and physical characterization of parvovirus minute
+  virus of mice virus-like particles}.
+\newblock \emph{Virology}, 267\penalty0 (2):\penalty0 299--309, Feb 2000.
+
 \bibitem[Hirt(2000)]{pmid10941577}
 B.~Hirt.
 \newblock {{M}olecular biology of autonomous parvoviruses}.
@@ -884,11 +946,6 @@ H.~K. Jindal, C.~B. Yong, G.~M. Wilson, P.~Tam, and C.~R. Astell.
   functions}.
 \newblock \emph{J. Biol. Chem.}, 269\penalty0 (5):\penalty0 3283--3289, Feb
   1994.
-
-\bibitem[Johnson et~al.(1971)Johnson, Ozer, and Hoggan]{pmid5172922}
-F.~B. Johnson, H.~L. Ozer, and M.~D. Hoggan.
-\newblock {{S}tructural proteins of adenovirus-associated virus type 3}.
-\newblock \emph{J. Virol.}, 8\penalty0 (6):\penalty0 860--863, Dec 1971.
 
 \bibitem[Jones et~al.(2005)Jones, Kapoor, Lukashov, Simmonds, Hecht, and
   Delwart]{pmid15956568}
@@ -1263,6 +1320,14 @@ J.~Ni, C.~Qiao, X.~Han, T.~Han, W.~Kang, Z.~Zi, Z.~Cao, X.~Zhai, and X.~Cai.
   parvovirus ({P}{P}{V}6) in china}.
 \newblock \emph{Virol. J.}, 11\penalty0 (1):\penalty0 203, Dec 2014.
 
+\bibitem[Ojala et~al.(2000)Ojala, Sodeik, Ebersold, Kutay, and
+  Helenius]{pmid10848617}
+P.~M. Ojala, B.~Sodeik, M.~W. Ebersold, U.~Kutay, and A.~Helenius.
+\newblock {{H}erpes simplex virus type 1 entry into host cells: reconstitution
+  of capsid binding and uncoating at the nuclear pore complex in vitro}.
+\newblock \emph{Mol. Cell. Biol.}, 20\penalty0 (13):\penalty0 4922--4931, Jul
+  2000.
+
 \bibitem[Orozco et~al.(1997)Orozco, Miller, Settlage, and
   Hanley-Bowdoin]{pmid9092519}
 B.~M. Orozco, A.~B. Miller, S.~B. Settlage, and L.~Hanley-Bowdoin.
@@ -1303,6 +1368,12 @@ M.~Panning, R.~Kobbe, S.~Vollbach, J.~F. Drexler, S.~Adjei, O.~Adjei,
 \newblock {{N}ovel human parvovirus 4 genotype 3 in infants, {G}hana}.
 \newblock \emph{Emerging Infect. Dis.}, 16\penalty0 (7):\penalty0 1143--1146,
   Jul 2010.
+
+\bibitem[Pante and Kann(2002)]{pmid11854401}
+N.~Pante and M.~Kann.
+\newblock {{N}uclear pore complex is able to transport macromolecules with
+  diameters of about 39 nm}.
+\newblock \emph{Mol. Biol. Cell}, 13\penalty0 (2):\penalty0 425--434, Feb 2002.
 
 \bibitem[Paradiso et~al.(1984)Paradiso, Williams, and Costantino]{pmid6481856}
 P.~R. Paradiso, K.~R. Williams, and R.~L. Costantino.
@@ -1405,11 +1476,6 @@ J.~A. Rose, K.~I. Berns, M.~D. Hoggan, and F.~J. Koczot.
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 64\penalty0 (3):\penalty0
   863--869, Nov 1969.
 
-\bibitem[Rose et~al.(1971)Rose, Maizel, Inman, and Shatkin]{pmid5132697}
-J.~A. Rose, J.~V. Maizel, J.~K. Inman, and A.~J. Shatkin.
-\newblock {{S}tructural proteins of adenovirus-associated viruses}.
-\newblock \emph{J. Virol.}, 8\penalty0 (5):\penalty0 766--770, Nov 1971.
-
 \bibitem[Rossmann and Johnson(1989)]{pmid2673017}
 M.~G. Rossmann and J.~E. Johnson.
 \newblock {{I}cosahedral {R}{N}{A} virus structure}.
@@ -1421,6 +1487,13 @@ M.~P. Rubio, A.~Lopez-Bueno, and J.~M. Almendral.
   prototype strain of the parvovirus minute virus of mice exhibit a capsid with
   low avidity for a primary receptor}.
 \newblock \emph{J. Virol.}, 79\penalty0 (17):\penalty0 11280--11290, Sep 2005.
+
+\bibitem[Ryan and Wente(2000)]{pmid10801463}
+K.~J. Ryan and S.~R. Wente.
+\newblock {{T}he nuclear pore complex: a protein machine bridging the nucleus
+  and cytoplasm}.
+\newblock \emph{Curr. Opin. Cell Biol.}, 12\penalty0 (3):\penalty0 361--371,
+  Jun 2000.
 
 \bibitem[Sahli et~al.(1985)Sahli, McMaster, and Hirt]{pmid3855242}
 R.~Sahli, G.~K. McMaster, and B.~Hirt.
@@ -1448,12 +1521,6 @@ M.~Saknimit, I.~Inatsuki, Y.~Sugiyama, and K.~Yagami.
 L.~A. Salzman and L.~A. Jori.
 \newblock {{C}haracterization of the {K}ilham rat virus}.
 \newblock \emph{J. Virol.}, 5\penalty0 (2):\penalty0 114--122, Feb 1970.
-
-\bibitem[Salzman and White(1970)]{pmid4321164}
-L.~A. Salzman and W.~L. White.
-\newblock {{S}tructural proteins of {K}ilham rat virus}.
-\newblock \emph{Biochem. Biophys. Res. Commun.}, 41\penalty0 (6):\penalty0
-  1551--1556, Dec 1970.
 
 \bibitem[Samulski et~al.(1991)Samulski, Zhu, Xiao, Brook, Housman, Epstein, and
   Hunter]{pmid1657596}
@@ -1589,6 +1656,13 @@ B.~A. Spalholz, J.~Bratton, D.~C. Ward, and P.~Tattersall.
 \newblock \emph{{{T}umor {V}iruses and {D}ifferentiation}}.
 \newblock Academic Press, New York, NY, 1982.
 
+\bibitem[Stoffler et~al.(1999)Stoffler, Fahrenkrog, and Aebi]{pmid10395558}
+D.~Stoffler, B.~Fahrenkrog, and U.~Aebi.
+\newblock {{T}he nuclear pore complex: from molecular architecture to
+  functional dynamics}.
+\newblock \emph{Curr. Opin. Cell Biol.}, 11\penalty0 (3):\penalty0 391--401,
+  Jun 1999.
+
 \bibitem[Streck et~al.(2011)Streck, Bonatto, Homeier, Souza, Goncalves, Gava,
   Canal, and Truyen]{pmid21795474}
 A.~F. Streck, S.~L. Bonatto, T.~Homeier, C.~K. Souza, K.~R. Goncalves, D.~Gava,
@@ -1597,6 +1671,12 @@ A.~F. Streck, S.~L. Bonatto, T.~Homeier, C.~K. Souza, K.~R. Goncalves, D.~Gava,
   parvovirus}.
 \newblock \emph{J. Gen. Virol.}, 92\penalty0 (Pt 11):\penalty0 2628--2636, Nov
   2011.
+
+\bibitem[Suikkanen et~al.(2003)Suikkanen, Antila, Jaatinen, Vihinen-Ranta, and
+  Vuento]{pmid14644609}
+S.~Suikkanen, M.~Antila, A.~Jaatinen, M.~Vihinen-Ranta, and M.~Vuento.
+\newblock {{R}elease of canine parvovirus from endocytic vesicles}.
+\newblock \emph{Virology}, 316\penalty0 (2):\penalty0 267--280, Nov 2003.
 
 \bibitem[Tattersall(1972)]{pmid4673484}
 P.~Tattersall.
@@ -1616,6 +1696,12 @@ P.~Tattersall and J.~Bratton.
 \newblock {{R}eciprocal productive and restrictive virus-cell interactions of
   immunosuppressive and prototype strains of minute virus of mice}.
 \newblock \emph{J. Virol.}, 46\penalty0 (3):\penalty0 944--955, Jun 1983.
+
+\bibitem[Tattersall and Cotmore(1988)]{NPC}
+P.~Tattersall and S.~F. Cotmore.
+\newblock {T}he nature of parvoviruses.
+\newblock In J.~R. Pattison, editor, \emph{{{P}arvoviruses and {H}uman
+  {D}iseases}}, pages 5--41. CRC Press, Inc., Boca Raton, FL, 1988.
 
 \bibitem[Tattersall and Gardiner(1990)]{S-phase}
 P.~Tattersall and E.~M. Gardiner.
@@ -1665,11 +1751,27 @@ P.~Tijssen.
   tropism}.
 \newblock \emph{Acta Vet. Hung.}, 47\penalty0 (3):\penalty0 379--394, 1999.
 
+\bibitem[Tijssen et~al.(2006)Tijssen, Szelei, and Zádori]{PLA2}
+P.~Tijssen, J.~Szelei, and Z.~Zádori.
+\newblock {P}hospholipase {A}\textsubscript{2} domains in structural proteins
+  of parvoviruses.
+\newblock In J.~R. Kerr, M.~E. Bloom, S.~F. Cotmore, R.~M. Linden, and C.~R.
+  Parrish, editors, \emph{{{P}arvoviruses}}, pages 95--105. Hodder Arnold,
+  London, UK, 2006.
+
 \bibitem[Trampel et~al.(1983)Trampel, Kinden, Solorzano, and
   Stogsdill]{pmid6847550}
 D.~W. Trampel, D.~A. Kinden, R.~F. Solorzano, and P.~L. Stogsdill.
 \newblock {{P}arvovirus-like enteropathy in {M}issouri turkeys}.
 \newblock \emph{Avian Dis.}, 27\penalty0 (1):\penalty0 49--54, 1983.
+
+\bibitem[Trotman et~al.(2001)Trotman, Mosberger, Fornerod, Stidwill, and
+  Greber]{pmid11781571}
+L.~C. Trotman, N.~Mosberger, M.~Fornerod, R.~P. Stidwill, and U.~F. Greber.
+\newblock {{I}mport of adenovirus {D}{N}{A} involves the nuclear pore complex
+  receptor {C}{A}{N}/{N}up214 and histone {H}1}.
+\newblock \emph{Nat. Cell Biol.}, 3\penalty0 (12):\penalty0 1092--1100, Dec
+  2001.
 
 \bibitem[Truyen et~al.(1994)Truyen, Agbandje, and Parrish]{pmid7513918}
 U.~Truyen, M.~Agbandje, and C.~R. Parrish.
@@ -1733,6 +1835,13 @@ D.~Vicente, G.~Cilla, M.~Montes, E.~G. Perez-Yarza, and E.~Perez-Trallero.
 \newblock \emph{Emerging Infect. Dis.}, 13\penalty0 (4):\penalty0 636--637, Apr
   2007.
 
+\bibitem[Vihinen-Ranta et~al.(2004)Vihinen-Ranta, Suikkanen, and
+  Parrish]{pmid15194745}
+M.~Vihinen-Ranta, S.~Suikkanen, and C.~R. Parrish.
+\newblock {{P}athways of cell infection by parvoviruses and adeno-associated
+  viruses}.
+\newblock \emph{J. Virol.}, 78\penalty0 (13):\penalty0 6709--6714, Jul 2004.
+
 \bibitem[Walker et~al.(1997)Walker, Wonderling, and Owens]{pmid9261429}
 S.~L. Walker, R.~S. Wonderling, and R.~A. Owens.
 \newblock {{M}utational analysis of the adeno-associated virus type 2 {R}ep68
@@ -1753,6 +1862,11 @@ W.~S. Weichert, J.~S. Parker, A.~T. Wahid, S.~F. Chang, E.~Meier, and C.~R.
 \newblock {{A}ssaying for structural variation in the parvovirus capsid and its
   role in infection}.
 \newblock \emph{Virology}, 250\penalty0 (1):\penalty0 106--117, Oct 1998.
+
+\bibitem[Whittaker et~al.(2000)Whittaker, Kann, and Helenius]{pmid11031249}
+G.~R. Whittaker, M.~Kann, and A.~Helenius.
+\newblock {{V}iral entry into the nucleus}.
+\newblock \emph{Annu. Rev. Cell Dev. Biol.}, 16:\penalty0 627--651, 2000.
 
 \bibitem[Wichman et~al.(1999)Wichman, Badgett, Scott, Boulianne, and
   Bull]{pmid10411508}
@@ -1828,6 +1942,14 @@ X.~Yu, J.~Zhang, L.~Hong, J.~Wang, Z.~Yuan, X.~Zhang, and R.~Ghildyal.
 \newblock {{H}igh prevalence of human parvovirus 4 infection in {H}{B}{V} and
   {H}{C}{V} infected individuals in shanghai}.
 \newblock \emph{PLoS ONE}, 7\penalty0 (1):\penalty0 e29474, 2012.
+
+\bibitem[Zadori et~al.(2001)Zadori, Szelei, Lacoste, Li, Gariepy, Raymond,
+  Allaire, Nabi, and Tijssen]{pmid11702787}
+Z.~Zadori, J.~Szelei, M.~C. Lacoste, Y.~Li, S.~Gariepy, P.~Raymond, M.~Allaire,
+  I.~R. Nabi, and P.~Tijssen.
+\newblock {{A} viral phospholipase {A}2 is required for parvovirus
+  infectivity}.
+\newblock \emph{Dev. Cell}, 1\penalty0 (2):\penalty0 291--302, Aug 2001.
 
 \bibitem[Zadori et~al.(2005)Zadori, Szelei, and Tijssen]{pmid16189014}
 Z.~Zadori, J.~Szelei, and P.~Tijssen.
