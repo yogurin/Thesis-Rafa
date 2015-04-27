@@ -1,4 +1,4 @@
-\begin{thebibliography}{286}
+\begin{thebibliography}{302}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -221,6 +221,15 @@ M.~E. Bloom, B.~D. Berry, W.~Wei, S.~Perryman, and J.~B. Wolfinbarger.
   {A}leutian mink disease parvovirus ({A}{D}{V}): identification of a
   determinant governing replication of {A}{D}{V} in cell culture}.
 \newblock \emph{J. Virol.}, 67\penalty0 (10):\penalty0 5976--5988, Oct 1993.
+
+\bibitem[Bloom et~al.(1997)Bloom, Martin, Oie, Huhtanen, Costello,
+  Wolfinbarger, Hayes, and Agbandje-McKenna]{pmid8985402}
+M.~E. Bloom, D.~A. Martin, K.~L. Oie, M.~E. Huhtanen, F.~Costello, J.~B.
+  Wolfinbarger, S.~F. Hayes, and M.~Agbandje-McKenna.
+\newblock {{E}xpression of {A}leutian mink disease parvovirus capsid proteins
+  in defined segments: localization of immunoreactive sites and neutralizing
+  epitopes to specific regions}.
+\newblock \emph{J. Virol.}, 71\penalty0 (1):\penalty0 705--714, Jan 1997.
 
 \bibitem[Blumel et~al.(2002)Blumel, Schmidt, Willkommen, and
   Lower]{pmid12385412}
@@ -827,6 +836,13 @@ B.~L. Gurda, K.~N. Parent, H.~Bladek, R.~S. Sinkovits, M.~A. DiMattia,
   repertoire of the parvoviridae}.
 \newblock \emph{J. Virol.}, 84\penalty0 (12):\penalty0 5880--5889, Jun 2010.
 
+\bibitem[Hafenstein and Fane(2002)]{pmid11991963}
+S.~Hafenstein and B.~A. Fane.
+\newblock {$\phi$~{X}174 genome-capsid interactions influence the biophysical
+  properties of the virion: evidence for a scaffolding-like function for the
+  genome during the final stages of morphogenesis}.
+\newblock \emph{J. Virol.}, 76\penalty0 (11):\penalty0 5350--5356, Jun 2002.
+
 \bibitem[Hallauer et~al.(1972)Hallauer, Siegl, and Kronauer]{pmid5083410}
 C.~Hallauer, G.~Siegl, and G.~Kronauer.
 \newblock {{P}arvoviruses as contaminants of permanent human cell lines. 3.
@@ -960,6 +976,26 @@ C.~V. Jongeneel, R.~Sahli, G.~K. McMaster, and B.~Hirt.
 \newblock {{A} precise map of splice junctions in the m{R}{N}{A}s of minute
   virus of mice, an autonomous parvovirus}.
 \newblock \emph{J. Virol.}, 59\penalty0 (3):\penalty0 564--573, Sep 1986.
+
+\bibitem[Kalderon et~al.(1984{\natexlab{a}})Kalderon, Richardson, Markham, and
+  Smith]{pmid6088992}
+D.~Kalderon, W.~D. Richardson, A.~F. Markham, and A.~E. Smith.
+\newblock {{S}equence requirements for nuclear location of simian virus 40
+  large-{T} antigen}.
+\newblock \emph{Nature}, 311\penalty0 (5981):\penalty0 33--38,
+  1984{\natexlab{a}}.
+
+\bibitem[Kalderon et~al.(1984{\natexlab{b}})Kalderon, Roberts, Richardson, and
+  Smith]{pmid6096007}
+D.~Kalderon, B.~L. Roberts, W.~D. Richardson, and A.~E. Smith.
+\newblock {{A} short amino acid sequence able to specify nuclear location}.
+\newblock \emph{Cell}, 39\penalty0 (3 Pt 2):\penalty0 499--509, Dec
+  1984{\natexlab{b}}.
+
+\bibitem[Kasamatsu and Nakanishi(1998)]{pmid9891810}
+H.~Kasamatsu and A.~Nakanishi.
+\newblock {{H}ow do animal {D}{N}{A} viruses get to the nucleus?}
+\newblock \emph{Annu. Rev. Microbiol.}, 52:\penalty0 627--686, 1998.
 
 \bibitem[KILHAM and OLIVIER(1959)]{pmid13669314}
 L.~KILHAM and L.~J. OLIVIER.
@@ -1135,6 +1171,21 @@ M.~Lochelt, H.~Delius, and O.~R. Kaaden.
   the covalently closed linear {D}{N}{A} of the parvoviruses}.
 \newblock \emph{J. Gen. Virol.}, 70 ( Pt 5):\penalty0 1105--1116, May 1989.
 
+\bibitem[Lombardo et~al.(2000)Lombardo, Ramirez, Agbandje-McKenna, and
+  Almendral]{pmid10729155}
+E.~Lombardo, J.~C. Ramirez, M.~Agbandje-McKenna, and J.~M. Almendral.
+\newblock {{A} beta-stranded motif drives capsid protein oligomers of the
+  parvovirus minute virus of mice into the nucleus for viral assembly}.
+\newblock \emph{J. Virol.}, 74\penalty0 (8):\penalty0 3804--3814, Apr 2000.
+
+\bibitem[Lombardo et~al.(2002)Lombardo, Ramirez, Garcia, and
+  Almendral]{pmid12072505}
+E.~Lombardo, J.~C. Ramirez, J.~Garcia, and J.~M. Almendral.
+\newblock {{C}omplementary roles of multiple nuclear targeting signals in the
+  capsid proteins of the parvovirus minute virus of mice during assembly and
+  onset of infection}.
+\newblock \emph{J. Virol.}, 76\penalty0 (14):\penalty0 7049--7059, Jul 2002.
+
 \bibitem[Lopez-Bueno et~al.(2003)Lopez-Bueno, Mateu, and
   Almendral]{pmid12552010}
 A.~Lopez-Bueno, M.~G. Mateu, and J.~M. Almendral.
@@ -1231,6 +1282,11 @@ A.~Manning, S.~J. Willey, J.~E. Bell, and P.~Simmonds.
 \newblock \emph{J. Infect. Dis.}, 195\penalty0 (9):\penalty0 1345--1352, May
   2007.
 
+\bibitem[Mattaj and Englmeier(1998)]{pmid9759490}
+I.~W. Mattaj and L.~Englmeier.
+\newblock {{N}ucleocytoplasmic transport: the soluble phase}.
+\newblock \emph{Annu. Rev. Biochem.}, 67:\penalty0 265--306, 1998.
+
 \bibitem[Maxwell et~al.(1995)Maxwell, Spitzer, Maxwell, and
   Pintel]{pmid7637028}
 I.~H. Maxwell, A.~L. Spitzer, F.~Maxwell, and D.~J. Pintel.
@@ -1320,6 +1376,11 @@ J.~Ni, C.~Qiao, X.~Han, T.~Han, W.~Kang, Z.~Zi, Z.~Cao, X.~Zhai, and X.~Cai.
   parvovirus ({P}{P}{V}6) in china}.
 \newblock \emph{Virol. J.}, 11\penalty0 (1):\penalty0 203, Dec 2014.
 
+\bibitem[Nigg(1997)]{pmid9126736}
+E.~A. Nigg.
+\newblock {{N}ucleocytoplasmic transport: signals, mechanisms and regulation}.
+\newblock \emph{Nature}, 386\penalty0 (6627):\penalty0 779--787, Apr 1997.
+
 \bibitem[Ojala et~al.(2000)Ojala, Sodeik, Ebersold, Kutay, and
   Helenius]{pmid10848617}
 P.~M. Ojala, B.~Sodeik, M.~W. Ebersold, U.~Kutay, and A.~Helenius.
@@ -1381,12 +1442,26 @@ P.~R. Paradiso, K.~R. Williams, and R.~L. Costantino.
   protein}.
 \newblock \emph{J. Virol.}, 52\penalty0 (1):\penalty0 77--81, Oct 1984.
 
+\bibitem[Parrish and Carmichael(1986)]{pmid3942033}
+C.~R. Parrish and L.~E. Carmichael.
+\newblock {{C}haracterization and recombination mapping of an antigenic and
+  host range mutation of canine parvovirus}.
+\newblock \emph{Virology}, 148\penalty0 (1):\penalty0 121--132, Jan 1986.
+
 \bibitem[Parrish et~al.(1988)Parrish, Aquadro, and Carmichael]{pmid3176341}
 C.~R. Parrish, C.~F. Aquadro, and L.~E. Carmichael.
 \newblock {{C}anine host range and a specific epitope map along with variant
   sequences in the capsid protein gene of canine parvovirus and related feline,
   mink, and raccoon parvoviruses}.
 \newblock \emph{Virology}, 166\penalty0 (2):\penalty0 293--307, Oct 1988.
+
+\bibitem[Parrish et~al.(1991)Parrish, Aquadro, Strassheim, Evermann, Sgro, and
+  Mohammed]{pmid1942246}
+C.~R. Parrish, C.~F. Aquadro, M.~L. Strassheim, J.~F. Evermann, J.~Y. Sgro, and
+  H.~O. Mohammed.
+\newblock {{R}apid antigenic-type replacement and {D}{N}{A} sequence evolution
+  of canine parvovirus}.
+\newblock \emph{J. Virol.}, 65\penalty0 (12):\penalty0 6544--6552, Dec 1991.
 
 \bibitem[Pass et~al.(1982)Pass, Robertson, and Wilcox]{pmid6281962}
 D.~A. Pass, M.~D. Robertson, and G.~E. Wilcox.
@@ -1462,6 +1537,14 @@ S.~L. Rhode.
 \newblock {trans-{A}ctivation of parvovirus {P}38 promoter by the 76{K}
   noncapsid protein}.
 \newblock \emph{J. Virol.}, 55\penalty0 (3):\penalty0 886--889, Sep 1985.
+
+\bibitem[Robbins et~al.(1991)Robbins, Dilworth, Laskey, and
+  Dingwall]{pmid1991323}
+J.~Robbins, S.~M. Dilworth, R.~A. Laskey, and C.~Dingwall.
+\newblock {{T}wo interdependent basic domains in nucleoplasmin nuclear
+  targeting sequence: identification of a class of bipartite nuclear targeting
+  sequence}.
+\newblock \emph{Cell}, 64\penalty0 (3):\penalty0 615--623, Feb 1991.
 
 \bibitem[Ron and Tal(1986)]{pmid3005655}
 D.~Ron and J.~Tal.
@@ -1815,6 +1898,14 @@ G.~E. Tullis, L.~R. Burger, and D.~J. Pintel.
   single-stranded {D}{N}{A} but is required for infectivity}.
 \newblock \emph{J. Virol.}, 67\penalty0 (1):\penalty0 131--141, Jan 1993.
 
+\bibitem[Valle et~al.(2006)Valle, Riolobos, and Almendral]{almendral}
+N.~Valle, L.~Riolobos, and J.~M. Almendral.
+\newblock {S}ynthesis, post-translational modification and trafficking of the
+  parvovirus structural polypeptides.
+\newblock In J.~R. Kerr, M.~E. Bloom, S.~F. Cotmore, R.~M. Linden, and C.~R.
+  Parrish, editors, \emph{{{P}arvoviruses}}, pages 291--304. Hodder Arnold,
+  London, UK, 2006.
+
 \bibitem[van Leengoed et~al.(1983)van Leengoed, Vos, Gruys, Rondhuis, and
   Brand]{pmid6314634}
 L.~A. van Leengoed, J.~Vos, E.~Gruys, P.~Rondhuis, and A.~Brand.
@@ -1834,6 +1925,21 @@ D.~Vicente, G.~Cilla, M.~Montes, E.~G. Perez-Yarza, and E.~Perez-Trallero.
 \newblock {{H}uman bocavirus, a respiratory and enteric virus}.
 \newblock \emph{Emerging Infect. Dis.}, 13\penalty0 (4):\penalty0 636--637, Apr
   2007.
+
+\bibitem[Vihinen-Ranta et~al.(1997)Vihinen-Ranta, Kakkola, Kalela, Vilja, and
+  Vuento]{pmid9428689}
+M.~Vihinen-Ranta, L.~Kakkola, A.~Kalela, P.~Vilja, and M.~Vuento.
+\newblock {{C}haracterization of a nuclear localization signal of canine
+  parvovirus capsid proteins}.
+\newblock \emph{Eur. J. Biochem.}, 250\penalty0 (2):\penalty0 389--394, Dec
+  1997.
+
+\bibitem[Vihinen-Ranta et~al.(2002)Vihinen-Ranta, Wang, Weichert, and
+  Parrish]{pmid11799183}
+M.~Vihinen-Ranta, D.~Wang, W.~S. Weichert, and C.~R. Parrish.
+\newblock {{T}he {V}{P}1 {N}-terminal sequence of canine parvovirus affects
+  nuclear transport of capsids and efficient cell infection}.
+\newblock \emph{J. Virol.}, 76\penalty0 (4):\penalty0 1884--1891, Feb 2002.
 
 \bibitem[Vihinen-Ranta et~al.(2004)Vihinen-Ranta, Suikkanen, and
   Parrish]{pmid15194745}
@@ -1862,6 +1968,12 @@ W.~S. Weichert, J.~S. Parker, A.~T. Wahid, S.~F. Chang, E.~Meier, and C.~R.
 \newblock {{A}ssaying for structural variation in the parvovirus capsid and its
   role in infection}.
 \newblock \emph{Virology}, 250\penalty0 (1):\penalty0 106--117, Oct 1998.
+
+\bibitem[Weis(2002)]{pmid12067655}
+K.~Weis.
+\newblock {{N}ucleocytoplasmic transport: cargo trafficking across the border}.
+\newblock \emph{Curr. Opin. Cell Biol.}, 14\penalty0 (3):\penalty0 328--335,
+  Jun 2002.
 
 \bibitem[Whittaker et~al.(2000)Whittaker, Kann, and Helenius]{pmid11031249}
 G.~R. Whittaker, M.~Kann, and A.~Helenius.

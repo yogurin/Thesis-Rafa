@@ -22,30 +22,36 @@
 \contentsline {section}{\numberline {4.1}Physicochemical properties}{17}{section.4.1}
 \contentsline {section}{\numberline {4.2}Atomic structure}{17}{section.4.2}
 \contentsline {section}{\numberline {4.3}Structural proteins}{18}{section.4.3}
-\contentsline {section}{\numberline {4.4}Functional domains of VP1u}{19}{section.4.4}
+\contentsline {section}{\numberline {4.4}Functional domains}{19}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}The Phospholipase A\textsubscript {2} (PLA\textsubscript {2}) Motif}{19}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}The Nuclear Localization Signal (NLS)}{19}{subsection.4.4.2}
-\contentsline {chapter}{\numberline {5}Tissue Tropism and Pathogenicity Determinants}{21}{chapter.5}
-\contentsline {chapter}{\numberline {6}Genome Architecture}{25}{chapter.6}
-\contentsline {section}{\numberline {6.1}Genetic variability}{27}{section.6.1}
-\contentsline {chapter}{\numberline {7}The Parvovirus Life Cycle}{29}{chapter.7}
-\contentsline {section}{\numberline {7.1}Replication}{29}{section.7.1}
-\contentsline {section}{\numberline {7.2}Transcription}{30}{section.7.2}
-\contentsline {part}{\numberline {II}Methods}{35}{part.2}
-\contentsline {chapter}{\numberline {8}Methods}{37}{chapter.8}
-\contentsline {section}{\numberline {8.1}Cell Cultures}{37}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Freezing and thawing of cells}{37}{subsection.8.1.1}
-\contentsline {section}{\numberline {8.2}Virus Stocks}{37}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{37}{subsection.8.2.1}
-\contentsline {section}{\numberline {8.3}Freezing bacteria stocks in glycerol}{38}{section.8.3}
-\contentsline {section}{\numberline {8.4}Anion-exchange chromatography}{38}{section.8.4}
-\contentsline {section}{\numberline {8.5}Quantitative PCR}{38}{section.8.5}
-\contentsline {section}{\numberline {8.6}Immunoprecipitation}{39}{section.8.6}
-\contentsline {section}{\numberline {8.7}Dot Blot}{40}{section.8.7}
-\contentsline {section}{\numberline {8.8}SDS-PAGE and Western blotting}{40}{section.8.8}
-\contentsline {section}{\numberline {8.9}Chymotrypsin treatment}{41}{section.8.9}
-\contentsline {part}{\numberline {III}Publication}{43}{part.3}
+\contentsline {subsection}{\numberline {4.4.2}The Nuclear Localization Signal (NLS)}{20}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}The Nuclear Localization Motif (NLM)}{20}{subsection.4.4.3}
+\contentsline {chapter}{\numberline {5}Host Range and Specificity}{23}{chapter.5}
+\contentsline {section}{\numberline {5.1}Tissue Tropism Determinants}{23}{section.5.1}
+\contentsline {section}{\numberline {5.2}Pathogenicity Determinants}{23}{section.5.2}
+\contentsline {section}{\numberline {5.3}Comparison of Tissue Tropism and Pathogenicity Determinants to those of other Autonomous Parvoviruses}{24}{section.5.3}
+\contentsline {chapter}{\numberline {6}Genome Architecture}{27}{chapter.6}
+\contentsline {section}{\numberline {6.1}The MVM Left- and Right-End Telomeres}{27}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Terminal Resolution \textit {versus} Asymmetric Junction Resolution}{28}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}Genetic variability}{29}{section.6.2}
+\contentsline {chapter}{\numberline {7}The Parvovirus Life Cycle}{31}{chapter.7}
+\contentsline {section}{\numberline {7.1}Replication}{31}{section.7.1}
+\contentsline {section}{\numberline {7.2}Transcription}{32}{section.7.2}
+\contentsline {part}{\numberline {II}Methods}{37}{part.2}
+\contentsline {chapter}{\numberline {8}Methods}{39}{chapter.8}
+\contentsline {section}{\numberline {8.1}Cell Cultures}{39}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Freezing and thawing of cells}{39}{subsection.8.1.1}
+\contentsline {section}{\numberline {8.2}Virus Stocks}{39}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{39}{subsection.8.2.1}
+\contentsline {section}{\numberline {8.3}Freezing bacteria stocks in glycerol}{40}{section.8.3}
+\contentsline {section}{\numberline {8.4}Anion-exchange chromatography}{40}{section.8.4}
+\contentsline {section}{\numberline {8.5}Quantitative PCR}{40}{section.8.5}
+\contentsline {section}{\numberline {8.6}Immunoprecipitation}{41}{section.8.6}
+\contentsline {section}{\numberline {8.7}Dot Blot}{42}{section.8.7}
+\contentsline {section}{\numberline {8.8}SDS-PAGE and Western blotting}{42}{section.8.8}
+\contentsline {section}{\numberline {8.9}Chymotrypsin treatment}{43}{section.8.9}
+\contentsline {part}{\numberline {III}Publication}{45}{part.3}
 \cftpagenumbersoff {chapter}
-\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{45}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{45}{section*.12}
-\contentsline {part}{\numberline {IV}Discussion}{57}{part.4}
+\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{47}{chapter.1}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{47}{section*.14}
+\contentsline {part}{\numberline {IV}Discussion}{59}{part.4}
