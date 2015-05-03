@@ -1,4 +1,4 @@
-\begin{thebibliography}{302}
+\begin{thebibliography}{347}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -18,6 +18,13 @@ C.~Adlhoch, M.~Kaiser, H.~Ellerbrok, and G.~Pauli.
 \newblock {{H}igh prevalence of porcine {H}okovirus in {G}erman wild boar
   populations}.
 \newblock \emph{Virol. J.}, 7:\penalty0 171, 2010.
+
+\bibitem[Agbandje et~al.(1993)Agbandje, McKenna, Rossmann, Strassheim, and
+  Parrish]{pmid8392729}
+M.~Agbandje, R.~McKenna, M.~G. Rossmann, M.~L. Strassheim, and C.~R. Parrish.
+\newblock {{S}tructure determination of feline panleukopenia virus empty
+  particles}.
+\newblock \emph{Proteins}, 16\penalty0 (2):\penalty0 155--171, Jun 1993.
 
 \bibitem[Agbandje-McKenna and Chapman(2006)]{tropism}
 M.~Agbandje-McKenna and M.~S. Chapman.
@@ -62,6 +69,22 @@ T.~Allander, M.~T. Tammi, M.~Eriksson, A.~Bjerkner, A.~Tiveljung-Lindell, and
   respiratory tract samples}.
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 102\penalty0 (36):\penalty0
   12891--12896, Sep 2005.
+
+\bibitem[Allaume et~al.(2012)Allaume, El-Andaloussi, Leuchs, Bonifati,
+  Kulkarni, Marttila, Kaufmann, Nettelbeck, Kleinschmidt, Rommelaere, and
+  Marchini]{pmid22258256}
+X.~Allaume, N.~El-Andaloussi, B.~Leuchs, S.~Bonifati, A.~Kulkarni, T.~Marttila,
+  J.~K. Kaufmann, D.~M. Nettelbeck, J.~Kleinschmidt, J.~Rommelaere, and
+  A.~Marchini.
+\newblock {{R}etargeting of rat parvovirus {H}-1{P}{V} to cancer cells through
+  genetic engineering of the viral capsid}.
+\newblock \emph{J. Virol.}, 86\penalty0 (7):\penalty0 3452--3465, Apr 2012.
+
+\bibitem[Angata and Varki(2002)]{pmid11841250}
+T.~Angata and A.~Varki.
+\newblock {{C}hemical diversity in the sialic acids and related alpha-keto
+  acids: an evolutionary perspective}.
+\newblock \emph{Chem. Rev.}, 102\penalty0 (2):\penalty0 439--469, Feb 2002.
 
 \bibitem[Antonietti et~al.(1988)Antonietti, Sahli, Beard, and
   Hirt]{pmid3257270}
@@ -133,11 +156,23 @@ L.~J. Ball-Goodrich, R.~D. Moir, and P.~Tattersall.
   amino acid substitutions within the capsid}.
 \newblock \emph{Virology}, 184\penalty0 (1):\penalty0 175--186, Sep 1991.
 
+\bibitem[Barbis et~al.(1992)Barbis, Chang, and Parrish]{pmid1329321}
+D.~P. Barbis, S.~F. Chang, and C.~R. Parrish.
+\newblock {{M}utations adjacent to the dimple of the canine parvovirus capsid
+  structure affect sialic acid binding}.
+\newblock \emph{Virology}, 191\penalty0 (1):\penalty0 301--308, Nov 1992.
+
 \bibitem[Barnes et~al.(2000)Barnes, Guy, and Vaillancourt]{pmid10935280}
 H.~J. Barnes, J.~S. Guy, and J.~P. Vaillancourt.
 \newblock {{P}oult enteritis complex}.
 \newblock \emph{Rev. - Off. Int. Epizoot.}, 19\penalty0 (2):\penalty0 565--588,
   Aug 2000.
+
+\bibitem[Basak et~al.(1994)Basak, Turner, and Parr]{pmid7975239}
+S.~Basak, H.~Turner, and S.~Parr.
+\newblock {{I}dentification of a 40- to 42-k{D}a attachment polypeptide for
+  canine parvovirus in {A}72 cells}.
+\newblock \emph{Virology}, 205\penalty0 (1):\penalty0 7--16, Nov 1994.
 
 \bibitem[Bashir et~al.(2000)Bashir, Horlein, Rommelaere, and
   Willwand]{pmid10792046}
@@ -200,6 +235,13 @@ K.~I. Berns and J.~A. Rose.
   isolation and separation of complementary single strands}.
 \newblock \emph{J. Virol.}, 5\penalty0 (6):\penalty0 693--699, Jun 1970.
 
+\bibitem[Blackburn et~al.(2005)Blackburn, Cline, Hemming, and
+  Johnson]{pmid15750863}
+S.~D. Blackburn, S.~E. Cline, J.~P. Hemming, and F.~B. Johnson.
+\newblock {{A}ttachment of bovine parvovirus to {O}-linked alpha 2,3 neuraminic
+  acid on glycophorin {A}}.
+\newblock \emph{Arch. Virol.}, 150\penalty0 (7):\penalty0 1477--1484, Jul 2005.
+
 \bibitem[Blomstrom et~al.(2012)Blomstrom, Stahl, Masembe, Okoth, Okurut,
   Atmnedi, Kemp, Bishop, Belak, and Berg]{pmid22967311}
 A.~L. Blomstrom, K.~Stahl, C.~Masembe, E.~Okoth, A.~R. Okurut, P.~Atmnedi,
@@ -237,6 +279,12 @@ J.~Blumel, I.~Schmidt, H.~Willkommen, and J.~Lower.
 \newblock {{I}nactivation of parvovirus {B}19 during pasteurization of human
   serum albumin}.
 \newblock \emph{Transfusion}, 42\penalty0 (8):\penalty0 1011--1018, Aug 2002.
+
+\bibitem[Boisvert et~al.(2010)Boisvert, Fernandes, and Tijssen]{pmid20484503}
+M.~Boisvert, S.~Fernandes, and P.~Tijssen.
+\newblock {{M}ultiple pathways involved in porcine parvovirus cellular entry
+  and trafficking toward the nucleus}.
+\newblock \emph{J. Virol.}, 84\penalty0 (15):\penalty0 7782--7792, Aug 2010.
 
 \bibitem[Bonnard et~al.(1976)Bonnard, Manders, Campbell, Herberman, and
   Collins]{pmid1244418}
@@ -277,6 +325,11 @@ S.~Brauniger, I.~Fischer, and J.~Peters.
 \newblock {{T}he temperature stability of bovine parvovirus}.
 \newblock \emph{Zentralbl Hyg Umweltmed}, 196\penalty0 (3):\penalty0 270--278,
   Oct 1994.
+
+\bibitem[Brown et~al.(1993)Brown, Anderson, and Young]{pmid8211117}
+K.~E. Brown, S.~M. Anderson, and N.~S. Young.
+\newblock {{E}rythrocyte {P} antigen: cellular receptor for {B}19 parvovirus}.
+\newblock \emph{Science}, 262\penalty0 (5130):\penalty0 114--117, Oct 1993.
 
 \bibitem[Brownstein et~al.(1991)Brownstein, Smith, Jacoby, Johnson, Hansen, and
   Tattersall]{pmid1653878}
@@ -357,6 +410,16 @@ K.~C. Chen, B.~C. Shull, E.~A. Moses, M.~Lederman, E.~R. Stout, and R.~C.
 \newblock {{C}omplete nucleotide sequence and genome organization of bovine
   parvovirus}.
 \newblock \emph{J. Virol.}, 60\penalty0 (3):\penalty0 1085--1097, Dec 1986.
+
+\bibitem[Chen et~al.(2005)Chen, Kapturczak, Loiler, Zolotukhin, Glushakova,
+  Madsen, Samulski, Hauswirth, Campbell-Thompson, Berns, Flotte, Atkinson,
+  Tisher, and Agarwal]{pmid15761263}
+S.~Chen, M.~Kapturczak, S.~A. Loiler, S.~Zolotukhin, O.~Y. Glushakova, K.~M.
+  Madsen, R.~J. Samulski, W.~W. Hauswirth, M.~Campbell-Thompson, K.~I. Berns,
+  T.~R. Flotte, M.~A. Atkinson, C.~C. Tisher, and A.~Agarwal.
+\newblock {{E}fficient transduction of vascular endothelial cells with
+  recombinant adeno-associated virus serotype 1 and 5 vectors}.
+\newblock \emph{Hum. Gene Ther.}, 16\penalty0 (2):\penalty0 235--247, Feb 2005.
 
 \bibitem[Cheng et~al.(2010)Cheng, Li, Huang, Yao, Liu, Cui, Jin, and
   Duan]{pmid21049037}
@@ -666,6 +729,14 @@ L.~Deleu, F.~Fuks, D.~Spitkovsky, R.~Horlein, S.~Faisst, and J.~Rommelaere.
 \newblock \emph{Mol. Cell. Biol.}, 18\penalty0 (1):\penalty0 409--419, Jan
   1998.
 
+\bibitem[Di~Pasquale et~al.(2003)Di~Pasquale, Davidson, Stein, Martins,
+  Scudiero, Monks, and Chiorini]{pmid14502277}
+G.~Di~Pasquale, B.~L. Davidson, C.~S. Stein, I.~Martins, D.~Scudiero, A.~Monks,
+  and J.~A. Chiorini.
+\newblock {{I}dentification of {P}{D}{G}{F}{R} as a receptor for {A}{A}{V}-5
+  transduction}.
+\newblock \emph{Nat. Med.}, 9\penalty0 (10):\penalty0 1306--1312, Oct 2003.
+
 \bibitem[Doerig et~al.(1987)Doerig, Beard, and Hirt]{pmid3824910}
 C.~Doerig, P.~Beard, and B.~Hirt.
 \newblock {{A} transcriptional promoter of the human parvovirus {B}19 active in
@@ -711,6 +782,18 @@ G.~A. Farr, L.~G. Zhang, and P.~Tattersall.
   breach the endosomal membrane during cell entry}.
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 102\penalty0 (47):\penalty0
   17148--17153, Nov 2005.
+
+\bibitem[Fields and Greene(1982)]{pmid6290894}
+B.~N. Fields and M.~I. Greene.
+\newblock {{G}enetic and molecular mechanisms of viral pathogenesis:
+  implications for prevention and treatment}.
+\newblock \emph{Nature}, 300\penalty0 (5887):\penalty0 19--23, Nov 1982.
+
+\bibitem[Fox and Bloom(1999)]{pmid10196278}
+J.~M. Fox and M.~E. Bloom.
+\newblock {{I}dentification of a cell surface protein from {C}randell feline
+  kidney cells that specifically binds {A}leutian mink disease parvovirus}.
+\newblock \emph{J. Virol.}, 73\penalty0 (5):\penalty0 3835--3842, May 1999.
 
 \bibitem[Fuks et~al.(1996)Fuks, Deleu, Dinsart, Rommelaere, and
   Faisst]{pmid8627649}
@@ -912,6 +995,12 @@ M.~D. Hoggan, K.~Maramorosch, and E.~Kurstak.
 \newblock \emph{{{S}mall {D}{N}{A} viruses}}.
 \newblock Academic Press, New York, NY, 1971.
 
+\bibitem[HOLLAND(1961)]{pmid13908368}
+J.~J. HOLLAND.
+\newblock {{R}eceptor affinities as major determinants of enterovirus tissue
+  tropisms in humans}.
+\newblock \emph{Virology}, 15:\penalty0 312--326, Nov 1961.
+
 \bibitem[Horiuchi et~al.(1992)Horiuchi, Ishiguro, Goto, and
   Shinagawa]{pmid1322591}
 M.~Horiuchi, N.~Ishiguro, H.~Goto, and M.~Shinagawa.
@@ -933,13 +1022,24 @@ K.~Hueffer and C.~R. Parrish.
 \newblock \emph{Curr. Opin. Microbiol.}, 6\penalty0 (4):\penalty0 392--398, Aug
   2003.
 
-\bibitem[Hueffer et~al.(2003)Hueffer, Govindasamy, Agbandje-McKenna, and
-  Parrish]{pmid12941920}
+\bibitem[Hueffer et~al.(2003{\natexlab{a}})Hueffer, Govindasamy,
+  Agbandje-McKenna, and Parrish]{pmid12941920}
 K.~Hueffer, L.~Govindasamy, M.~Agbandje-McKenna, and C.~R. Parrish.
 \newblock {{C}ombinations of two capsid regions controlling canine host range
   determine canine transferrin receptor binding by canine and feline
   parvoviruses}.
-\newblock \emph{J. Virol.}, 77\penalty0 (18):\penalty0 10099--10105, Sep 2003.
+\newblock \emph{J. Virol.}, 77\penalty0 (18):\penalty0 10099--10105, Sep
+  2003{\natexlab{a}}.
+
+\bibitem[Hueffer et~al.(2003{\natexlab{b}})Hueffer, Parker, Weichert, Geisel,
+  Sgro, and Parrish]{pmid12525605}
+K.~Hueffer, J.~S. Parker, W.~S. Weichert, R.~E. Geisel, J.~Y. Sgro, and C.~R.
+  Parrish.
+\newblock {{T}he natural host range shift and subsequent evolution of canine
+  parvovirus resulted from virus-specific binding to the canine transferrin
+  receptor}.
+\newblock \emph{J. Virol.}, 77\penalty0 (3):\penalty0 1718--1726, Feb
+  2003{\natexlab{b}}.
 
 \bibitem[Ilyina and Koonin(1992)]{pmid1630899}
 T.~V. Ilyina and E.~V. Koonin.
@@ -962,6 +1062,14 @@ H.~K. Jindal, C.~B. Yong, G.~M. Wilson, P.~Tam, and C.~R. Astell.
   functions}.
 \newblock \emph{J. Biol. Chem.}, 269\penalty0 (5):\penalty0 3283--3289, Feb
   1994.
+
+\bibitem[Johnson et~al.(2004)Johnson, Fenn, Owens, Faucheux, and
+  Blackburn]{pmid15269359}
+F.~B. Johnson, L.~B. Fenn, T.~J. Owens, L.~J. Faucheux, and S.~D. Blackburn.
+\newblock {{A}ttachment of bovine parvovirus to sialic acids on bovine cell
+  membranes}.
+\newblock \emph{J. Gen. Virol.}, 85\penalty0 (Pt 8):\penalty0 2199--2207, Aug
+  2004.
 
 \bibitem[Jones et~al.(2005)Jones, Kapoor, Lukashov, Simmonds, Hecht, and
   Delwart]{pmid15956568}
@@ -992,10 +1100,38 @@ D.~Kalderon, B.~L. Roberts, W.~D. Richardson, and A.~E. Smith.
 \newblock \emph{Cell}, 39\penalty0 (3 Pt 2):\penalty0 499--509, Dec
   1984{\natexlab{b}}.
 
+\bibitem[Kaludov et~al.(2001)Kaludov, Brown, Walters, Zabner, and
+  Chiorini]{pmid11435568}
+N.~Kaludov, K.~E. Brown, R.~W. Walters, J.~Zabner, and J.~A. Chiorini.
+\newblock {{A}deno-associated virus serotype 4 ({A}{A}{V}4) and {A}{A}{V}5 both
+  require sialic acid binding for hemagglutination and efficient transduction
+  but differ in sialic acid linkage specificity}.
+\newblock \emph{J. Virol.}, 75\penalty0 (15):\penalty0 6884--6893, Aug 2001.
+
+\bibitem[Kamerling and Gerwig(2006)]{pmid17072005}
+J.~P. Kamerling and G.~J. Gerwig.
+\newblock {{S}tructural analysis of naturally occurring sialic acids}.
+\newblock \emph{Methods Mol. Biol.}, 347:\penalty0 69--91, 2006.
+
 \bibitem[Kasamatsu and Nakanishi(1998)]{pmid9891810}
 H.~Kasamatsu and A.~Nakanishi.
 \newblock {{H}ow do animal {D}{N}{A} viruses get to the nucleus?}
 \newblock \emph{Annu. Rev. Microbiol.}, 52:\penalty0 627--686, 1998.
+
+\bibitem[Kashiwakura et~al.(2005)Kashiwakura, Tamayose, Iwabuchi, Hirai,
+  Shimada, Matsumoto, Nakamura, Watanabe, Oshimi, and Daida]{pmid15596854}
+Y.~Kashiwakura, K.~Tamayose, K.~Iwabuchi, Y.~Hirai, T.~Shimada, K.~Matsumoto,
+  T.~Nakamura, M.~Watanabe, K.~Oshimi, and H.~Daida.
+\newblock {{H}epatocyte growth factor receptor is a coreceptor for
+  adeno-associated virus type 2 infection}.
+\newblock \emph{J. Virol.}, 79\penalty0 (1):\penalty0 609--614, Jan 2005.
+
+\bibitem[Kaufmann et~al.(2005)Kaufmann, Baxa, Chipman, Rossmann, Modrow, and
+  Seckler]{pmid15661151}
+B.~Kaufmann, U.~Baxa, P.~R. Chipman, M.~G. Rossmann, S.~Modrow, and R.~Seckler.
+\newblock {{P}arvovirus {B}19 does not bind to membrane-associated globoside in
+  vitro}.
+\newblock \emph{Virology}, 332\penalty0 (1):\penalty0 189--198, Feb 2005.
 
 \bibitem[KILHAM and OLIVIER(1959)]{pmid13669314}
 L.~KILHAM and L.~J. OLIVIER.
@@ -1032,6 +1168,16 @@ J.~Kisary, B.~Avalosse, A.~Miller-Faures, and J.~Rommelaere.
 \newblock {{T}he genome structure of a new chicken virus identifies it as a
   parvovirus}.
 \newblock \emph{J. Gen. Virol.}, 66 ( Pt 10):\penalty0 2259--2263, Oct 1985.
+
+\bibitem[Kontou et~al.(2005)Kontou, Govindasamy, Nam, Bryant, Llamas-Saiz,
+  Foces-Foces, Hernando, Rubio, McKenna, Almendral, and
+  Agbandje-McKenna]{pmid16103145}
+M.~Kontou, L.~Govindasamy, H.~J. Nam, N.~Bryant, A.~L. Llamas-Saiz,
+  C.~Foces-Foces, E.~Hernando, M.~P. Rubio, R.~McKenna, J.~M. Almendral, and
+  M.~Agbandje-McKenna.
+\newblock {{S}tructural determinants of tissue tropism and in vivo
+  pathogenicity for the parvovirus minute virus of mice}.
+\newblock \emph{J. Virol.}, 79\penalty0 (17):\penalty0 10931--10943, Sep 2005.
 
 \bibitem[Koo et~al.(2015)Koo, Lee, Jeon, Han, Min, Lee, Bae, Cho, Mo, Kwon,
   Sung, Kim, and Mo]{pmid25510852}
@@ -1342,6 +1488,12 @@ F.~Mingozzi and K.~A. High.
 \newblock \emph{Nat. Rev. Genet.}, 12\penalty0 (5):\penalty0 341--355, May
   2011.
 
+\bibitem[Mizukami et~al.(1996)Mizukami, Young, and Brown]{pmid8599196}
+H.~Mizukami, N.~S. Young, and K.~E. Brown.
+\newblock {{A}deno-associated virus type 2 binds to a 150-kilodalton cell
+  membrane glycoprotein}.
+\newblock \emph{Virology}, 217\penalty0 (1):\penalty0 124--130, Mar 1996.
+
 \bibitem[Momoeda et~al.(1994)Momoeda, Wong, Kawase, Young, and
   Kajigaya]{pmid7966641}
 M.~Momoeda, S.~Wong, M.~Kawase, N.~S. Young, and S.~Kajigaya.
@@ -1354,6 +1506,30 @@ W.~R. Morgan and D.~C. Ward.
 \newblock {{T}hree splicing patterns are used to excise the small intron common
   to all minute virus of mice {R}{N}{A}s}.
 \newblock \emph{J. Virol.}, 60\penalty0 (3):\penalty0 1170--1174, Dec 1986.
+
+\bibitem[Morishima et~al.(1982{\natexlab{a}})Morishima, McClintock, Aulakh,
+  Billups, and Notkins]{pmid6293181}
+T.~Morishima, P.~R. McClintock, G.~S. Aulakh, L.~C. Billups, and A.~L. Notkins.
+\newblock {{G}enomic and receptor attachment differences between mengovirus and
+  encephalomyocarditis virus}.
+\newblock \emph{Virology}, 122\penalty0 (2):\penalty0 461--465, Oct
+  1982{\natexlab{a}}.
+
+\bibitem[Morishima et~al.(1982{\natexlab{b}})Morishima, McClintock, Billups,
+  and Notkins]{pmid6278730}
+T.~Morishima, P.~R. McClintock, L.~C. Billups, and A.~L. Notkins.
+\newblock {{E}xpression and modulation of virus receptors on lymphoid and
+  myeloid cells: relationship to infectivity}.
+\newblock \emph{Virology}, 116\penalty0 (2):\penalty0 605--618, Jan
+  1982{\natexlab{b}}.
+
+\bibitem[Munakata et~al.(2005)Munakata, Saito-Ito, Kumura-Ishii, Huang, Kodera,
+  Ishii, Hirabayashi, Koyanagi, and Sasaki]{pmid16076874}
+Y.~Munakata, T.~Saito-Ito, K.~Kumura-Ishii, J.~Huang, T.~Kodera, T.~Ishii,
+  Y.~Hirabayashi, Y.~Koyanagi, and T.~Sasaki.
+\newblock {{K}u80 autoantigen as a cellular coreceptor for human parvovirus
+  {B}19 infection}.
+\newblock \emph{Blood}, 106\penalty0 (10):\penalty0 3449--3456, Nov 2005.
 
 \bibitem[Muzyczka and Berns(2001)]{telomere3}
 N.~Muzyczka and K.~I. Berns.
@@ -1376,6 +1552,14 @@ J.~Ni, C.~Qiao, X.~Han, T.~Han, W.~Kang, Z.~Zi, Z.~Cao, X.~Zhai, and X.~Cai.
   parvovirus ({P}{P}{V}6) in china}.
 \newblock \emph{Virol. J.}, 11\penalty0 (1):\penalty0 203, Dec 2014.
 
+\bibitem[Ni et~al.(1998)Ni, McDonald, Zolotukhin, Melendy, Waga, Stillman, and
+  Muzyczka]{pmid9525597}
+T.~H. Ni, W.~F. McDonald, I.~Zolotukhin, T.~Melendy, S.~Waga, B.~Stillman, and
+  N.~Muzyczka.
+\newblock {{C}ellular proteins required for adeno-associated virus {D}{N}{A}
+  replication in the absence of adenovirus coinfection}.
+\newblock \emph{J. Virol.}, 72\penalty0 (4):\penalty0 2777--2787, Apr 1998.
+
 \bibitem[Nigg(1997)]{pmid9126736}
 E.~A. Nigg.
 \newblock {{N}ucleocytoplasmic transport: signals, mechanisms and regulation}.
@@ -1388,6 +1572,11 @@ P.~M. Ojala, B.~Sodeik, M.~W. Ebersold, U.~Kutay, and A.~Helenius.
   of capsid binding and uncoating at the nuclear pore complex in vitro}.
 \newblock \emph{Mol. Cell. Biol.}, 20\penalty0 (13):\penalty0 4922--4931, Jul
   2000.
+
+\bibitem[Olofsson and Bergstrom(2005)]{pmid16019714}
+S.~Olofsson and T.~Bergstrom.
+\newblock {{G}lycoconjugate glycans as viral receptors}.
+\newblock \emph{Ann. Med.}, 37\penalty0 (3):\penalty0 154--172, 2005.
 
 \bibitem[Orozco et~al.(1997)Orozco, Miller, Settlage, and
   Hanley-Bowdoin]{pmid9092519}
@@ -1441,6 +1630,19 @@ P.~R. Paradiso, K.~R. Williams, and R.~L. Costantino.
 \newblock {{M}apping of the amino terminus of the {H}-1 parvovirus major capsid
   protein}.
 \newblock \emph{J. Virol.}, 52\penalty0 (1):\penalty0 77--81, Oct 1984.
+
+\bibitem[Park et~al.(2005)Park, Best, and Bloom]{pmid16040076}
+G.~S. Park, S.~M. Best, and M.~E. Bloom.
+\newblock {{T}wo mink parvoviruses use different cellular receptors for entry
+  into {C}{R}{F}{K} cells}.
+\newblock \emph{Virology}, 340\penalty0 (1):\penalty0 1--9, Sep 2005.
+
+\bibitem[Parker et~al.(2001)Parker, Murphy, Wang, O'Brien, and
+  Parrish]{pmid11264378}
+J.~S. Parker, W.~J. Murphy, D.~Wang, S.~J. O'Brien, and C.~R. Parrish.
+\newblock {{C}anine and feline parvoviruses can use human or feline transferrin
+  receptors to bind, enter, and infect cells}.
+\newblock \emph{J. Virol.}, 75\penalty0 (8):\penalty0 3896--3902, Apr 2001.
 
 \bibitem[Parrish and Carmichael(1986)]{pmid3942033}
 C.~R. Parrish and L.~E. Carmichael.
@@ -1504,6 +1706,13 @@ N.~Previsani, S.~Fontana, B.~Hirt, and P.~Beard.
   {E}{L}4 lymphocytes is restricted after cell entry and before viral {D}{N}{A}
   amplification: cell-specific differences in virus uncoating in vitro}.
 \newblock \emph{J. Virol.}, 71\penalty0 (10):\penalty0 7769--7780, Oct 1997.
+
+\bibitem[Qing et~al.(1999)Qing, Mah, Hansen, Zhou, Dwarki, and
+  Srivastava]{pmid9883842}
+K.~Qing, C.~Mah, J.~Hansen, S.~Zhou, V.~Dwarki, and A.~Srivastava.
+\newblock {{H}uman fibroblast growth factor receptor 1 is a co-receptor for
+  infection by adeno-associated virus 2}.
+\newblock \emph{Nat. Med.}, 5\penalty0 (1):\penalty0 71--77, Jan 1999.
 
 \bibitem[Qiu et~al.(2006)Qiu, Cheng, Burger, and Pintel]{pmid16378968}
 J.~Qiu, F.~Cheng, L.~R. Burger, and D.~Pintel.
@@ -1660,6 +1869,12 @@ J.~C. Segovia, G.~Guenechea, J.~M. Gallego, J.~M. Almendral, and J.~A. Bueren.
   hematopoietic stem cells}.
 \newblock \emph{J. Virol.}, 77\penalty0 (15):\penalty0 8495--8503, Aug 2003.
 
+\bibitem[Seiler et~al.(2006)Seiler, Miller, Zabner, and Halbert]{pmid16409121}
+M.~P. Seiler, A.~D. Miller, J.~Zabner, and C.~L. Halbert.
+\newblock {{A}deno-associated virus types 5 and 6 use distinct receptors for
+  cell entry}.
+\newblock \emph{Hum. Gene Ther.}, 17\penalty0 (1):\penalty0 10--19, Jan 2006.
+
 \bibitem[Shackelton and Holmes(2006)]{pmid16537636}
 L.~A. Shackelton and E.~C. Holmes.
 \newblock {{P}hylogenetic evidence for the rapid evolution of human {B}19
@@ -1722,6 +1937,19 @@ A.~A. Simpson, P.~R. Chipman, T.~S. Baker, P.~Tijssen, and M.~G. Rossmann.
   densovirus) at 3.7 {A} resolution}.
 \newblock \emph{Structure}, 6\penalty0 (11):\penalty0 1355--1367, Nov 1998.
 
+\bibitem[Simpson et~al.(2000)Simpson, Chandrasekar, Hebert, Sullivan, Rossmann,
+  and Parrish]{pmid10884355}
+A.~A. Simpson, V.~Chandrasekar, B.~Hebert, G.~M. Sullivan, M.~G. Rossmann, and
+  C.~R. Parrish.
+\newblock {{H}ost range and variability of calcium binding by surface loops in
+  the capsids of canine and feline parvoviruses}.
+\newblock \emph{J. Mol. Biol.}, 300\penalty0 (3):\penalty0 597--610, Jul 2000.
+
+\bibitem[Smith and Tignor(1980)]{pmid7436739}
+A.~L. Smith and G.~H. Tignor.
+\newblock {{H}ost cell receptors for two strains of {S}indbis virus}.
+\newblock \emph{Arch. Virol.}, 66\penalty0 (1):\penalty0 11--26, 1980.
+
 \bibitem[Smith et~al.(1989)Smith, Patton, and Nadal-Ginard]{pmid2694943}
 C.~W. Smith, J.~G. Patton, and B.~Nadal-Ginard.
 \newblock {{A}lternative splicing in the control of gene expression}.
@@ -1760,6 +1988,19 @@ A.~F. Streck, S.~L. Bonatto, T.~Homeier, C.~K. Souza, K.~R. Goncalves, D.~Gava,
 S.~Suikkanen, M.~Antila, A.~Jaatinen, M.~Vihinen-Ranta, and M.~Vuento.
 \newblock {{R}elease of canine parvovirus from endocytic vesicles}.
 \newblock \emph{Virology}, 316\penalty0 (2):\penalty0 267--280, Nov 2003.
+
+\bibitem[Summerford and Samulski(1998)]{pmid9445046}
+C.~Summerford and R.~J. Samulski.
+\newblock {{M}embrane-associated heparan sulfate proteoglycan is a receptor for
+  adeno-associated virus type 2 virions}.
+\newblock \emph{J. Virol.}, 72\penalty0 (2):\penalty0 1438--1445, Feb 1998.
+
+\bibitem[Summerford et~al.(1999)Summerford, Bartlett, and
+  Samulski]{pmid9883843}
+C.~Summerford, J.~S. Bartlett, and R.~J. Samulski.
+\newblock {$\alpha$\textsubscript{V}$\beta$\textsubscript{5}-integrin: a
+  co-receptor for adeno-associated virus type 2 infection}.
+\newblock \emph{Nat. Med.}, 5\penalty0 (1):\penalty0 78--82, Jan 1999.
 
 \bibitem[Tattersall(1972)]{pmid4673484}
 P.~Tattersall.
@@ -1823,6 +2064,12 @@ R.~W. Tennant, K.~R. Layman, and R.~E. Hand.
 \newblock {{E}ffect of cell physiological state on infection by rat virus}.
 \newblock \emph{J. Virol.}, 4\penalty0 (6):\penalty0 872--878, Dec 1969.
 
+\bibitem[Thacker and Johnson(1998)]{pmid9747725}
+T.~C. Thacker and F.~B. Johnson.
+\newblock {{B}inding of bovine parvovirus to erythrocyte membrane
+  sialylglycoproteins}.
+\newblock \emph{J. Gen. Virol.}, 79 ( Pt 9):\penalty0 2163--2169, Sep 1998.
+
 \bibitem[Tijssen(1990)]{handbook}
 P.~Tijssen.
 \newblock \emph{{{H}andbook of parvoviruses}}, volume~1.
@@ -1847,6 +2094,13 @@ P.~Tijssen, J.~Szelei, and Z.~Zádori.
 D.~W. Trampel, D.~A. Kinden, R.~F. Solorzano, and P.~L. Stogsdill.
 \newblock {{P}arvovirus-like enteropathy in {M}issouri turkeys}.
 \newblock \emph{Avian Dis.}, 27\penalty0 (1):\penalty0 49--54, 1983.
+
+\bibitem[Tresnan et~al.(1995)Tresnan, Southard, Weichert, Sgro, and
+  Parrish]{pmid7645206}
+D.~B. Tresnan, L.~Southard, W.~Weichert, J.~Y. Sgro, and C.~R. Parrish.
+\newblock {{A}nalysis of the cell and erythrocyte binding activities of the
+  dimple and canyon regions of the canine parvovirus capsid}.
+\newblock \emph{Virology}, 211\penalty0 (1):\penalty0 123--132, Aug 1995.
 
 \bibitem[Trotman et~al.(2001)Trotman, Mosberger, Fornerod, Stidwill, and
   Greber]{pmid11781571}
@@ -1913,6 +2167,12 @@ L.~A. van Leengoed, J.~Vos, E.~Gruys, P.~Rondhuis, and A.~Brand.
   with reproductive failure}.
 \newblock \emph{Vet Q}, 5\penalty0 (3):\penalty0 131--141, Jul 1983.
 
+\bibitem[Varki and Varki(2007)]{pmid17632542}
+N.~M. Varki and A.~Varki.
+\newblock {{D}iversity in cell surface sialic acid presentations: implications
+  for biology and disease}.
+\newblock \emph{Lab. Invest.}, 87\penalty0 (9):\penalty0 851--857, Sep 2007.
+
 \bibitem[Vasudevacharya and Compans(1992)]{pmid1532105}
 J.~Vasudevacharya and R.~W. Compans.
 \newblock {{T}he {N}{S} and capsid genes determine the host range of porcine
@@ -1954,6 +2214,15 @@ S.~L. Walker, R.~S. Wonderling, and R.~A. Owens.
   protein helicase motifs}.
 \newblock \emph{J. Virol.}, 71\penalty0 (9):\penalty0 6996--7004, Sep 1997.
 
+\bibitem[Walters et~al.(2001)Walters, Yi, Keshavjee, Brown, Welsh, Chiorini,
+  and Zabner]{pmid11262413}
+R.~W. Walters, S.~M. Yi, S.~Keshavjee, K.~E. Brown, M.~J. Welsh, J.~A.
+  Chiorini, and J.~Zabner.
+\newblock {{B}inding of adeno-associated virus type 5 to 2,3-linked sialic acid
+  is required for gene transfer}.
+\newblock \emph{J. Biol. Chem.}, 276\penalty0 (23):\penalty0 20610--20616, Jun
+  2001.
+
 \bibitem[Ward and Tattersall(1982)]{Genome2}
 D.~C. Ward and P.~Tattersall.
 \newblock {M}inute virus of mice.
@@ -1968,6 +2237,35 @@ W.~S. Weichert, J.~S. Parker, A.~T. Wahid, S.~F. Chang, E.~Meier, and C.~R.
 \newblock {{A}ssaying for structural variation in the parvovirus capsid and its
   role in infection}.
 \newblock \emph{Virology}, 250\penalty0 (1):\penalty0 106--117, Oct 1998.
+
+\bibitem[Weigel-Kelley et~al.(2001)Weigel-Kelley, Yoder, and
+  Srivastava]{weigel}
+K.~A. Weigel-Kelley, M.~C. Yoder, and A.~Srivastava.
+\newblock {{R}ecombinant human parvovirus {B}19 vectors: erythrocyte {P}
+  antigen is necessary but not sufficient for successful transduction of human
+  hematopoietic cells.}
+\newblock \emph{J. Virol.}, 75\penalty0 (9):\penalty0 4110--4116, May 2001.
+
+\bibitem[Weigel-Kelley et~al.(2003)Weigel-Kelley, Yoder, and
+  Srivastava]{pmid12907437}
+K.~A. Weigel-Kelley, M.~C. Yoder, and A.~Srivastava.
+\newblock {$\alpha$\textsubscript{5}$\beta$\textsubscript{1}-integrin as a
+  cellular co-receptor for human parvovirus {B}19: requirement of functional
+  activation of $\beta$\textsubscript{1}-integrin for viral entry}.
+\newblock \emph{Blood}, 102\penalty0 (12):\penalty0 3927--3933, Dec 2003.
+
+\bibitem[Weiner et~al.(1977)Weiner, Drayna, Averill, and Fields]{pmid271999}
+H.~L. Weiner, D.~Drayna, D.~R. Averill, and B.~N. Fields.
+\newblock {{M}olecular basis of reovirus virulence: role of the {S}1 gene}.
+\newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 74\penalty0 (12):\penalty0
+  5744--5748, Dec 1977.
+
+\bibitem[Weiner et~al.(1980)Weiner, Ault, and Fields]{pmid7365250}
+H.~L. Weiner, K.~A. Ault, and B.~N. Fields.
+\newblock {{I}nteraction of reovirus with cell surface receptors. {I}. {M}urine
+  and human lymphocytes have a receptor for the hemagglutinin of reovirus type
+  3}.
+\newblock \emph{J. Immunol.}, 124\penalty0 (5):\penalty0 2143--2148, May 1980.
 
 \bibitem[Weis(2002)]{pmid12067655}
 K.~Weis.
@@ -2006,12 +2304,34 @@ K.~Willwand, A.~Moroianu, R.~Horlein, W.~Stremmel, and J.~Rommelaere.
 \newblock \emph{J. Gen. Virol.}, 83\penalty0 (Pt 7):\penalty0 1659--1664, Jul
   2002.
 
+\bibitem[Wimmer(1994)]{Receptor}
+E.~Wimmer, editor.
+\newblock \emph{{{C}ellular receptors for animal viruses.}}
+\newblock Cold Spring Harbor Press, Cold Spring Harbor, NY, 1994.
+
 \bibitem[Wu et~al.(1993)Wu, Keller, and Rossmann]{pmid15299494}
 H.~Wu, W.~Keller, and M.~G. Rossmann.
 \newblock {{D}etermination and refinement of the canine parvovirus empty-capsid
   structure}.
 \newblock \emph{Acta Crystallogr. D Biol. Crystallogr.}, 49\penalty0 (Pt
   6):\penalty0 572--579, Nov 1993.
+
+\bibitem[Wu et~al.(2006{\natexlab{a}})Wu, Asokan, Grieger, Govindasamy,
+  Agbandje-McKenna, and Samulski]{pmid16943302}
+Z.~Wu, A.~Asokan, J.~C. Grieger, L.~Govindasamy, M.~Agbandje-McKenna, and R.~J.
+  Samulski.
+\newblock {{S}ingle amino acid changes can influence titer, heparin binding,
+  and tissue tropism in different adeno-associated virus serotypes}.
+\newblock \emph{J. Virol.}, 80\penalty0 (22):\penalty0 11393--11397, Nov
+  2006{\natexlab{a}}.
+
+\bibitem[Wu et~al.(2006{\natexlab{b}})Wu, Miller, Agbandje-McKenna, and
+  Samulski]{pmid16940521}
+Z.~Wu, E.~Miller, M.~Agbandje-McKenna, and R.~J. Samulski.
+\newblock {{A}lpha2,3 and alpha2,6 {N}-linked sialic acids facilitate efficient
+  binding and transduction by adeno-associated virus types 1 and 6}.
+\newblock \emph{J. Virol.}, 80\penalty0 (18):\penalty0 9093--9103, Sep
+  2006{\natexlab{b}}.
 
 \bibitem[Xiao et~al.(2013{\natexlab{a}})Xiao, Gimenez-Lirola, Jiang, Halbur,
   and Opriessnig]{pmid23762339}

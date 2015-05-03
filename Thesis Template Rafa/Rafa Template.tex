@@ -34,16 +34,20 @@
 \usepackage{tabu}
 \usepackage{array}
 \usepackage{tabularx}
-\usepackage{hyperref,url}
-\usepackage[all]{hypcap}
+\usepackage{url}
 \usepackage{nomencl}
 \usepackage{tocloft}
 \usepackage{scrpage2}
 \usepackage[square, numbers, sort&compress, super]{natbib}
+\usepackage[breaklinks=true]{hyperref}
+\usepackage[all]{hypcap}
+\usepackage{breakcites}
 \usepackage{sidecap}
 \usepackage{multicol}
 \usepackage{float}
 \usepackage[bottom, hang]{footmisc}
+\usepackage{chngcntr}
+\counterwithout{footnote}{chapter}
 
 \usepackage{graphicx} 
 \usepackage[hang, bf]{caption}
@@ -296,7 +300,6 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 %----------------------------------------------------------------------------------------
 % BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
-
 \pagestyle{raphimen}
 \bibliographystyle{abbrvnat}
 \begin{scriptsize}
