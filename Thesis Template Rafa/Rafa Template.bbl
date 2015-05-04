@@ -1,4 +1,4 @@
-\begin{thebibliography}{347}
+\begin{thebibliography}{355}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -155,6 +155,14 @@ L.~J. Ball-Goodrich, R.~D. Moir, and P.~Tattersall.
   a mutant of the lymphotropic strain of minute virus of mice involves multiple
   amino acid substitutions within the capsid}.
 \newblock \emph{Virology}, 184\penalty0 (1):\penalty0 175--186, Sep 1991.
+
+\bibitem[Bantel-Schaal et~al.(2009)Bantel-Schaal, Braspenning-Wesch, and
+  Kartenbeck]{pmid19141440}
+U.~Bantel-Schaal, I.~Braspenning-Wesch, and J.~Kartenbeck.
+\newblock {{A}deno-associated virus type 5 exploits two different entry
+  pathways in human embryo fibroblasts}.
+\newblock \emph{J. Gen. Virol.}, 90\penalty0 (Pt 2):\penalty0 317--322, Feb
+  2009.
 
 \bibitem[Barbis et~al.(1992)Barbis, Chang, and Parrish]{pmid1329321}
 D.~P. Barbis, S.~F. Chang, and C.~R. Parrish.
@@ -757,6 +765,13 @@ S.~Dorsch, G.~Liebisch, B.~Kaufmann, P.~von Landenberg, J.~H. Hoffmann,
   phospholipase {A}2-like activity}.
 \newblock \emph{J. Virol.}, 76\penalty0 (4):\penalty0 2014--2018, Feb 2002.
 
+\bibitem[Duan et~al.(1999)Duan, Li, Kao, Yue, Pessin, and
+  Engelhardt]{pmid10559355}
+D.~Duan, Q.~Li, A.~W. Kao, Y.~Yue, J.~E. Pessin, and J.~F. Engelhardt.
+\newblock {{D}ynamin is required for recombinant adeno-associated virus type 2
+  infection}.
+\newblock \emph{J. Virol.}, 73\penalty0 (12):\penalty0 10371--10376, Dec 1999.
+
 \bibitem[Dworetzky and Feldherr(1988)]{pmid2450095}
 S.~I. Dworetzky and C.~M. Feldherr.
 \newblock {{T}ranslocation of {R}{N}{A}-coated gold particles through the
@@ -811,6 +826,12 @@ G.~Gao, M.~R. Alvira, S.~Somanathan, Y.~Lu, L.~H. Vandenberghe, J.~J. Rux,
   during natural infections}.
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 100\penalty0 (10):\penalty0
   6081--6086, May 2003.
+
+\bibitem[Garcin and Panté(2015)]{pmid25863880}
+P.~O. Garcin and N.~Panté.
+\newblock {{T}he minute virus of mice exploits different endocytic pathways for
+  cellular uptake}.
+\newblock \emph{Virology}, 482:\penalty0 157--166, Apr 2015.
 
 \bibitem[Gardiner and Tattersall(1988{\natexlab{a}})]{pmid3357208}
 E.~M. Gardiner and P.~Tattersall.
@@ -932,6 +953,13 @@ C.~Hallauer, G.~Siegl, and G.~Kronauer.
   {B}iological properties of the isolated viruses}.
 \newblock \emph{Arch Gesamte Virusforsch}, 38\penalty0 (4):\penalty0 366--382,
   1972.
+
+\bibitem[Harbison et~al.(2008)Harbison, Chiorini, and Parrish]{pmid18406140}
+C.~E. Harbison, J.~A. Chiorini, and C.~R. Parrish.
+\newblock {{T}he parvovirus capsid odyssey: from the cell surface to the
+  nucleus}.
+\newblock \emph{Trends Microbiol.}, 16\penalty0 (5):\penalty0 208--214, May
+  2008.
 
 \bibitem[Harlow et~al.(1981)Harlow, Crawford, Pim, and Williamson]{pmid6169844}
 E.~Harlow, L.~V. Crawford, D.~C. Pim, and N.~M. Williamson.
@@ -1297,6 +1325,12 @@ L.~Li, S.~F. Cotmore, and P.~Tattersall.
 \newblock \emph{J. Virol.}, 86\penalty0 (22):\penalty0 12187--12197, Nov
   2012{\natexlab{b}}.
 
+\bibitem[Linser et~al.(1977)Linser, Bruning, and Armentrout]{pmid20517}
+P.~Linser, H.~Bruning, and R.~W. Armentrout.
+\newblock {{S}pecific binding sites for a parvovirus, minute virus of mice, on
+  cultured mouse cells}.
+\newblock \emph{J. Virol.}, 24\penalty0 (1):\penalty0 211--221, Oct 1977.
+
 \bibitem[Littlefield(1964)]{pmid14213660}
 J.~W. Littlefield.
 \newblock {{T}hree degrees of guanylic acid - inosinic acid pyrophosphorylase
@@ -1565,6 +1599,13 @@ E.~A. Nigg.
 \newblock {{N}ucleocytoplasmic transport: signals, mechanisms and regulation}.
 \newblock \emph{Nature}, 386\penalty0 (6627):\penalty0 779--787, Apr 1997.
 
+\bibitem[Nonnenmacher and Weber(2011)]{pmid22177561}
+M.~Nonnenmacher and T.~Weber.
+\newblock {{A}deno-associated virus 2 infection requires endocytosis through
+  the {C}{L}{I}{C}/{G}{E}{E}{C} pathway}.
+\newblock \emph{Cell Host Microbe}, 10\penalty0 (6):\penalty0 563--576, Dec
+  2011.
+
 \bibitem[Ojala et~al.(2000)Ojala, Sodeik, Ebersold, Kutay, and
   Helenius]{pmid10848617}
 P.~M. Ojala, B.~Sodeik, M.~W. Ebersold, U.~Kutay, and A.~Helenius.
@@ -1611,6 +1652,13 @@ R.~K. Page, O.~J. Fletcher, G.~N. Rowland, D.~Gaudry, and P.~Villegas.
 \newblock {{M}alabsorption syndrome in broiler chickens}.
 \newblock \emph{Avian Dis.}, 26\penalty0 (3):\penalty0 618--624, 1982.
 
+\bibitem[Palermo et~al.(2003)Palermo, Hueffer, and Parrish]{pmid12885908}
+L.~M. Palermo, K.~Hueffer, and C.~R. Parrish.
+\newblock {{R}esidues in the apical domain of the feline and canine transferrin
+  receptors control host-specific binding and cell infection of canine and
+  feline parvoviruses}.
+\newblock \emph{J. Virol.}, 77\penalty0 (16):\penalty0 8915--8923, Aug 2003.
+
 \bibitem[Panning et~al.(2010)Panning, Kobbe, Vollbach, Drexler, Adjei, Adjei,
   Drosten, May, and Eis-Hubinger]{pmid20587191}
 M.~Panning, R.~Kobbe, S.~Vollbach, J.~F. Drexler, S.~Adjei, O.~Adjei,
@@ -1619,8 +1667,8 @@ M.~Panning, R.~Kobbe, S.~Vollbach, J.~F. Drexler, S.~Adjei, O.~Adjei,
 \newblock \emph{Emerging Infect. Dis.}, 16\penalty0 (7):\penalty0 1143--1146,
   Jul 2010.
 
-\bibitem[Pante and Kann(2002)]{pmid11854401}
-N.~Pante and M.~Kann.
+\bibitem[Panté and Kann(2002)]{pmid11854401}
+N.~Panté and M.~Kann.
 \newblock {{N}uclear pore complex is able to transport macromolecules with
   diameters of about 39 nm}.
 \newblock \emph{Mol. Biol. Cell}, 13\penalty0 (2):\penalty0 425--434, Feb 2002.
@@ -1636,6 +1684,13 @@ G.~S. Park, S.~M. Best, and M.~E. Bloom.
 \newblock {{T}wo mink parvoviruses use different cellular receptors for entry
   into {C}{R}{F}{K} cells}.
 \newblock \emph{Virology}, 340\penalty0 (1):\penalty0 1--9, Sep 2005.
+
+\bibitem[Parker and Parrish(2000)]{pmid10644365}
+J.~S. Parker and C.~R. Parrish.
+\newblock {{C}ellular uptake and infection by canine parvovirus involves rapid
+  dynamin-regulated clathrin-mediated endocytosis, followed by slower
+  intracellular trafficking}.
+\newblock \emph{J. Virol.}, 74\penalty0 (4):\penalty0 1919--1930, Feb 2000.
 
 \bibitem[Parker et~al.(2001)Parker, Murphy, Wang, O'Brien, and
   Parrish]{pmid11264378}

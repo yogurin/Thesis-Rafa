@@ -72,13 +72,17 @@
 \nomenclatureentry{aSA@[{SA}]\begingroup Sialic acid\nomeqref {\relax 7.0}|nompageref}{34}
 \nomenclatureentry{aHS@[{HS}]\begingroup Heparan sulfate\nomeqref {\relax 7.0}|nompageref}{34}
 \nomenclatureentry{aVLP@[{VLP}]\begingroup Virus-like particle\nomeqref {\relax 7.0}|nompageref}{34}
-\nomenclatureentry{apre-mRNA@[{pre-mRNA}]\begingroup messenger RNA precursor\nomeqref {\relax 7.0}|nompageref}{36}
-\nomenclatureentry{amRNA@[{mRNA}]\begingroup messenger RNA\nomeqref {\relax 7.0}|nompageref}{36}
-\nomenclatureentry{am.~u.@[{m.~u.}]\begingroup Map units\nomeqref {\relax 7.0}|nompageref}{36}
-\nomenclatureentry{aABP@[{ABP}]\begingroup AMDV binding protein\nomeqref {\relax 7.0}|nompageref}{36}
-\nomenclatureentry{aTfR@[{TfR}]\begingroup Transferrin receptor\nomeqref {\relax 7.0}|nompageref}{36}
+\nomenclatureentry{aCME@[{CME}]\begingroup Clathrin-mediated endocytosis\nomeqref {\relax 7.0}|nompageref}{34}
+\nomenclatureentry{aCLIC@[{CLIC}]\begingroup Clathrin-independent carrier\nomeqref {\relax 7.0}|nompageref}{34}
+\nomenclatureentry{aEC@[{EC}]\begingroup Electron microscopy\nomeqref {\relax 7.0}|nompageref}{34}
+\nomenclatureentry{aFACS@[{FACS}]\begingroup Fluorescence-activated cell sorting\nomeqref {\relax 7.0}|nompageref}{34}
+\nomenclatureentry{apre-mRNA@[{pre-mRNA}]\begingroup messenger RNA precursor\nomeqref {\relax 7.0}|nompageref}{37}
+\nomenclatureentry{amRNA@[{mRNA}]\begingroup messenger RNA\nomeqref {\relax 7.0}|nompageref}{37}
+\nomenclatureentry{am.~u.@[{m.~u.}]\begingroup Map units\nomeqref {\relax 7.0}|nompageref}{37}
+\nomenclatureentry{aABP@[{ABP}]\begingroup AMDV binding protein\nomeqref {\relax 7.0}|nompageref}{37}
+\nomenclatureentry{aTfR@[{TfR}]\begingroup Transferrin receptor\nomeqref {\relax 7.0}|nompageref}{37}
 \nomenclatureentry{aSV40@[{SV40}]\begingroup Simian vacuolating virus 40 or Simian virus 40\nomeqref {\relax 8.0}|nompageref}{41}
-\nomenclatureentry{aIF@[{IF}]\begingroup Immunofluorescence\nomeqref {\relax 8.0}|nompageref}{41}
+\nomenclatureentry{aIF@[{IF}]\begingroup Immunofluorescence microscopy\nomeqref {\relax 8.0}|nompageref}{41}
 \nomenclatureentry{amAb@[{mAb}]\begingroup Monoclonal antibody\nomeqref {\relax 8.0}|nompageref}{41}
 \nomenclatureentry{aDMEM@[{DMEM}]\begingroup Dulbecco modified Eagle's medium\nomeqref {\relax 8.0}|nompageref}{41}
 \nomenclatureentry{aFCS@[{FCS}]\begingroup Fetal calf serum\nomeqref {\relax 8.0}|nompageref}{41}
