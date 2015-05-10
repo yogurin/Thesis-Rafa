@@ -36,28 +36,31 @@
 \contentsline {section}{\numberline {6.2}Genetic variability}{29}{section.6.2}
 \contentsline {chapter}{\numberline {7}The Parvovirus Life Cycle}{31}{chapter.7}
 \contentsline {section}{\numberline {7.1}Receptor Binding}{31}{section.7.1}
-\contentsline {section}{\numberline {7.2}Receptor-mediated Endocytosis}{32}{section.7.2}
-\contentsline {section}{\numberline {7.3}Endosomal Trafficking and Capsid Rearrangements}{33}{section.7.3}
-\contentsline {section}{\numberline {7.4}Endosomal Escape}{33}{section.7.4}
-\contentsline {section}{\numberline {7.5}Cytosolic Trafficking and Interactions with the Proteasome}{33}{section.7.5}
-\contentsline {section}{\numberline {7.6}Nuclear Targeting}{33}{section.7.6}
-\contentsline {section}{\numberline {7.7}Replication}{33}{section.7.7}
-\contentsline {section}{\numberline {7.8}Transcription}{34}{section.7.8}
-\contentsline {part}{\numberline {II}Methods}{39}{part.2}
-\contentsline {chapter}{\numberline {8}Methods}{41}{chapter.8}
-\contentsline {section}{\numberline {8.1}Cell Cultures}{41}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Freezing and thawing of cells}{41}{subsection.8.1.1}
-\contentsline {section}{\numberline {8.2}Virus Stocks}{41}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{41}{subsection.8.2.1}
-\contentsline {section}{\numberline {8.3}Freezing bacteria stocks in glycerol}{42}{section.8.3}
-\contentsline {section}{\numberline {8.4}Anion-exchange chromatography}{42}{section.8.4}
-\contentsline {section}{\numberline {8.5}Quantitative PCR}{42}{section.8.5}
-\contentsline {section}{\numberline {8.6}Immunoprecipitation}{43}{section.8.6}
-\contentsline {section}{\numberline {8.7}Dot Blot}{44}{section.8.7}
-\contentsline {section}{\numberline {8.8}SDS-PAGE and Western blotting}{44}{section.8.8}
-\contentsline {section}{\numberline {8.9}Chymotrypsin treatment}{45}{section.8.9}
-\contentsline {part}{\numberline {III}Publication}{47}{part.3}
+\contentsline {section}{\numberline {7.2}Receptor-mediated Endocytosis}{33}{section.7.2}
+\contentsline {section}{\numberline {7.3}Endosomal Trafficking and Capsid Rearrangements}{34}{section.7.3}
+\contentsline {section}{\numberline {7.4}Endosomal Escape}{35}{section.7.4}
+\contentsline {section}{\numberline {7.5}Cytosolic Trafficking and Interactions with the Proteasome}{36}{section.7.5}
+\contentsline {section}{\numberline {7.6}Nuclear Targeting}{36}{section.7.6}
+\contentsline {section}{\numberline {7.7}Replication}{36}{section.7.7}
+\contentsline {section}{\numberline {7.8}Transcription}{37}{section.7.8}
+\contentsline {section}{\numberline {7.9}Assembly}{40}{section.7.9}
+\contentsline {section}{\numberline {7.10}DNA Packaging}{40}{section.7.10}
+\contentsline {section}{\numberline {7.11}Nuclear Egress}{40}{section.7.11}
+\contentsline {part}{\numberline {II}Methods}{43}{part.2}
+\contentsline {chapter}{\numberline {8}Methods}{45}{chapter.8}
+\contentsline {section}{\numberline {8.1}Cell Cultures}{45}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Freezing and thawing of cells}{45}{subsection.8.1.1}
+\contentsline {section}{\numberline {8.2}Virus Stocks}{45}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{45}{subsection.8.2.1}
+\contentsline {section}{\numberline {8.3}Freezing bacteria stocks in glycerol}{46}{section.8.3}
+\contentsline {section}{\numberline {8.4}Anion-exchange chromatography}{46}{section.8.4}
+\contentsline {section}{\numberline {8.5}Quantitative PCR}{46}{section.8.5}
+\contentsline {section}{\numberline {8.6}Immunoprecipitation}{47}{section.8.6}
+\contentsline {section}{\numberline {8.7}Dot Blot}{48}{section.8.7}
+\contentsline {section}{\numberline {8.8}SDS-PAGE and Western blotting}{48}{section.8.8}
+\contentsline {section}{\numberline {8.9}Chymotrypsin treatment}{49}{section.8.9}
+\contentsline {part}{\numberline {III}Publication}{51}{part.3}
 \cftpagenumbersoff {chapter}
-\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{49}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{49}{section*.15}
-\contentsline {part}{\numberline {IV}Discussion}{61}{part.4}
+\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{53}{chapter.1}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{53}{section*.15}
+\contentsline {part}{\numberline {IV}Discussion}{65}{part.4}
