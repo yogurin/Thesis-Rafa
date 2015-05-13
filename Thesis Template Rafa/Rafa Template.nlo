@@ -42,6 +42,7 @@
 \nomenclatureentry{aRPV@[{RPV}]\begingroup Rat parvovirus\nomeqref {\relax 4.0}|nompageref}{21}
 \nomenclatureentry{aH1-PV@[{H1-PV}]\begingroup Parvovirus H1\nomeqref {\relax 4.0}|nompageref}{21}
 \nomenclatureentry{aPy@[{Py}]\begingroup Polyomavirus\nomeqref {\relax 4.0}|nompageref}{21}
+\nomenclatureentry{aMW@[{MW}]\begingroup Molecular weight\nomeqref {\relax 4.0}|nompageref}{21}
 \nomenclatureentry{aMVM@[{MVM}]\begingroup Minute virus of mice\nomeqref {\relax 5.0}|nompageref}{23}
 \nomenclatureentry{aCPV@[{CPV}]\begingroup Canine parvovirus\nomeqref {\relax 5.0}|nompageref}{23}
 \nomenclatureentry{aFPV@[{FPV}]\begingroup Feline parvovirus\nomeqref {\relax 5.0}|nompageref}{23}
@@ -58,39 +59,39 @@
 \nomenclatureentry{aPIF@[{PIF}]\begingroup Parvovirus initiation factor\nomeqref {\relax 6.0}|nompageref}{29}
 \nomenclatureentry{aCRE@[{CRE}]\begingroup cAMP-responsive element\nomeqref {\relax 6.0}|nompageref}{29}
 \nomenclatureentry{aSAT@[{SAT}]\begingroup Small alternatively translated protein\nomeqref {\relax 6.0}|nompageref}{29}
-\nomenclatureentry{aRCR@[{RCR}]\begingroup Rolling circle replication\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aRHR@[{RHR}]\begingroup Rolling hairpin replication\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{amRF@[{mRF}]\begingroup Monomeric replicative form DNA\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{acRF@[{cRF}]\begingroup Closed replicative form DNA\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{adRF@[{dRF}]\begingroup Dimeric replicative form DNA\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aHMG 1/2@[{HMG 1/2}]\begingroup High mobility group proteins 1 and 2\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aPCNA@[{PCNA}]\begingroup Proliferating cell nuclear antigen\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aRPA@[{RPA}]\begingroup Replication protein A\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aAPAR@[{APAR}]\begingroup Autonomous parvovirus-associated replication\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aHSPG@[{HSPG}]\begingroup Heparan sulphate proteoglycan\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aGAG@[{GAG}]\begingroup Glycosaminoglycan\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aSA@[{SA}]\begingroup Sialic acid\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aHS@[{HS}]\begingroup Heparan sulfate\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aVLP@[{VLP}]\begingroup Virus-like particle\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aCME@[{CME}]\begingroup Clathrin-mediated endocytosis\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aCLIC@[{CLIC}]\begingroup Clathrin-independent carrier\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aEM@[{EM}]\begingroup Electron microscopy\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aFACS@[{FACS}]\begingroup Fluorescence-activated cell sorting\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aPFU@[{PFU}]\begingroup Plaque-forming unit\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aEGFR@[{EGFR}]\begingroup Epidermal growth factor receptor\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aLamR@[{LamR}]\begingroup Laminin receptor\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aFGFR1@[{FGFR1}]\begingroup Fibroblast growth factor receptor 1\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aHGFR@[{HGFR}]\begingroup Hepatocyte growth factor receptor\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aNHP@[{NHP}]\begingroup Nonhuman primate\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aPDGFR@[{PDGFR}]\begingroup Platelet-derived growth factor\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{ahpI@[{hpI}]\begingroup Hours post-infection\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aEC@[{EC}]\begingroup Empty capsid\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{aFC@[{FC}]\begingroup Full capsid\nomeqref {\relax 7.0}|nompageref}{37}
-\nomenclatureentry{apre-mRNA@[{pre-mRNA}]\begingroup messenger RNA precursor\nomeqref {\relax 7.0}|nompageref}{40}
-\nomenclatureentry{amRNA@[{mRNA}]\begingroup messenger RNA\nomeqref {\relax 7.0}|nompageref}{40}
-\nomenclatureentry{am.~u.@[{m.~u.}]\begingroup Map units\nomeqref {\relax 7.0}|nompageref}{40}
-\nomenclatureentry{aABP@[{ABP}]\begingroup AMDV-binding protein\nomeqref {\relax 7.0}|nompageref}{40}
-\nomenclatureentry{aTfR@[{TfR}]\begingroup Transferrin receptor\nomeqref {\relax 7.0}|nompageref}{40}
+\nomenclatureentry{aRCR@[{RCR}]\begingroup Rolling circle replication\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aRHR@[{RHR}]\begingroup Rolling hairpin replication\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{amRF@[{mRF}]\begingroup Monomeric replicative form DNA\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{acRF@[{cRF}]\begingroup Closed replicative form DNA\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{adRF@[{dRF}]\begingroup Dimeric replicative form DNA\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aHMG 1/2@[{HMG 1/2}]\begingroup High mobility group proteins 1 and 2\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aPCNA@[{PCNA}]\begingroup Proliferating cell nuclear antigen\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aRPA@[{RPA}]\begingroup Replication protein A\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aAPAR@[{APAR}]\begingroup Autonomous parvovirus-associated replication\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aHSPG@[{HSPG}]\begingroup Heparan sulphate proteoglycan\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aGAG@[{GAG}]\begingroup Glycosaminoglycan\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aSA@[{SA}]\begingroup Sialic acid\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aHS@[{HS}]\begingroup Heparan sulfate\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aVLP@[{VLP}]\begingroup Virus-like particle\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aCME@[{CME}]\begingroup Clathrin-mediated endocytosis\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aCLIC@[{CLIC}]\begingroup Clathrin-independent carrier\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aEM@[{EM}]\begingroup Electron microscopy\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aFACS@[{FACS}]\begingroup Fluorescence-activated cell sorting\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aPFU@[{PFU}]\begingroup Plaque-forming unit\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aEGFR@[{EGFR}]\begingroup Epidermal growth factor receptor\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aLamR@[{LamR}]\begingroup Laminin receptor\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aFGFR1@[{FGFR1}]\begingroup Fibroblast growth factor receptor 1\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aHGFR@[{HGFR}]\begingroup Hepatocyte growth factor receptor\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aNHP@[{NHP}]\begingroup Nonhuman primate\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aPDGFR@[{PDGFR}]\begingroup Platelet-derived growth factor\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{ahpI@[{hpI}]\begingroup Hours post-infection\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aEC@[{EC}]\begingroup Empty capsid\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{aFC@[{FC}]\begingroup Full capsid\nomeqref {\relax 7.0}|nompageref}{38}
+\nomenclatureentry{apre-mRNA@[{pre-mRNA}]\begingroup messenger RNA precursor\nomeqref {\relax 7.0}|nompageref}{41}
+\nomenclatureentry{amRNA@[{mRNA}]\begingroup messenger RNA\nomeqref {\relax 7.0}|nompageref}{41}
+\nomenclatureentry{am.~u.@[{m.~u.}]\begingroup Map units\nomeqref {\relax 7.0}|nompageref}{41}
+\nomenclatureentry{aABP@[{ABP}]\begingroup AMDV-binding protein\nomeqref {\relax 7.0}|nompageref}{41}
+\nomenclatureentry{aTfR@[{TfR}]\begingroup Transferrin receptor\nomeqref {\relax 7.0}|nompageref}{41}
 \nomenclatureentry{aSV40@[{SV40}]\begingroup Simian vacuolating virus 40 or Simian virus 40\nomeqref {\relax 8.0}|nompageref}{45}
 \nomenclatureentry{aIF@[{IF}]\begingroup Immunofluorescence microscopy\nomeqref {\relax 8.0}|nompageref}{45}
 \nomenclatureentry{amAb@[{mAb}]\begingroup Monoclonal antibody\nomeqref {\relax 8.0}|nompageref}{45}

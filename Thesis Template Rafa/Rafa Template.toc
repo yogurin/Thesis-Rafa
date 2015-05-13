@@ -25,7 +25,7 @@
 \contentsline {section}{\numberline {4.4}Functional domains}{19}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}The Phospholipase A\textsubscript {2} (PLA\textsubscript {2}) Motif}{19}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}The Nuclear Localization Signal (NLS)}{19}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}The Nuclear Localization Motif (NLM)}{20}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.3}The Nuclear Localization Motif (NLM)}{21}{subsection.4.4.3}
 \contentsline {chapter}{\numberline {5}Host Range and Specificity}{23}{chapter.5}
 \contentsline {section}{\numberline {5.1}Tissue Tropism Determinants}{23}{section.5.1}
 \contentsline {section}{\numberline {5.2}Pathogenicity Determinants}{24}{section.5.2}
@@ -42,10 +42,10 @@
 \contentsline {section}{\numberline {7.5}Cytosolic Trafficking and Interactions with the Proteasome}{36}{section.7.5}
 \contentsline {section}{\numberline {7.6}Nuclear Targeting}{36}{section.7.6}
 \contentsline {section}{\numberline {7.7}Replication}{36}{section.7.7}
-\contentsline {section}{\numberline {7.8}Transcription}{37}{section.7.8}
-\contentsline {section}{\numberline {7.9}Assembly}{40}{section.7.9}
-\contentsline {section}{\numberline {7.10}DNA Packaging}{40}{section.7.10}
-\contentsline {section}{\numberline {7.11}Nuclear Egress}{40}{section.7.11}
+\contentsline {section}{\numberline {7.8}Transcription}{39}{section.7.8}
+\contentsline {section}{\numberline {7.9}Assembly}{41}{section.7.9}
+\contentsline {section}{\numberline {7.10}DNA Packaging}{41}{section.7.10}
+\contentsline {section}{\numberline {7.11}Nuclear Egress}{41}{section.7.11}
 \contentsline {part}{\numberline {II}Methods}{43}{part.2}
 \contentsline {chapter}{\numberline {8}Methods}{45}{chapter.8}
 \contentsline {section}{\numberline {8.1}Cell Cultures}{45}{section.8.1}

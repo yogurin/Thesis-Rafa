@@ -1,4 +1,4 @@
-\begin{thebibliography}{392}
+\begin{thebibliography}{394}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -1091,6 +1091,12 @@ R.~E. Harris, P.~H. Coleman, and P.~S. Morahan.
 \newblock {{S}tability of minute virus of mice to chemical and physical
   agents}.
 \newblock \emph{Appl Microbiol}, 28\penalty0 (3):\penalty0 351--354, Sep 1974.
+
+\bibitem[Harrison(2008)]{pmid18596815}
+S.~C. Harrison.
+\newblock {{V}iral membrane fusion}.
+\newblock \emph{Nat. Struct. Mol. Biol.}, 15\penalty0 (7):\penalty0 690--698,
+  Jul 2008.
 
 \bibitem[Hatanaka and Dulbecco(1966)]{pmid4291013}
 M.~Hatanaka and R.~Dulbecco.
@@ -2253,6 +2259,14 @@ B.~A. Spalholz and P.~Tattersall.
 B.~A. Spalholz, J.~Bratton, D.~C. Ward, and P.~Tattersall.
 \newblock \emph{{{T}umor {V}iruses and {D}ifferentiation}}.
 \newblock Academic Press, New York, NY, 1982.
+
+\bibitem[Stahnke et~al.(2011)Stahnke, Lux, Uhrig, Kreppel, Hosel, Coutelle,
+  Ogris, Hallek, and Buning]{pmid20974479}
+S.~Stahnke, K.~Lux, S.~Uhrig, F.~Kreppel, M.~Hosel, O.~Coutelle, M.~Ogris,
+  M.~Hallek, and H.~Buning.
+\newblock {{I}ntrinsic phospholipase {A}2 activity of adeno-associated virus is
+  involved in endosomal escape of incoming particles}.
+\newblock \emph{Virology}, 409\penalty0 (1):\penalty0 77--83, Jan 2011.
 
 \bibitem[Stoffler et~al.(1999)Stoffler, Fahrenkrog, and Aebi]{pmid10395558}
 D.~Stoffler, B.~Fahrenkrog, and U.~Aebi.
