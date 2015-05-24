@@ -22,47 +22,47 @@
 \contentsline {section}{\numberline {4.1}Physicochemical properties}{17}{section.4.1}
 \contentsline {section}{\numberline {4.2}Atomic structure}{17}{section.4.2}
 \contentsline {section}{\numberline {4.3}Structural proteins}{18}{section.4.3}
-\contentsline {section}{\numberline {4.4}Functional domains}{19}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}The Phospholipase A\textsubscript {2} (PLA\textsubscript {2}) Motif}{19}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}The Nuclear Localization Signal (NLS)}{19}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}The Nuclear Localization Motif (NLM)}{20}{subsection.4.4.3}
-\contentsline {chapter}{\numberline {5}Host Range and Specificity}{23}{chapter.5}
-\contentsline {section}{\numberline {5.1}Tissue Tropism Determinants}{23}{section.5.1}
-\contentsline {section}{\numberline {5.2}Pathogenicity Determinants}{24}{section.5.2}
-\contentsline {section}{\numberline {5.3}Comparison of Tissue Tropism and Pathogenicity Determinants among Parvoviurses}{24}{section.5.3}
-\contentsline {chapter}{\numberline {6}Genome Architecture}{27}{chapter.6}
-\contentsline {section}{\numberline {6.1}The MVM Left- and Right-End Telomeres}{27}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Terminal Resolution \textit {versus} Asymmetric Junction Resolution}{28}{subsection.6.1.1}
-\contentsline {section}{\numberline {6.2}Genetic variability}{29}{section.6.2}
-\contentsline {chapter}{\numberline {7}The Parvovirus Life Cycle}{31}{chapter.7}
-\contentsline {section}{\numberline {7.1}Receptor Binding}{31}{section.7.1}
-\contentsline {section}{\numberline {7.2}Receptor-mediated Endocytosis}{33}{section.7.2}
-\contentsline {section}{\numberline {7.3}Endosomal Trafficking and Capsid Rearrangements}{34}{section.7.3}
-\contentsline {section}{\numberline {7.4}Endosomal Escape}{35}{section.7.4}
-\contentsline {section}{\numberline {7.5}Cytosolic Trafficking and Interactions with the Proteasome}{37}{section.7.5}
-\contentsline {section}{\numberline {7.6}Nuclear Targeting}{37}{section.7.6}
-\contentsline {subsection}{\numberline {7.6.1}Nuclear translocation of the incoming virion}{37}{subsection.7.6.1}
-\contentsline {subsection}{\numberline {7.6.2}Nuclear translocation of the structural proteins}{38}{subsection.7.6.2}
-\contentsline {section}{\numberline {7.7}Replication}{39}{section.7.7}
-\contentsline {section}{\numberline {7.8}Transcription}{40}{section.7.8}
-\contentsline {section}{\numberline {7.9}Assembly}{43}{section.7.9}
-\contentsline {section}{\numberline {7.10}DNA Packaging}{43}{section.7.10}
-\contentsline {section}{\numberline {7.11}Nuclear Egress}{43}{section.7.11}
-\contentsline {part}{\numberline {II}Methods}{45}{part.2}
-\contentsline {chapter}{\numberline {8}Methods}{47}{chapter.8}
-\contentsline {section}{\numberline {8.1}Cell Cultures}{47}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Freezing and thawing of cells}{47}{subsection.8.1.1}
-\contentsline {section}{\numberline {8.2}Virus Stocks}{47}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{47}{subsection.8.2.1}
-\contentsline {section}{\numberline {8.3}Freezing bacteria stocks in glycerol}{48}{section.8.3}
-\contentsline {section}{\numberline {8.4}Anion-exchange chromatography}{48}{section.8.4}
-\contentsline {section}{\numberline {8.5}Quantitative PCR}{48}{section.8.5}
-\contentsline {section}{\numberline {8.6}Immunoprecipitation}{49}{section.8.6}
-\contentsline {section}{\numberline {8.7}Dot Blot}{50}{section.8.7}
-\contentsline {section}{\numberline {8.8}SDS-PAGE and Western blotting}{50}{section.8.8}
-\contentsline {section}{\numberline {8.9}Chymotrypsin treatment}{51}{section.8.9}
-\contentsline {part}{\numberline {III}Publication}{53}{part.3}
+\contentsline {section}{\numberline {4.4}Functional domains}{20}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}The Phospholipase A\textsubscript {2} (PLA\textsubscript {2}) Motif}{20}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}The Nuclear Localization Signal (NLS)}{20}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}The Nuclear Localization Motif (NLM)}{21}{subsection.4.4.3}
+\contentsline {chapter}{\numberline {5}Host Range and Specificity}{25}{chapter.5}
+\contentsline {section}{\numberline {5.1}Tissue Tropism Determinants}{25}{section.5.1}
+\contentsline {section}{\numberline {5.2}Pathogenicity Determinants}{26}{section.5.2}
+\contentsline {section}{\numberline {5.3}Comparison of Tissue Tropism and Pathogenicity Determinants among Parvoviurses}{26}{section.5.3}
+\contentsline {chapter}{\numberline {6}Genome Architecture}{29}{chapter.6}
+\contentsline {section}{\numberline {6.1}The MVM Left- and Right-End Telomeres}{29}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Terminal Resolution \textit {versus} Asymmetric Junction Resolution}{30}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}Genetic variability}{31}{section.6.2}
+\contentsline {chapter}{\numberline {7}The Parvovirus Life Cycle}{33}{chapter.7}
+\contentsline {section}{\numberline {7.1}Receptor Binding}{33}{section.7.1}
+\contentsline {section}{\numberline {7.2}Receptor-mediated Endocytosis}{35}{section.7.2}
+\contentsline {section}{\numberline {7.3}Endosomal Trafficking and Capsid Rearrangements}{36}{section.7.3}
+\contentsline {section}{\numberline {7.4}Endosomal Escape}{37}{section.7.4}
+\contentsline {section}{\numberline {7.5}Cytosolic Trafficking and Interactions with the Proteasome}{39}{section.7.5}
+\contentsline {section}{\numberline {7.6}Nuclear Targeting}{39}{section.7.6}
+\contentsline {subsection}{\numberline {7.6.1}Nuclear translocation of the incoming virion}{39}{subsection.7.6.1}
+\contentsline {subsection}{\numberline {7.6.2}Nuclear translocation of the structural proteins}{40}{subsection.7.6.2}
+\contentsline {section}{\numberline {7.7}Replication}{41}{section.7.7}
+\contentsline {section}{\numberline {7.8}Transcription}{43}{section.7.8}
+\contentsline {section}{\numberline {7.9}Assembly}{47}{section.7.9}
+\contentsline {section}{\numberline {7.10}DNA Packaging}{47}{section.7.10}
+\contentsline {section}{\numberline {7.11}Nuclear Egress}{47}{section.7.11}
+\contentsline {part}{\numberline {II}Methods}{49}{part.2}
+\contentsline {chapter}{\numberline {8}Methods}{51}{chapter.8}
+\contentsline {section}{\numberline {8.1}Cell Cultures}{51}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Freezing and thawing of cells}{51}{subsection.8.1.1}
+\contentsline {section}{\numberline {8.2}Virus Stocks}{51}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{51}{subsection.8.2.1}
+\contentsline {section}{\numberline {8.3}Freezing bacteria stocks in glycerol}{52}{section.8.3}
+\contentsline {section}{\numberline {8.4}Anion-exchange chromatography}{52}{section.8.4}
+\contentsline {section}{\numberline {8.5}Quantitative PCR}{52}{section.8.5}
+\contentsline {section}{\numberline {8.6}Immunoprecipitation}{53}{section.8.6}
+\contentsline {section}{\numberline {8.7}Dot Blot}{54}{section.8.7}
+\contentsline {section}{\numberline {8.8}SDS-PAGE and Western blotting}{54}{section.8.8}
+\contentsline {section}{\numberline {8.9}Chymotrypsin treatment}{55}{section.8.9}
+\contentsline {part}{\numberline {III}Publication}{57}{part.3}
 \cftpagenumbersoff {chapter}
-\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{55}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{55}{section*.15}
-\contentsline {part}{\numberline {IV}Discussion}{67}{part.4}
+\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{59}{chapter.1}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{59}{section*.16}
+\contentsline {part}{\numberline {IV}Discussion}{71}{part.4}

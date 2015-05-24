@@ -1,4 +1,4 @@
-\begin{thebibliography}{407}
+\begin{thebibliography}{413}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -473,6 +473,13 @@ S.~F. Chang, J.~Y. Sgro, and C.~R. Parrish.
   hemagglutination properties}.
 \newblock \emph{J. Virol.}, 66\penalty0 (12):\penalty0 6858--6867, Dec 1992.
 
+\bibitem[Chapman and Agbandje-McKenna(2006)]{Structure}
+M.~S. Chapman and M.~Agbandje-McKenna.
+\newblock {A}tomic structure of viral particles.
+\newblock In J.~R. Kerr, M.~E. Bloom, S.~F. Cotmore, R.~M. Linden, and C.~R.
+  Parrish, editors, \emph{{{P}arvoviruses}}, pages 107--124. Hodder Arnold,
+  London, UK, 2006.
+
 \bibitem[Chapman and Rossmann(1995)]{pmid7735832}
 M.~S. Chapman and M.~G. Rossmann.
 \newblock {{S}ingle-stranded {D}{N}{A}-protein interactions in canine
@@ -585,6 +592,19 @@ S.~Cohen and N.~Pante.
   into {X}enopus oocytes causes damage to the nuclear envelope}.
 \newblock \emph{J. Gen. Virol.}, 86\penalty0 (Pt 12):\penalty0 3243--3252, Dec
   2005.
+
+\bibitem[Cohen et~al.(2006)Cohen, Behzad, Carroll, and Pante]{pmid17030854}
+S.~Cohen, A.~R. Behzad, J.~B. Carroll, and N.~Pante.
+\newblock {{P}arvoviral nuclear import: bypassing the host nuclear-transport
+  machinery}.
+\newblock \emph{J. Gen. Virol.}, 87\penalty0 (Pt 11):\penalty0 3209--3213, Nov
+  2006.
+
+\bibitem[Cohen et~al.(2011)Cohen, Marr, Garcin, and Pante]{pmid21367902}
+S.~Cohen, A.~K. Marr, P.~Garcin, and N.~Pante.
+\newblock {{N}uclear envelope disruption involving host caspases plays a role
+  in the parvovirus replication cycle}.
+\newblock \emph{J. Virol.}, 85\penalty0 (10):\penalty0 4863--4874, May 2011.
 
 \bibitem[Colomar et~al.(1998)Colomar, Hirt, and Beard]{pmid9519837}
 M.~C. Colomar, B.~Hirt, and P.~Beard.
@@ -816,6 +836,11 @@ V.~Deiss, J.~D. Tratschin, M.~Weitz, and G.~Siegl.
 \newblock {{C}loning of the human parvovirus {B}19 genome and structural
   analysis of its palindromic termini}.
 \newblock \emph{Virology}, 175\penalty0 (1):\penalty0 247--254, Mar 1990.
+
+\bibitem[DeLano(2002)]{PyMol}
+W.~L. DeLano.
+\newblock \emph{{T}he {P}y{M}{O}{L} {M}olecular {G}raphic {S}ystem.}
+\newblock DeLano Scientific, San Carlos, CA, 2002.
 
 \bibitem[Deleu et~al.(1998)Deleu, Fuks, Spitkovsky, Horlein, Faisst, and
   Rommelaere]{pmid9418888}
@@ -1663,6 +1688,14 @@ E.~W. Lusby and K.~I. Berns.
   {R}{N}{A}s in the left half of the genome}.
 \newblock \emph{J. Virol.}, 41\penalty0 (2):\penalty0 518--526, Feb 1982.
 
+\bibitem[Lux et~al.(2005)Lux, Goerlitz, Schlemminger, Perabo, Goldnau, Endell,
+  Leike, Kofler, Finke, Hallek, and Buning]{pmid16140755}
+K.~Lux, N.~Goerlitz, S.~Schlemminger, L.~Perabo, D.~Goldnau, J.~Endell,
+  K.~Leike, D.~M. Kofler, S.~Finke, M.~Hallek, and H.~Buning.
+\newblock {{G}reen fluorescent protein-tagged adeno-associated virus particles
+  allow the study of cytosolic and nuclear trafficking}.
+\newblock \emph{J. Virol.}, 79\penalty0 (18):\penalty0 11776--11787, Sep 2005.
+
 \bibitem[Ma et~al.(2006)Ma, Endo, Ishiguro, Ebihara, Ishiko, Ariga, and
   Kikuta]{pmid16517912}
 X.~Ma, R.~Endo, N.~Ishiguro, T.~Ebihara, H.~Ishiko, T.~Ariga, and H.~Kikuta.
@@ -2228,6 +2261,13 @@ M.~P. Seiler, A.~D. Miller, J.~Zabner, and C.~L. Halbert.
 \newblock {{A}deno-associated virus types 5 and 6 use distinct receptors for
   cell entry}.
 \newblock \emph{Hum. Gene Ther.}, 17\penalty0 (1):\penalty0 10--19, Jan 2006.
+
+\bibitem[Seisenberger et~al.(2001)Seisenberger, Ried, Endress, Buning, Hallek,
+  and Brauchle]{pmid11729319}
+G.~Seisenberger, M.~U. Ried, T.~Endress, H.~Buning, M.~Hallek, and C.~Brauchle.
+\newblock {{R}eal-time single-molecule imaging of the infection pathway of an
+  adeno-associated virus}.
+\newblock \emph{Science}, 294\penalty0 (5548):\penalty0 1929--1932, Nov 2001.
 
 \bibitem[Shackelton and Holmes(2006)]{pmid16537636}
 L.~A. Shackelton and E.~C. Holmes.
