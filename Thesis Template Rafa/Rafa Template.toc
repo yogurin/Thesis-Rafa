@@ -45,7 +45,7 @@
 \contentsline {subsection}{\numberline {7.6.2}Nuclear translocation of the structural proteins}{40}{subsection.7.6.2}
 \contentsline {section}{\numberline {7.7}Replication}{41}{section.7.7}
 \contentsline {section}{\numberline {7.8}Transcription}{43}{section.7.8}
-\contentsline {section}{\numberline {7.9}Assembly}{47}{section.7.9}
+\contentsline {section}{\numberline {7.9}Assembly}{45}{section.7.9}
 \contentsline {section}{\numberline {7.10}DNA Packaging}{47}{section.7.10}
 \contentsline {section}{\numberline {7.11}Nuclear Egress}{47}{section.7.11}
 \contentsline {part}{\numberline {II}Methods}{49}{part.2}
