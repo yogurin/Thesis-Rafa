@@ -1,4 +1,4 @@
-\begin{thebibliography}{413}
+\begin{thebibliography}{446}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -179,6 +179,18 @@ U.~Bantel-Schaal, I.~Braspenning-Wesch, and J.~Kartenbeck.
 \newblock \emph{J. Gen. Virol.}, 90\penalty0 (Pt 2):\penalty0 317--322, Feb
   2009.
 
+\bibitem[Bar et~al.(2008)Bar, Daeffler, Rommelaere, and Nuesch]{pmid18704167}
+S.~Bar, L.~Daeffler, J.~Rommelaere, and J.~P. Nuesch.
+\newblock {{V}esicular egress of non-enveloped lytic parvoviruses depends on
+  gelsolin functioning}.
+\newblock \emph{PLoS Pathog.}, 4\penalty0 (8):\penalty0 e1000126, 2008.
+
+\bibitem[Bar et~al.(2013)Bar, Rommelaere, and Nuesch]{pmid24068925}
+S.~Bar, J.~Rommelaere, and J.~P. Nuesch.
+\newblock {{V}esicular transport of progeny parvovirus particles through {E}{R}
+  and {G}olgi regulates maturation and cytolysis}.
+\newblock \emph{PLoS Pathog.}, 9\penalty0 (9):\penalty0 e1003605, Sep 2013.
+
 \bibitem[Barbis et~al.(1992)Barbis, Chang, and Parrish]{pmid1329321}
 D.~P. Barbis, S.~F. Chang, and C.~R. Parrish.
 \newblock {{M}utations adjacent to the dimple of the canine parvovirus capsid
@@ -336,6 +348,13 @@ J.~Blumel, I.~Schmidt, H.~Willkommen, and J.~Lower.
   serum albumin}.
 \newblock \emph{Transfusion}, 42\penalty0 (8):\penalty0 1011--1018, Aug 2002.
 
+\bibitem[Bodendorf et~al.(1999)Bodendorf, Cziepluch, Jauniaux, Rommelaere, and
+  Salome]{pmid10438867}
+U.~Bodendorf, C.~Cziepluch, J.~C. Jauniaux, J.~Rommelaere, and N.~Salome.
+\newblock {{N}uclear export factor {C}{R}{M}1 interacts with nonstructural
+  proteins {N}{S}2 from parvovirus minute virus of mice}.
+\newblock \emph{J. Virol.}, 73\penalty0 (9):\penalty0 7769--7779, Sep 1999.
+
 \bibitem[Boisvert et~al.(2010)Boisvert, Fernandes, and Tijssen]{pmid20484503}
 M.~Boisvert, S.~Fernandes, and P.~Tijssen.
 \newblock {{M}ultiple pathways involved in porcine parvovirus cellular entry
@@ -465,6 +484,13 @@ A.~Carreira, M.~Menendez, J.~Reguera, J.~M. Almendral, and M.~G. Mateu.
   stability of heterologous peptide insertions in surface loops}.
 \newblock \emph{J. Biol. Chem.}, 279\penalty0 (8):\penalty0 6517--6525, Feb
   2004.
+
+\bibitem[Castellanos et~al.(2012)Castellanos, Perez, Carrillo, de~Pablo, and
+  Mateu]{pmid22713577}
+M.~Castellanos, R.~Perez, P.~J. Carrillo, P.~J. de~Pablo, and M.~G. Mateu.
+\newblock {{M}echanical disassembly of single virus particles reveals kinetic
+  intermediates predicted by theory}.
+\newblock \emph{Biophys. J.}, 102\penalty0 (11):\penalty0 2615--2624, Jun 2012.
 
 \bibitem[Chang et~al.(1992)Chang, Sgro, and Parrish]{pmid1331498}
 S.~F. Chang, J.~Y. Sgro, and C.~R. Parrish.
@@ -755,6 +781,13 @@ S.~F. Cotmore, J.~Christensen, J.~P. Nuesch, and P.~Tattersall.
   mice binds to {D}{N}{A} sequences containing the motif [{A}{C}{C}{A}]2-3}.
 \newblock \emph{J. Virol.}, 69\penalty0 (3):\penalty0 1652--1660, Mar 1995.
 
+\bibitem[Cotmore et~al.(1997)Cotmore, D'Abramo, Carbonell, Bratton, and
+  Tattersall]{pmid9168889}
+S.~F. Cotmore, A.~M. D'Abramo, L.~F. Carbonell, J.~Bratton, and P.~Tattersall.
+\newblock {{T}he {N}{S}2 polypeptide of parvovirus {M}{V}{M} is required for
+  capsid assembly in murine cells}.
+\newblock \emph{Virology}, 231\penalty0 (2):\penalty0 267--280, May 1997.
+
 \bibitem[Cotmore et~al.(1999)Cotmore, D'abramo, Ticknor, and
   Tattersall]{pmid9927584}
 S.~F. Cotmore, A.~M. D'abramo, C.~M. Ticknor, and P.~Tattersall.
@@ -866,6 +899,15 @@ G.~Di~Pasquale, N.~Kaludov, M.~Agbandje-McKenna, and J.~A. Chiorini.
   linked- glucosamine and gp96}.
 \newblock \emph{PLoS ONE}, 5\penalty0 (3):\penalty0 e9336, 2010.
 
+\bibitem[Di~Piazza et~al.(2007)Di~Piazza, Mader, Geletneky, Herrero Y~Calle,
+  Weber, Schlehofer, Deleu, and Rommelaere]{pmid17287256}
+M.~Di~Piazza, C.~Mader, K.~Geletneky, M.~Herrero Y~Calle, E.~Weber,
+  J.~Schlehofer, L.~Deleu, and J.~Rommelaere.
+\newblock {{C}ytosolic activation of cathepsins mediates parvovirus
+  {H}-1-induced killing of cisplatin and {T}{R}{A}{I}{L}-resistant glioma
+  cells}.
+\newblock \emph{J. Virol.}, 81\penalty0 (8):\penalty0 4186--4198, Apr 2007.
+
 \bibitem[Ding et~al.(2005)Ding, Zhang, Yan, and Engelhardt]{pmid15829993}
 W.~Ding, L.~Zhang, Z.~Yan, and J.~F. Engelhardt.
 \newblock {{I}ntracellular trafficking of adeno-associated viral vectors}.
@@ -897,6 +939,11 @@ A.~M. Douar, K.~Poulard, D.~Stockholm, and O.~Danos.
   routing to the late endosomal compartment and proteasome degradation}.
 \newblock \emph{J. Virol.}, 75\penalty0 (4):\penalty0 1824--1833, Feb 2001.
 
+\bibitem[Douglas and Young(2006)]{pmid16690856}
+T.~Douglas and M.~Young.
+\newblock {{V}iruses: making friends with old foes}.
+\newblock \emph{Science}, 312\penalty0 (5775):\penalty0 873--875, May 2006.
+
 \bibitem[Duan et~al.(1999)Duan, Li, Kao, Yue, Pessin, and
   Engelhardt]{pmid10559355}
 D.~Duan, Q.~Li, A.~W. Kao, Y.~Yue, J.~E. Pessin, and J.~F. Engelhardt.
@@ -916,6 +963,14 @@ S.~I. Dworetzky and C.~M. Feldherr.
 \newblock {{T}ranslocation of {R}{N}{A}-coated gold particles through the
   nuclear pores of oocytes}.
 \newblock \emph{J. Cell Biol.}, 106\penalty0 (3):\penalty0 575--584, Mar 1988.
+
+\bibitem[Engelsma et~al.(2008)Engelsma, Valle, Fish, Salome, Almendral, and
+  Fornerod]{pmid18385513}
+D.~Engelsma, N.~Valle, A.~Fish, N.~Salome, J.~M. Almendral, and M.~Fornerod.
+\newblock {{A} supraphysiological nuclear export signal is required for
+  parvovirus nuclear export}.
+\newblock \emph{Mol. Biol. Cell}, 19\penalty0 (6):\penalty0 2544--2552, Jun
+  2008.
 
 \bibitem[Engers et~al.(1981)Engers, Louis, Zubler, and Hirt]{pmid6457871}
 H.~D. Engers, J.~A. Louis, R.~H. Zubler, and B.~Hirt.
@@ -1391,6 +1446,20 @@ B.~Kaufmann, U.~Baxa, P.~R. Chipman, M.~G. Rossmann, S.~Modrow, and R.~Seckler.
   vitro}.
 \newblock \emph{Virology}, 332\penalty0 (1):\penalty0 189--198, Feb 2005.
 
+\bibitem[Kaufmann et~al.(2007)Kaufmann, Lopez-Bueno, Mateu, Chipman, Nelson,
+  Parrish, Almendral, and Rossmann]{pmid17626084}
+B.~Kaufmann, A.~Lopez-Bueno, M.~G. Mateu, P.~R. Chipman, C.~D. Nelson, C.~R.
+  Parrish, J.~M. Almendral, and M.~G. Rossmann.
+\newblock {{M}inute virus of mice, a parvovirus, in complex with the {F}ab
+  fragment of a neutralizing monoclonal antibody}.
+\newblock \emph{J. Virol.}, 81\penalty0 (18):\penalty0 9851--9858, Sep 2007.
+
+\bibitem[Kawase et~al.(1995)Kawase, Momoeda, Young, and Kajigaya]{pmid7666560}
+M.~Kawase, M.~Momoeda, N.~S. Young, and S.~Kajigaya.
+\newblock {{M}odest truncation of the major capsid protein abrogates {B}19
+  parvovirus capsid formation}.
+\newblock \emph{J. Virol.}, 69\penalty0 (10):\penalty0 6567--6571, Oct 1995.
+
 \bibitem[KILHAM and OLIVIER(1959)]{pmid13669314}
 L.~KILHAM and L.~J. OLIVIER.
 \newblock {{A} latent virus of rats isolated in tissue culture}.
@@ -1426,6 +1495,14 @@ J.~Kisary, B.~Avalosse, A.~Miller-Faures, and J.~Rommelaere.
 \newblock {{T}he genome structure of a new chicken virus identifies it as a
   parvovirus}.
 \newblock \emph{J. Gen. Virol.}, 66 ( Pt 10):\penalty0 2259--2263, Oct 1985.
+
+\bibitem[Kleinschmidt and King(2006)]{assembly}
+J.~A. Kleinschmidt and J.~A. King.
+\newblock {M}olecular interactions involved in assembling the viral particle
+  and packaging the genome.
+\newblock In J.~R. Kerr, M.~E. Bloom, S.~F. Cotmore, R.~M. Linden, and C.~R.
+  Parrish, editors, \emph{{{P}arvoviruses}}, pages 305--319. Hodder Arnold,
+  London, UK, 2006.
 
 \bibitem[Kontou et~al.(2005)Kontou, Govindasamy, Nam, Bryant, Llamas-Saiz,
   Foces-Foces, Hernando, Rubio, McKenna, Almendral, and
@@ -1485,6 +1562,14 @@ S.~Kronenberg, B.~Bottcher, C.~W. von~der Lieth, S.~Bleker, and J.~A.
 \newblock {{A} conformational change in the adeno-associated virus type 2
   capsid leads to the exposure of hidden {V}{P}1 {N} termini}.
 \newblock \emph{J. Virol.}, 79\penalty0 (9):\penalty0 5296--5303, May 2005.
+
+\bibitem[Kudo et~al.(1998)Kudo, Wolff, Sekimoto, Schreiner, Yoneda, Yanagida,
+  Horinouchi, and Yoshida]{pmid9683540}
+N.~Kudo, B.~Wolff, T.~Sekimoto, E.~P. Schreiner, Y.~Yoneda, M.~Yanagida,
+  S.~Horinouchi, and M.~Yoshida.
+\newblock {{L}eptomycin {B} inhibition of signal-mediated nuclear export by
+  direct binding to {C}{R}{M}1}.
+\newblock \emph{Exp. Cell Res.}, 242\penalty0 (2):\penalty0 540--547, Aug 1998.
 
 \bibitem[Kupfer et~al.(2006)Kupfer, Vehreschild, Cornely, Kaiser, Plum, Viazov,
   Franzen, Tillmann, Simon, Muller, and Schildgen]{pmid17176591}
@@ -1742,6 +1827,28 @@ A.~Manning, S.~J. Willey, J.~E. Bell, and P.~Simmonds.
 \newblock \emph{J. Infect. Dis.}, 195\penalty0 (9):\penalty0 1345--1352, May
   2007.
 
+\bibitem[Maroto et~al.(2000)Maroto, Ramirez, and Almendral]{pmid11069983}
+B.~Maroto, J.~C. Ramirez, and J.~M. Almendral.
+\newblock {{P}hosphorylation status of the parvovirus minute virus of mice
+  particle: mapping and biological relevance of the major phosphorylation
+  sites}.
+\newblock \emph{J. Virol.}, 74\penalty0 (23):\penalty0 10892--10902, Dec 2000.
+
+\bibitem[Maroto et~al.(2004)Maroto, Valle, Saffrich, and
+  Almendral]{pmid15367635}
+B.~Maroto, N.~Valle, R.~Saffrich, and J.~M. Almendral.
+\newblock {{N}uclear export of the nonenveloped parvovirus virion is directed
+  by an unordered protein signal exposed on the capsid surface}.
+\newblock \emph{J. Virol.}, 78\penalty0 (19):\penalty0 10685--10694, Oct 2004.
+
+\bibitem[Mastrobattista et~al.(2006)Mastrobattista, van~der Aa, Hennink, and
+  Crommelin]{pmid16521330}
+E.~Mastrobattista, M.~A. van~der Aa, W.~E. Hennink, and D.~J. Crommelin.
+\newblock {{A}rtificial viruses: a nanotechnological approach to gene
+  delivery}.
+\newblock \emph{Nat Rev Drug Discov}, 5\penalty0 (2):\penalty0 115--121, Feb
+  2006.
+
 \bibitem[Mattaj and Englmeier(1998)]{pmid9759490}
 I.~W. Mattaj and L.~Englmeier.
 \newblock {{N}ucleocytoplasmic transport: the soluble phase}.
@@ -1794,6 +1901,13 @@ W.~L. Mengeling and R.~C. Cutlip.
   gilts to porcine parvovirus}.
 \newblock \emph{Am. J. Vet. Res.}, 37\penalty0 (12):\penalty0 1393--1400, Dec
   1976.
+
+\bibitem[Miller and Pintel(2002)]{pmid11884550}
+C.~L. Miller and D.~J. Pintel.
+\newblock {{I}nteraction between parvovirus {N}{S}2 protein and nuclear export
+  factor {C}rm1 is important for viral egress from the nucleus of murine
+  cells}.
+\newblock \emph{J. Virol.}, 76\penalty0 (7):\penalty0 3257--3266, Apr 2002.
 
 \bibitem[Mingozzi and High(2011)]{pmid21499295}
 F.~Mingozzi and K.~A. High.
@@ -1851,6 +1965,20 @@ N.~Muzyczka and K.~I. Berns.
 \newblock In D.~M. Knipe and P.~M. Howley, editors, \emph{{{F}ields virology}}.
   Lippincott Williams and Wilkins, Philadelphia, PA, 4 edition, 2001.
 
+\bibitem[Nachury and Weis(1999)]{pmid10449743}
+M.~V. Nachury and K.~Weis.
+\newblock {{T}he direction of transport through the nuclear pore can be
+  inverted}.
+\newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 96\penalty0 (17):\penalty0
+  9622--9627, Aug 1999.
+
+\bibitem[Naeger et~al.(1990)Naeger, Cater, and Pintel]{pmid2147041}
+L.~K. Naeger, J.~Cater, and D.~J. Pintel.
+\newblock {{T}he small nonstructural protein ({N}{S}2) of the parvovirus minute
+  virus of mice is required for efficient {D}{N}{A} replication and infectious
+  virus production in a cell-type-specific manner}.
+\newblock \emph{J. Virol.}, 64\penalty0 (12):\penalty0 6166--6175, Dec 1990.
+
 \bibitem[Naeger et~al.(1992)Naeger, Schoborg, Zhao, Tullis, and
   Pintel]{pmid1592259}
 L.~K. Naeger, R.~V. Schoborg, Q.~Zhao, G.~E. Tullis, and D.~J. Pintel.
@@ -1895,12 +2023,40 @@ M.~Nonnenmacher and T.~Weber.
 \newblock \emph{Cell Host Microbe}, 10\penalty0 (6):\penalty0 563--576, Dec
   2011.
 
+\bibitem[Nuesch and Rommelaere(2006)]{pmid16641266}
+J.~P. Nuesch and J.~Rommelaere.
+\newblock {{N}{S}1 interaction with {C}{K}{I}{I} alpha: novel protein complex
+  mediating parvovirus-induced cytotoxicity}.
+\newblock \emph{J. Virol.}, 80\penalty0 (10):\penalty0 4729--4739, May 2006.
+
+\bibitem[Nuesch et~al.(2005)Nuesch, Lachmann, and Rommelaere]{pmid15582663}
+J.~P. Nuesch, S.~Lachmann, and J.~Rommelaere.
+\newblock {{S}elective alterations of the host cell architecture upon infection
+  with parvovirus minute virus of mice}.
+\newblock \emph{Virology}, 331\penalty0 (1):\penalty0 159--174, Jan 2005.
+
+\bibitem[Nuesch et~al.(2009)Nuesch, Bar, Lachmann, and
+  Rommelaere]{pmid19321616}
+J.~P. Nuesch, S.~Bar, S.~Lachmann, and J.~Rommelaere.
+\newblock {{E}zrin-radixin-moesin family proteins are involved in parvovirus
+  replication and spreading}.
+\newblock \emph{J. Virol.}, 83\penalty0 (11):\penalty0 5854--5863, Jun 2009.
+
 \bibitem[Ohkuma and Poole(1978)]{pmid28524}
 S.~Ohkuma and B.~Poole.
 \newblock {{F}luorescence probe measurement of the intralysosomal p{H} in
   living cells and the perturbation of p{H} by various agents}.
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 75\penalty0 (7):\penalty0
   3327--3331, Jul 1978.
+
+\bibitem[Ohshima et~al.(1999)Ohshima, Nakajima, Oishi, Imamoto, Yoneda,
+  Fukamizu, and Yagami]{pmid10527855}
+T.~Ohshima, T.~Nakajima, T.~Oishi, N.~Imamoto, Y.~Yoneda, A.~Fukamizu, and
+  K.~i. Yagami.
+\newblock {{C}{R}{M}1 mediates nuclear export of nonstructural protein 2 from
+  parvovirus minute virus of mice}.
+\newblock \emph{Biochem. Biophys. Res. Commun.}, 264\penalty0 (1):\penalty0
+  144--150, Oct 1999.
 
 \bibitem[Ojala et~al.(2000)Ojala, Sodeik, Ebersold, Kutay, and
   Helenius]{pmid10848617}
@@ -2033,6 +2189,13 @@ L.~F. Pemberton and B.~M. Paschal.
   export}.
 \newblock \emph{Traffic}, 6\penalty0 (3):\penalty0 187--198, Mar 2005.
 
+\bibitem[Perez et~al.(2011)Perez, Castellanos, Rodriguez-Huete, and
+  Mateu]{pmid21867712}
+R.~Perez, M.~Castellanos, A.~Rodriguez-Huete, and M.~G. Mateu.
+\newblock {{M}olecular determinants of self-association and rearrangement of a
+  trimeric intermediate during the assembly of a parvovirus capsid}.
+\newblock \emph{J. Mol. Biol.}, 413\penalty0 (1):\penalty0 32--40, Oct 2011.
+
 \bibitem[Perros et~al.(1995)Perros, Deleu, Vanacker, Kherrouche, Spruyt,
   Faisst, and Rommelaere]{pmid7636996}
 M.~Perros, L.~Deleu, J.~M. Vanacker, Z.~Kherrouche, N.~Spruyt, S.~Faisst, and
@@ -2067,6 +2230,18 @@ B.~Poole and S.~Ohkuma.
 \newblock {{E}ffect of weak bases on the intralysosomal p{H} in mouse
   peritoneal macrophages}.
 \newblock \emph{J. Cell Biol.}, 90\penalty0 (3):\penalty0 665--669, Sep 1981.
+
+\bibitem[Praefcke and McMahon(2004)]{pmid15040446}
+G.~J. Praefcke and H.~T. McMahon.
+\newblock {{T}he dynamin superfamily: universal membrane tubulation and fission
+  molecules?}
+\newblock \emph{Nat. Rev. Mol. Cell Biol.}, 5\penalty0 (2):\penalty0 133--147,
+  Feb 2004.
+
+\bibitem[Prevelige(2011)]{pmid21762804}
+P.~E. Prevelige.
+\newblock {{N}ew approaches for antiviral targeting of {H}{I}{V} assembly}.
+\newblock \emph{J. Mol. Biol.}, 410\penalty0 (4):\penalty0 634--640, Jul 2011.
 
 \bibitem[Previsani et~al.(1997)Previsani, Fontana, Hirt, and
   Beard]{pmid9311862}
@@ -2110,11 +2285,33 @@ J.~C. Ramirez, A.~Fairen, and J.~M. Almendral.
   and to migratory cerebellar young neurons}.
 \newblock \emph{J. Virol.}, 70\penalty0 (11):\penalty0 8109--8116, Nov 1996.
 
+\bibitem[Reguera et~al.(2004)Reguera, Carreira, Riolobos, Almendral, and
+  Mateu]{pmid14981262}
+J.~Reguera, A.~Carreira, L.~Riolobos, J.~M. Almendral, and M.~G. Mateu.
+\newblock {{R}ole of interfacial amino acid residues in assembly, stability,
+  and conformation of a spherical virus capsid}.
+\newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 101\penalty0 (9):\penalty0
+  2724--2729, Mar 2004.
+
 \bibitem[Rhode(1985)]{pmid4020972}
 S.~L. Rhode.
 \newblock {trans-{A}ctivation of parvovirus {P}38 promoter by the 76{K}
   noncapsid protein}.
 \newblock \emph{J. Virol.}, 55\penalty0 (3):\penalty0 886--889, Sep 1985.
+
+\bibitem[Richards et~al.(1977)Richards, Linser, and Armentrout]{pmid559779}
+R.~Richards, P.~Linser, and R.~W. Armentrout.
+\newblock {{K}inetics of assembly of a parvovirus, minute virus of mice, in
+  synchronized rat brain cells}.
+\newblock \emph{J. Virol.}, 22\penalty0 (3):\penalty0 778--793, Jun 1977.
+
+\bibitem[Riolobos et~al.(2006)Riolobos, Reguera, Mateu, and
+  Almendral]{pmid16469332}
+L.~Riolobos, J.~Reguera, M.~G. Mateu, and J.~M. Almendral.
+\newblock {{N}uclear transport of trimeric assembly intermediates exerts a
+  morphogenetic control on the icosahedral parvovirus capsid}.
+\newblock \emph{J. Mol. Biol.}, 357\penalty0 (3):\penalty0 1026--1038, Mar
+  2006.
 
 \bibitem[Robbins et~al.(1991)Robbins, Dilworth, Laskey, and
   Dingwall]{pmid1991323}
@@ -2347,6 +2544,13 @@ A.~A. Simpson, V.~Chandrasekar, B.~Hebert, G.~M. Sullivan, M.~G. Rossmann, and
   the capsids of canine and feline parvoviruses}.
 \newblock \emph{J. Mol. Biol.}, 300\penalty0 (3):\penalty0 597--610, Jul 2000.
 
+\bibitem[Slepchenko et~al.(2007)Slepchenko, Semenova, Zaliapin, and
+  Rodionov]{pmid17998399}
+B.~M. Slepchenko, I.~Semenova, I.~Zaliapin, and V.~Rodionov.
+\newblock {{S}witching of membrane organelles between cytoskeletal transport
+  systems is determined by regulation of the microtubule-based transport}.
+\newblock \emph{J. Cell Biol.}, 179\penalty0 (4):\penalty0 635--641, Nov 2007.
+
 \bibitem[Smith and Tignor(1980)]{pmid7436739}
 A.~L. Smith and G.~H. Tignor.
 \newblock {{H}ost cell receptors for two strains of {S}indbis virus}.
@@ -2384,6 +2588,12 @@ S.~Stahnke, K.~Lux, S.~Uhrig, F.~Kreppel, M.~Hosel, O.~Coutelle, M.~Ogris,
 \newblock {{I}ntrinsic phospholipase {A}2 activity of adeno-associated virus is
   involved in endosomal escape of incoming particles}.
 \newblock \emph{Virology}, 409\penalty0 (1):\penalty0 77--83, Jan 2011.
+
+\bibitem[Stamnes(2002)]{pmid12383793}
+M.~Stamnes.
+\newblock {{R}egulating the actin cytoskeleton during vesicular transport}.
+\newblock \emph{Curr. Opin. Cell Biol.}, 14\penalty0 (4):\penalty0 428--433,
+  Aug 2002.
 
 \bibitem[Stoffler et~al.(1999)Stoffler, Fahrenkrog, and Aebi]{pmid10395558}
 D.~Stoffler, B.~Fahrenkrog, and U.~Aebi.
@@ -2715,6 +2925,14 @@ K.~Weis.
 \newblock \emph{Curr. Opin. Cell Biol.}, 14\penalty0 (3):\penalty0 328--335,
   Jun 2002.
 
+\bibitem[Weiss et~al.(2012)Weiss, Stroh-Dege, Rommelaere, Dinsart, and
+  Salome]{pmid22553326}
+N.~Weiss, A.~Stroh-Dege, J.~Rommelaere, C.~Dinsart, and N.~Salome.
+\newblock {{A}n in-frame deletion in the {N}{S} protein-coding sequence of
+  parvovirus {H}-1{P}{V} efficiently stimulates export and infectivity of
+  progeny virions}.
+\newblock \emph{J. Virol.}, 86\penalty0 (14):\penalty0 7554--7564, Jul 2012.
+
 \bibitem[Weller et~al.(2010)Weller, Amornphimoltham, Schmidt, Wilson, Gutkind,
   and Chiorini]{pmid20473307}
 M.~L. Weller, P.~Amornphimoltham, M.~Schmidt, P.~A. Wilson, J.~S. Gutkind, and
@@ -2758,6 +2976,13 @@ K.~Willwand, A.~Moroianu, R.~Horlein, W.~Stremmel, and J.~Rommelaere.
 E.~Wimmer, editor.
 \newblock \emph{{{C}ellular receptors for animal viruses.}}
 \newblock Cold Spring Harbor Press, Cold Spring Harbor, NY, 1994.
+
+\bibitem[Wong et~al.(1994)Wong, Momoeda, Field, Kajigaya, and
+  Young]{pmid8207846}
+S.~Wong, M.~Momoeda, A.~Field, S.~Kajigaya, and N.~S. Young.
+\newblock {{F}ormation of empty {B}19 parvovirus capsids by the truncated minor
+  capsid protein}.
+\newblock \emph{J. Virol.}, 68\penalty0 (7):\penalty0 4690--4694, Jul 1994.
 
 \bibitem[Wu and Rossmann(1993)]{pmid8377200}
 H.~Wu and M.~G. Rossmann.
@@ -2874,6 +3099,11 @@ Q.~Zhao, S.~Mathur, L.~R. Burger, and D.~J. Pintel.
   steady-state {R}{N}{A}}.
 \newblock \emph{J. Virol.}, 69\penalty0 (9):\penalty0 5864--5868, Sep
   1995{\natexlab{b}}.
+
+\bibitem[Zlotnick and Mukhopadhyay(2011)]{pmid21163649}
+A.~Zlotnick and S.~Mukhopadhyay.
+\newblock {{V}irus assembly, allostery and antivirals}.
+\newblock \emph{Trends Microbiol.}, 19\penalty0 (1):\penalty0 14--23, Jan 2011.
 
 \bibitem[Zsak et~al.(2008)Zsak, Strother, and Kisary]{pmid18622862}
 L.~Zsak, K.~O. Strother, and J.~Kisary.

@@ -45,24 +45,27 @@
 \contentsline {subsection}{\numberline {7.6.2}Nuclear translocation of the structural proteins}{40}{subsection.7.6.2}
 \contentsline {section}{\numberline {7.7}Replication}{41}{section.7.7}
 \contentsline {section}{\numberline {7.8}Transcription}{43}{section.7.8}
-\contentsline {section}{\numberline {7.9}Assembly}{45}{section.7.9}
-\contentsline {section}{\numberline {7.10}DNA Packaging}{47}{section.7.10}
-\contentsline {section}{\numberline {7.11}Nuclear Egress}{47}{section.7.11}
-\contentsline {part}{\numberline {II}Methods}{49}{part.2}
-\contentsline {chapter}{\numberline {8}Methods}{51}{chapter.8}
-\contentsline {section}{\numberline {8.1}Cell Cultures}{51}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Freezing and thawing of cells}{51}{subsection.8.1.1}
-\contentsline {section}{\numberline {8.2}Virus Stocks}{51}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{51}{subsection.8.2.1}
-\contentsline {section}{\numberline {8.3}Freezing bacteria stocks in glycerol}{52}{section.8.3}
-\contentsline {section}{\numberline {8.4}Anion-exchange chromatography}{52}{section.8.4}
-\contentsline {section}{\numberline {8.5}Quantitative PCR}{52}{section.8.5}
-\contentsline {section}{\numberline {8.6}Immunoprecipitation}{53}{section.8.6}
-\contentsline {section}{\numberline {8.7}Dot Blot}{54}{section.8.7}
-\contentsline {section}{\numberline {8.8}SDS-PAGE and Western blotting}{54}{section.8.8}
-\contentsline {section}{\numberline {8.9}Chymotrypsin treatment}{55}{section.8.9}
-\contentsline {part}{\numberline {III}Publication}{57}{part.3}
+\contentsline {section}{\numberline {7.9}Assembly}{47}{section.7.9}
+\contentsline {section}{\numberline {7.10}DNA Packaging}{48}{section.7.10}
+\contentsline {section}{\numberline {7.11}Nuclear Export}{48}{section.7.11}
+\contentsline {section}{\numberline {7.12}Egress}{49}{section.7.12}
+\contentsline {section}{\numberline {7.13}NS2}{50}{section.7.13}
+\contentsline {part}{\numberline {II}Methods}{51}{part.2}
+\contentsline {chapter}{\numberline {8}Methods}{53}{chapter.8}
+\contentsline {section}{\numberline {8.1}Cell Cultures}{53}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Freezing and thawing of cells}{53}{subsection.8.1.1}
+\contentsline {section}{\numberline {8.2}Virus Stocks}{53}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{53}{subsection.8.2.1}
+\contentsline {section}{\numberline {8.3}Freezing bacteria stocks in glycerol}{54}{section.8.3}
+\contentsline {section}{\numberline {8.4}Anion-exchange chromatography}{54}{section.8.4}
+\contentsline {section}{\numberline {8.5}Quantitative PCR}{54}{section.8.5}
+\contentsline {section}{\numberline {8.6}Immunoprecipitation}{55}{section.8.6}
+\contentsline {section}{\numberline {8.7}Dot Blot}{56}{section.8.7}
+\contentsline {section}{\numberline {8.8}SDS-PAGE and Western blotting}{56}{section.8.8}
+\contentsline {section}{\numberline {8.9}Chymotrypsin treatment}{57}{section.8.9}
+\contentsline {subsection}{\numberline {8.9.1}Phosphatase treatment}{57}{subsection.8.9.1}
+\contentsline {part}{\numberline {III}Publication}{59}{part.3}
 \cftpagenumbersoff {chapter}
-\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{59}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{59}{section*.16}
-\contentsline {part}{\numberline {IV}Discussion}{71}{part.4}
+\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{61}{chapter.1}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{61}{section*.16}
+\contentsline {part}{\numberline {IV}Discussion}{73}{part.4}
