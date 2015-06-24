@@ -20,12 +20,12 @@
 \contentsline {chapter}{\numberline {3}Morphology}{15}{chapter.3}
 \contentsline {chapter}{\numberline {4}The rugged virion}{17}{chapter.4}
 \contentsline {section}{\numberline {4.1}Physicochemical properties}{17}{section.4.1}
-\contentsline {section}{\numberline {4.2}Atomic structure}{17}{section.4.2}
+\contentsline {section}{\numberline {4.2}Atomic model}{17}{section.4.2}
 \contentsline {section}{\numberline {4.3}Structural proteins}{18}{section.4.3}
 \contentsline {section}{\numberline {4.4}Functional domains}{20}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}The Phospholipase A\textsubscript {2} (PLA\textsubscript {2}) Motif}{20}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}The Nuclear Localization Signal (NLS)}{20}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}The Nuclear Localization Motif (NLM)}{21}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.2}The Nuclear Localization Signal (NLS)}{21}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}The Nuclear Localization Motif (NLM)}{22}{subsection.4.4.3}
 \contentsline {chapter}{\numberline {5}Host Range and Specificity}{25}{chapter.5}
 \contentsline {section}{\numberline {5.1}Tissue Tropism Determinants}{25}{section.5.1}
 \contentsline {section}{\numberline {5.2}Pathogenicity Determinants}{26}{section.5.2}
@@ -45,27 +45,27 @@
 \contentsline {subsection}{\numberline {7.6.2}Nuclear translocation of the structural proteins}{40}{subsection.7.6.2}
 \contentsline {section}{\numberline {7.7}Replication}{41}{section.7.7}
 \contentsline {section}{\numberline {7.8}Transcription}{43}{section.7.8}
-\contentsline {section}{\numberline {7.9}Assembly}{47}{section.7.9}
+\contentsline {section}{\numberline {7.9}Assembly}{46}{section.7.9}
 \contentsline {section}{\numberline {7.10}DNA Packaging}{48}{section.7.10}
-\contentsline {section}{\numberline {7.11}Nuclear Export}{48}{section.7.11}
-\contentsline {section}{\numberline {7.12}Egress}{49}{section.7.12}
-\contentsline {section}{\numberline {7.13}NS2}{50}{section.7.13}
-\contentsline {part}{\numberline {II}Methods}{51}{part.2}
-\contentsline {chapter}{\numberline {8}Methods}{53}{chapter.8}
-\contentsline {section}{\numberline {8.1}Cell Cultures}{53}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Freezing and thawing of cells}{53}{subsection.8.1.1}
-\contentsline {section}{\numberline {8.2}Virus Stocks}{53}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{53}{subsection.8.2.1}
-\contentsline {section}{\numberline {8.3}Freezing bacteria stocks in glycerol}{54}{section.8.3}
-\contentsline {section}{\numberline {8.4}Anion-exchange chromatography}{54}{section.8.4}
-\contentsline {section}{\numberline {8.5}Quantitative PCR}{54}{section.8.5}
-\contentsline {section}{\numberline {8.6}Immunoprecipitation}{55}{section.8.6}
-\contentsline {section}{\numberline {8.7}Dot Blot}{56}{section.8.7}
-\contentsline {section}{\numberline {8.8}SDS-PAGE and Western blotting}{56}{section.8.8}
-\contentsline {section}{\numberline {8.9}Chymotrypsin treatment}{57}{section.8.9}
-\contentsline {subsection}{\numberline {8.9.1}Phosphatase treatment}{57}{subsection.8.9.1}
-\contentsline {part}{\numberline {III}Publication}{59}{part.3}
+\contentsline {section}{\numberline {7.11}Nuclear Export}{49}{section.7.11}
+\contentsline {section}{\numberline {7.12}Egress}{50}{section.7.12}
+\contentsline {section}{\numberline {7.13}NS2}{51}{section.7.13}
+\contentsline {part}{\numberline {II}Methods}{53}{part.2}
+\contentsline {chapter}{\numberline {8}Methods}{55}{chapter.8}
+\contentsline {section}{\numberline {8.1}Cell Cultures}{55}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Freezing and thawing of cells}{55}{subsection.8.1.1}
+\contentsline {section}{\numberline {8.2}Virus Stocks}{55}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{55}{subsection.8.2.1}
+\contentsline {section}{\numberline {8.3}Freezing bacteria stocks in glycerol}{56}{section.8.3}
+\contentsline {section}{\numberline {8.4}Anion-exchange chromatography}{56}{section.8.4}
+\contentsline {section}{\numberline {8.5}Quantitative PCR}{57}{section.8.5}
+\contentsline {section}{\numberline {8.6}Immunoprecipitation}{58}{section.8.6}
+\contentsline {section}{\numberline {8.7}Dot Blot}{58}{section.8.7}
+\contentsline {section}{\numberline {8.8}SDS-PAGE and Western blotting}{58}{section.8.8}
+\contentsline {section}{\numberline {8.9}Chymotrypsin treatment}{59}{section.8.9}
+\contentsline {subsection}{\numberline {8.9.1}Phosphatase treatment}{59}{subsection.8.9.1}
+\contentsline {part}{\numberline {III}Publication}{61}{part.3}
 \cftpagenumbersoff {chapter}
-\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{61}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{61}{section*.16}
-\contentsline {part}{\numberline {IV}Discussion}{73}{part.4}
+\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{63}{chapter.1}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{63}{section*.16}
+\contentsline {part}{\numberline {IV}Discussion}{75}{part.4}
