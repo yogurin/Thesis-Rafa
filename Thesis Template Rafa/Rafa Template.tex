@@ -29,6 +29,7 @@
 \usepackage{epstopdf}
 \usepackage{pdfpages}
 \usepackage{longtable}
+\usepackage{tabulary}
 \usepackage[outer=23mm]{geometry} %outer margin
 \usepackage{textcomp}
 \usepackage{tabu}
@@ -48,6 +49,7 @@
 \usepackage[bottom, hang]{footmisc}
 \usepackage{chngcntr}
 \counterwithout{footnote}{chapter}
+
 
 \usepackage{tocstyle}
 \usetocstyle{standard}
@@ -158,7 +160,7 @@
 \includegraphics[scale=0.8, trim= 1mm 1mm 5mm 20mm]{logo} \\[2.9 cm]
 \end{flushright}
 \begin{center}
-{\Huge \bfseries Thesis Title} \\[2 cm]
+{\Huge \bfseries Identification of late maturation steps in non-enveloped viruses that lead to the prelytic active egress of progeny virions.} \\[2 cm]
 {\Large Inauguraldissertation \\
 der Philosophisch-naturwissenschaftlichen Fakultät \\
 der Universität Bern \\[2.2 cm]
@@ -176,19 +178,6 @@ Departement für Chemie und Biochemie}}
 
 \clearpage
 \setcounter{page}{1}
-
-%----------------------------------------------------------------------------------------
-%	DECLARATION
-%----------------------------------------------------------------------------------------
-
-\pagestyle{plain}
-\phantomsection\addcontentsline{toc}{chapter}{Declaration}
-\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
-\includepdf[pagecommand=\thispagestyle{plain}]{../pdfdocuments/declaration}
-
-\clearpage
-
-
 
 
 
@@ -208,6 +197,9 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 
 \clearpage % Start a new page
 
+
+\chapter*{Acknowledgements}
+\addcontentsline{toc}{chapter}{Acknowledgements}
 
 
 %----------------------------------------------------------------------------------------
@@ -304,15 +296,39 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 \part{Discussion}
 
 
+\part{Appendix}
+\setcounter{chapter}{0}
+\input{./Chapters/Materials}
+
+
 %----------------------------------------------------------------------------------------
 % BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
+
+
 \pagestyle{raphimen}
 \bibliographystyle{abbrvnat}
 \begin{scriptsize}
 \bibliography{MyBib}
 \end{scriptsize}
 %\bibliographystyle{jcp-tit}
+
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	DECLARATION
+%----------------------------------------------------------------------------------------
+
+\pagestyle{plain}
+\phantomsection\addcontentsline{toc}{chapter}{Declaration}
+\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+\includepdf[pagecommand=\thispagestyle{plain}]{../pdfdocuments/declaration}
+
+\clearpage
+
 
 
 \end{document}

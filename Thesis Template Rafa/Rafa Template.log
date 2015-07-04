@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.6)  24 JUN 2015 09:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.4)  4 JUL 2015 10:57
 entering extended mode
 **Rafa*Template.tex
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.tex
@@ -7,50 +7,53 @@ LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
 croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
-vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
-an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
-romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
-sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
-senglishmax, welsh, loaded.
-("C:\Program Files\Latex\Miktex\tex\latex\koma-script\scrbook.cls"
-Document Class: scrbook 2012/07/29 v3.11b KOMA-Script document class (book)
-("C:\Program Files\Latex\Miktex\tex\latex\koma-script\scrkbase.sty"
-Package: scrkbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-dependent 
-basics and keyval usage)
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrbook.cls
+Document Class: scrbook 2015/05/06 v3.17a KOMA-Script document class (book)
 
-("C:\Program Files\Latex\Miktex\tex\latex\koma-script\scrbase.sty"
-Package: scrbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-independent
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrkbase.sty
+Package: scrkbase 2015/05/06 v3.17a KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrbase.sty
+Package: scrbase 2015/05/06 v3.17a KOMA-Script package (KOMA-Script-independent
  basics and keyval usage)
 
-("C:\Program Files\Latex\Miktex\tex\latex\graphics\keyval.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\Latex\Miktex\tex\latex\koma-script\scrlfile.sty"
-Package: scrlfile 2012/06/15 v3.12 KOMA-Script package (loading files)
-
-Package scrlfile, 2012/06/15 v3.12 KOMA-Script package (loading files)
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrlfile.sty
+Package: scrlfile 2015/05/06 v3.17a KOMA-Script package (loading files)
+Package scrlfile, 2015/05/06 v3.17a KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
-))) ("C:\Program Files\Latex\Miktex\tex\latex\koma-script\tocbasic.sty"
-Package: tocbasic 2012/04/04 v3.10b KOMA-Script package (handling toc-files)
+)))
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\tocbasic.sty
+Package: tocbasic 2015/05/06 v3.17a KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 117.
+(tocbasic)             for `toc' on input line 124.
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 118.
+(tocbasic)             for `lof' on input line 125.
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 119.
-Package scrbook Info: You've used obsolete option `11pt'.
-(scrbook)             \KOMAExecuteOptions{fontsize=11pt} will be
-(scrbook)             used instead.
-(scrbook)             You may simply replace `11pt'
-(scrbook)             by `fontsize=11pt'.
+(tocbasic)             for `lot' on input line 126.
+Package tocbasic Info: defining new hook before heading of `' on input line 154
+8.
+Package scrbook Info: You've used standard option `11pt'.
+(scrbook)             This is correct!
+(scrbook)             Internally I'm using `fontsize=11pt'.
+(scrbook)             If you'd like to set the option with \KOMAoptions,
+(scrbook)             you'd have to use `fontsize=11pt' there
+(scrbook)             instead of `11pt', too.
 Class scrbook Info: You've used standard option `onecolumn'.
 (scrbook)           This is correct!
 (scrbook)           Internally I'm using `twocolumn=false'.
@@ -58,16 +61,16 @@ Class scrbook Info: You've used standard option `onecolumn'.
 (scrbook)           you'd have to use `twocolumn=false' there
 (scrbook)           instead of `onecolumn', too.
 Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input li
-ne 1368.
+ne 2152.
 
-("C:\Program Files\Latex\Miktex\tex\latex\koma-script\scrsize11pt.clo"
-File: scrsize11pt.clo 2012/07/29 v3.11b KOMA-Script font size class option (11p
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrsize11pt.
+clo
+File: scrsize11pt.clo 2015/05/06 v3.17a KOMA-Script font size class option (11p
 t)
 )
-("C:\Program Files\Latex\Miktex\tex\latex\koma-script\typearea.sty"
-Package: typearea 2012/07/29 v3.11b KOMA-Script package (type area)
-
-Package typearea, 2012/07/29 v3.11b KOMA-Script package (type area)
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\typearea.sty
+Package: typearea 2015/05/06 v3.17a KOMA-Script package (type area)
+Package typearea, 2015/05/06 v3.17a KOMA-Script package (type area)
                   Copyright (C) Frank Neukam, 1992-1994
                   Copyright (C) Markus Kohm, 1994-
 
@@ -88,6 +91,7 @@ Package typearea Info: You've used standard option `onecolumn'.
 \ta@hblk=\skip42
 \ta@vblk=\skip43
 \ta@temp=\skip44
+\footheight=\skip45
 DIV calculation for typearea with good linewidth.
 Package typearea Info: These are the values describing the layout:
 (typearea)             DIV  = 8
@@ -103,9 +107,9 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \headheight     = 17.0pt
 (typearea)              \headsep        = 20.40001pt
 (typearea)              \topskip        = 11.0pt
-(typearea)              \footskip       = 47.60002pt
+(typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1213.
+(typearea)              on input line 1485.
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -114,25 +118,25 @@ Package typearea Info: These are the values describing the layout:
 \c@subsubsection=\count84
 \c@paragraph=\count85
 \c@subparagraph=\count86
-\abovecaptionskip=\skip45
-\belowcaptionskip=\skip46
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
 \c@pti@nb@sid@b@x=\box26
 \c@figure=\count87
 \c@table=\count88
 \bibindent=\dimen102
-) ("C:\Program Files\Latex\Miktex\tex\generic\babel\babel.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2008/07/08 v3.8m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\Latex\Miktex\tex\latex\00miktex\bblopts.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files\Latex\Miktex\tex\generic\babel\ngermanb.ldf"
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\ngermanb.ldf"
 Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
 
-("C:\Program Files\Latex\Miktex\tex\generic\babel\babel.def"
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
@@ -140,32 +144,32 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \l@naustrian = a dialect from \language\l@ngerman 
 Package babel Info: Making " an active character on input line 92.
 )
-("C:\Program Files\Latex\Miktex\tex\generic\babel\english.ldf"
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
 Language: english 2005/03/30 v3.3o English support from the babel system
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Program Files\Latex\Miktex\tex\latex\base\fontenc.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files\Latex\Miktex\tex\latex\base\t1enc.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-("C:\Program Files\Latex\Miktex\tex\latex\base\inputenc.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 
-("C:\Program Files\Latex\Miktex\tex\latex\base\utf8.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files\Latex\Miktex\tex\latex\base\t1enc.dfu"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -315,7 +319,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files\Latex\Miktex\tex\latex\base\ot1enc.dfu"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -346,7 +350,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files\Latex\Miktex\tex\latex\base\omsenc.dfu"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -370,7 +374,7 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\Latex\Miktex\tex\latex\lm\lmodern.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -405,44 +409,44 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-("C:\Program Files\Latex\Miktex\tex\latex\setspace\setspace.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Program Files\Latex\Miktex\tex\latex\ams\math\amsmath.sty"
-Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip47
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip48
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\Latex\Miktex\tex\latex\ams\math\amstext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files\Latex\Miktex\tex\latex\ams\math\amsgen.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen104
 ))
-("C:\Program Files\Latex\Miktex\tex\latex\ams\math\amsbsy.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen105
 )
-("C:\Program Files\Latex\Miktex\tex\latex\ams\math\amsopn.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count90
-LaTeX Info: Redefining \frac on input line 211.
+LaTeX Info: Redefining \frac on input line 210.
 \uproot@=\count91
 \leftroot@=\count92
-LaTeX Info: Redefining \overline on input line 307.
+LaTeX Info: Redefining \overline on input line 306.
 \classnum@=\count93
 \DOTSCASE@=\count94
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box27
 \strutbox@=\box28
 \big@size=\dimen106
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count95
 \c@MaxMatrixCols=\count96
 \dotsspace@=\muskip10
@@ -460,43 +464,43 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \totwidth@=\dimen111
 \lineht@=\dimen112
 \@envbody=\toks20
-\multlinegap=\skip48
-\multlinetaggap=\skip49
+\multlinegap=\skip49
+\multlinetaggap=\skip50
 \mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
 )
-("C:\Program Files\Latex\Miktex\tex\latex\base\fixltx2e.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
 Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
 LaTeX Info: Redefining \em on input line 420.
 LaTeX Info: Redefining \textsubscript on input line 424.
 LaTeX Info: The control sequence `\[' is already robust on input line 471.
 LaTeX Info: The control sequence `\]' is already robust on input line 472.
 )
-("C:\Program Files\Latex\Miktex\tex\latex\multirow\multirow.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
 \bigstrutjot=\dimen113
 )
-("C:\Program Files\Latex\Miktex\tex\latex\graphics\graphicx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\Latex\Miktex\tex\latex\graphics\graphics.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\Latex\Miktex\tex\latex\graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\Latex\Miktex\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files\Latex\Miktex\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count102
@@ -504,28 +508,28 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Program Files\Latex\Miktex\tex\latex\oberdiek\epstopdf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-("C:\Program Files\Latex\Miktex\tex\latex\oberdiek\epstopdf-base.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-("C:\Program Files\Latex\Miktex\tex\latex\oberdiek\grfext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\kvdefinekeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-("C:\Program Files\Latex\Miktex\tex\latex\oberdiek\kvoptions.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\kvsetkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\etexcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\ifluatex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -534,11 +538,11 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\pdftexcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\ifpdf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
@@ -552,35 +556,35 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 ))
-("C:\Program Files\Latex\Miktex\tex\latex\pdfpages\pdfpages.sty"
-Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2015/06/15 v0.4y Insert pages of external PDF documents (AM)
 
-("C:\Program Files\Latex\Miktex\tex\latex\base\ifthen.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files\Latex\Miktex\tex\latex\tools\calc.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count103
 \calc@Bcount=\count104
 \calc@Adimen=\dimen116
 \calc@Bdimen=\dimen117
-\calc@Askip=\skip50
-\calc@Bskip=\skip51
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count105
-\calc@Cskip=\skip52
+\calc@Cskip=\skip53
 )
-("C:\Program Files\Latex\Miktex\tex\latex\eso-pic\eso-pic.sty"
-Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
 
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\atbegshi.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 )
-("C:\Program Files\Latex\Miktex\tex\latex\xcolor\xcolor.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-("C:\Program Files\Latex\Miktex\tex\latex\00miktex\color.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -594,22 +598,36 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ))
-("C:\Program Files\Latex\Miktex\tex\latex\pdfpages\pppdftex.def"
-File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+\AM@pagewidth=\dimen118
+\AM@pageheight=\dimen119
+
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2015/06/15 v0.4y Pdfpages driver for pdfTeX (AM)
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
 \AM@pagebox=\box29
 \AM@toc@title=\toks22
 \c@AM@survey=\count106
 \AM@templatesizebox=\box30
 )
-("C:\Program Files\Latex\Miktex\tex\latex\tools\longtable.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip53
-\LTright=\skip54
-\LTpre=\skip55
-\LTpost=\skip56
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
 \LTchunksize=\count107
-\LTcapwidth=\dimen118
+\LTcapwidth=\dimen120
 \LT@head=\box31
 \LT@firsthead=\box32
 \LT@foot=\box33
@@ -622,31 +640,45 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 )
 Class scrbook Info: longtable captions redefined on input line 32.
 
-("C:\Program Files\Latex\Miktex\tex\latex\geometry\geometry.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\tabulary\tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen121
+\extrarowheight=\dimen122
+\NC@list=\toks24
+\extratabsurround=\skip58
+\backup@length=\skip59
+)
+\TY@count=\count112
+\TY@linewidth=\dimen123
+\tymin=\dimen124
+\tymax=\dimen125
+\TY@tablewidth=\dimen126
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\ifvtex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\Latex\Miktex\tex\generic\ifxetex\ifxetex.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count112
-\Gm@cntv=\count113
-\c@Gm@tempcnt=\count114
-\Gm@bindingoffset=\dimen119
-\Gm@wd@mp=\dimen120
-\Gm@odd@mp=\dimen121
-\Gm@even@mp=\dimen122
-\Gm@layoutwidth=\dimen123
-\Gm@layoutheight=\dimen124
-\Gm@layouthoffset=\dimen125
-\Gm@layoutvoffset=\dimen126
-\Gm@dimlist=\toks24
+\Gm@cnth=\count113
+\Gm@cntv=\count114
+\c@Gm@tempcnt=\count115
+\Gm@bindingoffset=\dimen127
+\Gm@wd@mp=\dimen128
+\Gm@odd@mp=\dimen129
+\Gm@even@mp=\dimen130
+\Gm@layoutwidth=\dimen131
+\Gm@layoutheight=\dimen132
+\Gm@layouthoffset=\dimen133
+\Gm@layoutvoffset=\dimen134
+\Gm@dimlist=\toks25
 
-("C:\Program Files\Latex\Miktex\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files\Latex\Miktex\tex\latex\base\textcomp.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -661,12 +693,12 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
 
-("C:\Program Files\Latex\Miktex\tex\latex\base\ts1enc.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Program Files\Latex\Miktex\tex\latex\base\ts1enc.dfu"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
 File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -801,126 +833,117 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 )
-("C:\Program Files\Latex\Miktex\tex\latex\tabu\tabu.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\tabu\tabu.sty
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 
-("C:\Program Files\Latex\Miktex\tex\latex\tools\array.sty"
-Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen127
-\extrarowheight=\dimen128
-\NC@list=\toks25
-\extratabsurround=\skip57
-\backup@length=\skip58
-)
-("C:\Program Files\Latex\Miktex\tex\latex\ltxmisc\varwidth.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box35
-\sift@deathcycles=\count115
-\@vwid@loff=\dimen129
-\@vwid@roff=\dimen130
+\sift@deathcycles=\count116
+\@vwid@loff=\dimen135
+\@vwid@roff=\dimen136
 )
-\c@taburow=\count116
-\tabu@nbcols=\count117
-\tabu@cnt=\count118
-\tabu@Xcol=\count119
-\tabu@alloc=\count120
-\tabu@nested=\count121
-\tabu@target=\dimen131
-\tabu@spreadtarget=\dimen132
-\tabu@naturalX=\dimen133
-\tabucolX=\dimen134
-\tabu@Xsum=\dimen135
-\extrarowdepth=\dimen136
-\abovetabulinesep=\dimen137
-\belowtabulinesep=\dimen138
-\tabustrutrule=\dimen139
+\c@taburow=\count117
+\tabu@nbcols=\count118
+\tabu@cnt=\count119
+\tabu@Xcol=\count120
+\tabu@alloc=\count121
+\tabu@nested=\count122
+\tabu@target=\dimen137
+\tabu@spreadtarget=\dimen138
+\tabu@naturalX=\dimen139
+\tabucolX=\dimen140
+\tabu@Xsum=\dimen141
+\extrarowdepth=\dimen142
+\abovetabulinesep=\dimen143
+\belowtabulinesep=\dimen144
+\tabustrutrule=\dimen145
 \tabu@thebody=\toks26
 \tabu@footnotes=\toks27
 \tabu@box=\box36
 \tabu@arstrutbox=\box37
 \tabu@hleads=\box38
 \tabu@vleads=\box39
-\tabu@cellskip=\skip59
+\tabu@cellskip=\skip60
 )
-("C:\Program Files\Latex\Miktex\tex\latex\tools\tabularx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
 Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
-\TX@col@width=\dimen140
-\TX@old@table=\dimen141
-\TX@old@col=\dimen142
-\TX@target=\dimen143
-\TX@delta=\dimen144
-\TX@cols=\count122
+\TX@col@width=\dimen146
+\TX@old@table=\dimen147
+\TX@old@col=\dimen148
+\TX@target=\dimen149
+\TX@delta=\dimen150
+\TX@cols=\count123
 \TX@ftn=\toks28
 )
-("C:\Program Files\Latex\Miktex\tex\latex\ltxmisc\url.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Program Files\Latex\Miktex\tex\latex\nomencl\nomencl.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\nomencl\nomencl.sty
 Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
-\nomlabelwidth=\dimen145
-\nom@tempdim=\dimen146
-\nomitemsep=\skip60
+\nomlabelwidth=\dimen151
+\nom@tempdim=\dimen152
+\nomitemsep=\skip61
 )
-("C:\Program Files\Latex\Miktex\tex\latex\tocloft\tocloft.sty"
-Package: tocloft 2010/10/13 v2.3e parameterised ToC, etc., typesetting
-Package tocloft Info: The document has chapter divisions on input line 43.
-\cftparskip=\skip61
-\cftbeforetoctitleskip=\skip62
-\cftaftertoctitleskip=\skip63
-\cftbeforepartskip=\skip64
-\cftpartnumwidth=\skip65
-\cftpartindent=\skip66
-\cftbeforechapskip=\skip67
-\cftchapindent=\skip68
-\cftchapnumwidth=\skip69
-\cftbeforesecskip=\skip70
-\cftsecindent=\skip71
-\cftsecnumwidth=\skip72
-\cftbeforesubsecskip=\skip73
-\cftsubsecindent=\skip74
-\cftsubsecnumwidth=\skip75
-\cftbeforesubsubsecskip=\skip76
-\cftsubsubsecindent=\skip77
-\cftsubsubsecnumwidth=\skip78
-\cftbeforeparaskip=\skip79
-\cftparaindent=\skip80
-\cftparanumwidth=\skip81
-\cftbeforesubparaskip=\skip82
-\cftsubparaindent=\skip83
-\cftsubparanumwidth=\skip84
-\cftbeforeloftitleskip=\skip85
-\cftafterloftitleskip=\skip86
-\cftbeforefigskip=\skip87
-\cftfigindent=\skip88
-\cftfignumwidth=\skip89
-\c@lofdepth=\count123
-\c@lotdepth=\count124
-\cftbeforelottitleskip=\skip90
-\cftafterlottitleskip=\skip91
-\cftbeforetabskip=\skip92
-\cfttabindent=\skip93
-\cfttabnumwidth=\skip94
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\tocloft\tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip62
+\cftbeforetoctitleskip=\skip63
+\cftaftertoctitleskip=\skip64
+\cftbeforepartskip=\skip65
+\cftpartnumwidth=\skip66
+\cftpartindent=\skip67
+\cftbeforechapskip=\skip68
+\cftchapindent=\skip69
+\cftchapnumwidth=\skip70
+\cftbeforesecskip=\skip71
+\cftsecindent=\skip72
+\cftsecnumwidth=\skip73
+\cftbeforesubsecskip=\skip74
+\cftsubsecindent=\skip75
+\cftsubsecnumwidth=\skip76
+\cftbeforesubsubsecskip=\skip77
+\cftsubsubsecindent=\skip78
+\cftsubsubsecnumwidth=\skip79
+\cftbeforeparaskip=\skip80
+\cftparaindent=\skip81
+\cftparanumwidth=\skip82
+\cftbeforesubparaskip=\skip83
+\cftsubparaindent=\skip84
+\cftsubparanumwidth=\skip85
+\cftbeforeloftitleskip=\skip86
+\cftafterloftitleskip=\skip87
+\cftbeforefigskip=\skip88
+\cftfigindent=\skip89
+\cftfignumwidth=\skip90
+\c@lofdepth=\count124
+\c@lotdepth=\count125
+\cftbeforelottitleskip=\skip91
+\cftafterlottitleskip=\skip92
+\cftbeforetabskip=\skip93
+\cfttabindent=\skip94
+\cfttabnumwidth=\skip95
 )
-("C:\Program Files\Latex\Miktex\tex\latex\koma-script\scrpage2.sty"
-Package: scrpage2 2010/04/22 v2.5 LaTeX2e KOMA-Script package
-LaTeX Info: Redefining \pagemark on input line 176.
-)
-("C:\Program Files\Latex\Miktex\tex\latex\natbib\natbib.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrpage2.sty
+Package: scrpage2 2015/05/06 v3.17a KOMA-Script package (page head and foot)
+LaTeX Info: Redefining \pagemark on input line 174.
+) (C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip95
-\bibsep=\skip96
+\bibhang=\skip96
+\bibsep=\skip97
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count125
+\c@NAT@ctr=\count126
 )
-("C:\Program Files\Latex\Miktex\tex\latex\hyperref\hyperref.sty"
-Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\hobsub-hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\hobsub-generic.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -949,90 +972,94 @@ Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-\@linkdim=\dimen147
-\Hy@linkcounter=\count126
-\Hy@pagecounter=\count127
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen153
+\Hy@linkcounter=\count127
+\Hy@pagecounter=\count128
 
-("C:\Program Files\Latex\Miktex\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count128
+\Hy@SavedSpaceFactor=\count129
 
-("C:\Program Files\Latex\Miktex\tex\latex\00miktex\hyperref.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 3941.
-Package hyperref Info: Hyper figures OFF on input line 4062.
-Package hyperref Info: Link nesting OFF on input line 4067.
-Package hyperref Info: Hyper index ON on input line 4070.
-Package hyperref Info: Plain pages OFF on input line 4077.
-Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4300.
-\c@Hy@tempcnt=\count129
-LaTeX Info: Redefining \url on input line 4653.
-\Fld@menulength=\count130
-\Field@Width=\dimen148
-\Fld@charsize=\dimen149
-Package hyperref Info: Hyper figures OFF on input line 5773.
-Package hyperref Info: Link nesting OFF on input line 5778.
-Package hyperref Info: Hyper index ON on input line 5781.
-Package hyperref Info: backreferencing OFF on input line 5788.
-Package hyperref Info: Link coloring OFF on input line 5793.
-Package hyperref Info: Link coloring with OCG OFF on input line 5798.
-Package hyperref Info: PDF/A mode OFF on input line 5803.
-LaTeX Info: Redefining \ref on input line 5843.
-LaTeX Info: Redefining \pageref on input line 5847.
-\Hy@abspage=\count131
-\c@Item=\count132
-\c@Hfootnote=\count133
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count130
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen154
+\Fld@menulength=\count131
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count132
+\c@Item=\count133
+\c@Hfootnote=\count134
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files\Latex\Miktex\tex\latex\hyperref\hpdftex.def"
-File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
-\Fld@listcount=\count134
-\c@bookmark@seq@number=\count135
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count135
+\c@bookmark@seq@number=\count136
 
-("C:\Program Files\Latex\Miktex\tex\latex\oberdiek\rerunfilecheck.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip97
+\Hy@SectionHShift=\skip98
 )
-("C:\Program Files\Latex\Miktex\tex\latex\oberdiek\hypcap.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hypcap.sty"
 Package: hypcap 2011/02/16 v1.11 Adjusting the anchors of captions (HO)
 )
-("C:\Program Files\Latex\Miktex\tex\latex\breakcites\breakcites.sty")
-("C:\Program Files\Latex\Miktex\tex\latex\sidecap\sidecap.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\breakcites\breakcites.st
+y) (C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\sidecap\sidecap.sty
 Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
-\SC@BOXWD=\dimen150
-\SC@CAPWD=\dimen151
-\SC@tempdima=\dimen152
-\SC@tempdimb=\dimen153
-\c@SC@C=\count136
+\SC@BOXWD=\dimen157
+\SC@CAPWD=\dimen158
+\SC@tempdima=\dimen159
+\SC@tempdimb=\dimen160
+\c@SC@C=\count137
 \SC@BOX=\box40
 )
-("C:\Program Files\Latex\Miktex\tex\latex\tools\multicol.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
-\c@tracingmulticols=\count137
+\c@tracingmulticols=\count138
 \mult@box=\box41
-\multicol@leftmargin=\dimen154
-\c@unbalance=\count138
-\c@collectmore=\count139
-\doublecol@number=\count140
-\multicoltolerance=\count141
-\multicolpretolerance=\count142
-\full@width=\dimen155
-\page@free=\dimen156
-\premulticols=\dimen157
-\postmulticols=\dimen158
-\multicolsep=\skip98
-\multicolbaselineskip=\skip99
+\multicol@leftmargin=\dimen161
+\c@unbalance=\count139
+\c@collectmore=\count140
+\doublecol@number=\count141
+\multicoltolerance=\count142
+\multicolpretolerance=\count143
+\full@width=\dimen162
+\page@free=\dimen163
+\premulticols=\dimen164
+\postmulticols=\dimen165
+\multicolsep=\skip99
+\multicolbaselineskip=\skip100
 \partial@page=\box42
 \last@line=\box43
 \mult@rightbox=\box44
@@ -1056,28 +1083,28 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \@tempa=\box62
 \@tempa=\box63
 \@tempa=\box64
-\c@columnbadness=\count143
-\c@finalcolumnbadness=\count144
-\last@try=\dimen159
-\multicolovershoot=\dimen160
-\multicolundershoot=\dimen161
+\c@columnbadness=\count144
+\c@finalcolumnbadness=\count145
+\last@try=\dimen166
+\multicolovershoot=\dimen167
+\multicolundershoot=\dimen168
 \mult@nat@firstbox=\box65
 \colbreak@box=\box66
-\multicol@sort@counter=\count145
+\multicol@sort@counter=\count146
 )
-("C:\Program Files\Latex\Miktex\tex\latex\float\float.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count146
+\c@float@type=\count147
 \float@exts=\toks29
 \float@box=\box67
 \@float@everytoks=\toks30
 \@floatcapt=\box68
 )
-("C:\Program Files\Latex\Miktex\tex\latex\footmisc\footmisc.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\footmisc\footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks31
-\footnotemargin=\dimen162
-\c@pp@next@reset=\count147
+\footnotemargin=\dimen169
+\c@pp@next@reset=\count148
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -1087,13 +1114,12 @@ Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 )
-("C:\Program Files\Latex\Miktex\tex\latex\chngcntr\chngcntr.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\chngcntr\chngcntr.sty
 Package: chngcntr 2009/09/02 v1.0a change counter resetting
 )
-("C:\Program Files\Latex\Miktex\tex\latex\koma-script\tocstyle.sty"
-Package: tocstyle 2009/11/09 v0.2d-alpha LaTeX2e KOMA-Script package (versatile
- toc styles)
-
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\tocstyle.sty
+Package: tocstyle 2013/08/11 v0.2e-alpha KOMA-Script package (versatile toc sty
+les)
 
 Package tocstyle Warning: THIS IS AN ALPHA VERSION!
 (tocstyle)                USAGE OF THIS VERSION IS ON YOUR OWN RISK!
@@ -1102,8 +1128,8 @@ Package tocstyle Warning: THIS IS AN ALPHA VERSION!
 (tocstyle)                THERE IS NO SUPPORT, IF YOU USE THIS PACKAGE!
 (tocstyle)                Maybe it would be better, not to load this package.
 
-\tocstyle@indentstyle=\count148
-Package tocstyle Info: no tocstyle.cfg found on input line 838.
+\tocstyle@indentstyle=\count149
+Package tocstyle Info: no tocstyle.cfg found on input line 856.
 )
 exclude: 
 exclude: 
@@ -1112,103 +1138,105 @@ exclude:
 exclude: 
 exclude: 
 exclude: 
-("C:\Program Files\Latex\Miktex\tex\latex\caption\caption.sty"
-Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-("C:\Program Files\Latex\Miktex\tex\latex\caption\caption3.sty"
-Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
-\captionmargin=\dimen163
-\captionmargin@=\dimen164
-\captionwidth=\dimen165
-\caption@indent=\dimen166
-\caption@parindent=\dimen167
-\caption@hangindent=\dimen168
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen170
+\captionmargin@=\dimen171
+\captionwidth=\dimen172
+\caption@tempdima=\dimen173
+\caption@indent=\dimen174
+\caption@parindent=\dimen175
+\caption@hangindent=\dimen176
 )
 Package caption Info: KOMA-Script document class.
-\c@ContinuedFloat=\count149
+\c@ContinuedFloat=\count150
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: hypcap package is loaded.
 Package caption Info: longtable package is loaded.
 
-("C:\Program Files\Latex\Miktex\tex\latex\caption\ltcaption.sty"
-Package: ltcaption 2011/09/12 v1.3 longtable captions (AR)
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 )
 Package caption Info: sidecap package is loaded.
 )
-("C:\Program Files\Latex\Miktex\tex\latex\ms\ragged2e.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-("C:\Program Files\Latex\Miktex\tex\latex\ms\everysel.sty"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\CenteringLeftskip=\skip100
-\RaggedLeftLeftskip=\skip101
-\RaggedRightLeftskip=\skip102
-\CenteringRightskip=\skip103
-\RaggedLeftRightskip=\skip104
-\RaggedRightRightskip=\skip105
-\CenteringParfillskip=\skip106
-\RaggedLeftParfillskip=\skip107
-\RaggedRightParfillskip=\skip108
-\JustifyingParfillskip=\skip109
-\CenteringParindent=\skip110
-\RaggedLeftParindent=\skip111
-\RaggedRightParindent=\skip112
-\JustifyingParindent=\skip113
+\CenteringLeftskip=\skip101
+\RaggedLeftLeftskip=\skip102
+\RaggedRightLeftskip=\skip103
+\CenteringRightskip=\skip104
+\RaggedLeftRightskip=\skip105
+\RaggedRightRightskip=\skip106
+\CenteringParfillskip=\skip107
+\RaggedLeftParfillskip=\skip108
+\RaggedRightParfillskip=\skip109
+\JustifyingParfillskip=\skip110
+\CenteringParindent=\skip111
+\RaggedLeftParindent=\skip112
+\RaggedRightParindent=\skip113
+\JustifyingParindent=\skip114
 )
-("C:\Program Files\Latex\Miktex\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2015/05/04 v2.2 e-TeX tools for LaTeX (JAW)
 
-("C:\Program Files\Latex\Miktex\tex\latex\misc\etex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count150
+\et@xins=\count151
 )
-\etb@tempcnta=\count151
+\etb@tempcnta=\count152
 )
 \@nomenclaturefile=\write3
 
 Writing nomenclature file Rafa*Template.nlo
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.aux
 ")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 132.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 132.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 134.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 134.
 
- ("C:\Program Files\Latex\Miktex\tex\latex\base\ts1cmr.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 132.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 134.
 
-("C:\Program Files\Latex\Miktex\tex\latex\lm\t1lmr.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-("C:\Program Files\Latex\Miktex\tex\context\base\supp-pdf.mkii"
+(C:\Users\Raphael\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count152
-\scratchdimen=\dimen169
+\scratchcounter=\count153
+\scratchdimen=\dimen177
 \scratchbox=\box69
-\nofMPsegments=\count153
-\nofMParguments=\count154
+\nofMPsegments=\count154
+\nofMParguments=\count155
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count155
-\MPscratchDim=\dimen170
-\MPnumerator=\count156
-\makeMPintoPDFobject=\count157
+\MPscratchCnt=\count156
+\MPscratchDim=\dimen178
+\MPnumerator=\count157
+\makeMPintoPDFobject=\count158
 \everyMPtoPDFconversion=\toks33
 )
 \AtBeginShipoutBox=\box70
@@ -1233,7 +1261,7 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * \headheight=17.0pt
 * \headsep=20.40001pt
 * \topskip=11.0pt
-* \footskip=47.60002pt
+* \footskip=47.6pt
 * \marginparwidth=112.03273pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
@@ -1247,73 +1275,73 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 132.
-("C:\Program Files\Latex\Miktex\tex\latex\hyperref\nameref.sty"
-Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+Package hyperref Info: Link coloring OFF on input line 134.
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files\Latex\Miktex\tex\generic\oberdiek\gettitlestring.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count158
+\c@section@level=\count159
 )
-LaTeX Info: Redefining \ref on input line 132.
-LaTeX Info: Redefining \pageref on input line 132.
-LaTeX Info: Redefining \nameref on input line 132.
+LaTeX Info: Redefining \ref on input line 134.
+LaTeX Info: Redefining \pageref on input line 134.
+LaTeX Info: Redefining \nameref on input line 134.
 
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.out
 ")
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.out
 ")
 \@outlinefile=\write4
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 132.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 134.
 
- ("C:\Program Files\Latex\Miktex\tex\latex\lm\t1lmss.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package tocstyle Info: prepare \l@part for redefinition on input line 132.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 132.
+Package tocstyle Info: prepare \l@part for redefinition on input line 134.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 134.
 
 
-("C:\Program Files\Latex\Miktex\tex\latex\lm\ot1lmr.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 132.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 134.
 
 
-("C:\Program Files\Latex\Miktex\tex\latex\lm\omllmm.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 132
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 134
 .
 
-("C:\Program Files\Latex\Miktex\tex\latex\lm\omslmsy.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 132
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 134
 .
 
-("C:\Program Files\Latex\Miktex\tex\latex\lm\omxlmex.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 132.
+(Font)              <12> on input line 134.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 132.
+(Font)              <8> on input line 134.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 132.
-Package tocstyle Info: prepare \l@chapter for redefinition on input line 132.
+(Font)              <6> on input line 134.
+Package tocstyle Info: prepare \l@chapter for redefinition on input line 134.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 132.
-Package tocstyle Info: prepare \l@section for redefinition on input line 132.
-Package tocstyle Info: prepare \l@subsection for redefinition on input line 132
+(Font)              <10.95> on input line 134.
+Package tocstyle Info: prepare \l@section for redefinition on input line 134.
+Package tocstyle Info: prepare \l@subsection for redefinition on input line 134
 .
-Package tocstyle Info: prepare \l@table for redefinition on input line 132.
-Package tocstyle Info: prepare \l@figure for redefinition on input line 132.
+Package tocstyle Info: prepare \l@table for redefinition on input line 134.
+Package tocstyle Info: prepare \l@figure for redefinition on input line 134.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 132.
+LaTeX Info: Redefining \selectfont on input line 134.
 Package epstopdf Info: Source file: <./Pictures/logo.eps>
 (epstopdf)                    date: 2015-01-17 19:34:12
 (epstopdf)                    size: 220178 bytes
@@ -1322,15 +1350,15 @@ Package epstopdf Info: Source file: <./Pictures/logo.eps>
 (epstopdf)                    size: 34873 bytes
 (epstopdf)             Command: <epstopdf --outfile=./Pictures/logo-eps-convert
 ed-to.pdf ./Pictures/logo.eps>
-(epstopdf)             \includegraphics on input line 158.
+(epstopdf)             \includegraphics on input line 160.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Pictures/logo-eps-converted-to.pdf, id=266, 129.48375pt x 100.375pt>
+<./Pictures/logo-eps-converted-to.pdf, id=329, 129.48375pt x 100.375pt>
 File: ./Pictures/logo-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Pictures/logo-eps-converted-to.pdf>
 Package pdftex.def Info: ./Pictures/logo-eps-converted-to.pdf used on input lin
-e 158.
+e 160.
 (pdftex.def)             Requested size: 89.92982pt x 32.49945pt.
  [1
 
@@ -1338,82 +1366,22 @@ e 158.
 
 
 
+
 {C:/Users/Raphael/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/
 Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/logo-eps-converted-
-to.pdf>]
-
-pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
-mplate Rafa/pdfdocuments/declaration.pdf): PDF inclusion: found PDF version <1.
-6>, but at most version <1.5> allowed
-
-<./Pictures/../pdfdocuments/declaration.pdf, id=279, 597.23125pt x 845.1575pt>
-File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
-
-<use ./Pictures/../pdfdocuments/declaration.pdf>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf used on inp
-ut line 187.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-
-pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
-mplate Rafa/pdfdocuments/declaration.pdf): PDF inclusion: found PDF version <1.
-6>, but at most version <1.5> allowed
-File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
-<use ./Pictures/../pdfdocuments/declaration.pdf>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf used on inp
-ut line 187.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-
-pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
-mplate Rafa/pdfdocuments/declaration.pdf): PDF inclusion: found PDF version <1.
-6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
-mplate Rafa/pdfdocuments/declaration.pdf): PDF inclusion: found PDF version <1.
-6>, but at most version <1.5> allowed
-
-<./Pictures/../pdfdocuments/declaration.pdf, id=282, page=1, 597.23125pt x 845.
-1575pt>
-File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
- on input line 187.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
-
-<use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
- on input line 187.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
-
-<use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
- on input line 187.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
-
-<use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
- on input line 187.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
-
-<use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
- on input line 187.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has 
-been already used, duplicate ignored
+to.pdf>]pdfTeX warning (ext4): destination with the same identifier (name{page.
+I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.187 ...tyle{plain}]{../pdfdocuments/declaration}
-                                                   [1
+l.198 \clearpage
+                 % Start a new page [1
 
- <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/decl
-aration.pdf>] [2
+] [2
+
+
+
+] [3] [4
+
 
 ]
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.nls
@@ -1682,16 +1650,12 @@ Underfull \hbox (badness 10000) detected at line 107
 []| \T1/lmr/m/n/10.95 Kb[]
  []
 
-[3
 
-
-
-]
 Underfull \hbox (badness 10000) detected at line 108
 []| \T1/lmr/m/n/10.95 kDa[]
  []
 
-
+[5]
 Underfull \hbox (badness 10000) detected at line 110
 []| \T1/lmr/m/n/10.95 KRV[]
  []
@@ -1713,270 +1677,280 @@ Underfull \hbox (badness 10000) detected at line 116
 
 
 Underfull \hbox (badness 10000) detected at line 118
-[]| \T1/lmr/m/n/10.95 mAb[]
+[]| \T1/lmr/m/n/10.95 M6PR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 120
-[]| \T1/lmr/m/n/10.95 MEV[]
+[]| \T1/lmr/m/n/10.95 mAb[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 122
-[]| \T1/lmr/m/n/10.95 mRF[]
+[]| \T1/lmr/m/n/10.95 MEV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 124
-[]| \T1/lmr/m/n/10.95 mRNA[]
+[]| \T1/lmr/m/n/10.95 mRF[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 126
-[]| \T1/lmr/m/n/10.95 MVM[]
+[]| \T1/lmr/m/n/10.95 mRNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 128
-[]| \T1/lmr/m/n/10.95 MVMi[]
+[]| \T1/lmr/m/n/10.95 MVM[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 130
-[]| \T1/lmr/m/n/10.95 MVMp[]
+[]| \T1/lmr/m/n/10.95 MVMi[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 132
-[]| \T1/lmr/m/n/10.95 MW[]
+[]| \T1/lmr/m/n/10.95 MVMp[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 134
-[]| \T1/lmr/m/n/10.95 N-WASP[]
+[]| \T1/lmr/m/n/10.95 MW[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 136
-[]| \T1/lmr/m/n/10.95 NHP[]
+[]| \T1/lmr/m/n/10.95 N-WASP[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 138
-[]| \T1/lmr/m/n/10.95 NIH[]
+[]| \T1/lmr/m/n/10.95 NHP[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 140
-[]| \T1/lmr/m/n/10.95 NLM[]
+[]| \T1/lmr/m/n/10.95 NIH[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 142
-[]| \T1/lmr/m/n/10.95 NLS[]
+[]| \T1/lmr/m/n/10.95 NLM[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 144
-[]| \T1/lmr/m/n/10.95 NPC[]
+[]| \T1/lmr/m/n/10.95 NLS[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 146
-[]| \T1/lmr/m/n/10.95 NS[]
+[]| \T1/lmr/m/n/10.95 NPC[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 148
-[]| \T1/lmr/m/n/10.95 Nt[]
+[]| \T1/lmr/m/n/10.95 NS[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 150
-[]| \T1/lmr/m/n/10.95 ORF[]
+[]| \T1/lmr/m/n/10.95 Nt[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 152
-[]| \T1/lmr/m/n/10.95 PARV4[]
+[]| \T1/lmr/m/n/10.95 ORF[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 154
-[]| \T1/lmr/m/n/10.95 PCNA[]
+[]| \T1/lmr/m/n/10.95 PARV4[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 156
-[]| \T1/lmr/m/n/10.95 PCR[]
+[]| \T1/lmr/m/n/10.95 PCNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 158
-[]| \T1/lmr/m/n/10.95 PDGFR[]
+[]| \T1/lmr/m/n/10.95 PCR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 160
-[]| \T1/lmr/m/n/10.95 PEC[]
+[]| \T1/lmr/m/n/10.95 PDGFR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 162
-[]| \T1/lmr/m/n/10.95 PEMS[]
+[]| \T1/lmr/m/n/10.95 PEC[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 164
-[]| \T1/lmr/m/n/10.95 PFU[]
+[]| \T1/lmr/m/n/10.95 PEMS[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 166
-[]| \T1/lmr/m/n/10.95 PIF[]
+[]| \T1/lmr/m/n/10.95 PFU[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 168
-[]| \T1/lmr/m/n/10.95 PLA$[]$[]
+[]| \T1/lmr/m/n/10.95 PIF[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 170
-[]| \T1/lmr/m/n/10.95 PPV[]
+[]| \T1/lmr/m/n/10.95 PLA$[]$[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 172
-[]| \T1/lmr/m/n/10.95 pre-mRNA[]
+[]| \T1/lmr/m/n/10.95 PPV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 174
-[]| \T1/lmr/m/n/10.95 PstDNV[]
+[]| \T1/lmr/m/n/10.95 pre-mRNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 176
-[]| \T1/lmr/m/n/10.95 Py[]
+[]| \T1/lmr/m/n/10.95 PstDNV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 178
-[]| \T1/lmr/m/n/10.95 qPCR[]
+[]| \T1/lmr/m/n/10.95 Py[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 180
-[]| \T1/lmr/m/n/10.95 RCR[]
+[]| \T1/lmr/m/n/10.95 qPCR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 182
-[]| \T1/lmr/m/n/10.95 RF[]
+[]| \T1/lmr/m/n/10.95 RCR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 184
-[]| \T1/lmr/m/n/10.95 RHR[]
+[]| \T1/lmr/m/n/10.95 RF[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 186
-[]| \T1/lmr/m/n/10.95 RNA[]
+[]| \T1/lmr/m/n/10.95 RHR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 188
-[]| \T1/lmr/m/n/10.95 RPA[]
+[]| \T1/lmr/m/n/10.95 RNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 190
-[]| \T1/lmr/m/n/10.95 RPV[]
+[]| \T1/lmr/m/n/10.95 RPA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 192
-[]| \T1/lmr/m/n/10.95 RSS[]
+[]| \T1/lmr/m/n/10.95 RPV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 194
-[]| \T1/lmr/m/n/10.95 SA[]
+[]| \T1/lmr/m/n/10.95 RSS[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 196
-[]| \T1/lmr/m/n/10.95 SAT[]
+[]| \T1/lmr/m/n/10.95 SA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 198
-[]| \T1/lmr/m/n/10.95 SCID[]
+[]| \T1/lmr/m/n/10.95 SAT[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 200
-[]| \T1/lmr/m/n/10.95 SN[]
+[]| \T1/lmr/m/n/10.95 SCID[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 202
-[]| \T1/lmr/m/n/10.95 sPLA$[]$[]
+[]| \T1/lmr/m/n/10.95 SN[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 204
-[]| \T1/lmr/m/n/10.95 ssDNA[]
+[]| \T1/lmr/m/n/10.95 sPLA$[]$[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 206
-[]| \T1/lmr/m/n/10.95 SV40[]
+[]| \T1/lmr/m/n/10.95 ssDNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 208
-[]| \T1/lmr/m/n/10.95 TfR[]
+[]| \T1/lmr/m/n/10.95 SV40[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 210
+[]| \T1/lmr/m/n/10.95 t[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 211
+[]| \T1/lmr/m/n/10.95 TfR[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 213
 []| \T1/lmr/m/n/10.95 TGN[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 212
+Underfull \hbox (badness 10000) detected at line 215
 []| \T1/lmr/m/n/10.95 TuPV[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 214
+Underfull \hbox (badness 10000) detected at line 217
 []| \T1/lmr/m/n/10.95 VLP[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 216
+Underfull \hbox (badness 10000) detected at line 219
 []| \T1/lmr/m/n/10.95 VP1[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 218
+Underfull \hbox (badness 10000) detected at line 221
 []| \T1/lmr/m/n/10.95 VP1u[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 220
+Underfull \hbox (badness 10000) detected at line 223
 []| \T1/lmr/m/n/10.95 VP2[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 222
+Underfull \hbox (badness 10000) detected at line 225
 []| \T1/lmr/m/n/10.95 VP3[]
  []
 
-) [4]
+) [6]
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.toc
 "
 number indent by \l@... (toc, 0):  0.0pt
@@ -2017,42 +1991,42 @@ number indent calculated (toc, 1): 12.59247pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
@@ -2087,23 +2061,23 @@ number indent calculated (toc, 1): 12.59247pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
 
-[5
+[7
 
 ]
 number indent by \l@... (toc, 0):  0.0pt
@@ -2116,30 +2090,10 @@ text indent by \l@... (toc, 1):  0.0pt
 number indent by parent (toc, 1):  12.59247pt
 text indent calculated (toc, 1): 24.9416pt
 number indent calculated (toc, 1): 12.59247pt
-number indent by \l@... (toc, 1):  16.33182pt
-text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  12.59247pt
-text indent calculated (toc, 1): 24.9416pt
-number indent calculated (toc, 1): 12.59247pt
-number indent by \l@... (toc, 1):  16.33182pt
-text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  12.59247pt
-text indent calculated (toc, 1): 24.9416pt
-number indent calculated (toc, 1): 12.59247pt
-number indent by \l@... (toc, 0):  0.0pt
-text indent by \l@... (toc, 0):  16.33182pt
-number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 12.59247pt
-number indent calculated (toc, 0): 0.0pt
-number indent by \l@... (toc, 1):  16.33182pt
-text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  12.59247pt
-text indent calculated (toc, 1): 24.9416pt
-number indent calculated (toc, 1): 12.59247pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
@@ -2166,6 +2120,26 @@ text indent by \l@... (toc, 1):  0.0pt
 number indent by parent (toc, 1):  12.59247pt
 text indent calculated (toc, 1): 24.9416pt
 number indent calculated (toc, 1): 12.59247pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  16.33182pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 12.59247pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  12.59247pt
+text indent calculated (toc, 1): 24.9416pt
+number indent calculated (toc, 1): 12.59247pt
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  12.59247pt
+text indent calculated (toc, 1): 24.9416pt
+number indent calculated (toc, 1): 12.59247pt
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  12.59247pt
+text indent calculated (toc, 1): 24.9416pt
+number indent calculated (toc, 1): 12.59247pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
 number indent by parent (toc, 1):  12.59247pt
@@ -2184,12 +2158,12 @@ number indent calculated (toc, 1): 12.59247pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
@@ -2244,7 +2218,7 @@ number indent calculated (toc, 1): 12.59247pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
@@ -2254,7 +2228,7 @@ number indent calculated (toc, 1): 12.59247pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
@@ -2275,7 +2249,12 @@ number indent calculated (toc, 1): 12.59247pt
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
 
-[6]
+[8]
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  12.59247pt
+text indent calculated (toc, 1): 24.9416pt
+number indent calculated (toc, 1): 12.59247pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
 number indent by parent (toc, 1):  12.59247pt
@@ -2299,8 +2278,13 @@ number indent calculated (toc, 1): 12.59247pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
 number indent by parent (toc, 2):  37.53407pt
-text indent calculated (toc, 2): 27.98325pt
+text indent calculated (toc, 2): 33.45824pt
 number indent calculated (toc, 2): 37.53407pt
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  12.59247pt
+text indent calculated (toc, 1): 24.9416pt
+number indent calculated (toc, 1): 12.59247pt
 number indent by \l@... (toc, -1):  0.0pt
 text indent by \l@... (toc, -1):  21.77576pt
 number indent by parent (toc, -1):  0.0pt
@@ -2321,11 +2305,85 @@ text indent by \l@... (toc, -1):  21.77576pt
 number indent by parent (toc, -1):  0.0pt
 text indent calculated (toc, -1): 21.3216pt
 number indent calculated (toc, -1): 0.0pt
+number indent by \l@... (toc, -1):  0.0pt
+text indent by \l@... (toc, -1):  21.77576pt
+number indent by parent (toc, -1):  0.0pt
+text indent calculated (toc, -1): 21.3216pt
+number indent calculated (toc, -1): 0.0pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  16.33182pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 12.59247pt
+number indent calculated (toc, 0): 0.0pt
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  12.59247pt
+text indent calculated (toc, 1): 24.9416pt
+number indent calculated (toc, 1): 12.59247pt
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  12.59247pt
+text indent calculated (toc, 1): 24.9416pt
+number indent calculated (toc, 1): 12.59247pt
+number indent by \l@... (toc, 2):  41.37396pt
+text indent by \l@... (toc, 2):  34.84117pt
+number indent by parent (toc, 2):  37.53407pt
+text indent calculated (toc, 2): 33.45824pt
+number indent calculated (toc, 2): 37.53407pt
+number indent by \l@... (toc, 2):  41.37396pt
+text indent by \l@... (toc, 2):  34.84117pt
+number indent by parent (toc, 2):  37.53407pt
+text indent calculated (toc, 2): 33.45824pt
+number indent calculated (toc, 2): 37.53407pt
+number indent by \l@... (toc, 2):  41.37396pt
+text indent by \l@... (toc, 2):  34.84117pt
+number indent by parent (toc, 2):  37.53407pt
+text indent calculated (toc, 2): 33.45824pt
+number indent calculated (toc, 2): 37.53407pt
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  12.59247pt
+text indent calculated (toc, 1): 24.9416pt
+number indent calculated (toc, 1): 12.59247pt
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  12.59247pt
+text indent calculated (toc, 1): 24.9416pt
+number indent calculated (toc, 1): 12.59247pt
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  12.59247pt
+text indent calculated (toc, 1): 24.9416pt
+number indent calculated (toc, 1): 12.59247pt
+number indent by \l@... (toc, 2):  41.37396pt
+text indent by \l@... (toc, 2):  34.84117pt
+number indent by parent (toc, 2):  37.53407pt
+text indent calculated (toc, 2): 33.45824pt
+number indent calculated (toc, 2): 37.53407pt
+number indent by \l@... (toc, 2):  41.37396pt
+text indent by \l@... (toc, 2):  34.84117pt
+number indent by parent (toc, 2):  37.53407pt
+text indent calculated (toc, 2): 33.45824pt
+number indent calculated (toc, 2): 37.53407pt
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  12.59247pt
+text indent calculated (toc, 1): 24.9416pt
+number indent calculated (toc, 1): 12.59247pt
+number indent by \l@... (toc, 0):  0.0pt
+text indent by \l@... (toc, 0):  16.33182pt
+number indent by parent (toc, 0):  0.0pt
+text indent calculated (toc, 0): 12.59247pt
+number indent calculated (toc, 0): 0.0pt
 )
 \tf@toc=\write5
 
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.lof
 "
+Overfull \vbox (1.47849pt too high) has occurred while \output is active []
+
+
+[9]
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
@@ -2376,13 +2434,6 @@ number indent calculated (lof, 1): 16.33182pt
 
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.lot
 "
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (1.47849pt too high) has occurred while \output is active []
-
-
-[7]
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
@@ -2409,7 +2460,7 @@ number indent calculated (lot, 1): 16.33182pt
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
 
-[8] [1
+[10] [1
 
 
 
@@ -2421,10 +2472,18 @@ Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 Chapter 1.
 
 Class scrbook Warning: \float@addtolists detected!
-(scrbook)              You should use the features of package `tocbasic'
-(scrbook)              instead of \float@addtolists.
-(scrbook)              Support for \float@addtolists may be removed from
-(scrbook)              `scrbook' soon .
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface .
 
 )
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\Chapter2
@@ -2450,7 +2509,7 @@ Package epstopdf Info: Source file: <./Pictures/Taxonomy.eps>
 verted-to.pdf ./Pictures/Taxonomy.eps>
 (epstopdf)             \includegraphics on input line 23.
 Package epstopdf Info: Output file is already uptodate.
-<./Pictures/Taxonomy-eps-converted-to.pdf, id=507, 491.8375pt x 321.2pt>
+<./Pictures/Taxonomy-eps-converted-to.pdf, id=547, 491.8375pt x 321.2pt>
 File: ./Pictures/Taxonomy-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Pictures/Taxonomy-eps-converted-to.pdf>
@@ -2469,9 +2528,6 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
@@ -2573,11 +2629,11 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 ]
 Chapter 3.
-<./Pictures/Morphology.pdf, id=770, 539.85693pt x 276.07141pt>
+<./Pictures/Morphology.pdf, id=810, 539.85693pt x 276.07141pt>
 File: ./Pictures/Morphology.pdf Graphic file (type pdf)
 
 <use ./Pictures/Morphology.pdf>
-Package pdftex.def Info: ./Pictures/Morphology.pdf used on input line 18.
+Package pdftex.def Info: ./Pictures/Morphology.pdf used on input line 21.
 (pdftex.def)             Requested size: 414.32558pt x 211.88057pt.
 
 
@@ -2597,7 +2653,7 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 ology.pdf>]
 Chapter 4.
 LaTeX Font Info:    Try loading font information for TS1+lmr on input line 12.
-("C:\Program Files\Latex\Miktex\tex\latex\lm\ts1lmr.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
@@ -2606,7 +2662,7 @@ Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 [17
 
 
-] <./Pictures/Structure.pdf, id=858, 522.5121pt x 562.26057pt>
+] <./Pictures/Structure.pdf, id=899, 522.5121pt x 562.26057pt>
 File: ./Pictures/Structure.pdf Graphic file (type pdf)
 
 <use ./Pictures/Structure.pdf>
@@ -2632,15 +2688,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 41.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `subscript' on input line 41.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 41.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -2652,41 +2700,30 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 41.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `subscript' on input line 41.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 41.
 
 
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[20] <./Pictures/PLA.pdf, id=956, 487.0998pt x 216.81pt>
+[20] <./Pictures/PLA.pdf, id=996, 487.0998pt x 216.81pt>
 File: ./Pictures/PLA.pdf Graphic file (type pdf)
 
 <use ./Pictures/PLA.pdf>
 Package pdftex.def Info: ./Pictures/PLA.pdf used on input line 50.
 (pdftex.def)             Requested size: 340.96753pt x 151.76596pt.
- <./Pictures/NLS.pdf, id=971, 537.6888pt x 419.166pt>
+ <./Pictures/NLS.pdf, id=1011, 537.6888pt x 419.166pt>
 File: ./Pictures/NLS.pdf Graphic file (type pdf)
 
 <use ./Pictures/NLS.pdf>
 Package pdftex.def Info: ./Pictures/NLS.pdf used on input line 62.
 (pdftex.def)             Requested size: 322.61577pt x 251.50154pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 [21 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/PLA.p
-df>] <./Pictures/NLM.pdf, id=1011, 459.6372pt x 322.32419pt>
+df>] <./Pictures/NLM.pdf, id=1051, 459.6372pt x 322.32419pt>
 File: ./Pictures/NLM.pdf Graphic file (type pdf)
 
 <use ./Pictures/NLM.pdf>
@@ -2710,9 +2747,6 @@ df>] [24
 ]
 Chapter 5.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
 
@@ -2720,26 +2754,7 @@ Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[26])
-("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\Chapter6
-.tex"
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
-
-
-[27] [28
-
-
-]
-Chapter 6.
-
-Overfull \vbox (1.47849pt too high) has occurred while \output is active []
-
-
-[29]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
-
-
-[30]
+[26]
 Package epstopdf Info: Source file: <./Pictures/Architecture.eps>
 (epstopdf)                    date: 2015-03-28 17:31:27
 (epstopdf)                    size: 359279 bytes
@@ -2752,7 +2767,7 @@ df>
 (epstopdf)             \includegraphics on input line 41.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Pictures/Architecture-eps-converted-to.pdf, id=1260, 543.02875pt x 723.70375
+<./Pictures/Architecture-eps-converted-to.pdf, id=1180, 543.02875pt x 723.70375
 pt>
 File: ./Pictures/Architecture-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Pictures/Architecture-eps-converted-to.pdf>
@@ -2760,26 +2775,45 @@ Package pdftex.def Info: ./Pictures/Architecture-eps-converted-to.pdf used on i
 nput line 41.
 (pdftex.def)             Requested size: 380.11752pt x 506.58917pt.
 )
+("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\Chapter6
+.tex"
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[27]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[28 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/Archi
+tecture-eps-converted-to.pdf>]
+Chapter 6.
+
+Overfull \vbox (1.47849pt too high) has occurred while \output is active []
+
+
+[29
+
+
+]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[30])
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\Chapter7
 .tex"
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[31]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+[31] [32
 
 
-[32 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/Archi
-tecture-eps-converted-to.pdf>]
+]
 Chapter 7.
 
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
 
-[33
-
-
-]
+[33]
 Overfull \hbox (460.36488pt too wide) detected at line 28
  [] 
  []
@@ -2825,9 +2859,6 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 [37]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
@@ -2844,42 +2875,33 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 [41]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[42] <./Pictures/Replication.pdf, id=1787, 529.01637pt x 439.40161pt>
+[42] <./Pictures/Replication.pdf, id=1824, 529.01637pt x 439.40161pt>
 File: ./Pictures/Replication.pdf Graphic file (type pdf)
 
 <use ./Pictures/Replication.pdf>
-Package pdftex.def Info: ./Pictures/Replication.pdf used on input line 146.
+Package pdftex.def Info: ./Pictures/Replication.pdf used on input line 153.
 (pdftex.def)             Requested size: 370.30893pt x 307.57903pt.
 
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[43 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/Repli
+[43]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[44 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/Repli
 cation.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[44]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
-
-
-[45] <./Pictures/Transcription.pdf, id=1908, 514.56241pt x 489.9906pt>
+[45] <./Pictures/Transcription.pdf, id=1946, 514.56241pt x 489.9906pt>
 File: ./Pictures/Transcription.pdf Graphic file (type pdf)
 
 <use ./Pictures/Transcription.pdf>
-Package pdftex.def Info: ./Pictures/Transcription.pdf used on input line 200.
+Package pdftex.def Info: ./Pictures/Transcription.pdf used on input line 207.
 (pdftex.def)             Requested size: 411.65048pt x 391.993pt.
 
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
@@ -2926,16 +2948,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
  []
 
 
-Underfull \vbox (badness 2781) has occurred while \output is active []
-
-
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 [56]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
@@ -2965,7 +2981,7 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2124, 597.53236pt x 796.67639pt>
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2162, 597.53236pt x 796.67639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
 <use ./Pictures/../pdfdocuments/b19vpaper.pdf>
@@ -2988,19 +3004,12 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-Overfull \vbox (1.47849pt too high) has occurred while \output is active []
-
-
-[63
-
-
-]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2132, page=1, 597.53236pt x 796.6
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2165, page=1, 597.53236pt x 796.6
 7639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 1>
@@ -3025,6 +3034,32 @@ File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page1 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
+
+Overfull \vbox (1.47849pt too high) has occurred while \output is active []
+
+
+[63
+
+
+]
+
+pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
+mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
+, but at most version <1.5> allowed
+
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2171, page=2, 597.53236pt x 796.6
+7639pt>
+File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 2>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page2 used o
+n input line 35.
+(pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
+File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
+
+<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 2>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page2 used o
+n input line 35.
+(pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
 <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 1>
@@ -3038,17 +3073,17 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2196, page=2, 597.53236pt x 796.6
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2233, page=3, 597.53236pt x 796.6
 7639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 2>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page2 used o
+ <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 3>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page3 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 2>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page2 used o
+<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 3>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page3 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
@@ -3064,17 +3099,17 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2211, page=3, 597.53236pt x 796.6
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2247, page=4, 597.53236pt x 796.6
 7639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 3>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page3 used o
+ <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 4>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page4 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 3>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page3 used o
+<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 4>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page4 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
@@ -3090,17 +3125,17 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2217, page=4, 597.53236pt x 796.6
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2252, page=5, 597.53236pt x 796.6
 7639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 4>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page4 used o
+ <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 5>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page5 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 4>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page4 used o
+<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 5>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page5 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
@@ -3116,17 +3151,17 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2226, page=5, 597.53236pt x 796.6
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2260, page=6, 597.53236pt x 796.6
 7639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 5>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page5 used o
+ <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 6>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page6 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 5>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page5 used o
+<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 6>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page6 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
@@ -3142,17 +3177,17 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2235, page=6, 597.53236pt x 796.6
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2269, page=7, 597.53236pt x 796.6
 7639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 6>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page6 used o
+ <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 7>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page7 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 6>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page6 used o
+<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 7>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page7 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
@@ -3168,17 +3203,17 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2249, page=7, 597.53236pt x 796.6
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2282, page=8, 597.53236pt x 796.6
 7639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 7>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page7 used o
+ <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 8>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page8 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 7>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page7 used o
+<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 8>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page8 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
@@ -3194,17 +3229,17 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2259, page=8, 597.53236pt x 796.6
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2290, page=9, 597.53236pt x 796.6
 7639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 8>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page8 used o
+ <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 9>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page9 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 8>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page8 used o
+<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 9>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page9 used o
 n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
@@ -3220,33 +3255,7 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2271, page=9, 597.53236pt x 796.6
-7639pt>
-File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 9>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page9 used o
-n input line 35.
-(pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
-File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
-
-<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 9>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page9 used o
-n input line 35.
-(pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
-File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
-
-<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 9>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page9 used o
-n input line 35.
-(pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [72 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-b19vpaper.pdf>]
-
-pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
-mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
-, but at most version <1.5> allowed
-
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2280, page=10, 597.53236pt x 796.
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2301, page=10, 597.53236pt x 796.
 67639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 10>
@@ -3261,18 +3270,18 @@ on input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 10>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page10 used 
-on input line 35.
+<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 9>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page9 used o
+n input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
- [73 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+ [72 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
 b19vpaper.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/b19vpaper.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2286, page=11, 597.53236pt x 796.
+<./Pictures/../pdfdocuments/b19vpaper.pdf, id=2309, page=11, 597.53236pt x 796.
 67639pt>
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 11>
@@ -3287,6 +3296,14 @@ on input line 35.
 (pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
 File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
 
+<use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 10>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page10 used 
+on input line 35.
+(pdftex.def)             Requested size: 537.77415pt x 717.00214pt.
+ [73 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
+b19vpaper.pdf>]
+File: ./Pictures/../pdfdocuments/b19vpaper.pdf Graphic file (type pdf)
+
 <use ./Pictures/../pdfdocuments/b19vpaper.pdf, page 11>
 Package pdftex.def Info: ./Pictures/../pdfdocuments/b19vpaper.pdf, page11 used 
 on input line 35.
@@ -3296,56 +3313,89 @@ b19vpaper.pdf>])
 [75
 
 
-] [76]
-("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.bbl
-"
+] [76] [77
+
+
+] [78]
+("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\Material
+s.tex"pdfTeX warning (ext4): destination with the same identifier (name{chapter
+.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 \chapter{Materials}
+                        % Main chapter title
+Chapter 1.
+
+Underfull \hbox (badness 10000) in alignment at lines 15--39
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 39--59
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 59--79
+[] []
+ []
+
+
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
 
-[77
+[79
 
 
 ]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+Underfull \hbox (badness 10000) in alignment at lines 79--91
+[] []
+ []
+
+[80] [81]
+Overfull \hbox (7.59021pt too wide) in paragraph at lines 192--192
+[]|\T1/lmr/m/n/10.95 mg/mL| 
+ []
 
 
-[78]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+Overfull \hbox (1.2031pt too wide) in paragraph at lines 193--193
+[]|\T1/lmr/m/n/10.95 U/mL| 
+ []
 
 
-[79]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+Overfull \hbox (1.2031pt too wide) in paragraph at lines 194--194
+[]|\T1/lmr/m/n/10.95 U/mL| 
+ []
 
 
-[80]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+Overfull \hbox (1.2031pt too wide) in paragraph at lines 195--195
+[]|\T1/lmr/m/n/10.95 U/mL| 
+ []
 
 
-[81]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
-
+Underfull \hbox (badness 10000) in alignment at lines 188--200
+[] [] [] []
+ []
 
 [82]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+Overfull \hbox (33.7627pt too wide) in paragraph at lines 223--224
+ [] 
+ []
 
-
-[83]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
-
-
-[84]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
-
-
-[85]
+[83] [84] [85])
+("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.bbl
+"
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 [86]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
 
-[87]
+[87
+
+
+]
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
@@ -3401,31 +3451,138 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[101])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 318.
-
+[101]
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 [102]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 318.
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[103]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[104]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[105]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[106]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[107]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[108]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[109]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[110]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[111])
+
+pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
+mplate Rafa/pdfdocuments/declaration.pdf): PDF inclusion: found PDF version <1.
+6>, but at most version <1.5> allowed
+
+<./Pictures/../pdfdocuments/declaration.pdf, id=2478, 597.23125pt x 845.1575pt>
+File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
+<use ./Pictures/../pdfdocuments/declaration.pdf>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf used on inp
+ut line 328.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
+mplate Rafa/pdfdocuments/declaration.pdf): PDF inclusion: found PDF version <1.
+6>, but at most version <1.5> allowed
+File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
+<use ./Pictures/../pdfdocuments/declaration.pdf>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf used on inp
+ut line 328.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
+mplate Rafa/pdfdocuments/declaration.pdf): PDF inclusion: found PDF version <1.
+6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
+mplate Rafa/pdfdocuments/declaration.pdf): PDF inclusion: found PDF version <1.
+6>, but at most version <1.5> allowed
+
+<./Pictures/../pdfdocuments/declaration.pdf, id=2481, page=1, 597.23125pt x 845
+.1575pt>
+File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
+ on input line 328.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
+
+<use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
+ on input line 328.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
+
+<use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
+ on input line 328.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
+
+<use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
+ on input line 328.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+
+Overfull \vbox (1.47849pt too high) has occurred while \output is active []
+
+
+[112]
+Overfull \vbox (1.47849pt too high) has occurred while \output is active []
+
+File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
+
+<use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
+ on input line 328.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [113 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
+/declaration.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 334.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 334.
 
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.aux
 ")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 318.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 318.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 334.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 334.
 Package rerunfilecheck Info: File `Rafa*Template.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 318.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 334.
  ) 
 Here is how much of TeX's memory you used:
- 16314 strings out of 494045
- 256919 string characters out of 3147575
- 461043 words of memory out of 3000000
- 18562 multiletter control sequences out of 15000+200000
+ 17016 strings out of 493921
+ 271144 string characters out of 3147277
+ 481525 words of memory out of 3000000
+ 19221 multiletter control sequences out of 15000+200000
  163988 words of font info for 90 fonts, out of 3000000 for 9000
- 715 hyphenation exceptions out of 8191
- 54i,19n,51p,4454b,1405s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 841 hyphenation exceptions out of 8191
+ 54i,19n,54p,4454b,1409s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -3438,31 +3595,30 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
-{C:/Program Files/Latex/Miktex/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/L
-atex/Miktex/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/Latex/Miktex/fon
-ts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/Latex/Miktex/fonts/enc/dvips/lm/lm
--mathsy.enc}<C:/Program Files/Latex/Miktex/fonts/type1/public/lm/lmbx10.pfb><C:
-/Program Files/Latex/Miktex/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/
-Latex/Miktex/fonts/type1/public/lm/lmbx8.pfb><C:/Program Files/Latex/Miktex/fon
-ts/type1/public/lm/lmbxi10.pfb><C:/Program Files/Latex/Miktex/fonts/type1/publi
-c/lm/lmcsc10.pfb><C:/Program Files/Latex/Miktex/fonts/type1/public/lm/lmmi10.pf
-b><C:/Program Files/Latex/Miktex/fonts/type1/public/lm/lmmi8.pfb><C:/Program Fi
-les/Latex/Miktex/fonts/type1/public/lm/lmmib10.pfb><C:/Program Files/Latex/Mikt
-ex/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/Latex/Miktex/fonts/type1/p
-ublic/lm/lmr12.pfb><C:/Program Files/Latex/Miktex/fonts/type1/public/lm/lmr17.p
-fb><C:/Program Files/Latex/Miktex/fonts/type1/public/lm/lmr6.pfb><C:/Program Fi
-les/Latex/Miktex/fonts/type1/public/lm/lmr7.pfb><C:/Program Files/Latex/Miktex/
-fonts/type1/public/lm/lmr8.pfb><C:/Program Files/Latex/Miktex/fonts/type1/publi
-c/lm/lmr9.pfb><C:/Program Files/Latex/Miktex/fonts/type1/public/lm/lmri10.pfb><
-C:/Program Files/Latex/Miktex/fonts/type1/public/lm/lmri12.pfb><C:/Program File
-s/Latex/Miktex/fonts/type1/public/lm/lmri7.pfb><C:/Program Files/Latex/Miktex/f
-onts/type1/public/lm/lmri8.pfb><C:/Program Files/Latex/Miktex/fonts/type1/publi
-c/lm/lmro10.pfb><C:/Program Files/Latex/Miktex/fonts/type1/public/lm/lmssbo10.p
-fb><C:/Program Files/Latex/Miktex/fonts/type1/public/lm/lmssbx10.pfb><C:/Progra
-m Files/Latex/Miktex/fonts/type1/public/lm/lmsy10.pfb>
-Output written on "Rafa Template.pdf" (111 pages, 5606376 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiK
+TeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc
+/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.
+enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/lm/lmbx8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+lm/lmbxi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
+mr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/lm/lmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri7.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri8.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/lm/lmssbo10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
+Output written on "Rafa Template.pdf" (124 pages, 5636573 bytes).
 PDF statistics:
- 2631 PDF objects out of 2984 (max. 8388607)
- 663 named destinations out of 1000 (max. 500000)
- 669 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2758 PDF objects out of 2984 (max. 8388607)
+ 692 named destinations out of 1000 (max. 500000)
+ 797 words of extra memory for PDF output out of 10000 (max. 10000000)
 

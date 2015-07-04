@@ -27,6 +27,7 @@
 \nomenclatureentry{aORF@[{ORF}]\begingroup Open reading frame\nomeqref {\relax 2.0}|nompageref}{11}
 \nomenclatureentry{aVP1u@[{VP1u}]\begingroup VP1 unique region\nomeqref {\relax 2.0}|nompageref}{11}
 \nomenclatureentry{aNIH@[{NIH}]\begingroup National institutes of health\nomeqref {\relax 2.0}|nompageref}{13}
+\nomenclatureentry{at@[{t}]\begingroup test\nomeqref {\relax 2.0}|nompageref}{14}
 \nomenclatureentry{aPstDNV@[{PstDNV}]\begingroup Penaeus stylirostris densovirus\nomeqref {\relax 3.0}|nompageref}{15}
 \nomenclatureentry{aGmDNV@[{GmDNV}]\begingroup Galleria mellonella densovirus\nomeqref {\relax 3.0}|nompageref}{15}
 \nomenclatureentry{aDNA@[{DNA}]\begingroup Deoxyribonucleic acid\nomeqref {\relax 3.0}|nompageref}{15}
@@ -43,23 +44,23 @@
 \nomenclatureentry{aH1-PV@[{H1-PV}]\begingroup Parvovirus H1\nomeqref {\relax 4.0}|nompageref}{22}
 \nomenclatureentry{aPy@[{Py}]\begingroup Polyomavirus\nomeqref {\relax 4.0}|nompageref}{22}
 \nomenclatureentry{aMW@[{MW}]\begingroup Molecular weight\nomeqref {\relax 4.0}|nompageref}{22}
-\nomenclatureentry{aMVM@[{MVM}]\begingroup Minute virus of mice\nomeqref {\relax 5.0}|nompageref}{25}
-\nomenclatureentry{aCPV@[{CPV}]\begingroup Canine parvovirus\nomeqref {\relax 5.0}|nompageref}{25}
-\nomenclatureentry{aFPV@[{FPV}]\begingroup Feline parvovirus\nomeqref {\relax 5.0}|nompageref}{25}
-\nomenclatureentry{aAAV@[{AAV}]\begingroup Adeno-associated virus\nomeqref {\relax 5.0}|nompageref}{25}
-\nomenclatureentry{aMVMp@[{MVMp}]\begingroup Prototype strain of MVM\nomeqref {\relax 5.0}|nompageref}{25}
-\nomenclatureentry{aMVMi@[{MVMi}]\begingroup Immunosuppressive strain of MVM\nomeqref {\relax 5.0}|nompageref}{25}
-\nomenclatureentry{aPPV@[{PPV}]\begingroup Porcine parvovirus\nomeqref {\relax 5.0}|nompageref}{27}
-\nomenclatureentry{aSCID@[{SCID}]\begingroup Severe combined immunodeficiency\nomeqref {\relax 5.0}|nompageref}{27}
-\nomenclatureentry{aRF@[{RF}]\begingroup Replicative form\nomeqref {\relax 5.0}|nompageref}{27}
-\nomenclatureentry{aVP1@[{VP1}]\begingroup Viral protein 1\nomeqref {\relax 6.0}|nompageref}{31}
-\nomenclatureentry{aVP2@[{VP2}]\begingroup Viral protein 2\nomeqref {\relax 6.0}|nompageref}{31}
-\nomenclatureentry{aVP3@[{VP3}]\begingroup Viral protein 3\nomeqref {\relax 6.0}|nompageref}{31}
-\nomenclatureentry{aNS@[{NS}]\begingroup Non-structural (protein)\nomeqref {\relax 6.0}|nompageref}{31}
-\nomenclatureentry{aPIF@[{PIF}]\begingroup Parvovirus initiation factor\nomeqref {\relax 6.0}|nompageref}{31}
-\nomenclatureentry{aCRE@[{CRE}]\begingroup cAMP-responsive element\nomeqref {\relax 6.0}|nompageref}{31}
-\nomenclatureentry{aSAT@[{SAT}]\begingroup Small alternatively translated protein\nomeqref {\relax 6.0}|nompageref}{31}
-\nomenclatureentry{aDDR@[{DDR}]\begingroup DNA damage response\nomeqref {\relax 6.0}|nompageref}{31}
+\nomenclatureentry{aVP1@[{VP1}]\begingroup Viral protein 1\nomeqref {\relax 5.0}|nompageref}{27}
+\nomenclatureentry{aVP2@[{VP2}]\begingroup Viral protein 2\nomeqref {\relax 5.0}|nompageref}{27}
+\nomenclatureentry{aVP3@[{VP3}]\begingroup Viral protein 3\nomeqref {\relax 5.0}|nompageref}{27}
+\nomenclatureentry{aNS@[{NS}]\begingroup Non-structural (protein)\nomeqref {\relax 5.0}|nompageref}{27}
+\nomenclatureentry{aPIF@[{PIF}]\begingroup Parvovirus initiation factor\nomeqref {\relax 5.0}|nompageref}{27}
+\nomenclatureentry{aCRE@[{CRE}]\begingroup cAMP-responsive element\nomeqref {\relax 5.0}|nompageref}{27}
+\nomenclatureentry{aSAT@[{SAT}]\begingroup Small alternatively translated protein\nomeqref {\relax 5.0}|nompageref}{27}
+\nomenclatureentry{aDDR@[{DDR}]\begingroup DNA damage response\nomeqref {\relax 5.0}|nompageref}{27}
+\nomenclatureentry{aMVM@[{MVM}]\begingroup Minute virus of mice\nomeqref {\relax 6.0}|nompageref}{29}
+\nomenclatureentry{aCPV@[{CPV}]\begingroup Canine parvovirus\nomeqref {\relax 6.0}|nompageref}{29}
+\nomenclatureentry{aFPV@[{FPV}]\begingroup Feline parvovirus\nomeqref {\relax 6.0}|nompageref}{29}
+\nomenclatureentry{aAAV@[{AAV}]\begingroup Adeno-associated virus\nomeqref {\relax 6.0}|nompageref}{29}
+\nomenclatureentry{aMVMp@[{MVMp}]\begingroup Prototype strain of MVM\nomeqref {\relax 6.0}|nompageref}{29}
+\nomenclatureentry{aMVMi@[{MVMi}]\begingroup Immunosuppressive strain of MVM\nomeqref {\relax 6.0}|nompageref}{29}
+\nomenclatureentry{aPPV@[{PPV}]\begingroup Porcine parvovirus\nomeqref {\relax 6.0}|nompageref}{31}
+\nomenclatureentry{aSCID@[{SCID}]\begingroup Severe combined immunodeficiency\nomeqref {\relax 6.0}|nompageref}{31}
+\nomenclatureentry{aRF@[{RF}]\begingroup Replicative form\nomeqref {\relax 6.0}|nompageref}{31}
 \nomenclatureentry{aAFM@[{AFM}]\begingroup Atomic force microscopy\nomeqref {\relax 7.0}|nompageref}{41}
 \nomenclatureentry{aRCR@[{RCR}]\begingroup Rolling circle replication\nomeqref {\relax 7.0}|nompageref}{43}
 \nomenclatureentry{aRHR@[{RHR}]\begingroup Rolling hairpin replication\nomeqref {\relax 7.0}|nompageref}{43}
@@ -109,3 +110,4 @@
 \nomenclatureentry{aPCR@[{PCR}]\begingroup Polymerase chain reaction\nomeqref {\relax 8.0}|nompageref}{55}
 \nomenclatureentry{aCV@[{CV}]\begingroup Column volume\nomeqref {\relax 8.0}|nompageref}{56}
 \nomenclatureentry{aIP@[{IP}]\begingroup Immunoprecipitation\nomeqref {\relax 8.0}|nompageref}{58}
+\nomenclatureentry{aM6PR@[{M6PR}]\begingroup Mannose 6-phosphate receptor\nomeqref {\relax 1.0}|nompageref}{83}
