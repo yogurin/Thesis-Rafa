@@ -68,7 +68,7 @@
 \contentsline {part}{\numberline {III}Publication}{61}{part.3}
 \cftpagenumbersoff {chapter}
 \contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{63}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{63}{section*.16}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{63}{section*.17}
 \contentsline {part}{\numberline {IV}Discussion}{75}{part.4}
 \contentsline {part}{\numberline {V}Appendix}{77}{part.5}
 \contentsline {chapter}{\numberline {1}Materials}{79}{chapter.1}
@@ -83,5 +83,5 @@
 \contentsline {subsection}{\numberline {1.5.1}Primary antibodies}{83}{subsection.1.5.1}
 \contentsline {subsection}{\numberline {1.5.2}Secondary antibodies}{83}{subsection.1.5.2}
 \contentsline {section}{\numberline {1.6}Media}{86}{section.1.6}
-\contentsline {chapter}{Declaration}{112}{section*.18}
+\contentsline {chapter}{Declaration}{112}{section*.19}
 \vspace {1em}
