@@ -1,4 +1,4 @@
-\begin{thebibliography}{465}
+\begin{thebibliography}{466}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -1961,6 +1961,14 @@ W.~L. Mengeling and R.~C. Cutlip.
   gilts to porcine parvovirus}.
 \newblock \emph{Am. J. Vet. Res.}, 37\penalty0 (12):\penalty0 1393--1400, Dec
   1976.
+
+\bibitem[Merchlinsky et~al.(1983)Merchlinsky, Tattersall, Leary, Cotmore,
+  Gardiner, and Ward]{pmid6345805}
+M.~J. Merchlinsky, P.~J. Tattersall, J.~J. Leary, S.~F. Cotmore, E.~M.
+  Gardiner, and D.~C. Ward.
+\newblock {{C}onstruction of an infectious molecular clone of the autonomous
+  parvovirus minute virus of mice}.
+\newblock \emph{J. Virol.}, 47\penalty0 (1):\penalty0 227--232, Jul 1983.
 
 \bibitem[Metcalf et~al.(1990)Metcalf, Bates, and Lederman]{pmid2145445}
 J.~B. Metcalf, R.~C. Bates, and M.~Lederman.

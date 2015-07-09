@@ -2,7 +2,7 @@
 \contentsline {chapter}{Abstract}{I}{section*.1}
 \vspace {1em}
 \contentsline {chapter}{Acknowledgements}{III}{chapter*.2}
-\contentsline {chapter}{Nomenclature}{III}{section*.3}
+\contentsline {chapter}{Nomenclature}{V}{section*.3}
 \vspace {1em}
 \contentsline {part}{\numberline {I}Introduction}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Discovery and brief history}{3}{chapter.1}
@@ -54,34 +54,40 @@
 \contentsline {section}{\numberline {8.1}Cell Cultures}{55}{section.8.1}
 \contentsline {subsection}{\numberline {8.1.1}Freezing and thawing of cells}{55}{subsection.8.1.1}
 \contentsline {section}{\numberline {8.2}Virus Stocks}{55}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{55}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.1}Separation of empty and full capsids}{56}{subsection.8.2.1}
 \contentsline {section}{\numberline {8.3}Freezing bacteria stocks in glycerol}{56}{section.8.3}
-\contentsline {section}{\numberline {8.4}Anion-exchange chromatography}{56}{section.8.4}
+\contentsline {section}{\numberline {8.4}Fast protein liquid chromatography (FPLC)}{56}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Anion-exchange chromatography (AEX)}{56}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}Chromatofocusing (CF)}{57}{subsection.8.4.2}
 \contentsline {section}{\numberline {8.5}Quantitative PCR}{57}{section.8.5}
-\contentsline {section}{\numberline {8.6}Nuclei isolation}{58}{section.8.6}
-\contentsline {section}{\numberline {8.7}Immunoprecipitation}{58}{section.8.7}
-\contentsline {section}{\numberline {8.8}Dot Blot}{58}{section.8.8}
-\contentsline {section}{\numberline {8.9}SDS-PAGE and Western blotting}{58}{section.8.9}
-\contentsline {section}{\numberline {8.10}Chymotrypsin treatment}{59}{section.8.10}
-\contentsline {subsection}{\numberline {8.10.1}Phosphatase treatment}{59}{subsection.8.10.1}
-\contentsline {section}{\numberline {8.11}Infectivity assay}{59}{section.8.11}
-\contentsline {part}{\numberline {III}Publication}{61}{part.3}
+\contentsline {section}{\numberline {8.6}Nucleofection}{59}{section.8.6}
+\contentsline {section}{\numberline {8.7}Nuclei isolation}{59}{section.8.7}
+\contentsline {section}{\numberline {8.8}Immunoprecipitation}{59}{section.8.8}
+\contentsline {section}{\numberline {8.9}Dot Blot}{60}{section.8.9}
+\contentsline {section}{\numberline {8.10}SDS-PAGE and Western blotting}{60}{section.8.10}
+\contentsline {section}{\numberline {8.11}Chymotrypsin treatment}{61}{section.8.11}
+\contentsline {subsection}{\numberline {8.11.1}Phosphatase treatment}{61}{subsection.8.11.1}
+\contentsline {section}{\numberline {8.12}Infectivity assay}{61}{section.8.12}
+\contentsline {part}{\numberline {III}Publication}{63}{part.3}
 \cftpagenumbersoff {chapter}
-\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{63}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{63}{section*.17}
-\contentsline {part}{\numberline {IV}Discussion}{75}{part.4}
-\contentsline {part}{\numberline {V}Appendix}{77}{part.5}
-\contentsline {chapter}{\numberline {1}Materials}{79}{chapter.1}
-\contentsline {section}{\numberline {1.1}Chemicals and compounds}{79}{section.1.1}
-\contentsline {section}{\numberline {1.2}Buffers}{81}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}General buffers}{81}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Agarose gel electrophoresis}{81}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Western blot}{82}{subsection.1.2.3}
-\contentsline {section}{\numberline {1.3}Kits}{82}{section.1.3}
-\contentsline {section}{\numberline {1.4}Enzymes}{83}{section.1.4}
-\contentsline {section}{\numberline {1.5}Antibodies}{83}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Primary antibodies}{83}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}Secondary antibodies}{83}{subsection.1.5.2}
-\contentsline {section}{\numberline {1.6}Media}{86}{section.1.6}
-\contentsline {chapter}{Declaration}{112}{section*.19}
+\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{65}{chapter.1}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{65}{section*.18}
+\contentsline {part}{\numberline {IV}Discussion}{77}{part.4}
+\contentsline {part}{\numberline {V}Appendix}{79}{part.5}
+\contentsline {chapter}{\numberline {9}Materials}{81}{chapter.9}
+\contentsline {section}{\numberline {9.1}Chemicals and compounds}{81}{section.9.1}
+\contentsline {section}{\numberline {9.2}Buffers}{84}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}General buffers}{84}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Chromatography buffers}{85}{subsection.9.2.2}
+\contentsline {subsubsection}{\nonumberline Anion exchange chromatography (AEX)}{85}{section*.20}
+\contentsline {subsubsection}{\nonumberline Chromatofocusing (CF)}{85}{section*.22}
+\contentsline {subsection}{\numberline {9.2.3}Agarose gel electrophoresis}{86}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}Western blot}{86}{subsection.9.2.4}
+\contentsline {section}{\numberline {9.3}Kits}{87}{section.9.3}
+\contentsline {section}{\numberline {9.4}Enzymes}{87}{section.9.4}
+\contentsline {section}{\numberline {9.5}Antibodies}{88}{section.9.5}
+\contentsline {subsection}{\numberline {9.5.1}Primary antibodies}{88}{subsection.9.5.1}
+\contentsline {subsection}{\numberline {9.5.2}Secondary antibodies}{89}{subsection.9.5.2}
+\contentsline {section}{\numberline {9.6}Media}{89}{section.9.6}
+\contentsline {chapter}{Declaration}{116}{section*.31}
 \vspace {1em}

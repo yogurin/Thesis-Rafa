@@ -1,5 +1,5 @@
-\nomenclatureentry{aB19V@[{B19V}]\begingroup Human parvovirus B19\nomeqref {\relax 0}|nompageref}{III}
-\nomenclatureentry{aBp@[{Bp}]\begingroup Base pair\nomeqref {\relax 0}|nompageref}{III}
+\nomenclatureentry{aB19V@[{B19V}]\begingroup Human parvovirus B19\nomeqref {\relax 0}|nompageref}{V}
+\nomenclatureentry{aBp@[{Bp}]\begingroup Base pair\nomeqref {\relax 0}|nompageref}{V}
 \nomenclatureentry{aRNA@[{RNA}]\begingroup Ribonucleic acid\nomeqref {\relax 2.0}|nompageref}{5}
 \nomenclatureentry{aAMDV@[{AMDV}]\begingroup Aleutian mink disease virus\nomeqref {\relax 2.0}|nompageref}{7}
 \nomenclatureentry{aGFAV@[{GFAV}]\begingroup Gray fox amdovirus\nomeqref {\relax 2.0}|nompageref}{7}
@@ -102,11 +102,12 @@
 \nomenclatureentry{aSV40@[{SV40}]\begingroup Simian vacuolating virus 40 or Simian virus 40\nomeqref {\relax 8.0}|nompageref}{55}
 \nomenclatureentry{aIF@[{IF}]\begingroup Immunofluorescence microscopy\nomeqref {\relax 8.0}|nompageref}{55}
 \nomenclatureentry{amAb@[{mAb}]\begingroup Monoclonal antibody\nomeqref {\relax 8.0}|nompageref}{55}
-\nomenclatureentry{aDMEM@[{DMEM}]\begingroup Dulbecco modified Eagle's medium\nomeqref {\relax 8.0}|nompageref}{55}
 \nomenclatureentry{aFCS@[{FCS}]\begingroup Fetal calf serum\nomeqref {\relax 8.0}|nompageref}{55}
+\nomenclatureentry{aDMEM@[{DMEM}]\begingroup Dulbecco modified Eagle's medium\nomeqref {\relax 8.0}|nompageref}{55}
 \nomenclatureentry{aSN@[{SN}]\begingroup Supernatant\nomeqref {\relax 8.0}|nompageref}{55}
 \nomenclatureentry{aqPCR@[{qPCR}]\begingroup Quantitative PCR\nomeqref {\relax 8.0}|nompageref}{55}
 \nomenclatureentry{aPCR@[{PCR}]\begingroup Polymerase chain reaction\nomeqref {\relax 8.0}|nompageref}{55}
-\nomenclatureentry{aCV@[{CV}]\begingroup Column volume\nomeqref {\relax 8.0}|nompageref}{56}
-\nomenclatureentry{aIP@[{IP}]\begingroup Immunoprecipitation\nomeqref {\relax 8.0}|nompageref}{58}
-\nomenclatureentry{aM6PR@[{M6PR}]\begingroup Mannose 6-phosphate receptor\nomeqref {\relax 1.0}|nompageref}{83}
+\nomenclatureentry{aCV@[{CV}]\begingroup Column volume\nomeqref {\relax 8.0}|nompageref}{57}
+\nomenclatureentry{apI@[{pI}]\begingroup Isoelectric point\nomeqref {\relax 8.0}|nompageref}{57}
+\nomenclatureentry{aIP@[{IP}]\begingroup Immunoprecipitation\nomeqref {\relax 8.0}|nompageref}{60}
+\nomenclatureentry{aIg@[{Ig}]\begingroup Immunoglobulin\nomeqref {\relax 9.0}|nompageref}{89}

@@ -48,6 +48,7 @@
 \usepackage{float}
 \usepackage[bottom, hang]{footmisc}
 \usepackage{chngcntr}
+\usepackage[np]{numprint} % Für 1 000-er Zahlen \np{124093848} = 124 093 848
 \counterwithout{footnote}{chapter}
 
 
@@ -148,6 +149,8 @@
 
 \setlength{\footskip}{35mm}
 
+
+\captionsetup[table]{singlelinecheck=off} %left-aligned table captions
 
 
 %----------------------------------------------------------------------------------------
@@ -297,7 +300,7 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 
 
 \part{Appendix}
-\setcounter{chapter}{0}
+\setcounter{chapter}{8}
 \input{./Chapters/Materials}
 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.6)  2 JUL 2015 12:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.4)  8 JUL 2015 10:43
 entering extended mode
 **Materials.tex
 
@@ -8,13 +8,13 @@ LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
 croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
-vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
-an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
-romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
-sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
-senglishmax, welsh, loaded.
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
 ! Undefined control sequence.
 l.3 \chapter
             {Materials} % Main chapter title
@@ -130,7 +130,7 @@ or  <return>  to continue without it.
 Missing character: There is no l in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Misplaced alignment tab character &.
-l.16 \textbf{Chemical} &
+l.17 \textbf{Chemical} &
                          \textbf{Provider}\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -140,32 +140,92 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Overfull \hbox (33.38177pt too wide) in paragraph at lines 15--16
+Overfull \hbox (33.38177pt too wide) in paragraph at lines 15--17
  \OT1/cmr/bx/n/10 Chem- 
  []
 
 
-Overfull \hbox (7.02774pt too wide) in paragraph at lines 15--16
+Overfull \hbox (7.02774pt too wide) in paragraph at lines 15--17
  \OT1/cmr/bx/n/10 i- 
  []
 
 
-Overfull \hbox (13.89574pt too wide) in paragraph at lines 15--16
+Overfull \hbox (13.89574pt too wide) in paragraph at lines 15--17
  \OT1/cmr/bx/n/10 cal 
  []
 
 
-Overfull \hbox (43.6873pt too wide) in paragraph at lines 15--16
+Overfull \hbox (43.6873pt too wide) in paragraph at lines 15--17
  \OT1/cmr/bx/n/10 Provider 
  []
 
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.17 \hline
+l.18 \hline
            
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<recently read> \endfirsthead 
+                              
+l.19 \endfirsthead
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.21 ...{\textbf{Table~\ref{Chemicals}} continued}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.21 ...{\textbf{Table~\ref{Chemicals}} continued}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.21 ...{\textbf{Table~\ref{Chemicals}} continued}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.21 ...{\textbf{Table~\ref{Chemicals}} continued}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.21 ...{\textbf{Table~\ref{Chemicals}} continued}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
 ! LaTeX Error: There's no line here to end.
@@ -174,11 +234,50 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \\
+l.22 \\
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.23 \textbf{Chemical} &
+                         \textbf{Provider}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (46.63863pt too wide) in paragraph at lines 23--23
+ []\OT1/cmr/bx/n/10 Chemical 
+ []
+
+
+Overfull \hbox (43.6873pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 Provider 
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.24 \hline
+           
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<recently read> \endhead 
+                         
+l.25 \endhead
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 Missing character: There is no A in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -200,7 +299,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.19 Acetic Acid (Glacial) &
+l.27 Acetic Acid (Glacial) &
                              Merck\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -222,7 +321,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.20 Acetone &
+l.28 Acetone &
                Merck\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -250,7 +349,7 @@ Missing character: There is no E in font nullfont!
 Missing character: There is no E in font nullfont!
 Missing character: There is no O in font nullfont!
 ! Misplaced alignment tab character &.
-l.21 Agarose low EEO &
+l.29 Agarose low EEO &
                        Applichem\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -310,9 +409,9 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 23.
+(Font)              <7> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 23.
+(Font)              <5> on input line 31.
 Missing character: There is no f in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -323,7 +422,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.24 filtered)&
+l.32 filtered)&
                 Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -346,7 +445,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 
-Overfull \hbox (16.81714pt too wide) in paragraph at lines 22--24
+Overfull \hbox (16.81714pt too wide) in paragraph at lines 30--32
  $\OML/cmm/m/it/10 M$ 
  []
 
@@ -363,7 +462,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no A in font nullfont!
 ! Undefined control sequence.
-l.25 Bafilomycin A\textsubscript
+l.33 Bafilomycin A\textsubscript
                                 {1} & Sigma-Aldrich \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -373,7 +472,7 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
-l.25 Bafilomycin A\textsubscript{1} &
+l.33 Bafilomycin A\textsubscript{1} &
                                       Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -419,7 +518,7 @@ Missing character: There is no S in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.26 Bovine Serum Albumin (BSA) &
+l.34 Bovine Serum Albumin (BSA) &
                                   Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -457,7 +556,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.27 Bromophenol Blue &
+l.35 Bromophenol Blue &
                         Merck\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -493,7 +592,7 @@ Missing character: There is no C in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.28 Caesium Chloride (CsCl) &
+l.36 Caesium Chloride (CsCl) &
                                Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -527,7 +626,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Misplaced alignment tab character &.
-l.29 Chymostatin &
+l.37 Chymostatin &
                    Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -560,7 +659,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no d in font nullfont!
 ! Misplaced alignment tab character &.
-l.30 Citric Acid &
+l.38 Citric Acid &
                    Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -627,7 +726,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.31 ...Mini Protease Inhibitor Cocktail Tablets &
+l.39 ...Mini Protease Inhibitor Cocktail Tablets &
                                                    Roche \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -695,7 +794,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.32 ...ase Inhibitor Cocktail Tablets EDTA-free &
+l.40 ...ase Inhibitor Cocktail Tablets EDTA-free &
                                                    Roche \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -746,7 +845,7 @@ Missing character: There is no C in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.33 1,4-diazabicyclo[2.2.2]octane (DABCO) &
+l.41 1,4-diazabicyclo[2.2.2]octane (DABCO) &
                                              Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -804,7 +903,7 @@ Missing character: There is no P in font nullfont!
 Missing character: There is no I in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.34 4',6-diamidino-2-phenylindole (DAPI) &
+l.42 4',6-diamidino-2-phenylindole (DAPI) &
                                             Invitrogen \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -847,7 +946,7 @@ Missing character: There is no S in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.35 Dimethyl Sulfoxide (DMSO) &
+l.43 Dimethyl Sulfoxide (DMSO) &
                                  Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -889,7 +988,7 @@ Missing character: There is no T in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.36 Dithiothreitol (DTT) &
+l.44 Dithiothreitol (DTT) &
                             Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -924,7 +1023,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 ! Misplaced alignment tab character &.
-l.37 1kb DNA Ladder &
+l.45 1kb DNA Ladder &
                       Invitrogen \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -980,7 +1079,7 @@ Missing character: There is no T in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.38 Ethylenediaminetetraacetic Acid (EDTA) &
+l.46 Ethylenediaminetetraacetic Acid (EDTA) &
                                               Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1018,7 +1117,7 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no % in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.39 Ethanol (99.89 \%) &
+l.47 Ethanol (99.89 \%) &
                           Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1068,7 +1167,7 @@ Missing character: There is no M in font nullfont!
 Missing character: There is no E in font nullfont!
 Missing character: There is no K in font nullfont!
 ! Misplaced alignment tab character &.
-l.40 Ethanol (94 \%) denat. with 2 \% MEK &
+l.48 Ethanol (94 \%) denat. with 2 \% MEK &
                                             Grogg Chemie AG\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1115,7 +1214,7 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no L in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.41 Ethidium Bromide (10 mg/mL) &
+l.49 Ethidium Bromide (10 mg/mL) &
                                    Invitrogen \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1148,12 +1247,12 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
-("C:\Program Files\Latex\Miktex\tex\latex\base\omscmr.fd"
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
 Missing character: There is no A in font nullfont!
 Missing character: There is no ( in font nullfont!
 Missing character: There is no N in font nullfont!
@@ -1166,7 +1265,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no ) in font nullfont!
 
 ! Misplaced alignment tab character &.
-l.42 ...uperscript{\textregistered} A (NZ Amine) &
+l.50 ...uperscript{\textregistered} A (NZ Amine) &
                                                    Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1189,12 +1288,12 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 
-Overfull \hbox (11.73627pt too wide) in paragraph at lines 42--42
+Overfull \hbox (11.73627pt too wide) in paragraph at lines 50--50
  []$[]$ 
  []
 
 
-Overfull \hbox (8.47224pt too wide) in paragraph at lines 42--42
+Overfull \hbox (8.47224pt too wide) in paragraph at lines 50--50
  $[]$ 
  []
 
@@ -1218,7 +1317,7 @@ Missing character: There is no C in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.43 Fetal Calf Serum (FCS) &
+l.51 Fetal Calf Serum (FCS) &
                               Amimed \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1253,7 +1352,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.44 Glycerol (Anhydrous) &
+l.52 Glycerol (Anhydrous) &
                             Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1285,7 +1384,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no m in font nullfont!
 ! Misplaced alignment tab character &.
-l.45 Goat Serum &
+l.53 Goat Serum &
                   DAKO \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1320,7 +1419,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.46 G-Protein Agarose Beads &
+l.54 G-Protein Agarose Beads &
                                Santa Cruz Biotech \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1370,7 +1469,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no m in font nullfont!
 ! Misplaced alignment tab character &.
-l.47 Harris Uni-Core Punch 2.0 mm &
+l.55 Harris Uni-Core Punch 2.0 mm &
                                     Whatman \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1408,7 +1507,7 @@ Missing character: There is no C in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.48 Hydrochloric Acid (HCl) &
+l.56 Hydrochloric Acid (HCl) &
                                Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1440,7 +1539,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.49 Imidazole &
+l.57 Imidazole &
                  Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1480,7 +1579,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no d in font nullfont!
 ! Misplaced alignment tab character &.
-l.50 Iminodiacetic Acid &
+l.58 Iminodiacetic Acid &
                           Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1546,7 +1645,7 @@ Missing character: There is no T in font nullfont!
 Missing character: There is no G in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.51 ...$\beta$-D-1-thiogalactopyranoside (IPTG) &
+l.59 ...$\beta$-D-1-thiogalactopyranoside (IPTG) &
                                                    Invitrogen \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1566,7 +1665,7 @@ Missing character: There is no g in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 
-Overfull \hbox (6.18402pt too wide) in paragraph at lines 51--51
+Overfull \hbox (6.18402pt too wide) in paragraph at lines 59--59
  $\OML/cmm/m/it/10 $ 
  []
 
@@ -1585,7 +1684,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 ! Misplaced alignment tab character &.
-l.52 LB-Agar, Miller &
+l.60 LB-Agar, Miller &
                        Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1619,7 +1718,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.53 LB Broth Base &
+l.61 LB Broth Base &
                      Invitrogen\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1657,7 +1756,7 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.54 L-Glutamine (200 mM) &
+l.62 L-Glutamine (200 mM) &
                             Biochrom \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1697,7 +1796,7 @@ Missing character: There is no g in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Undefined control sequence.
-l.55 Magnesium Chloride (MgCl\textsubscript
+l.63 Magnesium Chloride (MgCl\textsubscript
                                            {2}) & Sigma-Aldrich \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1708,7 +1807,7 @@ and I'll forget about whatever was undefined.
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.55 Magnesium Chloride (MgCl\textsubscript{2}) &
+l.63 Magnesium Chloride (MgCl\textsubscript{2}) &
                                                   Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1752,7 +1851,7 @@ Missing character: There is no g in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no O in font nullfont!
 ! Undefined control sequence.
-l.56 Magnesium Sulfate (MgSO\textsubscript
+l.64 Magnesium Sulfate (MgSO\textsubscript
                                           {4}) & Sigma-Aldrich \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1763,7 +1862,7 @@ and I'll forget about whatever was undefined.
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.56 Magnesium Sulfate (MgSO\textsubscript{4}) &
+l.64 Magnesium Sulfate (MgSO\textsubscript{4}) &
                                                  Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1796,7 +1895,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no ( in font nullfont!
 ! Undefined control sequence.
-l.57 Manganese(\RM
+l.65 Manganese(\RM
                   {2}) chloride (MnCl\textsubscript{2}) & Sigma-Aldrich\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1820,7 +1919,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Undefined control sequence.
-l.57 ...anese(\RM{2}) chloride (MnCl\textsubscript
+l.65 ...anese(\RM{2}) chloride (MnCl\textsubscript
                                                   {2}) & Sigma-Aldrich\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1831,7 +1930,7 @@ and I'll forget about whatever was undefined.
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.57 ...\RM{2}) chloride (MnCl\textsubscript{2}) &
+l.65 ...\RM{2}) chloride (MnCl\textsubscript{2}) &
                                                    Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1871,7 +1970,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Misplaced alignment tab character &.
-l.58 2-Mercaptoethanol &
+l.66 2-Mercaptoethanol &
                          Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1911,7 +2010,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.59 Methanol HPLC grade &
+l.67 Methanol HPLC grade &
                            Fisher Chemical \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1953,7 +2052,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.60 Milk Powder (Adapta) &
+l.68 Milk Powder (Adapta) &
                             Coop \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1973,7 +2072,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Misplaced alignment tab character &.
-l.61 Mowiol &
+l.69 Mowiol &
               Calbiochem \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2029,7 +2128,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no m in font nullfont!
 ! Misplaced alignment tab character &.
-l.62 ...cellulose Transfer Membranes 0.45 $\mu$m &
+l.70 ...cellulose Transfer Membranes 0.45 $\mu$m &
                                                    Millipore \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2048,7 +2147,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (6.02548pt too wide) in paragraph at lines 62--62
+Overfull \hbox (6.02548pt too wide) in paragraph at lines 70--70
  $\OML/cmm/m/it/10 $ 
  []
 
@@ -2091,7 +2190,7 @@ Missing character: There is no E in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.63 ...{N}-morpholino)ethanesulfonic acid (MES) &
+l.71 ...{N}-morpholino)ethanesulfonic acid (MES) &
                                                    Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2114,7 +2213,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 
-Overfull \hbox (7.43329pt too wide) in paragraph at lines 63--63
+Overfull \hbox (7.43329pt too wide) in paragraph at lines 71--71
  []\OT1/cmr/m/it/10 N 
  []
 
@@ -2159,7 +2258,7 @@ Missing character: There is no P in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.64 ...}-morpholino)propanesulfonic acid (MOPS) &
+l.72 ...}-morpholino)propanesulfonic acid (MOPS) &
                                                    Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2182,7 +2281,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 
-Overfull \hbox (7.43329pt too wide) in paragraph at lines 64--64
+Overfull \hbox (7.43329pt too wide) in paragraph at lines 72--72
  []\OT1/cmr/m/it/10 N 
  []
 
@@ -2204,7 +2303,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.65 Nonidet P40 (NP-40) &
+l.73 Nonidet P40 (NP-40) &
                            Applichem \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2255,7 +2354,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no x in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.66 NuPage MOPS SDS-Running Buffer (20x) &
+l.74 NuPage MOPS SDS-Running Buffer (20x) &
                                             Invitrogen\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2300,7 +2399,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no x in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.67 Nupage Transfer Buffer (20x) &
+l.75 Nupage Transfer Buffer (20x) &
                                     Invitrogen \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2330,7 +2429,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no A in font nullfont!
 ! Misplaced alignment tab character &.
-l.68 ...Amine\textsuperscript{\textregistered} A &
+l.76 ...Amine\textsuperscript{\textregistered} A &
                                                    Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2353,7 +2452,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 
-Overfull \hbox (8.47224pt too wide) in paragraph at lines 68--68
+Overfull \hbox (8.47224pt too wide) in paragraph at lines 76--76
  []$[]$ 
  []
 
@@ -2381,7 +2480,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Misplaced alignment tab character &.
-l.69 Penicillin/Streptomycin &
+l.77 Penicillin/Streptomycin &
                                Biochrom AG \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2431,7 +2530,7 @@ Missing character: There is no B in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.70 Phosphate-Buffered-Saline (PBS) &
+l.78 Phosphate-Buffered-Saline (PBS) &
                                        Oxoid \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2485,7 +2584,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 ! Misplaced alignment tab character &.
-l.71 ...ision Plus Protein Standards, Dual Color &
+l.79 ...ision Plus Protein Standards, Dual Color &
                                                    BioRad \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2510,7 +2609,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no m in font nullfont!
 ! Misplaced alignment tab character &.
-l.72 SOC Medium &
+l.80 SOC Medium &
                   Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2556,7 +2655,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.73 Sodium Acetate, anhydrous &
+l.81 Sodium Acetate, anhydrous &
                                  Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2592,7 +2691,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.74 Sodium Citrate &
+l.82 Sodium Citrate &
                       Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2635,7 +2734,7 @@ Missing character: There is no C in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.75 Sodium Chloride (NaCl) &
+l.83 Sodium Chloride (NaCl) &
                               Roth \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2687,7 +2786,7 @@ Missing character: There is no N in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no H in font nullfont!
 ! Undefined control sequence.
-l.76 ...gen phosphate Dihydrate (NaH\textsubscript
+l.84 ...gen phosphate Dihydrate (NaH\textsubscript
                                                   {2}PO\textsubscript{4}$\cd...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2699,7 +2798,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no O in font nullfont!
 ! Undefined control sequence.
-l.76 ...rate (NaH\textsubscript{2}PO\textsubscript
+l.84 ...rate (NaH\textsubscript{2}PO\textsubscript
                                                   {4}$\cdot$2H\textsubscript...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2711,7 +2810,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no H in font nullfont!
 ! Undefined control sequence.
-l.76 ...PO\textsubscript{4}$\cdot$2H\textsubscript
+l.84 ...PO\textsubscript{4}$\cdot$2H\textsubscript
                                                   {2}O) & Sigma-Aldrich\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2723,7 +2822,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.76 ...subscript{4}$\cdot$2H\textsubscript{2}O) &
+l.84 ...subscript{4}$\cdot$2H\textsubscript{2}O) &
                                                    Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2746,7 +2845,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 76--76
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 84--84
  $\OMS/cmsy/m/n/10 $ 
  []
 
@@ -2776,7 +2875,7 @@ Missing character: There is no D in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.77 Sodium dodecyl sulfate (SDS) &
+l.85 Sodium dodecyl sulfate (SDS) &
                                     Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2837,7 +2936,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no N in font nullfont!
 Missing character: There is no a in font nullfont!
 ! Undefined control sequence.
-l.78 ...ogen phosphate Dihydrate (Na\textsubscript
+l.86 ...ogen phosphate Dihydrate (Na\textsubscript
                                                   {2}HPO\textsubscript{4}$\c...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2850,7 +2949,7 @@ Missing character: There is no H in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no O in font nullfont!
 ! Undefined control sequence.
-l.78 ...rate (Na\textsubscript{2}HPO\textsubscript
+l.86 ...rate (Na\textsubscript{2}HPO\textsubscript
                                                   {4}$\cdot$2H\textsubscript...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2862,7 +2961,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no H in font nullfont!
 ! Undefined control sequence.
-l.78 ...PO\textsubscript{4}$\cdot$2H\textsubscript
+l.86 ...PO\textsubscript{4}$\cdot$2H\textsubscript
                                                   {2}O) & Sigma-Aldrich\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2874,7 +2973,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.78 ...subscript{4}$\cdot$2H\textsubscript{2}O) &
+l.86 ...subscript{4}$\cdot$2H\textsubscript{2}O) &
                                                    Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2897,7 +2996,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 78--78
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 86--86
  $\OMS/cmsy/m/n/10 $ 
  []
 
@@ -2923,7 +3022,7 @@ Missing character: There is no O in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.79 Sodium Hydroxide (NaOH) &
+l.87 Sodium Hydroxide (NaOH) &
                                Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2968,7 +3067,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no N in font nullfont!
 Missing character: There is no a in font nullfont!
 ! Undefined control sequence.
-l.80 Sodium Orthovanadate (Na\textsubscript
+l.88 Sodium Orthovanadate (Na\textsubscript
                                            {3}VO\textsubscript{4}) & ICN Bio...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2980,7 +3079,7 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no O in font nullfont!
 ! Undefined control sequence.
-l.80 ...adate (Na\textsubscript{3}VO\textsubscript
+l.88 ...adate (Na\textsubscript{3}VO\textsubscript
                                                   {4}) & ICN Biomedicals Inc.\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2991,7 +3090,7 @@ and I'll forget about whatever was undefined.
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.80 ...(Na\textsubscript{3}VO\textsubscript{4}) &
+l.88 ...(Na\textsubscript{3}VO\textsubscript{4}) &
                                                    ICN Biomedicals Inc.\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3031,7 +3130,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.81 D(+)-Sucrose &
+l.89 D(+)-Sucrose &
                     Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3072,7 +3171,7 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no % in font nullfont!
 ! Misplaced alignment tab character &.
-l.82 Sulfuric Acid 95-98 \% &
+l.90 Sulfuric Acid 95-98 \% &
                               Sigma-Aldrich\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3137,7 +3236,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.83 ...(hydroxymethyl)aminoethane (Tris Buffer) &
+l.91 ...(hydroxymethyl)aminoethane (Tris Buffer) &
                                                    Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3171,7 +3270,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.84 Triton X-100 &
+l.92 Triton X-100 &
                     Siegfried \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3197,7 +3296,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.85 Tween 20 &
+l.93 Tween 20 &
                 Applichem \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3228,7 +3327,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Misplaced alignment tab character &.
-l.86 Yeast Extract &
+l.94 Yeast Extract &
                      Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3251,21 +3350,103 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 \\
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97 \caption
+             [List of chemicals and compounds]{List of chemicals and compoun...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+
 ! LaTeX Error: \begin{center} on input line 12 ended by \end{longtable}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.91 \end{longtable}
-                    
+l.100 \end{longtable}
+                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.97 \section
-             {Buffers}
+l.106 \section
+              {Buffers}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3280,13 +3461,13 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 97--98
+Overfull \hbox (20.0pt too wide) in paragraph at lines 106--107
 [] 
  []
 
 ! Undefined control sequence.
-l.99 \subsection
-                {General buffers}
+l.108 \subsection
+                 {General buffers}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3308,7 +3489,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 99--100
+Overfull \hbox (20.0pt too wide) in paragraph at lines 108--109
 []
  []
 
@@ -3491,7 +3672,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no H in font nullfont!
 ! Undefined control sequence.
-l.108 (PBS Buffer) & & dH\textsubscript
+l.117 (PBS Buffer) & & dH\textsubscript
                                        {2}O\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3603,12 +3784,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (163.83263pt too wide) in paragraph at lines 101--114
+Overfull \hbox (163.83263pt too wide) in paragraph at lines 110--123
 [][] 
  []
 
 ! Undefined control sequence.
-l.116 \subsection
+l.125 \subsection
                  {Agarose gel electrophoresis}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3799,17 +3980,17 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no M in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 116--128
+Overfull \hbox (20.0pt too wide) in paragraph at lines 125--137
 []
  []
 
 
-Overfull \hbox (143.83263pt too wide) in paragraph at lines 116--128
+Overfull \hbox (143.83263pt too wide) in paragraph at lines 125--137
 [] 
  []
 
 ! Undefined control sequence.
-l.130 \subsection
+l.139 \subsection
                  {Western blot}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3878,7 +4059,7 @@ Missing character: There is no H in font nullfont!
 ! Undefined control sequence.
 \@sharp ...as diluted to 1x with dH\textsubscript 
                                                   {2}O and used for SDS page.
-l.135 ...textsubscript{2}O and used for SDS page.}
+l.144 ...textsubscript{2}O and used for SDS page.}
                                                    \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4178,17 +4359,17 @@ Missing character: There is no / in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 130--145
+Overfull \hbox (20.0pt too wide) in paragraph at lines 139--154
 []
  []
 
 
-Overfull \hbox (258.90663pt too wide) in paragraph at lines 130--145
+Overfull \hbox (258.90663pt too wide) in paragraph at lines 139--154
 [] 
  []
 
 ! Undefined control sequence.
-l.150 \section
+l.159 \section
               {Kits}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4201,12 +4382,12 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 150--151
+Overfull \hbox (20.0pt too wide) in paragraph at lines 159--160
 [] 
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 152--152
+Overfull \hbox (20.0pt too wide) in paragraph at lines 161--161
 [] 
  []
 
@@ -4591,7 +4772,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Undefined control sequence.
-l.168 pBluescript \RM
+l.177 pBluescript \RM
                      {2} KS(+) Phagemid Kit & Agilent Technologies\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4641,7 +4822,7 @@ Missing character: There is no A in font nullfont!
 Missing character: There is no E in font nullfont!
 Missing character: There is no X in font nullfont!
 ! Undefined control sequence.
-l.169 QIAEX \RM
+l.178 QIAEX \RM
                {2}\textsuperscript{\textregistered} Gel Extraction Kit & Qia...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4921,12 +5102,12 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (227.56409pt too wide) in paragraph at lines 154--181
+Overfull \hbox (227.56409pt too wide) in paragraph at lines 163--188
  [] 
  []
 
 ! Undefined control sequence.
-l.184 \section
+l.191 \section
               {Enzymes}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4942,12 +5123,12 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 184--185
+Overfull \hbox (20.0pt too wide) in paragraph at lines 191--192
 [] 
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 186--186
+Overfull \hbox (20.0pt too wide) in paragraph at lines 193--193
 [] 
  []
 
@@ -4958,7 +5139,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.188 \begin{longtable}
+l.195 \begin{longtable}
                        {l r p{1cm} l}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -4972,7 +5153,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Misplaced alignment tab character &.
-l.189 \textbf{Enzyme} &
+l.196 \textbf{Enzyme} &
                         \multicolumn{2}{c}{\textbf{Concentration}} & \textbf...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4984,7 +5165,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.189 ...multicolumn{2}{c}{\textbf{Concentration}}
+l.196 ...multicolumn{2}{c}{\textbf{Concentration}}
                                                    & \textbf{Provider}\\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -4992,7 +5173,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.189 ...multicolumn{2}{c}{\textbf{Concentration}}
+l.196 ...multicolumn{2}{c}{\textbf{Concentration}}
                                                    & \textbf{Provider}\\
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -5003,7 +5184,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.189 ...multicolumn{2}{c}{\textbf{Concentration}}
+l.196 ...multicolumn{2}{c}{\textbf{Concentration}}
                                                    & \textbf{Provider}\\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -5011,7 +5192,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.189 ...multicolumn{2}{c}{\textbf{Concentration}}
+l.196 ...multicolumn{2}{c}{\textbf{Concentration}}
                                                    & \textbf{Provider}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5022,7 +5203,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.189 ...multicolumn{2}{c}{\textbf{Concentration}}
+l.196 ...multicolumn{2}{c}{\textbf{Concentration}}
                                                    & \textbf{Provider}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5031,7 +5212,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.189 ...lticolumn{2}{c}{\textbf{Concentration}} &
+l.196 ...lticolumn{2}{c}{\textbf{Concentration}} &
                                                    \textbf{Provider}\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5041,24 +5222,24 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Overfull \hbox (17.77768pt too wide) in paragraph at lines 188--189
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 195--196
  \OT1/cmr/bx/n/10 En- 
  []
 
 
-Overfull \hbox (26.03459pt too wide) in paragraph at lines 188--189
+Overfull \hbox (26.03459pt too wide) in paragraph at lines 195--196
  \OT1/cmr/bx/n/10 zyme 
  []
 
 
-Overfull \hbox (43.6873pt too wide) in paragraph at lines 188--189
+Overfull \hbox (43.6873pt too wide) in paragraph at lines 195--196
  \OT1/cmr/bx/n/10 Provider 
  []
 
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.190 \hline
+l.197 \hline
             
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -5070,7 +5251,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.191 \\
+l.198 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5090,7 +5271,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Misplaced alignment tab character &.
-l.192 $\alpha$-Chymotrypsin &
+l.199 $\alpha$-Chymotrypsin &
                               10 & mg/mL & Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5102,7 +5283,7 @@ might try typing `S' now just to see what is salvageable.
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.192 $\alpha$-Chymotrypsin & 10 &
+l.199 $\alpha$-Chymotrypsin & 10 &
                                    mg/mL & Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5117,7 +5298,7 @@ Missing character: There is no / in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no L in font nullfont!
 ! Misplaced alignment tab character &.
-l.192 $\alpha$-Chymotrypsin & 10 & mg/mL &
+l.199 $\alpha$-Chymotrypsin & 10 & mg/mL &
                                            Sigma-Aldrich \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5140,7 +5321,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 
-Overfull \hbox (6.43404pt too wide) in paragraph at lines 192--192
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 199--199
  []$\OML/cmm/m/it/10 $ 
  []
 
@@ -5161,7 +5342,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.193 DNaseI, RNase free &
+l.200 DNaseI, RNase free &
                            10'000 & U/mL & Roche \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5177,7 +5358,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.193 DNaseI, RNase free & 10'000 &
+l.200 DNaseI, RNase free & 10'000 &
                                     U/mL & Roche \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5191,7 +5372,7 @@ Missing character: There is no / in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no L in font nullfont!
 ! Misplaced alignment tab character &.
-l.193 DNaseI, RNase free & 10'000 & U/mL &
+l.200 DNaseI, RNase free & 10'000 & U/mL &
                                            Roche \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5219,7 +5400,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.194 Neuraminidase &
+l.201 Neuraminidase &
                       50'000 & U/mL & New England Biolabs \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5235,7 +5416,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.194 Neuraminidase & 50'000 &
+l.201 Neuraminidase & 50'000 &
                                U/mL & New England Biolabs \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5249,7 +5430,7 @@ Missing character: There is no / in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no L in font nullfont!
 ! Misplaced alignment tab character &.
-l.194 Neuraminidase & 50'000 & U/mL &
+l.201 Neuraminidase & 50'000 & U/mL &
                                       New England Biolabs \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5288,7 +5469,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.195 $\lambda$-Phosphatase &
+l.202 $\lambda$-Phosphatase &
                               400'000 & U/mL & Merck \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5305,7 +5486,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.195 $\lambda$-Phosphatase & 400'000 &
+l.202 $\lambda$-Phosphatase & 400'000 &
                                         U/mL & Merck \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5319,7 +5500,7 @@ Missing character: There is no / in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no L in font nullfont!
 ! Misplaced alignment tab character &.
-l.195 $\lambda$-Phosphatase & 400'000 & U/mL &
+l.202 $\lambda$-Phosphatase & 400'000 & U/mL &
                                                Merck \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5334,7 +5515,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no k in font nullfont!
 
-Overfull \hbox (5.83336pt too wide) in paragraph at lines 195--195
+Overfull \hbox (5.83336pt too wide) in paragraph at lines 202--202
  []$\OML/cmm/m/it/10 $ 
  []
 
@@ -5359,7 +5540,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Misplaced alignment tab character &.
-l.196 Trypsin/EDTA solution &
+l.203 Trypsin/EDTA solution &
                               \multicolumn{2}{l}{0.25 \% / 0.02 \% (w/v)} & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5371,7 +5552,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.196 ...ulticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)}
+l.203 ...ulticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)}
                                                    & Biochrom AG \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -5379,7 +5560,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.196 ...ulticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)}
+l.203 ...ulticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)}
                                                    & Biochrom AG \\
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -5390,7 +5571,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.196 ...ulticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)}
+l.203 ...ulticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)}
                                                    & Biochrom AG \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -5398,7 +5579,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.196 ...ulticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)}
+l.203 ...ulticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)}
                                                    & Biochrom AG \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5409,7 +5590,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.196 ...ulticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)}
+l.203 ...ulticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)}
                                                    & Biochrom AG \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5418,7 +5599,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.196 ...ticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)} &
+l.203 ...ticolumn{2}{l}{0.25 \% / 0.02 \% (w/v)} &
                                                    Biochrom AG \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5438,20 +5619,20 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no G in font nullfont!
 
-! LaTeX Error: \begin{center} on input line 186 ended by \end{longtable}.
+! LaTeX Error: \begin{center} on input line 193 ended by \end{longtable}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.200 \end{longtable}
+l.207 \end{longtable}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.205 \section
+l.212 \section
               {Antibodies}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5470,7 +5651,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
-l.206 \subsection
+l.213 \subsection
                  {Primary antibodies}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5496,7 +5677,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 205--207
+Overfull \hbox (20.0pt too wide) in paragraph at lines 212--214
 []
  []
 
@@ -5507,14 +5688,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.208 \begin{small}
+l.215 \begin{small}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 209--209
+Overfull \hbox (20.0pt too wide) in paragraph at lines 216--216
 [] 
  []
 
@@ -5525,7 +5706,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.210 \begin{tabulary}
+l.217 \begin{tabulary}
                       {1\textwidth}{ P{2 cm} p{5cm} l l P{2 cm} p{3 cm}}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5535,7 +5716,7 @@ Missing character: There is no 1 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.210 \begin{tabulary}{1\textwidth}
+l.217 \begin{tabulary}{1\textwidth}
                                    { P{2 cm} p{5cm} l l P{2 cm} p{3 cm}}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -5544,7 +5725,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.210 \begin{tabulary}{1\textwidth}
+l.217 \begin{tabulary}{1\textwidth}
                                    { P{2 cm} p{5cm} l l P{2 cm} p{3 cm}}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -5572,7 +5753,7 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no m in font nullfont!
 ! Misplaced alignment tab character &.
-l.212 \textbf{Name} &
+l.219 \textbf{Name} &
                       \textbf{Specificity } & \textbf{Host} & \textbf{Clonal...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5582,7 +5763,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.212 \textbf{Name} & \textbf{Specificity } &
+l.219 \textbf{Name} & \textbf{Specificity } &
                                               \textbf{Host} & \textbf{Clonal...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5592,7 +5773,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.212 ...& \textbf{Specificity } & \textbf{Host} &
+l.219 ...& \textbf{Specificity } & \textbf{Host} &
                                                    \textbf{Clonality} & \tex...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5602,7 +5783,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.212 ... } & \textbf{Host} & \textbf{Clonality} &
+l.219 ... } & \textbf{Host} & \textbf{Clonality} &
                                                    \textbf{Dilution} & \text...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5612,7 +5793,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.212 ... \textbf{Clonality} & \textbf{Dilution} &
+l.219 ... \textbf{Clonality} & \textbf{Dilution} &
                                                    \textbf{Provider}\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5622,64 +5803,64 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Overfull \hbox (29.44427pt too wide) in paragraph at lines 212--212
+Overfull \hbox (29.44427pt too wide) in paragraph at lines 219--219
  []\OT1/cmr/bx/n/10 Name 
  []
 
 
-Overfull \hbox (30.50679pt too wide) in paragraph at lines 212--212
+Overfull \hbox (30.50679pt too wide) in paragraph at lines 219--219
  \OT1/cmr/bx/n/10 Speci- 
  []
 
 
-Overfull \hbox (24.91653pt too wide) in paragraph at lines 212--212
+Overfull \hbox (24.91653pt too wide) in paragraph at lines 219--219
  \OT1/cmr/bx/n/10 ficity 
  []
 
 
-Overfull \hbox (23.7582pt too wide) in paragraph at lines 212--212
+Overfull \hbox (23.7582pt too wide) in paragraph at lines 219--219
  \OT1/cmr/bx/n/10 Host 
  []
 
 
-Overfull \hbox (27.47208pt too wide) in paragraph at lines 212--212
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 219--219
  \OT1/cmr/bx/n/10 Clon- 
  []
 
 
-Overfull \hbox (12.61797pt too wide) in paragraph at lines 212--212
+Overfull \hbox (12.61797pt too wide) in paragraph at lines 219--219
  \OT1/cmr/bx/n/10 al- 
  []
 
 
-Overfull \hbox (13.4166pt too wide) in paragraph at lines 212--212
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 219--219
  \OT1/cmr/bx/n/10 ity 
  []
 
 
-Overfull \hbox (15.84714pt too wide) in paragraph at lines 212--212
+Overfull \hbox (15.84714pt too wide) in paragraph at lines 219--219
  \OT1/cmr/bx/n/10 Di- 
  []
 
 
-Overfull \hbox (13.4166pt too wide) in paragraph at lines 212--212
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 219--219
  \OT1/cmr/bx/n/10 lu- 
  []
 
 
-Overfull \hbox (19.80545pt too wide) in paragraph at lines 212--212
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 219--219
  \OT1/cmr/bx/n/10 tion 
  []
 
 
-Overfull \hbox (43.6873pt too wide) in paragraph at lines 212--212
+Overfull \hbox (43.6873pt too wide) in paragraph at lines 219--219
  \OT1/cmr/bx/n/10 Provider 
  []
 
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.213 \hline
+l.220 \hline
             
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -5691,7 +5872,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214 \\
+l.221 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5708,7 +5889,7 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.215 $\alpha$-VP (Jimmy) &
+l.222 $\alpha$-VP (Jimmy) &
                             Linear epitopes on VP1 and VP2 of MVM. & Rabbit ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5749,7 +5930,7 @@ Missing character: There is no V in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Misplaced alignment tab character &.
-l.215 ... Linear epitopes on VP1 and VP2 of MVM. &
+l.222 ... Linear epitopes on VP1 and VP2 of MVM. &
                                                    Rabbit & Polyclonal & IF:...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5765,7 +5946,7 @@ Missing character: There is no b in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Misplaced alignment tab character &.
-l.215 ...pitopes on VP1 and VP2 of MVM. & Rabbit &
+l.222 ...pitopes on VP1 and VP2 of MVM. & Rabbit &
                                                    Polyclonal & IF: 1/800 WB...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5785,7 +5966,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Misplaced alignment tab character &.
-l.215 ...1 and VP2 of MVM. & Rabbit & Polyclonal &
+l.222 ...1 and VP2 of MVM. & Rabbit & Polyclonal &
                                                    IF: 1/800 WB: 1/2'000  & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5813,7 +5994,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.215 ...t & Polyclonal & IF: 1/800 WB: 1/2'000  &
+l.222 ...t & Polyclonal & IF: 1/800 WB: 1/2'000  &
                                                    J. M. Almendral\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5836,9 +6017,22 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 
-Overfull \hbox (6.43404pt too wide) in paragraph at lines 215--215
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 222--222
  []$\OML/cmm/m/it/10 $ 
  []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.223 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Missing character: There is no - in font nullfont!
 Missing character: There is no C in font nullfont!
@@ -5850,7 +6044,7 @@ Missing character: There is no B in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Misplaced alignment tab character &.
-l.216 $\alpha$-Caps \newline(B7) &
+l.224 $\alpha$-Caps \newline(B7) &
                                    Conformational surface epitope on intact ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5909,7 +6103,7 @@ Missing character: There is no V in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Misplaced alignment tab character &.
-l.216 ...rface epitope on intact capsids of MVM. &
+l.224 ...rface epitope on intact capsids of MVM. &
                                                    Mouse & Monoclonal & IF: ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5924,7 +6118,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
-l.216 ...itope on intact capsids of MVM. & Mouse &
+l.224 ...itope on intact capsids of MVM. & Mouse &
                                                    Monoclonal & IF: 1/100 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5944,7 +6138,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Misplaced alignment tab character &.
-l.216 ...ct capsids of MVM. & Mouse & Monoclonal &
+l.224 ...ct capsids of MVM. & Mouse & Monoclonal &
                                                    IF: 1/100 & J. M. Almendr...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5962,7 +6156,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.216 ...f MVM. & Mouse & Monoclonal & IF: 1/100 &
+l.224 ...f MVM. & Mouse & Monoclonal & IF: 1/100 &
                                                    J. M. Almendral \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5985,9 +6179,22 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 
-Overfull \hbox (6.43404pt too wide) in paragraph at lines 216--216
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 224--224
  []$\OML/cmm/m/it/10 $  
  []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.225 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Missing character: There is no N in font nullfont!
 Missing character: There is no - in font nullfont!
@@ -5995,7 +6202,7 @@ Missing character: There is no V in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
-l.220 N-VP2 &
+l.229 N-VP2 &
               N-terminal part of VP2. & Rabbit & Polyclonal & IF: 1/200 WB: ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -6025,7 +6232,7 @@ Missing character: There is no P in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Misplaced alignment tab character &.
-l.220 N-VP2 & N-terminal part of VP2. &
+l.229 N-VP2 & N-terminal part of VP2. &
                                         Rabbit & Polyclonal & IF: 1/200 WB: ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -6041,7 +6248,7 @@ Missing character: There is no b in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Misplaced alignment tab character &.
-l.220 N-VP2 & N-terminal part of VP2. & Rabbit &
+l.229 N-VP2 & N-terminal part of VP2. & Rabbit &
                                                  Polyclonal & IF: 1/200 WB: ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -6061,7 +6268,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Misplaced alignment tab character &.
-l.220 ...inal part of VP2. & Rabbit & Polyclonal &
+l.229 ...inal part of VP2. & Rabbit & Polyclonal &
                                                    IF: 1/200 WB: 1/1'000 & J...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -6089,7 +6296,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.220 ...it & Polyclonal & IF: 1/200 WB: 1/1'000 &
+l.229 ...it & Polyclonal & IF: 1/200 WB: 1/1'000 &
                                                    J. M. Almendral\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -6112,13 +6319,13 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 
-! LaTeX Error: \begin{center} on input line 209 ended by \end{tabulary}.
+! LaTeX Error: \begin{center} on input line 216 ended by \end{tabulary}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.223 \end{tabulary}
+l.232 \end{tabulary}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -6131,58 +6338,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.225 \end{small}
+l.234 \end{small}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.227 \nomenclature
-                   {M6PR}{Mannose 6-phosphate receptor}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no M in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 227--228
-[]
- []
-
-! Undefined control sequence.
-l.229 \subsection
+l.238 \subsection
                  {Secondary antibodies}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6210,501 +6373,233 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 229--230
+Overfull \hbox (20.0pt too wide) in paragraph at lines 238--239
 []
  []
 
 
-! LaTeX Error: Environment description undefined.
+! LaTeX Error: Environment small undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.231 \begin{description}
-                         
+l.240 \begin{small}
+                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
+Overfull \hbox (20.0pt too wide) in paragraph at lines 241--241
+[] 
+ []
+
+
+! LaTeX Error: Environment tabulary undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.232    \item[Goat anti-mouse IgG (Green)]
-                                           ~\par
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+l.242 \begin{tabulary}
+                      {1\textwidth}{ P{2.8 cm} p{1.5 cm} l p{3.7 cm} P{2.3 c...
 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 235--235
-[] 
- []
-
-
-Overfull \hbox (51.74974pt too wide) in paragraph at lines 236--237
-\OT1/cmr/bx/n/10 Specificity 
- []
-
-Missing character: There is no P in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no . in font nullfont!
-
-Overfull \hbox (23.7582pt too wide) in paragraph at lines 240--241
-\OT1/cmr/bx/n/10 Host 
- []
-
-Missing character: There is no G in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-
-Overfull \hbox (45.99974pt too wide) in paragraph at lines 244--245
-\OT1/cmr/bx/n/10 Clonality 
- []
-
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-
-Overfull \hbox (51.43027pt too wide) in paragraph at lines 248--249
-\OT1/cmr/bx/n/10 Conjugate 
- []
-
-Missing character: There is no A in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-
-Overfull \hbox (8.47224pt too wide) in paragraph at lines 250--251
-$[]$ 
- []
-
-
-Overfull \hbox (41.40256pt too wide) in paragraph at lines 252--253
-\OT1/cmr/bx/n/10 Dilution 
- []
-
-Missing character: There is no I in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no : in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.242 \begin{tabulary}{1\textwidth}
+                                   { P{2.8 cm} p{1.5 cm} l p{3.7 cm} P{2.3 c...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-Overfull \hbox (43.6873pt too wide) in paragraph at lines 256--257
-\OT1/cmr/bx/n/10 Provider 
- []
-
-Missing character: There is no L in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.263 \item[Goat anti-mouse IgG (Red)]
-                                      ~\par
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 264--264
-[] 
- []
-
-
-Overfull \hbox (51.74974pt too wide) in paragraph at lines 265--266
-\OT1/cmr/bx/n/10 Specificity 
- []
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.242 \begin{tabulary}{1\textwidth}
+                                   { P{2.8 cm} p{1.5 cm} l p{3.7 cm} P{2.3 c...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
 
 Missing character: There is no P in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
+Missing character: There is no 2 in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no . in font nullfont!
-
-Overfull \hbox (23.7582pt too wide) in paragraph at lines 269--270
-\OT1/cmr/bx/n/10 Host 
- []
-
-Missing character: There is no G in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-
-Overfull \hbox (45.99974pt too wide) in paragraph at lines 273--274
-\OT1/cmr/bx/n/10 Clonality 
- []
-
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no y in font nullfont!
+Missing character: There is no 8 in font nullfont!
 Missing character: There is no c in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-
-Overfull \hbox (51.43027pt too wide) in paragraph at lines 277--278
-\OT1/cmr/bx/n/10 Conjugate 
- []
-
-Missing character: There is no A in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-
-Overfull \hbox (8.47224pt too wide) in paragraph at lines 279--280
-$[]$ 
- []
-
-
-Overfull \hbox (41.40256pt too wide) in paragraph at lines 281--282
-\OT1/cmr/bx/n/10 Dilution 
- []
-
-Missing character: There is no I in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no : in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no / in font nullfont!
+Missing character: There is no . in font nullfont!
 Missing character: There is no 5 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+! Misplaced alignment tab character &.
+l.244 \textbf{Name} &
+                      \textbf{Target species } & \textbf{Host} & \textbf{Con...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-Overfull \hbox (43.6873pt too wide) in paragraph at lines 285--286
-\OT1/cmr/bx/n/10 Provider 
+! Misplaced alignment tab character &.
+l.244 \textbf{Name} & \textbf{Target species } &
+                                                 \textbf{Host} & \textbf{Con...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.244 ...textbf{Target species } & \textbf{Host} &
+                                                   \textbf{Conjugate} & \tex...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.244 ... } & \textbf{Host} & \textbf{Conjugate} &
+                                                   \textbf{Dilution} & \text...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.244 ... \textbf{Conjugate} & \textbf{Dilution} &
+                                                   \textbf{Provider}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (29.44427pt too wide) in paragraph at lines 244--244
+ []\OT1/cmr/bx/n/10 Name 
  []
 
-Missing character: There is no L in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
 
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
+Overfull \hbox (21.20126pt too wide) in paragraph at lines 244--244
+ \OT1/cmr/bx/n/10 Tar- 
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 244--244
+ \OT1/cmr/bx/n/10 get 
+ []
+
+
+Overfull \hbox (34.62758pt too wide) in paragraph at lines 244--244
+ \OT1/cmr/bx/n/10 species 
+ []
+
+
+Overfull \hbox (23.7582pt too wide) in paragraph at lines 244--244
+ \OT1/cmr/bx/n/10 Host 
+ []
+
+
+Overfull \hbox (24.27765pt too wide) in paragraph at lines 244--244
+ \OT1/cmr/bx/n/10 Con- 
+ []
+
+
+Overfull \hbox (13.73604pt too wide) in paragraph at lines 244--244
+ \OT1/cmr/bx/n/10 ju- 
+ []
+
+
+Overfull \hbox (21.0832pt too wide) in paragraph at lines 244--244
+ \OT1/cmr/bx/n/10 gate 
+ []
+
+
+Overfull \hbox (15.84714pt too wide) in paragraph at lines 244--244
+ \OT1/cmr/bx/n/10 Di- 
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 244--244
+ \OT1/cmr/bx/n/10 lu- 
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 244--244
+ \OT1/cmr/bx/n/10 tion 
+ []
+
+
+Overfull \hbox (43.6873pt too wide) in paragraph at lines 244--244
+ \OT1/cmr/bx/n/10 Provider 
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.245 \hline
+            
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+! LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.291 \item[Goat anti-mouse Immunoglobulins (HRP)]
-                                                  ~\par
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+l.246 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 292--292
-[] 
- []
-
-
-Overfull \hbox (51.74974pt too wide) in paragraph at lines 293--294
-\OT1/cmr/bx/n/10 Specificity 
- []
-
-Missing character: There is no T in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
+Missing character: There is no - in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -6713,526 +6608,44 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no I in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no G in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
+! Misplaced alignment tab character &.
+l.247 Goat anti-mouse IgG &
+                            Mouse & Goat & Alexa Fluor\textsuperscript{\text...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
 Missing character: There is no M in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no b in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no . in font nullfont!
-
-Overfull \hbox (23.7582pt too wide) in paragraph at lines 297--298
-\OT1/cmr/bx/n/10 Host 
- []
+! Misplaced alignment tab character &.
+l.247 Goat anti-mouse IgG & Mouse &
+                                    Goat & Alexa Fluor\textsuperscript{\text...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no G in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
-
-Overfull \hbox (45.99974pt too wide) in paragraph at lines 301--302
-\OT1/cmr/bx/n/10 Clonality 
- []
-
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-
-Overfull \hbox (51.43027pt too wide) in paragraph at lines 305--306
-\OT1/cmr/bx/n/10 Conjugate 
- []
-
-Missing character: There is no H in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no ) in font nullfont!
-
-Overfull \hbox (41.40256pt too wide) in paragraph at lines 309--310
-\OT1/cmr/bx/n/10 Dilution 
- []
-
-Missing character: There is no W in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no ' in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-
-Overfull \hbox (43.6873pt too wide) in paragraph at lines 313--314
-\OT1/cmr/bx/n/10 Provider 
- []
-
-Missing character: There is no D in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no o in font nullfont!
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.320 \item[Goat anti-rabbit Imunoglobulins (HRP)]
-                                                  ~\par
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 321--321
-[] 
- []
-
-
-Overfull \hbox (51.74974pt too wide) in paragraph at lines 322--323
-\OT1/cmr/bx/n/10 Specificity 
- []
-
-Missing character: There is no T in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no . in font nullfont!
-
-Overfull \hbox (23.7582pt too wide) in paragraph at lines 326--327
-\OT1/cmr/bx/n/10 Host 
- []
-
-Missing character: There is no G in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-
-Overfull \hbox (45.99974pt too wide) in paragraph at lines 330--331
-\OT1/cmr/bx/n/10 Clonality 
- []
-
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-
-Overfull \hbox (51.43027pt too wide) in paragraph at lines 334--335
-\OT1/cmr/bx/n/10 Conjugate 
- []
-
-Missing character: There is no H in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no ) in font nullfont!
-
-Overfull \hbox (41.40256pt too wide) in paragraph at lines 338--339
-\OT1/cmr/bx/n/10 Dilution 
- []
-
-Missing character: There is no W in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no ' in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-
-Overfull \hbox (43.6873pt too wide) in paragraph at lines 342--343
-\OT1/cmr/bx/n/10 Provider 
- []
-
-Missing character: There is no D in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no o in font nullfont!
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.348 \item[Goat anti-rabbit IgG (Green)]
-                                         ~\par
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 349--349
-[] 
- []
-
-
-Overfull \hbox (51.74974pt too wide) in paragraph at lines 350--351
-\OT1/cmr/bx/n/10 Specificity 
- []
-
-Missing character: There is no P in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no . in font nullfont!
-
-Overfull \hbox (23.7582pt too wide) in paragraph at lines 354--355
-\OT1/cmr/bx/n/10 Host 
- []
-
-Missing character: There is no G in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-
-Overfull \hbox (45.99974pt too wide) in paragraph at lines 358--359
-\OT1/cmr/bx/n/10 Clonality 
- []
-
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-
-Overfull \hbox (51.43027pt too wide) in paragraph at lines 362--363
-\OT1/cmr/bx/n/10 Conjugate 
- []
+! Misplaced alignment tab character &.
+l.247 Goat anti-mouse IgG & Mouse & Goat &
+                                           Alexa Fluor\textsuperscript{\text...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no A in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -7247,15 +6660,22 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 8 in font nullfont!
-
-Overfull \hbox (8.47224pt too wide) in paragraph at lines 364--365
-$[]$ 
- []
-
-
-Overfull \hbox (41.40256pt too wide) in paragraph at lines 366--367
-\OT1/cmr/bx/n/10 Dilution 
- []
+Missing character: There is no ( in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Misplaced alignment tab character &.
+l.247 ...superscript{\textregistered}~488 (Green)&
+                                                   IF: 1/500 & Life Technolo...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no I in font nullfont!
 Missing character: There is no F in font nullfont!
@@ -7265,10 +6685,15 @@ Missing character: There is no / in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-
-Overfull \hbox (43.6873pt too wide) in paragraph at lines 370--371
-\OT1/cmr/bx/n/10 Provider 
- []
+! Misplaced alignment tab character &.
+l.247 ...\textregistered}~488 (Green)& IF: 1/500 &
+                                                   Life Technologies \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no L in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -7287,100 +6712,32 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
+Overfull \hbox (8.47224pt too wide) in paragraph at lines 247--247
+ $[]$       
+ []
+
+
+! LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.376 \item[Goat anti-rabbit IgG (Red)]
-                                       ~\par
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+l.248 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 377--377
-[] 
- []
-
-
-Overfull \hbox (51.74974pt too wide) in paragraph at lines 378--379
-\OT1/cmr/bx/n/10 Specificity 
- []
-
-Missing character: There is no P in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no r in font nullfont!
+Missing character: There is no G in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
 Missing character: There is no - in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no , in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -7389,54 +6746,44 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no I in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no G in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no h in font nullfont!
+! Misplaced alignment tab character &.
+l.249 Goat anti-mouse IgG &
+                            Mouse & Goat & Alexa Fluor\textsuperscript{\text...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no . in font nullfont!
-
-Overfull \hbox (23.7582pt too wide) in paragraph at lines 382--383
-\OT1/cmr/bx/n/10 Host 
- []
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+! Misplaced alignment tab character &.
+l.249 Goat anti-mouse IgG & Mouse &
+                                    Goat & Alexa Fluor\textsuperscript{\text...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no G in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
-
-Overfull \hbox (45.99974pt too wide) in paragraph at lines 386--387
-\OT1/cmr/bx/n/10 Clonality 
- []
-
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-
-Overfull \hbox (51.43027pt too wide) in paragraph at lines 390--391
-\OT1/cmr/bx/n/10 Conjugate 
- []
+! Misplaced alignment tab character &.
+l.249 Goat anti-mouse IgG & Mouse & Goat &
+                                           Alexa Fluor\textsuperscript{\text...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no A in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -7451,15 +6798,20 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 4 in font nullfont!
-
-Overfull \hbox (8.47224pt too wide) in paragraph at lines 392--393
-$[]$ 
- []
-
-
-Overfull \hbox (41.40256pt too wide) in paragraph at lines 394--395
-\OT1/cmr/bx/n/10 Dilution 
- []
+Missing character: There is no ( in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Misplaced alignment tab character &.
+l.249 ...tsuperscript{\textregistered}~594 (Red) &
+                                                   IF: 1/500 & Life Technolo...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no I in font nullfont!
 Missing character: There is no F in font nullfont!
@@ -7469,10 +6821,15 @@ Missing character: There is no / in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-
-Overfull \hbox (43.6873pt too wide) in paragraph at lines 398--399
-\OT1/cmr/bx/n/10 Provider 
- []
+! Misplaced alignment tab character &.
+l.249 ...{\textregistered}~594 (Red) & IF: 1/500 &
+                                                   Life Technologies \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no L in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -7491,20 +6848,752 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 
-! LaTeX Error: \begin{document} ended by \end{description}.
+Overfull \hbox (8.47224pt too wide) in paragraph at lines 249--249
+ $[]$        
+ []
+
+
+! LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.409 \end{description}
-                       
+l.250 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no g in font nullfont!
+! Misplaced alignment tab character &.
+l.251 Goat anti-mouse Ig &
+                           Mouse & Goat & Horseradish peroxidase (HRP) & WB:...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+! Misplaced alignment tab character &.
+l.251 Goat anti-mouse Ig & Mouse &
+                                   Goat & Horseradish peroxidase (HRP) & WB:...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+! Misplaced alignment tab character &.
+l.251 Goat anti-mouse Ig & Mouse & Goat &
+                                          Horseradish peroxidase (HRP) & WB:...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no H in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Misplaced alignment tab character &.
+l.251 ...e & Goat & Horseradish peroxidase (HRP) &
+                                                   WB: 1/20'000 & Dako \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no W in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Misplaced alignment tab character &.
+l.251 ...eradish peroxidase (HRP) & WB: 1/20'000 &
+                                                   Dako \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.252 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no g in font nullfont!
+! Misplaced alignment tab character &.
+l.253 Goat anti-rabbit Ig &
+                            Rabbit & Goat & Horseradish peroxidase (HRP) & W...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no R in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+! Misplaced alignment tab character &.
+l.253 Goat anti-rabbit Ig & Rabbit &
+                                     Goat & Horseradish peroxidase (HRP) & W...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+! Misplaced alignment tab character &.
+l.253 Goat anti-rabbit Ig & Rabbit & Goat &
+                                            Horseradish peroxidase (HRP) & W...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no H in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Misplaced alignment tab character &.
+l.253 ...t & Goat & Horseradish peroxidase (HRP) &
+                                                   WB: 1/20'000 & Dako \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no W in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Misplaced alignment tab character &.
+l.253 ...eradish peroxidase (HRP) & WB: 1/20'000 &
+                                                   Dako \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.254 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no G in font nullfont!
+! Misplaced alignment tab character &.
+l.255 Goat anti-rabbit IgG &
+                             Rabbit & Goat & Alexa Fluor\textsuperscript{\te...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no R in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+! Misplaced alignment tab character &.
+l.255 Goat anti-rabbit IgG & Rabbit &
+                                      Goat & Alexa Fluor\textsuperscript{\te...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+! Misplaced alignment tab character &.
+l.255 Goat anti-rabbit IgG & Rabbit & Goat &
+                                             Alexa Fluor\textsuperscript{\te...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Misplaced alignment tab character &.
+l.255 ...uperscript{\textregistered}~488 (Green) &
+                                                   IF: 1/500 & Life Technolo...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Misplaced alignment tab character &.
+l.255 ...textregistered}~488 (Green) & IF: 1/500 &
+                                                   Life Technologies \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (8.47224pt too wide) in paragraph at lines 255--255
+ $[]$        
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no G in font nullfont!
+! Misplaced alignment tab character &.
+l.257 Goat anti-rabbit IgG &
+                             Rabbit & Goat & Alexa Fluor\textsuperscript{\te...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no R in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+! Misplaced alignment tab character &.
+l.257 Goat anti-rabbit IgG & Rabbit &
+                                      Goat & Alexa Fluor\textsuperscript{\te...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+! Misplaced alignment tab character &.
+l.257 Goat anti-rabbit IgG & Rabbit & Goat &
+                                             Alexa Fluor\textsuperscript{\te...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Misplaced alignment tab character &.
+l.257 ...tsuperscript{\textregistered}~594 (Red) &
+                                                   IF: 1/500 & Life Technolo...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Misplaced alignment tab character &.
+l.257 ...{\textregistered}~594 (Red) & IF: 1/500 &
+                                                   Life Technologies\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (8.47224pt too wide) in paragraph at lines 257--257
+ $[]$       
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.259 \hline
+            
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.260 ...ies listed in this table are polyclonal.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{center} on input line 241 ended by \end{tabulary}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.261 \end{tabulary}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{small}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.263 \end{small}
+                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.411 \section
+l.269 \nomenclature
+                   {Ig}{Immunoglobulin}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 269--270
+[] 
+ []
+
+! Undefined control sequence.
+l.273 \section
               {Media}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7525,11 +7614,11 @@ Missing character: There is no a in font nullfont!
 
  
 Here is how much of TeX's memory you used:
- 46 strings out of 494045
- 830 string characters out of 3147575
- 77890 words of memory out of 3000000
- 3433 multiletter control sequences out of 15000+200000
+ 42 strings out of 493921
+ 786 string characters out of 3147277
+ 67031 words of memory out of 3000000
+ 3430 multiletter control sequences out of 15000+200000
  4294 words of font info for 16 fonts, out of 3000000 for 9000
- 715 hyphenation exceptions out of 8191
+ 841 hyphenation exceptions out of 8191
  22i,15n,19p,320b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!

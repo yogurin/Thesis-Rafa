@@ -11,11 +11,17 @@
 
 \begin{center}
 
-
 \begin{longtable}{l l}
 \textbf{Chemical} & \textbf{Provider}\\
 \hline
+\endfirsthead
+
+\multicolumn{2}{l}{\textbf{Table~\ref{Chemicals}} continued}\\
 \\
+\textbf{Chemical} & \textbf{Provider}\\
+\hline
+\endhead
+
 Acetic Acid (Glacial) & Merck\\
 Acetone & Merck\\
 Agarose low EEO & Applichem\\
@@ -44,7 +50,6 @@ Fetal Calf Serum (FCS) & Amimed \\
 Glycerol (Anhydrous) & Sigma-Aldrich \\
 Goat Serum & DAKO \\
 G-Protein Agarose Beads & Santa Cruz Biotech \\
-Harris Uni-Core Punch 2.0 mm & Whatman \\
 Hydrochloric Acid (HCl) & Sigma-Aldrich \\
 Imidazole & Sigma-Aldrich\\
 Iminodiacetic Acid & Sigma-Aldrich\\
@@ -68,14 +73,15 @@ Nupage Transfer Buffer (20x) & Invitrogen \\
 N-Z-Amine\textsuperscript{\textregistered} A & Sigma-Aldrich \\
 Penicillin/Streptomycin & Biochrom AG \\
 Phosphate-Buffered-Saline (PBS) & Oxoid \\
+Polybuffer\textsuperscript{\textregistered} 74 & Sigma-Aldrich \\
 Precision Plus Protein Standards, Dual Color & BioRad \\
-SOC Medium & Sigma-Aldrich \\
 Sodium Acetate, anhydrous & Sigma-Aldrich\\
 Sodium Citrate & Sigma-Aldrich\\
 Sodium Chloride (NaCl) & Roth \\
 Sodium dihydrogen phosphate Dihydrate (NaH\textsubscript{2}PO\textsubscript{4}$\cdot$2H\textsubscript{2}O) & Sigma-Aldrich\\
 Sodium dodecyl sulfate (SDS) & Sigma-Aldrich\\
 di-Sodium hydrogen phosphate Dihydrate (Na\textsubscript{2}HPO\textsubscript{4}$\cdot$2H\textsubscript{2}O) & Sigma-Aldrich\\
+Sodium Fluoride (NaF) & Sigma-Aldrich\\
 Sodium Hydroxide (NaOH) & Sigma-Aldrich \\
 Sodium Orthovanadate (Na\textsubscript{3}VO\textsubscript{4}) & ICN Biomedicals Inc.\\ 
 D(+)-Sucrose & Sigma-Aldrich \\
@@ -84,10 +90,11 @@ Tris(hydroxymethyl)aminoethane (Tris Buffer) & Sigma-Aldrich \\
 Triton X-100 & Siegfried \\
 Tween 20 & Applichem \\
 Yeast Extract & Sigma-Aldrich \\
+\\
 
+\caption[Chemicals and compounds]{List of chemicals and compounds}\\
 
-
-
+\label{Chemicals}
 \end{longtable}
 
 \end{center}
@@ -98,22 +105,79 @@ Yeast Extract & Sigma-Aldrich \\
 
 \subsection{General buffers}
 
+\begin{table}[H]
 \begin{tabular}{l l r}
 \textbf{Buffer} & \textbf{Reagent} & \textbf{Concentration}\\
 \hline
 \\
-NP-40 Cell Lysis Buffer & Tris-HCl (pH 7.2) & 50 mM\\ & NaCl & 150 mM \\ & Nonidet P40 (NP-40) & 1 \% (v/v) \\ & EDTA & 5 mM \\ & Protease Inhibitor Cocktail & 1 tablet per 10 mL \\  
+Cell Lysis Buffer & Tris-HCl (pH 7.2) & 50 mM\\ & NaCl & 150 mM \\ & Nonidet P40 (NP-40) & 1 \% (v/v) \\ & EDTA & 5 mM\\ & Sodium orthovanadate (Na\textsubscript{3}VO\textsubscript{4}) & 1 mM\\ & Sodium fluoride (NaF) & 1 mM\\ & Protease Inhibitor Cocktail & 1 tablet per 10 mL \\  
 \\
+Nuclei Lysis Buffer & Tris-HCl (pH 7.2) & 50 mM\\ & NaCl & 150 mM\\ & Triton X-100 & 1 \% (v/v)\\ & EDTA & 5 mM\\ & Sodium orthovanadate (Na\textsubscript{3}VO\textsubscript{4}) & 1 mM\\ & Sodium fluoride (NaF) & 1 mM\\ & Protease Inhibitor Cocktail & 1 tablett per 10 mL\\
+\\ 
 Phosphate Buffered Saline & PBS Tablets & 1 tablet in 100 mL \\ 
 (PBS Buffer) & & dH\textsubscript{2}O\\
 \\
 Phosphate Buffered Saline with & PBS Buffer & \\
 Bovine Serum Albumin & Bovine Serum Albumin (BSA) & 1\% (w/v) in PBS \\
 (PBSA Buffer) & & \\
+\\
+
 \end{tabular}
 
+\caption[General buffers]{Buffers used for cell lysis and standard incubations.}
+\label{General buffers}
+\end{table}
+
+\subsection{Chromatography buffers}
+\subsubsection{Anion exchange chromatography (AEX)}
+
+\begin{center}
+\begin{table}[H]
+\begin{tabular}{l l r}
+\textbf{Buffer} & \textbf{Reagent} & \textbf{Concentration}\\
+\hline
+\\
+Sample Buffer & Tris-HCl (pH 8) & 10 mM\\
+& EDTA & 1 mM\\
+& Sodium orthovanadate (Na\textsubscript{3}VO\textsubscript{4}) & 1 mM\\
+& Sodium fluoride (NaF) & 1 mM\\
+
+Starting Buffer & Tris-HCl (pH 7.2) & 20 mM\\
+& EDTA & 1 mM\\
+
+Elution Buffer & Tris-HCl & 20 mM\\
+& EDTA & 1 mM\\
+& NaCl & 2 M\\ 
+\\
+\end{tabular}
+\caption[Anion exchange chromatography (AEX) buffers]{Buffers used for anion exchange chromatography (AEX).}
+\label{AEX buffers}
+\end{table}
+
+\end{center}
+
+
+\subsubsection{Chromatofocusing (CF)}
+
+\begin{center}
+\begin{table}[H]
+\begin{tabular}{l l r}
+\textbf{Buffer} & \textbf{Reagent} & \textbf{Concentration}\\
+\hline
+\\
+Buffer A & Bis-Tris (pH 7, adjusted with saturated iminodiacetic acid) & 25 mM\\
+Buffer B & Polybuffer 74 (pH 4, adjusted with saturated iminodiacetic acid) & 20 \% in ddH\textsubscript{2}O\\
+\\
+\end{tabular}
+\caption[Chromatofocusing (CF) buffers]{Buffers used for chromatofocusing (CF).}
+\label{CF buffers}
+\end{table}
+
+\end{center}
 
 \subsection{Agarose gel electrophoresis}
+
+\begin{table}[H]
 \begin{tabular}{l l r}
 \textbf{Buffer} & \textbf{Reagent} & \textbf{Concentration}\\
 \hline
@@ -124,10 +188,16 @@ Bovine Serum Albumin & Bovine Serum Albumin (BSA) & 1\% (w/v) in PBS \\
 10x Tris-Acetate-EDTA Buffer & Tris Base (pH 8.0) & 400 mM \\
 (TAE Buffer) & Acetic Acid (Glacial) & 11.5 \% (v/v) \\
 & EDTA & 10 mM \\
+\\
 \end{tabular}
+\caption[Agarose gel electrophoresis buffers]{Buffers used for agarose gel electrophoresis.}
+\label{Gel electrophoresis}
+\end{table}
 
 
 \subsection{Western blot}
+
+\begin{table}[H]
 \begin{tabular}{l l r}
 \textbf{Buffer} & \textbf{Reagent} & \textbf{Concentration}\\
 \hline
@@ -141,8 +211,12 @@ Bovine Serum Albumin & Bovine Serum Albumin (BSA) & 1\% (w/v) in PBS \\
 \\
 1x Tris-Buffered Saline with Tween 20 & 10x TBS & 10 \% (v/v) \\
 (TBST Buffer) & Tween 20 & 0.05 \% (v/v)\\ 
+\\
 \end{tabular}
 
+\caption[Western blot buffers]{Buffers used for Western blotting analysis.}
+\label{Western blot}
+\end{table}
 
 
 
@@ -151,8 +225,8 @@ Bovine Serum Albumin & Bovine Serum Albumin (BSA) & 1\% (w/v) in PBS \\
 
 \begin{center}
 
+\begin{table}[H]
 \begin{tabular}{l l}
-
 \textbf{Ready-to-use Reaction System (Kit)} & \textbf{Provider}\\
 \hline
 \\
@@ -173,11 +247,12 @@ QIAquick\textsuperscript{\textregistered} PCR Purification Kit & Qiagen\\
 QuikChange\textsuperscript{\textregistered} Site-Directed Mutagenesis Kit & Agilent Technologies\\
 SuperSignal\textsuperscript{\textregistered} West Femto Maximum Sensitivity Substrate & Thermo Scientific\\
 XL-10 Ultracompetent Cells & Agilent Technologies\\
-
-
-  
-
+\\
 \end{tabular}
+
+\caption[Ready-to-use Reaction Systems (Kits)]{Ready-to-use kits.}
+\label{Kits}
+\end{table}
 \end{center}
 
 
@@ -185,18 +260,19 @@ XL-10 Ultracompetent Cells & Agilent Technologies\\
 
 \begin{center}
 
-\begin{longtable}{l r p{1cm} l}
+\begin{longtable}[H]{l r p{1cm} l}
 \textbf{Enzyme} & \multicolumn{2}{c}{\textbf{Concentration}} & \textbf{Provider}\\
 \hline
 \\
 $\alpha$-Chymotrypsin & 10 & mg/mL & Sigma-Aldrich \\
-DNaseI, RNase free & 10'000 & U/mL & Roche \\
-Neuraminidase & 50'000 & U/mL & New England Biolabs \\
-$\lambda$-Phosphatase & 400'000 & U/mL & Merck \\
+DNaseI, RNase free & \np{10000} & U/mL & Roche \\
+Neuraminidase & \np{50000} & U/mL & New England Biolabs \\
+$\lambda$-Phosphatase & \np{400000} & U/mL & Merck \\
 Trypsin/EDTA solution & \multicolumn{2}{l}{0.25 \% / 0.02 \% (w/v)} & Biochrom AG \\
+\\
 
-
-
+\caption[Enzymes]{The listed enzymes were used for \textit{in vitro} treatments or passing tissue culture cells.}
+\label{Enzymes}
 \end{longtable}
 
 \end{center}
@@ -207,205 +283,86 @@ Trypsin/EDTA solution & \multicolumn{2}{l}{0.25 \% / 0.02 \% (w/v)} & Biochrom A
 
 \begin{small}
 \begin{center}
-\begin{tabulary}{1\textwidth}{ P{2 cm} p{5cm} l l P{2 cm} p{3 cm}}
-
-\textbf{Name} & \textbf{Specificity } & \textbf{Host} & \textbf{Clonality} & \textbf{Dilution} & \textbf{Provider}\\
+\begin{table}[H]
+\begin{tabular}{ P{2 cm} p{4.5cm} l l P{2.3 cm} p{3 cm}}
+\textbf{Name} & \textbf{Specificity} & \textbf{Host} & \textbf{Clonality} & \textbf{Dilution} & \textbf{Provider}\\
 \hline
 \\
-$\alpha$-VP (Jimmy) & Linear epitopes on VP1 and VP2 of MVM. & Rabbit & Polyclonal & IF: 1/800 WB: 1/2'000  & J. M. Almendral\\
-$\alpha$-Caps \newline(B7) & Conformational surface epitope on intact capsids of MVM. & Mouse & Monoclonal & IF: 1/100 & J. M. Almendral \\
+$\alpha$-VP (Jimmy) & Linear epitopes on VP1 and VP2 of MVM. & Rabbit & Polyclonal & IF: 1/800 WB: 1/\np{2000}  & J. M. Almendral\\ 
+\\
+$\alpha$-Caps \newline(B7) & Conformational surface epitope on intact capsids of MVM. & Mouse & Monoclonal & IF: 1/100 & J. M. Almendral \\ 
+\\
 %Early Endosome Marker (EEA1, ab2900) & Detects a band at 180 kDa that represents EEA1 in WB \cite{pmid7768953}. & Rabbit & Polyclonal & IF: 1/300 & Abcam \\ 
 %Late Endosome Marker (ab2733) & Epitope in the extracellular domain of M6PR. & Mouse & Monoclonal & IF: 1/300 & Abcam \\ 
 %Lysosome Marker (LAMP-1) &  Both LAMP-1 and LAMP-2 are involved in maintaining lysosome acidity and protecting the lysosomal membranes from autodigestion, and their expression is increased in patients with lysosomal storage disorders. & Mouse & Monoclonal & IF: 1/300 & Santa Cruz Biotechnology Inc. \\
-N-VP2 & N-terminal part of VP2. & Rabbit & Polyclonal & IF: 1/200 WB: 1/1'000 & J. M. Almendral\\
-  
+N-VP2 & N-terminal part of VP2. & Rabbit & Polyclonal & IF: 1/200 WB: 1/\np{1000} & J. M. Almendral\\
+\\
+\end{tabular}
 
-\end{tabulary}
+\caption[Primary antibodies]{\normalsize The primary antibodies were used for immunolabeling, immunoprecipitation, and Western blotting analysis.}
+\label{Primary antibodies}
+\end{table}
 \end{center}
 \end{small}
 
-\nomenclature{M6PR}{Mannose 6-phosphate receptor}
 
 \subsection{Secondary antibodies}
 
-\begin{description}
-   \item[Goat anti-mouse IgG (Green)]~\par
-   
+\begin{footnotesize}
 
-   \begin{itemize}
-      \item[] \textbf{Specificity}
-      \begin{itemize}
-         \item[] Prepared from affinity-purified antibodies. Adsorbed against human IgG and human serum prior to conjugation.
-      \end{itemize}
-      \item[] \textbf{Host}
-      \begin{itemize}
-      \item[] Goat
-      \end{itemize}
-            \item[] \textbf{Clonality}
-      \begin{itemize}
-      \item[] Polyclonal
-      \end{itemize}
-            \item[] \textbf{Conjugate}
-      \begin{itemize}
-      \item[]Alexa Fluor\textsuperscript{\textregistered} 488 
-      \end{itemize}
-                  \item[] \textbf{Dilution}
-      \begin{itemize}
-      \item[]IF: 1/500 
-      \end{itemize}       
-                  \item[] \textbf{Provider}
-      \begin{itemize}
-      \item[] Life Technologies
-      \end{itemize}     
-   \end{itemize}
-   
+\begin{center}
+\begin{table}[H]
+\begin{tabulary}{1\textwidth}{ P{3.4 cm} p{1.5 cm} l p{3 cm} P{2.3 cm} p{3 cm}}
+\textbf{Name} & \textbf{Target species } & \textbf{Host} & \textbf{Conjugate} & \textbf{Dilution} & \textbf{Provider}\\
+\hline
+\\
+Goat $\alpha$-mouse IgG & Mouse & Goat & Alexa Fluor\textsuperscript{\textregistered}~488 & IF: 1/500 & Life Technologies \\
+\\
+Goat $\alpha$-mouse IgG & Mouse & Goat & Alexa Fluor\textsuperscript{\textregistered}~594 & IF: 1/500 & Life Technologies \\
+\\
+Goat $\alpha$-mouse Ig & Mouse & Goat & Horseradish peroxidase (HRP) & WB: 1/\np{20000} & Dako \\
+\\ 
+Goat $\alpha$-rabbit Ig & Rabbit & Goat & Horseradish peroxidase (HRP) & WB: 1/\np{20000} & Dako \\
+\\
+Goat $\alpha$-rabbit IgG & Rabbit & Goat & Alexa Fluor\textsuperscript{\textregistered}~488 & IF: 1/500 & Life Technologies \\
+\\ 
+Goat $\alpha$-rabbit IgG & Rabbit & Goat & Alexa Fluor\textsuperscript{\textregistered}~594 & IF: 1/500 & Life Technologies\\
+\\
+\hline
+\multicolumn{6}{l}{\normalsize All secondary antibodies listed in this table are polyclonal.}
+\vspace{0.85cm}
+\end{tabulary}
 
-\item[Goat anti-mouse IgG (Red)]~\par  
-   \begin{itemize}
-      \item[] \textbf{Specificity}
-      \begin{itemize}
-         \item[] Prepared from affinity-purified antibodies. Adsorbed against bovine IgG, goat IgG, rabbit IgG, rat IgG, human IgG, and human serum. 
-      \end{itemize}
-      \item[] \textbf{Host}
-      \begin{itemize}
-      \item[] Goat
-      \end{itemize}
-            \item[] \textbf{Clonality}
-      \begin{itemize}
-      \item[] Polyclonal
-      \end{itemize}
-            \item[] \textbf{Conjugate}
-      \begin{itemize}
-      \item[]Alexa Fluor\textsuperscript{\textregistered} 594 
-      \end{itemize}
-                  \item[] \textbf{Dilution}
-      \begin{itemize}
-      \item[]IF: 1/500 
-      \end{itemize}       
-                  \item[] \textbf{Provider}
-      \begin{itemize}
-      \item[] Life Technologies
-      \end{itemize}     
-   \end{itemize}
-   
-\item[Goat anti-mouse Immunoglobulins (HRP)]~\par
- \begin{itemize}
-      \item[] \textbf{Specificity}
-      \begin{itemize}
-         \item[] The antibody used for conjugation reacts with all mouse IgG subclasses, mouse IgA and mouse IgM. Specificity has been ascertained by ELISA. 
-      \end{itemize}
-      \item[] \textbf{Host}
-      \begin{itemize}
-      \item[] Goat
-      \end{itemize}
-            \item[] \textbf{Clonality}
-      \begin{itemize}
-      \item[] Polyclonal
-      \end{itemize}
-            \item[] \textbf{Conjugate}
-      \begin{itemize}
-      \item[]Horseradish peroxidase (HRP) 
-      \end{itemize}
-                  \item[] \textbf{Dilution}
-      \begin{itemize}
-      \item[]WB: 1/20'000 
-      \end{itemize}       
-                  \item[] \textbf{Provider}
-      \begin{itemize}
-      \item[] Dako
-      \end{itemize}     
-   \end{itemize}   
-
-
-\item[Goat anti-rabbit Imunoglobulins (HRP)]~\par
- \begin{itemize}
-      \item[] \textbf{Specificity}
-      \begin{itemize}
-         \item[]  The antibody used for conjugation reacts with rabbit immunoglobulins of all classes. Specificity has been ascertained by ELISA.
-      \end{itemize}
-      \item[] \textbf{Host}
-      \begin{itemize}
-      \item[] Goat
-      \end{itemize}
-            \item[] \textbf{Clonality}
-      \begin{itemize}
-      \item[] Polyclonal
-      \end{itemize}
-            \item[] \textbf{Conjugate}
-      \begin{itemize}
-      \item[]Horseradish peroxidase (HRP) 
-      \end{itemize}
-                  \item[] \textbf{Dilution}
-      \begin{itemize}
-      \item[]WB: 1/20'000 
-      \end{itemize}       
-                  \item[] \textbf{Provider}
-      \begin{itemize}
-      \item[] Dako
-      \end{itemize}     
-   \end{itemize}   
-
-\item[Goat anti-rabbit IgG (Green)]~\par
- \begin{itemize}
-      \item[] \textbf{Specificity}
-      \begin{itemize}
-         \item[]Prepared from affinity-purified antibodies. Adsorbed against human IgG, human serum, mouse IgG, mouse serum, and bovine serum.  
-      \end{itemize}
-      \item[] \textbf{Host}
-      \begin{itemize}
-      \item[] Goat
-      \end{itemize}
-            \item[] \textbf{Clonality}
-      \begin{itemize}
-      \item[] Polyclonal
-      \end{itemize}
-            \item[] \textbf{Conjugate}
-      \begin{itemize}
-      \item[]Alexa Fluor\textsuperscript{\textregistered} 488
-      \end{itemize}
-                  \item[] \textbf{Dilution}
-      \begin{itemize}
-      \item[]IF: 1/500 
-      \end{itemize}       
-                  \item[] \textbf{Provider}
-      \begin{itemize}
-      \item[] Life Technologies
-      \end{itemize}     
-   \end{itemize}   
-
-\item[Goat anti-rabbit IgG (Red)]~\par
- \begin{itemize}
-      \item[] \textbf{Specificity}
-      \begin{itemize}
-         \item[]Prepared from affinity-purified antibodies. Adsorbed against bovine IgG, goat IgG, mouse IgG, rat IgG, and human IgG.  
-      \end{itemize}
-      \item[] \textbf{Host}
-      \begin{itemize}
-      \item[] Goat
-      \end{itemize}
-            \item[] \textbf{Clonality}
-      \begin{itemize}
-      \item[] Polyclonal
-      \end{itemize}
-            \item[] \textbf{Conjugate}
-      \begin{itemize}
-      \item[]Alexa Fluor\textsuperscript{\textregistered} 594
-      \end{itemize}
-                  \item[] \textbf{Dilution}
-      \begin{itemize}
-      \item[]IF: 1/500 
-      \end{itemize}       
-                  \item[] \textbf{Provider}
-      \begin{itemize}
-      \item[] Life Technologies
-      \end{itemize}     
-   \end{itemize} 
+\caption[Secondary antibodies]{The secondary antibodies were used for immunofluorescence assays and Western blotting analysis.}
+\label{Secondary antibodies}
+\end{table}
+\end{center}
+\end{footnotesize}
 
 
 
 
 
+\nomenclature{Ig}{Immunoglobulin}
 
-\end{description}
+
 
 \section{Media} 
+
+\begin{center}
+\begin{table}[H]
+\begin{tabular}{l l}
+\textbf{Name} & \textbf{Provider}\\
+\hline
+\\
+Dulbecco's Modified Eagle Medium (DMEM) & Gibco\\
+Lysogeny Broth Agar (LB Agar) & Sigma-Aldrich\\
+Lysogeny Broth Medium (LB Medium) & Sigma-Aldrich\\
+SOC Medium & Sigma-Aldrich\\
+\\
+\end{tabular}
+\caption[Media]{The denoted media were used for the cultivation of A9 and NB324K cells, as well as XL1-blue and XL10-gold bacteria.}
+\label{Media}
+\end{table}
+
+\end{center}
