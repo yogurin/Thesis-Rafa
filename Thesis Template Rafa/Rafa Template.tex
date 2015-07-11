@@ -19,6 +19,7 @@
 \usepackage[ngerman,english]{babel}		%language
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
+\usepackage{microtype}
 \usepackage{lmodern}
 % \usepackage{fancyhdr}
 \usepackage{setspace}
@@ -35,6 +36,10 @@
 \usepackage{tabu}
 \usepackage{array}
 \usepackage{tabularx}
+\usepackage{fancyvrb}
+\usepackage{verbatimbox}
+\usepackage{color}
+\usepackage{xcolor}
 \usepackage{url}
 \usepackage{nomencl}
 \usepackage{tocloft}
@@ -129,7 +134,10 @@
 }
 \makeatother 
 
+
 \newcommand{\RM}[1]{\MakeUppercase{\romannumeral #1}}
+
+
 
 
 \begin{document}
@@ -278,6 +286,7 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 \input{./Chapters/Chapter5} 
 \input{./Chapters/Chapter6} 
 \input{./Chapters/Chapter7} 
+\input{./Chapters/Aim} 
 %\input{./Chapters/Chapter8} 
 %\input{./Chapters/Chapter9} 
 
@@ -310,10 +319,32 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 
 
 \pagestyle{raphimen}
-\bibliographystyle{abbrvnat}
-\begin{scriptsize}
-\bibliography{MyBib}
+\bibliographystyle{./Bibstyle/abbrvrafa}
+
+
+\chapter*{Bibliography}
+
+
+\phantomsection\addcontentsline{toc}{chapter}{Bibliography} 
+\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics %if not remove...
+
+
+
+\begingroup
+  \def\chapter*#1{}
+\begin{scriptsize}  
+\begin{multicols}{2}
+\bibliography{MyBib} 
+\end{multicols}                            
 \end{scriptsize}
+
+\endgroup
+
+
+
+
+
+
 %\bibliographystyle{jcp-tit}
 
 

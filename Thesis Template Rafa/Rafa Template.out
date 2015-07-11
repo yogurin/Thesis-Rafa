@@ -39,48 +39,56 @@
 \BOOKMARK [1][-]{section.7.6}{Nuclear Targeting}{chapter.7}% 39
 \BOOKMARK [2][-]{subsection.7.6.1}{Nuclear translocation of the incoming virion}{section.7.6}% 40
 \BOOKMARK [2][-]{subsection.7.6.2}{Nuclear translocation of the structural proteins}{section.7.6}% 41
-\BOOKMARK [1][-]{section.7.7}{NS2}{chapter.7}% 42
-\BOOKMARK [1][-]{section.7.8}{Replication}{chapter.7}% 43
-\BOOKMARK [1][-]{section.7.9}{Transcription}{chapter.7}% 44
-\BOOKMARK [1][-]{section.7.10}{Assembly}{chapter.7}% 45
-\BOOKMARK [1][-]{section.7.11}{DNA Packaging}{chapter.7}% 46
-\BOOKMARK [1][-]{section.7.12}{Nuclear Export}{chapter.7}% 47
-\BOOKMARK [1][-]{section.7.13}{Egress}{chapter.7}% 48
-\BOOKMARK [-1][-]{part.2}{Methods}{}% 49
-\BOOKMARK [0][-]{chapter.8}{Methods}{part.2}% 50
-\BOOKMARK [1][-]{section.8.1}{Cell Cultures}{chapter.8}% 51
-\BOOKMARK [2][-]{subsection.8.1.1}{Freezing and thawing of cells}{section.8.1}% 52
-\BOOKMARK [1][-]{section.8.2}{Virus Stocks}{chapter.8}% 53
-\BOOKMARK [2][-]{subsection.8.2.1}{Separation of empty and full capsids}{section.8.2}% 54
-\BOOKMARK [1][-]{section.8.3}{Freezing bacteria stocks in glycerol}{chapter.8}% 55
-\BOOKMARK [1][-]{section.8.4}{Fast protein liquid chromatography \(FPLC\)}{chapter.8}% 56
-\BOOKMARK [2][-]{subsection.8.4.1}{Anion-exchange chromatography \(AEX\)}{section.8.4}% 57
-\BOOKMARK [2][-]{subsection.8.4.2}{Chromatofocusing \(CF\)}{section.8.4}% 58
-\BOOKMARK [1][-]{section.8.5}{Quantitative PCR}{chapter.8}% 59
-\BOOKMARK [1][-]{section.8.6}{Nucleofection}{chapter.8}% 60
-\BOOKMARK [1][-]{section.8.7}{Nuclei isolation}{chapter.8}% 61
-\BOOKMARK [1][-]{section.8.8}{Immunoprecipitation}{chapter.8}% 62
-\BOOKMARK [1][-]{section.8.9}{Dot Blot}{chapter.8}% 63
-\BOOKMARK [1][-]{section.8.10}{SDS-PAGE and Western blotting}{chapter.8}% 64
-\BOOKMARK [1][-]{section.8.11}{Chymotrypsin treatment}{chapter.8}% 65
-\BOOKMARK [2][-]{subsection.8.11.1}{Phosphatase treatment}{section.8.11}% 66
-\BOOKMARK [1][-]{section.8.12}{Infectivity assay}{chapter.8}% 67
-\BOOKMARK [-1][-]{part.3}{Publication}{}% 68
-\BOOKMARK [0][-]{chapter.1}{Wolfisberg et al., Journal of Virological Methods, 2013}{part.3}% 69
-\BOOKMARK [1][-]{section*.18}{Impaired genome encapsidation restricts the in vitro propagation of human parvovirus B19.}{chapter.1}% 70
-\BOOKMARK [-1][-]{part.4}{Discussion}{}% 71
-\BOOKMARK [-1][-]{part.5}{Appendix}{}% 72
-\BOOKMARK [0][-]{chapter.9}{Materials}{part.5}% 73
-\BOOKMARK [1][-]{section.9.1}{Chemicals and compounds}{chapter.9}% 74
-\BOOKMARK [1][-]{section.9.2}{Buffers}{chapter.9}% 75
-\BOOKMARK [2][-]{subsection.9.2.1}{General buffers}{section.9.2}% 76
-\BOOKMARK [2][-]{subsection.9.2.2}{Chromatography buffers}{section.9.2}% 77
-\BOOKMARK [2][-]{subsection.9.2.3}{Agarose gel electrophoresis}{section.9.2}% 78
-\BOOKMARK [2][-]{subsection.9.2.4}{Western blot}{section.9.2}% 79
-\BOOKMARK [1][-]{section.9.3}{Kits}{chapter.9}% 80
-\BOOKMARK [1][-]{section.9.4}{Enzymes}{chapter.9}% 81
-\BOOKMARK [1][-]{section.9.5}{Antibodies}{chapter.9}% 82
-\BOOKMARK [2][-]{subsection.9.5.1}{Primary antibodies}{section.9.5}% 83
-\BOOKMARK [2][-]{subsection.9.5.2}{Secondary antibodies}{section.9.5}% 84
-\BOOKMARK [1][-]{section.9.6}{Media}{chapter.9}% 85
-\BOOKMARK [0][-]{section*.31}{Declaration}{part.5}% 86
+\BOOKMARK [1][-]{section.7.7}{Non-structural \(NS\) proteins}{chapter.7}% 42
+\BOOKMARK [2][-]{subsection.7.7.1}{Non-structural portein 1 \(NS1\)}{section.7.7}% 43
+\BOOKMARK [2][-]{subsection.7.7.2}{Non-structural protein 2 \(NS2\)}{section.7.7}% 44
+\BOOKMARK [2][-]{subsection.7.7.3}{Small alternatively translated \(SAT\) protein}{section.7.7}% 45
+\BOOKMARK [1][-]{section.7.8}{Replication}{chapter.7}% 46
+\BOOKMARK [1][-]{section.7.9}{Transcription}{chapter.7}% 47
+\BOOKMARK [1][-]{section.7.10}{Assembly}{chapter.7}% 48
+\BOOKMARK [1][-]{section.7.11}{DNA Packaging}{chapter.7}% 49
+\BOOKMARK [1][-]{section.7.12}{Nuclear Export}{chapter.7}% 50
+\BOOKMARK [1][-]{section.7.13}{Egress}{chapter.7}% 51
+\BOOKMARK [0][-]{chapter.8}{Aim of the thesis}{part.1}% 52
+\BOOKMARK [-1][-]{part.2}{Methods}{}% 53
+\BOOKMARK [0][-]{chapter.9}{Methods}{part.2}% 54
+\BOOKMARK [1][-]{section.9.1}{Cell Cultures}{chapter.9}% 55
+\BOOKMARK [2][-]{subsection.9.1.1}{Freezing and thawing of cells}{section.9.1}% 56
+\BOOKMARK [1][-]{section.9.2}{Virus Stocks}{chapter.9}% 57
+\BOOKMARK [2][-]{subsection.9.2.1}{Separation of empty and full capsids}{section.9.2}% 58
+\BOOKMARK [1][-]{section.9.3}{Freezing bacteria stocks in glycerol}{chapter.9}% 59
+\BOOKMARK [1][-]{section.9.4}{Fast protein liquid chromatography \(FPLC\)}{chapter.9}% 60
+\BOOKMARK [2][-]{subsection.9.4.1}{Anion-exchange chromatography \(AEX\)}{section.9.4}% 61
+\BOOKMARK [2][-]{subsection.9.4.2}{Chromatofocusing \(CF\)}{section.9.4}% 62
+\BOOKMARK [1][-]{section.9.5}{Quantitative PCR}{chapter.9}% 63
+\BOOKMARK [1][-]{section.9.6}{Nucleofection}{chapter.9}% 64
+\BOOKMARK [1][-]{section.9.7}{Nuclei isolation}{chapter.9}% 65
+\BOOKMARK [1][-]{section.9.8}{Immunoprecipitation}{chapter.9}% 66
+\BOOKMARK [1][-]{section.9.9}{Dot Blot}{chapter.9}% 67
+\BOOKMARK [1][-]{section.9.10}{SDS-PAGE and Western blotting}{chapter.9}% 68
+\BOOKMARK [1][-]{section.9.11}{Chymotrypsin treatment}{chapter.9}% 69
+\BOOKMARK [2][-]{subsection.9.11.1}{Phosphatase treatment}{section.9.11}% 70
+\BOOKMARK [1][-]{section.9.12}{Infectivity assay}{chapter.9}% 71
+\BOOKMARK [-1][-]{part.3}{Publication}{}% 72
+\BOOKMARK [0][-]{chapter.1}{Wolfisberg et al., Journal of Virological Methods, 2013}{part.3}% 73
+\BOOKMARK [1][-]{section*.18}{Impaired genome encapsidation restricts the in vitro propagation of human parvovirus B19.}{chapter.1}% 74
+\BOOKMARK [-1][-]{part.4}{Discussion}{}% 75
+\BOOKMARK [-1][-]{part.5}{Appendix}{}% 76
+\BOOKMARK [0][-]{chapter.9}{Materials}{part.5}% 77
+\BOOKMARK [1][-]{section.9.1}{Infectious clone of MVMp \(pIC\137MVMp\)}{chapter.9}% 78
+\BOOKMARK [2][-]{subsection.9.1.1}{Plasmid map of pIC\137MVMp}{section.9.1}% 79
+\BOOKMARK [2][-]{subsection.9.1.2}{Complete sequence of pIC\137MVMp}{section.9.1}% 80
+\BOOKMARK [1][-]{section.9.2}{Chemicals and compounds}{chapter.9}% 81
+\BOOKMARK [1][-]{section.9.3}{Buffers}{chapter.9}% 82
+\BOOKMARK [2][-]{subsection.9.3.1}{General buffers}{section.9.3}% 83
+\BOOKMARK [2][-]{subsection.9.3.2}{Chromatography buffers}{section.9.3}% 84
+\BOOKMARK [2][-]{subsection.9.3.3}{Agarose gel electrophoresis}{section.9.3}% 85
+\BOOKMARK [2][-]{subsection.9.3.4}{Western blot}{section.9.3}% 86
+\BOOKMARK [1][-]{section.9.4}{Kits}{chapter.9}% 87
+\BOOKMARK [1][-]{section.9.5}{Enzymes}{chapter.9}% 88
+\BOOKMARK [1][-]{section.9.6}{Antibodies}{chapter.9}% 89
+\BOOKMARK [2][-]{subsection.9.6.1}{Primary antibodies}{section.9.6}% 90
+\BOOKMARK [2][-]{subsection.9.6.2}{Secondary antibodies}{section.9.6}% 91
+\BOOKMARK [1][-]{section.9.7}{Media}{chapter.9}% 92
+\BOOKMARK [0][-]{section*.32}{Bibliography}{part.5}% 93
+\BOOKMARK [0][-]{section*.33}{Declaration}{part.5}% 94

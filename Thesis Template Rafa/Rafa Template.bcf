@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bcf:controlfile version="2.6" xmlns:bcf="https://sourceforge.net/projects/biblatex">
+<bcf:controlfile version="2.7" xmlns:bcf="https://sourceforge.net/projects/biblatex">
   <!-- BIBER OPTIONS -->
   <bcf:options component="biber" type="global">
     <bcf:option type="singlevalued">
@@ -132,7 +132,27 @@
       <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
+      <bcf:key>useprefix</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useafterword</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useannotator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
       <bcf:key>useauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usebookauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usecommentator</bcf:key>
       <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
@@ -140,14 +160,261 @@
       <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
-      <bcf:key>useprefix</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:key>useeditora</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditorb</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditorc</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useforeword</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useholder</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useintroduction</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenamea</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenameb</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenamec</bcf:key>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>usetranslator</bcf:key>
       <bcf:value>0</bcf:value>
     </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useshortauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useshorteditor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
   </bcf:options>
+  <!-- BIBLATEX OPTION SCOPE -->
+  <bcf:optionscope type="GLOBAL">
+    <bcf:option>alphaothers</bcf:option>
+    <bcf:option>sortalphaothers</bcf:option>
+    <bcf:option>controlversion</bcf:option>
+    <bcf:option>datamodel</bcf:option>
+    <bcf:option>useafterword</bcf:option>
+    <bcf:option>useannotator</bcf:option>
+    <bcf:option>useauthor</bcf:option>
+    <bcf:option>usebookauthor</bcf:option>
+    <bcf:option>usecommentator</bcf:option>
+    <bcf:option>useeditor</bcf:option>
+    <bcf:option>useeditora</bcf:option>
+    <bcf:option>useeditorb</bcf:option>
+    <bcf:option>useeditorc</bcf:option>
+    <bcf:option>useforeword</bcf:option>
+    <bcf:option>useholder</bcf:option>
+    <bcf:option>useintroduction</bcf:option>
+    <bcf:option>usenamea</bcf:option>
+    <bcf:option>usenameb</bcf:option>
+    <bcf:option>usenamec</bcf:option>
+    <bcf:option>usetranslator</bcf:option>
+    <bcf:option>useshortauthor</bcf:option>
+    <bcf:option>useshorteditor</bcf:option>
+    <bcf:option>labelalphatemplate</bcf:option>
+    <bcf:option>inheritance</bcf:option>
+    <bcf:option>sortscheme</bcf:option>
+    <bcf:option>presort</bcf:option>
+    <bcf:option>labelnamespec</bcf:option>
+    <bcf:option>labeltitlespec</bcf:option>
+    <bcf:option>labeldatespec</bcf:option>
+    <bcf:option>backend</bcf:option>
+    <bcf:option>debug</bcf:option>
+    <bcf:option>loadfiles</bcf:option>
+    <bcf:option>mincrossrefs</bcf:option>
+    <bcf:option>texencoding</bcf:option>
+    <bcf:option>bibencoding</bcf:option>
+    <bcf:option>safeinputenc</bcf:option>
+    <bcf:option>sorting</bcf:option>
+    <bcf:option>sortcase</bcf:option>
+    <bcf:option>sortupper</bcf:option>
+    <bcf:option>sortlos</bcf:option>
+    <bcf:option>maxnames</bcf:option>
+    <bcf:option>minnames</bcf:option>
+    <bcf:option>maxbibnames</bcf:option>
+    <bcf:option>minbibnames</bcf:option>
+    <bcf:option>maxcitenames</bcf:option>
+    <bcf:option>mincitenames</bcf:option>
+    <bcf:option>maxitems</bcf:option>
+    <bcf:option>minitems</bcf:option>
+    <bcf:option>maxalphanames</bcf:option>
+    <bcf:option>minalphanames</bcf:option>
+    <bcf:option>terseinits</bcf:option>
+    <bcf:option>firstinits</bcf:option>
+    <bcf:option>sortfirstinits</bcf:option>
+    <bcf:option>abbreviate</bcf:option>
+    <bcf:option>dateabbrev</bcf:option>
+    <bcf:option>sortlocale</bcf:option>
+    <bcf:option>language</bcf:option>
+    <bcf:option>clearlang</bcf:option>
+    <bcf:option>babel</bcf:option>
+    <bcf:option>autolang</bcf:option>
+    <bcf:option>indexing</bcf:option>
+    <bcf:option>sortcites</bcf:option>
+    <bcf:option>hyperref</bcf:option>
+    <bcf:option>backref</bcf:option>
+    <bcf:option>backrefsetstyle</bcf:option>
+    <bcf:option>block</bcf:option>
+    <bcf:option>pagetracker</bcf:option>
+    <bcf:option>citecounter</bcf:option>
+    <bcf:option>citetracker</bcf:option>
+    <bcf:option>ibidtracker</bcf:option>
+    <bcf:option>idemtracker</bcf:option>
+    <bcf:option>opcittracker</bcf:option>
+    <bcf:option>loccittracker</bcf:option>
+    <bcf:option>parentracker</bcf:option>
+    <bcf:option>maxparens</bcf:option>
+    <bcf:option>date</bcf:option>
+    <bcf:option>datelabel</bcf:option>
+    <bcf:option>urldate</bcf:option>
+    <bcf:option>eventdate</bcf:option>
+    <bcf:option>origdate</bcf:option>
+    <bcf:option>alldates</bcf:option>
+    <bcf:option>datezeros</bcf:option>
+    <bcf:option>autocite</bcf:option>
+    <bcf:option>notetype</bcf:option>
+    <bcf:option>autopunct</bcf:option>
+    <bcf:option>punctfont</bcf:option>
+    <bcf:option>labelnumber</bcf:option>
+    <bcf:option>labelalpha</bcf:option>
+    <bcf:option>labeltitle</bcf:option>
+    <bcf:option>labeltitleyear</bcf:option>
+    <bcf:option>labeldate</bcf:option>
+    <bcf:option>labelyear</bcf:option>
+    <bcf:option>uniquelist</bcf:option>
+    <bcf:option>uniquename</bcf:option>
+    <bcf:option>singletitle</bcf:option>
+    <bcf:option>defernumbers</bcf:option>
+    <bcf:option>refsection</bcf:option>
+    <bcf:option>refsegment</bcf:option>
+    <bcf:option>citereset</bcf:option>
+    <bcf:option>bibwarn</bcf:option>
+    <bcf:option>useprefix</bcf:option>
+    <bcf:option>defernums</bcf:option>
+    <bcf:option>backrefstyle</bcf:option>
+    <bcf:option>arxiv</bcf:option>
+    <bcf:option>isbn</bcf:option>
+    <bcf:option>url</bcf:option>
+    <bcf:option>doi</bcf:option>
+    <bcf:option>eprint</bcf:option>
+    <bcf:option>related</bcf:option>
+    <bcf:option>subentry</bcf:option>
+  </bcf:optionscope>
+  <bcf:optionscope type="PER_TYPE">
+    <bcf:option>alphaothers</bcf:option>
+    <bcf:option>sortalphaothers</bcf:option>
+    <bcf:option>useafterword</bcf:option>
+    <bcf:option>useannotator</bcf:option>
+    <bcf:option>useauthor</bcf:option>
+    <bcf:option>usebookauthor</bcf:option>
+    <bcf:option>usecommentator</bcf:option>
+    <bcf:option>useeditor</bcf:option>
+    <bcf:option>useeditora</bcf:option>
+    <bcf:option>useeditorb</bcf:option>
+    <bcf:option>useeditorc</bcf:option>
+    <bcf:option>useforeword</bcf:option>
+    <bcf:option>useholder</bcf:option>
+    <bcf:option>useintroduction</bcf:option>
+    <bcf:option>usenamea</bcf:option>
+    <bcf:option>usenameb</bcf:option>
+    <bcf:option>usenamec</bcf:option>
+    <bcf:option>usetranslator</bcf:option>
+    <bcf:option>useshortauthor</bcf:option>
+    <bcf:option>useshorteditor</bcf:option>
+    <bcf:option>labelalphatemplate</bcf:option>
+    <bcf:option>presort</bcf:option>
+    <bcf:option>sortexclusion</bcf:option>
+    <bcf:option>labelnamespec</bcf:option>
+    <bcf:option>labeltitlespec</bcf:option>
+    <bcf:option>labeldatespec</bcf:option>
+    <bcf:option>maxnames</bcf:option>
+    <bcf:option>minnames</bcf:option>
+    <bcf:option>maxbibnames</bcf:option>
+    <bcf:option>minbibnames</bcf:option>
+    <bcf:option>maxcitenames</bcf:option>
+    <bcf:option>mincitenames</bcf:option>
+    <bcf:option>maxitems</bcf:option>
+    <bcf:option>minitems</bcf:option>
+    <bcf:option>maxalphanames</bcf:option>
+    <bcf:option>minalphanames</bcf:option>
+    <bcf:option>indexing</bcf:option>
+    <bcf:option>labelnumber</bcf:option>
+    <bcf:option>labelalpha</bcf:option>
+    <bcf:option>labeltitle</bcf:option>
+    <bcf:option>labeltitleyear</bcf:option>
+    <bcf:option>labeldate</bcf:option>
+    <bcf:option>labelyear</bcf:option>
+    <bcf:option>uniquelist</bcf:option>
+    <bcf:option>uniquename</bcf:option>
+    <bcf:option>singletitle</bcf:option>
+    <bcf:option>useprefix</bcf:option>
+    <bcf:option>skipbib</bcf:option>
+    <bcf:option>skiplos</bcf:option>
+    <bcf:option>skipbiblist</bcf:option>
+    <bcf:option>skiplab</bcf:option>
+    <bcf:option>dataonly</bcf:option>
+  </bcf:optionscope>
+  <bcf:optionscope type="PER_ENTRY">
+    <bcf:option>useafterword</bcf:option>
+    <bcf:option>useannotator</bcf:option>
+    <bcf:option>useauthor</bcf:option>
+    <bcf:option>usebookauthor</bcf:option>
+    <bcf:option>usecommentator</bcf:option>
+    <bcf:option>useeditor</bcf:option>
+    <bcf:option>useeditora</bcf:option>
+    <bcf:option>useeditorb</bcf:option>
+    <bcf:option>useeditorc</bcf:option>
+    <bcf:option>useforeword</bcf:option>
+    <bcf:option>useholder</bcf:option>
+    <bcf:option>useintroduction</bcf:option>
+    <bcf:option>usenamea</bcf:option>
+    <bcf:option>usenameb</bcf:option>
+    <bcf:option>usenamec</bcf:option>
+    <bcf:option>usetranslator</bcf:option>
+    <bcf:option>useshortauthor</bcf:option>
+    <bcf:option>useshorteditor</bcf:option>
+    <bcf:option>presort</bcf:option>
+    <bcf:option>maxnames</bcf:option>
+    <bcf:option>minnames</bcf:option>
+    <bcf:option>maxbibnames</bcf:option>
+    <bcf:option>minbibnames</bcf:option>
+    <bcf:option>maxcitenames</bcf:option>
+    <bcf:option>mincitenames</bcf:option>
+    <bcf:option>maxitems</bcf:option>
+    <bcf:option>minitems</bcf:option>
+    <bcf:option>maxalphanames</bcf:option>
+    <bcf:option>minalphanames</bcf:option>
+    <bcf:option>indexing</bcf:option>
+    <bcf:option>uniquelist</bcf:option>
+    <bcf:option>uniquename</bcf:option>
+    <bcf:option>useprefix</bcf:option>
+    <bcf:option>skipbib</bcf:option>
+    <bcf:option>skiplos</bcf:option>
+    <bcf:option>skipbiblist</bcf:option>
+    <bcf:option>skiplab</bcf:option>
+    <bcf:option>dataonly</bcf:option>
+  </bcf:optionscope>
   <!-- SOURCEMAP -->
   <bcf:sourcemap>
     <bcf:maps datatype="bibtex" level="driver">
@@ -1967,297 +2234,35 @@
   <bcf:bibdata section="0">
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">pmid3855242</bcf:citekey>
-    <bcf:citekey order="2">pmid5945715</bcf:citekey>
-    <bcf:citekey order="3">pmid4673484</bcf:citekey>
-    <bcf:citekey order="4">MVMp</bcf:citekey>
-    <bcf:citekey order="5">pmid1244418</bcf:citekey>
-    <bcf:citekey order="6">pmid6457871</bcf:citekey>
-    <bcf:citekey order="7">pmid6264106</bcf:citekey>
-    <bcf:citekey order="8">CsCl</bcf:citekey>
-    <bcf:citekey order="8">pmid4317344</bcf:citekey>
-    <bcf:citekey order="9">pmid12935806</bcf:citekey>
-    <bcf:citekey order="9">pmid12385412</bcf:citekey>
-    <bcf:citekey order="9">pmid17880601</bcf:citekey>
-    <bcf:citekey order="9">pmid19039515</bcf:citekey>
-    <bcf:citekey order="10">pmid4213983</bcf:citekey>
-    <bcf:citekey order="10">pmid3416941</bcf:citekey>
-    <bcf:citekey order="10">pmid7848502</bcf:citekey>
-    <bcf:citekey order="10">pmid1520981</bcf:citekey>
-    <bcf:citekey order="11">pmid4975639</bcf:citekey>
-    <bcf:citekey order="11">pmid5264145</bcf:citekey>
-    <bcf:citekey order="11">pmid5429749</bcf:citekey>
-    <bcf:citekey order="12">pmid10497831</bcf:citekey>
-    <bcf:citekey order="12">icvt</bcf:citekey>
-    <bcf:citekey order="13">pmid2006420</bcf:citekey>
-    <bcf:citekey order="14">pmid15795290</bcf:citekey>
-    <bcf:citekey order="15">pmid15769470</bcf:citekey>
-    <bcf:citekey order="15">pmid9817847</bcf:citekey>
-    <bcf:citekey order="16">pmid20375175</bcf:citekey>
-    <bcf:citekey order="16">pmid12136130</bcf:citekey>
-    <bcf:citekey order="16">tropism</bcf:citekey>
-    <bcf:citekey order="17">pmid15264254</bcf:citekey>
-    <bcf:citekey order="18">pmid20375175</bcf:citekey>
-    <bcf:citekey order="19">pmid15264254</bcf:citekey>
-    <bcf:citekey order="20">pmid20375175</bcf:citekey>
-    <bcf:citekey order="21">pmid5902774</bcf:citekey>
-    <bcf:citekey order="22">pmid20861255</bcf:citekey>
-    <bcf:citekey order="23">pmid1649336</bcf:citekey>
-    <bcf:citekey order="23">pmid12716974</bcf:citekey>
-    <bcf:citekey order="23">pmid10411508</bcf:citekey>
-    <bcf:citekey order="23">pmid16537636</bcf:citekey>
-    <bcf:citekey order="23">pmid15626758</bcf:citekey>
-    <bcf:citekey order="23">pmid21795474</bcf:citekey>
-    <bcf:citekey order="24">pmid6319731</bcf:citekey>
-    <bcf:citekey order="24">pmid21049037</bcf:citekey>
-    <bcf:citekey order="24">pmid20339886</bcf:citekey>
-    <bcf:citekey order="25">pmid3296697</bcf:citekey>
-    <bcf:citekey order="25">pmid10497831</bcf:citekey>
-    <bcf:citekey order="26">pmid24212889</bcf:citekey>
-    <bcf:citekey order="27">pmid11222696</bcf:citekey>
-    <bcf:citekey order="27">icvt</bcf:citekey>
-    <bcf:citekey order="28">pmid6252342</bcf:citekey>
-    <bcf:citekey order="28">pmid2843669</bcf:citekey>
-    <bcf:citekey order="29">pmid16378968</bcf:citekey>
-    <bcf:citekey order="30">pmid22000359</bcf:citekey>
-    <bcf:citekey order="31">pmid10400786</bcf:citekey>
-    <bcf:citekey order="32">icvt</bcf:citekey>
-    <bcf:citekey order="33">pmid18766849</bcf:citekey>
-    <bcf:citekey order="33">pmid6847550</bcf:citekey>
-    <bcf:citekey order="33">pmid2995561</bcf:citekey>
-    <bcf:citekey order="34">pmid25510852</bcf:citekey>
-    <bcf:citekey order="34">pmid18622862</bcf:citekey>
-    <bcf:citekey order="35">pmid20097398</bcf:citekey>
-    <bcf:citekey order="36">pmid18766892</bcf:citekey>
-    <bcf:citekey order="37">pmid7150147</bcf:citekey>
-    <bcf:citekey order="37">pmid6281962</bcf:citekey>
-    <bcf:citekey order="37">pmid8363509</bcf:citekey>
-    <bcf:citekey order="38">pmid10935280</bcf:citekey>
-    <bcf:citekey order="39">PEMS</bcf:citekey>
-    <bcf:citekey order="40">pmid18622862</bcf:citekey>
-    <bcf:citekey order="41">pmid3783814</bcf:citekey>
-    <bcf:citekey order="41">pmid12441065</bcf:citekey>
-    <bcf:citekey order="42">pmid17715221</bcf:citekey>
-    <bcf:citekey order="43">pmid6319731</bcf:citekey>
-    <bcf:citekey order="44">pmid11562506</bcf:citekey>
-    <bcf:citekey order="44">pmid16118271</bcf:citekey>
-    <bcf:citekey order="45">pmid17553287</bcf:citekey>
-    <bcf:citekey order="46">pmid17122013</bcf:citekey>
-    <bcf:citekey order="46">pmid16517912</bcf:citekey>
-    <bcf:citekey order="46">pmid17041855</bcf:citekey>
-    <bcf:citekey order="47">pmid17041855</bcf:citekey>
-    <bcf:citekey order="47">pmid17176591</bcf:citekey>
-    <bcf:citekey order="48">pmid20339886</bcf:citekey>
-    <bcf:citekey order="48">pmid21092136</bcf:citekey>
-    <bcf:citekey order="48">pmid22967311</bcf:citekey>
-    <bcf:citekey order="49">pmid11562506</bcf:citekey>
-    <bcf:citekey order="50">pmid20339886</bcf:citekey>
-    <bcf:citekey order="50">pmid21092136</bcf:citekey>
-    <bcf:citekey order="51">pmid23405295</bcf:citekey>
-    <bcf:citekey order="51">pmid25442288</bcf:citekey>
-    <bcf:citekey order="52">pmid23762339</bcf:citekey>
-    <bcf:citekey order="52">pmid25442288</bcf:citekey>
-    <bcf:citekey order="53">pmid20339886</bcf:citekey>
-    <bcf:citekey order="53">pmid21092136</bcf:citekey>
-    <bcf:citekey order="53">pmid23762339</bcf:citekey>
-    <bcf:citekey order="53">pmid25442288</bcf:citekey>
-    <bcf:citekey order="54">pmid6314634</bcf:citekey>
-    <bcf:citekey order="54">pmid427636</bcf:citekey>
-    <bcf:citekey order="54">pmid999067</bcf:citekey>
-    <bcf:citekey order="54">pmid3006323</bcf:citekey>
-    <bcf:citekey order="55">pmid25442288</bcf:citekey>
-    <bcf:citekey order="56">pmid5014934</bcf:citekey>
-    <bcf:citekey order="56">pmid5264145</bcf:citekey>
-    <bcf:citekey order="57">pmid6246271</bcf:citekey>
-    <bcf:citekey order="58">pmid6253077</bcf:citekey>
-    <bcf:citekey order="58">pmid6281463</bcf:citekey>
-    <bcf:citekey order="59">pmid4318977</bcf:citekey>
-    <bcf:citekey order="59">pmid6270377</bcf:citekey>
-    <bcf:citekey order="59">pmid5227666</bcf:citekey>
-    <bcf:citekey order="60">icvt</bcf:citekey>
-    <bcf:citekey order="61">pmid2156265</bcf:citekey>
-    <bcf:citekey order="61">pmid1653762</bcf:citekey>
-    <bcf:citekey order="61">pmid1334463</bcf:citekey>
-    <bcf:citekey order="61">pmid1657596</bcf:citekey>
-    <bcf:citekey order="62">pmid18854481</bcf:citekey>
-    <bcf:citekey order="62">pmid21499295</bcf:citekey>
-    <bcf:citekey order="63">pmid2408228</bcf:citekey>
-    <bcf:citekey order="64">pmid3824910</bcf:citekey>
-    <bcf:citekey order="65">pmid3599180</bcf:citekey>
-    <bcf:citekey order="66">pmid12097253</bcf:citekey>
-    <bcf:citekey order="67">pmid13669314</bcf:citekey>
-    <bcf:citekey order="68">pmid6694260</bcf:citekey>
-    <bcf:citekey order="69">pmid6298737</bcf:citekey>
-    <bcf:citekey order="70">pmid6828378</bcf:citekey>
-    <bcf:citekey order="71">pmid5083410</bcf:citekey>
-    <bcf:citekey order="72">icvt</bcf:citekey>
-    <bcf:citekey order="72">protoparvovirus</bcf:citekey>
-    <bcf:citekey order="73">pmid15956568</bcf:citekey>
-    <bcf:citekey order="74">pmid20668071</bcf:citekey>
-    <bcf:citekey order="75">pmid18632954</bcf:citekey>
-    <bcf:citekey order="75">pmid20653980</bcf:citekey>
-    <bcf:citekey order="75">pmid22247522</bcf:citekey>
-    <bcf:citekey order="76">pmid21980506</bcf:citekey>
-    <bcf:citekey order="77">pmid22044541</bcf:citekey>
-    <bcf:citekey order="78">pmid8106366</bcf:citekey>
-    <bcf:citekey order="78">pmid9261429</bcf:citekey>
-    <bcf:citekey order="78">pmid7966641</bcf:citekey>
-    <bcf:citekey order="79">pmid22044541</bcf:citekey>
-    <bcf:citekey order="80">pmid15956568</bcf:citekey>
-    <bcf:citekey order="81">pmid22492853</bcf:citekey>
-    <bcf:citekey order="81">pmid22235298</bcf:citekey>
-    <bcf:citekey order="81">pmid17397006</bcf:citekey>
-    <bcf:citekey order="82">pmid23283958</bcf:citekey>
-    <bcf:citekey order="83">pmid22043925</bcf:citekey>
-    <bcf:citekey order="84">pmid22469425</bcf:citekey>
-    <bcf:citekey order="85">pmid18632954</bcf:citekey>
-    <bcf:citekey order="86">pmid20587191</bcf:citekey>
-    <bcf:citekey order="87">pmid22235298</bcf:citekey>
-    <bcf:citekey order="88">pmid24212889</bcf:citekey>
-    <bcf:citekey order="89">pmid24212889</bcf:citekey>
-    <bcf:citekey order="90">pmid5945715</bcf:citekey>
-    <bcf:citekey order="91">pmid1244418</bcf:citekey>
-    <bcf:citekey order="92">pmid1871965</bcf:citekey>
-    <bcf:citekey order="93">pmid6602221</bcf:citekey>
-    <bcf:citekey order="94">pmid6602222</bcf:citekey>
-    <bcf:citekey order="95">pmid3257270</bcf:citekey>
-    <bcf:citekey order="95">pmid9519837</bcf:citekey>
-    <bcf:citekey order="95">pmid1871965</bcf:citekey>
-    <bcf:citekey order="96">pmid7637028</bcf:citekey>
-    <bcf:citekey order="96">pmid1316457</bcf:citekey>
-    <bcf:citekey order="97">pmid3357208</bcf:citekey>
-    <bcf:citekey order="97">pmid3392768</bcf:citekey>
-    <bcf:citekey order="97">pmid3257270</bcf:citekey>
-    <bcf:citekey order="98">pmid14581558</bcf:citekey>
-    <bcf:citekey order="98">pmid12941920</bcf:citekey>
-    <bcf:citekey order="98">pmid1532105</bcf:citekey>
-    <bcf:citekey order="99">pmid9817841</bcf:citekey>
-    <bcf:citekey order="100">pmid9519837</bcf:citekey>
-    <bcf:citekey order="101">pmid3712557</bcf:citekey>
-    <bcf:citekey order="102">pmid1373202</bcf:citekey>
-    <bcf:citekey order="103">pmid1653878</bcf:citekey>
-    <bcf:citekey order="104">pmid7707557</bcf:citekey>
-    <bcf:citekey order="105">pmid8892936</bcf:citekey>
-    <bcf:citekey order="106">pmid15308740</bcf:citekey>
-    <bcf:citekey order="107">pmid6823332</bcf:citekey>
-    <bcf:citekey order="108">pmid12857918</bcf:citekey>
-    <bcf:citekey order="109">pmid9971754</bcf:citekey>
-    <bcf:citekey order="110">pmid16415031</bcf:citekey>
-    <bcf:citekey order="110">pmid16103180</bcf:citekey>
-    <bcf:citekey order="111">pmid18045943</bcf:citekey>
-    <bcf:citekey order="112">pmid16415031</bcf:citekey>
-    <bcf:citekey order="112">pmid18045943</bcf:citekey>
-    <bcf:citekey order="113">pmid8396664</bcf:citekey>
-    <bcf:citekey order="114">pmid8642680</bcf:citekey>
-    <bcf:citekey order="115">pmid3176341</bcf:citekey>
-    <bcf:citekey order="115">pmid1331498</bcf:citekey>
-    <bcf:citekey order="116">pmid7513918</bcf:citekey>
-    <bcf:citekey order="117">tropism</bcf:citekey>
-    <bcf:citekey order="118">pmid9817841</bcf:citekey>
-    <bcf:citekey order="118">pmid12941411</bcf:citekey>
-    <bcf:citekey order="118">pmid6602221</bcf:citekey>
-    <bcf:citekey order="119">pmid9311862</bcf:citekey>
-    <bcf:citekey order="119">pmid1322591</bcf:citekey>
-    <bcf:citekey order="120">pmid12941411</bcf:citekey>
-    <bcf:citekey order="120">tropism</bcf:citekey>
-    <bcf:citekey order="121">pmid16242744</bcf:citekey>
-    <bcf:citekey order="121">pmid25555192</bcf:citekey>
-    <bcf:citekey order="121">pmid8392729</bcf:citekey>
-    <bcf:citekey order="121">pmid9817841</bcf:citekey>
-    <bcf:citekey order="121">pmid11827486</bcf:citekey>
-    <bcf:citekey order="121">pmid2006420</bcf:citekey>
-    <bcf:citekey order="121">pmid12941411</bcf:citekey>
-    <bcf:citekey order="122">pmid15299974</bcf:citekey>
-    <bcf:citekey order="123">pmid2673017</bcf:citekey>
-    <bcf:citekey order="124">pmid15299494</bcf:citekey>
-    <bcf:citekey order="124">pmid8969301</bcf:citekey>
-    <bcf:citekey order="125">pmid8503170</bcf:citekey>
-    <bcf:citekey order="125">pmid9817841</bcf:citekey>
-    <bcf:citekey order="126">pmid7735832</bcf:citekey>
-    <bcf:citekey order="126">pmid1616694</bcf:citekey>
-    <bcf:citekey order="127">pmid9817841</bcf:citekey>
-    <bcf:citekey order="128">Genome1</bcf:citekey>
-    <bcf:citekey order="128">Genome2</bcf:citekey>
-    <bcf:citekey order="129">pmid3855242</bcf:citekey>
-    <bcf:citekey order="130">pmid6298737</bcf:citekey>
-    <bcf:citekey order="131">pmid6298737</bcf:citekey>
-    <bcf:citekey order="132">pmid6828378</bcf:citekey>
-    <bcf:citekey order="132">pmid2939261</bcf:citekey>
-    <bcf:citekey order="132">pmid2942705</bcf:citekey>
-    <bcf:citekey order="133">pmid6298737</bcf:citekey>
-    <bcf:citekey order="134">pmid225040</bcf:citekey>
-    <bcf:citekey order="134">pmid6298737</bcf:citekey>
-    <bcf:citekey order="134">pmid3973977</bcf:citekey>
-    <bcf:citekey order="134">replication</bcf:citekey>
-    <bcf:citekey order="135">pmid3973977</bcf:citekey>
-    <bcf:citekey order="136">pmid6298737</bcf:citekey>
-    <bcf:citekey order="136">pmid3973977</bcf:citekey>
-    <bcf:citekey order="137">pmid1388310</bcf:citekey>
-    <bcf:citekey order="137">pmid9765384</bcf:citekey>
-    <bcf:citekey order="137">pmid10627544</bcf:citekey>
-    <bcf:citekey order="138">pmid6602687</bcf:citekey>
-    <bcf:citekey order="139">pmid6828378</bcf:citekey>
-    <bcf:citekey order="139">pmid3296697</bcf:citekey>
-    <bcf:citekey order="140">pmid15681430</bcf:citekey>
-    <bcf:citekey order="141">pmid12743281</bcf:citekey>
-    <bcf:citekey order="142">pmid8995615</bcf:citekey>
-    <bcf:citekey order="143">pmid8076610</bcf:citekey>
-    <bcf:citekey order="143">pmid1530771</bcf:citekey>
-    <bcf:citekey order="144">pmid11435581</bcf:citekey>
-    <bcf:citekey order="145">pmid8995666</bcf:citekey>
-    <bcf:citekey order="145">pmid9223459</bcf:citekey>
-    <bcf:citekey order="145">pmid10523663</bcf:citekey>
-    <bcf:citekey order="146">pmid7853501</bcf:citekey>
-    <bcf:citekey order="147">pmid8076610</bcf:citekey>
-    <bcf:citekey order="148">telomere2</bcf:citekey>
-    <bcf:citekey order="148">telomere3</bcf:citekey>
-    <bcf:citekey order="148">handbook</bcf:citekey>
-    <bcf:citekey order="149">pmid12552010</bcf:citekey>
-    <bcf:citekey order="150">telomere</bcf:citekey>
-    <bcf:citekey order="151">small</bcf:citekey>
-    <bcf:citekey order="152">pmid12885883</bcf:citekey>
-    <bcf:citekey order="152">pmid16928767</bcf:citekey>
-    <bcf:citekey order="153">pmid12885883</bcf:citekey>
-    <bcf:citekey order="154">pmid8614999</bcf:citekey>
-    <bcf:citekey order="155">small</bcf:citekey>
-    <bcf:citekey order="156">pmid12885883</bcf:citekey>
-    <bcf:citekey order="156">pmid16928767</bcf:citekey>
-    <bcf:citekey order="157">pmid12885883</bcf:citekey>
-    <bcf:citekey order="158">pmid8614999</bcf:citekey>
-    <bcf:citekey order="159">pmid15299974</bcf:citekey>
-    <bcf:citekey order="160">pmid16789120</bcf:citekey>
-    <bcf:citekey order="160">pmid6602221</bcf:citekey>
-    <bcf:citekey order="160">pmid3005655</bcf:citekey>
-    <bcf:citekey order="160">pmid3296697</bcf:citekey>
-    <bcf:citekey order="160">pmid9418888</bcf:citekey>
-    <bcf:citekey order="160">pmid4673484</bcf:citekey>
-    <bcf:citekey order="160">S-phase</bcf:citekey>
-    <bcf:citekey order="161">pmid4291013</bcf:citekey>
-    <bcf:citekey order="161">pmid16578647</bcf:citekey>
-    <bcf:citekey order="162">pmid4673484</bcf:citekey>
-    <bcf:citekey order="162">pmid3346950</bcf:citekey>
-    <bcf:citekey order="162">pmid10792046</bcf:citekey>
-    <bcf:citekey order="163">pmid1630899</bcf:citekey>
-    <bcf:citekey order="163">pmid8374079</bcf:citekey>
-    <bcf:citekey order="163">pmid8824773</bcf:citekey>
-    <bcf:citekey order="163">pmid9092519</bcf:citekey>
-    <bcf:citekey order="163">pmid9010307</bcf:citekey>
-    <bcf:citekey order="164">pmid967244</bcf:citekey>
-    <bcf:citekey order="165">pmid2911112</bcf:citekey>
-    <bcf:citekey order="165">pmid2543770</bcf:citekey>
-    <bcf:citekey order="166">pmid967244</bcf:citekey>
-    <bcf:citekey order="166">pmid3973977</bcf:citekey>
-    <bcf:citekey order="166">pmid3296697</bcf:citekey>
-    <bcf:citekey order="166">pmid8995615</bcf:citekey>
-    <bcf:citekey order="167">pmid864702</bcf:citekey>
-    <bcf:citekey order="167">pmid1448928</bcf:citekey>
-    <bcf:citekey order="167">pmid9770425</bcf:citekey>
-    <bcf:citekey order="168">pmid4321164</bcf:citekey>
-    <bcf:citekey order="169">pmid5132697</bcf:citekey>
-    <bcf:citekey order="169">pmid5172922</bcf:citekey>
-    <bcf:citekey order="170">pmid2527311</bcf:citekey>
-    <bcf:citekey order="171">pmid14213660</bcf:citekey>
-    <bcf:citekey order="172">pmid13911591</bcf:citekey>
-    <bcf:citekey order="173">pmid6169844</bcf:citekey>
   </bcf:section>
+  <bcf:sortlist section="0" name="nty" type="entry" sortscheme="nty">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="6">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>
+      <bcf:sortitem order="2">0000</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
 </bcf:controlfile>

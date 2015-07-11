@@ -7,8 +7,8 @@ Scanning style file C:/Program Files/MiKTeX 2.9/makeindex/nomencl/nomencl.ist...
 ** Input style error (file = C:/Program Files/MiKTeX 2.9/makeindex/nomencl/nomencl.ist, line = 72):
    -- Unknown specifier lethead_flag.
 ...done (10 attributes redefined, 3 ignored).
-Scanning input file Rafa Template.nlo....done (113 entries accepted, 0 rejected).
-Sorting entries....done (840 comparisons).
-Generating output file Rafa Template.nls....done (228 lines written, 0 warnings).
+Scanning input file Rafa Template.nlo....done (115 entries accepted, 0 rejected).
+Sorting entries....done (787 comparisons).
+Generating output file Rafa Template.nls....done (233 lines written, 0 warnings).
 Output written in Rafa Template.nls.
 Transcript written in Rafa Template.ilg.
