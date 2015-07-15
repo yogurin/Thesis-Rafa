@@ -1,8 +1,8 @@
 \select@language {english}
-\contentsline {chapter}{Abstract}{I}{section*.1}
+\contentsline {chapter}{Abstract}{i}{section*.1}
 \vspace {1em}
-\contentsline {chapter}{Acknowledgements}{III}{chapter*.2}
-\contentsline {chapter}{Nomenclature}{V}{section*.3}
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.2}
+\contentsline {chapter}{Nomenclature}{v}{section*.3}
 \vspace {1em}
 \contentsline {part}{\numberline {I}Introduction}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Discovery and brief history}{3}{chapter.1}
@@ -34,24 +34,24 @@
 \contentsline {section}{\numberline {6.2}Pathogenicity Determinants}{30}{section.6.2}
 \contentsline {section}{\numberline {6.3}Comparison of Tissue Tropism and Pathogenicity Determinants among Parvoviurses}{30}{section.6.3}
 \contentsline {chapter}{\numberline {7}The Parvovirus Life Cycle}{33}{chapter.7}
-\contentsline {section}{\numberline {7.1}Receptor Binding}{33}{section.7.1}
-\contentsline {section}{\numberline {7.2}Receptor-mediated Endocytosis}{35}{section.7.2}
-\contentsline {section}{\numberline {7.3}Endosomal Trafficking and Capsid Rearrangements}{36}{section.7.3}
-\contentsline {section}{\numberline {7.4}Endosomal Escape}{37}{section.7.4}
+\contentsline {section}{\numberline {7.1}Receptor Binding}{34}{section.7.1}
+\contentsline {section}{\numberline {7.2}Receptor-mediated Endocytosis}{36}{section.7.2}
+\contentsline {section}{\numberline {7.3}Endosomal Trafficking and Capsid Rearrangements}{37}{section.7.3}
+\contentsline {section}{\numberline {7.4}Endosomal Escape}{38}{section.7.4}
 \contentsline {section}{\numberline {7.5}Cytosolic Trafficking and Interactions with the Proteasome}{39}{section.7.5}
-\contentsline {section}{\numberline {7.6}Nuclear Targeting}{39}{section.7.6}
-\contentsline {subsection}{\numberline {7.6.1}Nuclear translocation of the incoming virion}{39}{subsection.7.6.1}
-\contentsline {subsection}{\numberline {7.6.2}Nuclear translocation of the structural proteins}{40}{subsection.7.6.2}
-\contentsline {section}{\numberline {7.7}Non-structural (NS) proteins}{41}{section.7.7}
-\contentsline {subsection}{\numberline {7.7.1}Non-structural portein 1 (NS1)}{42}{subsection.7.7.1}
-\contentsline {subsection}{\numberline {7.7.2}Non-structural protein 2 (NS2)}{42}{subsection.7.7.2}
-\contentsline {subsection}{\numberline {7.7.3}Small alternatively translated (SAT) protein}{42}{subsection.7.7.3}
-\contentsline {section}{\numberline {7.8}Replication}{43}{section.7.8}
-\contentsline {section}{\numberline {7.9}Transcription}{44}{section.7.9}
-\contentsline {section}{\numberline {7.10}Assembly}{47}{section.7.10}
-\contentsline {section}{\numberline {7.11}DNA Packaging}{49}{section.7.11}
-\contentsline {section}{\numberline {7.12}Nuclear Export}{50}{section.7.12}
-\contentsline {section}{\numberline {7.13}Egress}{51}{section.7.13}
+\contentsline {section}{\numberline {7.6}Nuclear Targeting}{40}{section.7.6}
+\contentsline {subsection}{\numberline {7.6.1}Nuclear translocation of the incoming virion}{40}{subsection.7.6.1}
+\contentsline {subsection}{\numberline {7.6.2}Nuclear translocation of the structural proteins}{42}{subsection.7.6.2}
+\contentsline {section}{\numberline {7.7}Non-structural (NS) proteins}{43}{section.7.7}
+\contentsline {subsection}{\numberline {7.7.1}Non-structural portein 1 (NS1)}{43}{subsection.7.7.1}
+\contentsline {subsection}{\numberline {7.7.2}Non-structural protein 2 (NS2)}{44}{subsection.7.7.2}
+\contentsline {subsection}{\numberline {7.7.3}Small alternatively translated (SAT) protein}{44}{subsection.7.7.3}
+\contentsline {section}{\numberline {7.8}Replication}{45}{section.7.8}
+\contentsline {section}{\numberline {7.9}Transcription and RNA processing}{46}{section.7.9}
+\contentsline {section}{\numberline {7.10}Assembly}{49}{section.7.10}
+\contentsline {section}{\numberline {7.11}DNA Packaging}{51}{section.7.11}
+\contentsline {section}{\numberline {7.12}Nuclear Export}{52}{section.7.12}
+\contentsline {section}{\numberline {7.13}Egress}{53}{section.7.13}
 \contentsline {chapter}{\numberline {8}Aim of the thesis}{55}{chapter.8}
 \contentsline {part}{\numberline {II}Methods}{57}{part.2}
 \contentsline {chapter}{\numberline {9}Methods}{59}{chapter.9}
@@ -81,22 +81,22 @@
 \contentsline {chapter}{\numberline {9}Materials}{85}{chapter.9}
 \contentsline {section}{\numberline {9.1}Infectious clone of MVMp (pIC\_MVMp)}{85}{section.9.1}
 \contentsline {subsection}{\numberline {9.1.1}Plasmid map of pIC\_MVMp}{85}{subsection.9.1.1}
-\contentsline {subsection}{\numberline {9.1.2}Complete sequence of pIC\_MVMp}{85}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.2}Complete sequence of pIC\_MVMp}{86}{subsection.9.1.2}
 \contentsline {section}{\numberline {9.2}Chemicals and compounds}{89}{section.9.2}
-\contentsline {section}{\numberline {9.3}Buffers}{92}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}General buffers}{92}{subsection.9.3.1}
-\contentsline {subsection}{\numberline {9.3.2}Chromatography buffers}{93}{subsection.9.3.2}
-\contentsline {subsubsection}{\nonumberline Anion exchange chromatography (AEX)}{93}{section*.21}
-\contentsline {subsubsection}{\nonumberline Chromatofocusing (CF)}{93}{section*.23}
-\contentsline {subsection}{\numberline {9.3.3}Agarose gel electrophoresis}{94}{subsection.9.3.3}
-\contentsline {subsection}{\numberline {9.3.4}Western blot}{94}{subsection.9.3.4}
-\contentsline {section}{\numberline {9.4}Kits}{95}{section.9.4}
-\contentsline {section}{\numberline {9.5}Enzymes}{95}{section.9.5}
-\contentsline {section}{\numberline {9.6}Antibodies}{96}{section.9.6}
-\contentsline {subsection}{\numberline {9.6.1}Primary antibodies}{96}{subsection.9.6.1}
-\contentsline {subsection}{\numberline {9.6.2}Secondary antibodies}{97}{subsection.9.6.2}
-\contentsline {section}{\numberline {9.7}Media}{97}{section.9.7}
+\contentsline {section}{\numberline {9.3}Buffers}{91}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}General buffers}{91}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Chromatography buffers}{92}{subsection.9.3.2}
+\contentsline {subsubsection}{\nonumberline Anion exchange chromatography (AEX)}{92}{section*.21}
+\contentsline {subsubsection}{\nonumberline Chromatofocusing (CF)}{92}{section*.23}
+\contentsline {subsection}{\numberline {9.3.3}Agarose gel electrophoresis}{93}{subsection.9.3.3}
+\contentsline {subsection}{\numberline {9.3.4}Western blot}{93}{subsection.9.3.4}
+\contentsline {section}{\numberline {9.4}Kits}{94}{section.9.4}
+\contentsline {section}{\numberline {9.5}Enzymes}{94}{section.9.5}
+\contentsline {section}{\numberline {9.6}Antibodies}{95}{section.9.6}
+\contentsline {subsection}{\numberline {9.6.1}Primary antibodies}{95}{subsection.9.6.1}
+\contentsline {subsection}{\numberline {9.6.2}Secondary antibodies}{96}{subsection.9.6.2}
+\contentsline {section}{\numberline {9.7}Media}{96}{section.9.7}
 \contentsline {chapter}{Bibliography}{99}{section*.32}
 \vspace {1em}
-\contentsline {chapter}{Declaration}{122}{section*.33}
+\contentsline {chapter}{Declaration}{123}{section*.33}
 \vspace {1em}

@@ -1,4 +1,4 @@
-\begin{thebibliography}{490}
+\begin{thebibliography}{510}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -31,8 +31,8 @@ Agbandje, M., McKenna, R., Rossmann, M.~G., Strassheim, M.~L., and Parrish,
 Agbandje-McKenna, M. and Chapman, M.~S.
 \newblock {C}orrelating structure with function in the viral capsid.
 \newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
-  Parrish, C.~R., editors, \emph{{{P}arvoviruses}}, pages 125--139. Hodder
-  Arnold, London, UK, 2006.
+  Parrish, C.~R., eds., \emph{{{P}arvoviruses}}, pp. 125--139. Hodder Arnold,
+  London, UK, 2006.
 
 \bibitem[Agbandje-McKenna et~al.(1998)Agbandje-McKenna, Llamas-Saiz, Wang,
   Tattersall, and Rossmann]{pmid9817841}
@@ -47,6 +47,12 @@ Ahn, J.~K., Gavin, B.~J., Kumar, G., and Ward, D.~C.
 \newblock {{T}ranscriptional analysis of minute virus of mice {P}4 promoter
   mutants}.
 \newblock \emph{J. Virol.}, 63\penalty0 (12):\penalty0 5425--5439, Dec 1989.
+
+\bibitem[Aitken(1995)]{pmid7709434}
+Aitken, A.
+\newblock {14-3-3 proteins on the {M}{A}{P}}.
+\newblock \emph{Trends Biochem. Sci.}, 20\penalty0 (3):\penalty0 95--97, Mar
+  1995.
 
 \bibitem[Akache et~al.(2006)Akache, Grimm, Pandey, Yant, Xu, and
   Kay]{pmid16973587}
@@ -449,6 +455,13 @@ Brister, J.~R. and Muzyczka, N.
   transesterification}.
 \newblock \emph{J. Virol.}, 73\penalty0 (11):\penalty0 9325--9336, Nov 1999.
 
+\bibitem[Brockhaus et~al.(1996)Brockhaus, Plaza, Pintel, Rommelaere, and
+  Salome]{pmid8892871}
+Brockhaus, K., Plaza, S., Pintel, D.~J., Rommelaere, J., and Salome, N.
+\newblock {{N}onstructural proteins {N}{S}2 of minute virus of mice associate
+  in vivo with 14-3-3 protein family members}.
+\newblock \emph{J. Virol.}, 70\penalty0 (11):\penalty0 7527--7534, Nov 1996.
+
 \bibitem[Brown et~al.(1993)Brown, Anderson, and Young]{pmid8211117}
 Brown, K.~E., Anderson, S.~M., and Young, N.~S.
 \newblock {{E}rythrocyte {P} antigen: cellular receptor for {B}19 parvovirus}.
@@ -489,6 +502,11 @@ Buller, R.~M., Janik, J.~E., Sebring, E.~D., and Rose, J.~A.
 \newblock {{H}erpes simplex virus types 1 and 2 completely help
   adenovirus-associated virus replication}.
 \newblock \emph{J. Virol.}, 40\penalty0 (1):\penalty0 241--247, Oct 1981.
+
+\bibitem[Burbelo and Hall(1995)]{pmid7743183}
+Burbelo, P.~D. and Hall, A.
+\newblock {14-3-3 proteins. {H}ot numbers in signal transduction}.
+\newblock \emph{Curr. Biol.}, 5\penalty0 (2):\penalty0 95--96, Feb 1995.
 
 \bibitem[Burnett and Tattersall(2003)]{pmid12885883}
 Burnett, E. and Tattersall, P.
@@ -534,6 +552,13 @@ Castellanos, M., Perez, R., Carrillo, P.~J., de~Pablo, P.~J., and Mateu, M.~G.
   intermediates predicted by theory}.
 \newblock \emph{Biophys. J.}, 102\penalty0 (11):\penalty0 2615--2624, Jun 2012.
 
+\bibitem[Cater and Pintel(1992)]{pmid1385828}
+Cater, J.~E. and Pintel, D.~J.
+\newblock {{T}he small non-structural protein {N}{S}2 of the autonomous
+  parvovirus minute virus of mice is required for virus growth in murine
+  cells}.
+\newblock \emph{J. Gen. Virol.}, 73 ( Pt 7):\penalty0 1839--1843, Jul 1992.
+
 \bibitem[Chang et~al.(1992)Chang, Sgro, and Parrish]{pmid1331498}
 Chang, S.~F., Sgro, J.~Y., and Parrish, C.~R.
 \newblock {{M}ultiple amino acids in the capsid structure of canine parvovirus
@@ -545,8 +570,8 @@ Chang, S.~F., Sgro, J.~Y., and Parrish, C.~R.
 Chapman, M.~S. and Agbandje-McKenna, M.
 \newblock {A}tomic structure of viral particles.
 \newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
-  Parrish, C.~R., editors, \emph{{{P}arvoviruses}}, pages 107--124. Hodder
-  Arnold, London, UK, 2006.
+  Parrish, C.~R., eds., \emph{{{P}arvoviruses}}, pp. 107--124. Hodder Arnold,
+  London, UK, 2006.
 
 \bibitem[Chapman and Rossmann(1993)]{pmid8503170}
 Chapman, M.~S. and Rossmann, M.~G.
@@ -713,8 +738,8 @@ Cossons, N., Faust, E.~A., and Zannis-Hadjopoulos, M.
 \bibitem[Cotmore(1990)]{polII}
 Cotmore, S.~F.
 \newblock {G}ene expression in the autonomous parvoviruses.
-\newblock In Tijssen, P., editor, \emph{{{H}andbook of parvoviruses}},
-  volume~1, pages 141--154. CRC Press, Inc., Boca Raton, FL, 1990.
+\newblock In Tijssen, P., ed., \emph{{{H}andbook of parvoviruses}}, vol.~1, pp.
+  141--154. CRC Press, Inc., Boca Raton, FL, 1990.
 
 \bibitem[Cotmore and Tattersall(1986{\natexlab{a}})]{pmid2939261}
 Cotmore, S.~F. and Tattersall, P.
@@ -776,8 +801,8 @@ Cotmore, S.~F. and Tattersall, P.
 \bibitem[Cotmore and Tattersall(1996)]{telomere2}
 Cotmore, S.~F. and Tattersall, P.
 \newblock {P}arvovirus {D}{N}{A} replication.
-\newblock In DePamphilis, M.~L., editor, \emph{{{D}{N}{A} replication in
-  eukaryotic cells}}, pages 799--813. Cold Spring Harbor Laboratory Press, Cold
+\newblock In DePamphilis, M.~L., ed., \emph{{{D}{N}{A} replication in
+  eukaryotic cells}}, pp. 799--813. Cold Spring Harbor Laboratory Press, Cold
   Spring Harbor, NY, 1996.
 
 \bibitem[Cotmore and Tattersall(1998)]{pmid9765384}
@@ -820,22 +845,22 @@ Cotmore, S.~F. and Tattersall, P.
 \newblock {A} rolling-hairpin strategy: basic mechanisms of {D}{N}{A}
   replication in the parvoviruses.
 \newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
-  Parrish, C.~R., editors, \emph{{{P}arvoviruses}}, pages 171--188. Hodder
-  Arnold, London, UK, 2006{\natexlab{a}}.
+  Parrish, C.~R., eds., \emph{{{P}arvoviruses}}, pp. 171--188. Hodder Arnold,
+  London, UK, 2006{\natexlab{a}}.
 
 \bibitem[Cotmore and Tattersall(2006{\natexlab{b}})]{encapsidation}
 Cotmore, S.~F. and Tattersall, P.
 \newblock {P}arvoviruses.
-\newblock In DePamphilis, M.~L., editor, \emph{{{D}{N}{A} {R}eplication and
-  {H}uman {D}isease}}, pages 593--608. Cold Spring Harbor Laboratory Press,
-  Cold Spring Harbor, NY, 2006{\natexlab{b}}.
+\newblock In DePamphilis, M.~L., ed., \emph{{{D}{N}{A} {R}eplication and
+  {H}uman {D}isease}}, pp. 593--608. Cold Spring Harbor Laboratory Press, Cold
+  Spring Harbor, NY, 2006{\natexlab{b}}.
 
 \bibitem[Cotmore and Tattersall(2006{\natexlab{c}})]{telomere}
 Cotmore, S.~F. and Tattersall, P.
 \newblock {S}tructure and organization of the viral genome.
 \newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
-  Parrish, C.~R., editors, \emph{{{P}arvoviruses}}, pages 73--90. Hodder
-  Arnold, London, UK, 2006{\natexlab{c}}.
+  Parrish, C.~R., eds., \emph{{{P}arvoviruses}}, pp. 73--90. Hodder Arnold,
+  London, UK, 2006{\natexlab{c}}.
 
 \bibitem[Cotmore and Tattersall(2014)]{small}
 Cotmore, S.~F. and Tattersall, P.
@@ -938,6 +963,14 @@ Cziepluch, C., Lampel, S., Grewenig, A., Grund, C., Lichter, P., and
   virus-induced nuclear structure}.
 \newblock \emph{J. Virol.}, 74\penalty0 (10):\penalty0 4807--4815, May 2000.
 
+\bibitem[D'Abramo et~al.(2005)D'Abramo, Ali, Wang, Cotmore, and
+  Tattersall]{pmid16039688}
+D'Abramo, A.~M., Ali, A.~A., Wang, F., Cotmore, S.~F., and Tattersall, P.
+\newblock {{H}ost range mutants of {M}inute {V}irus of {M}ice with a single
+  {V}{P}2 amino acid change require additional silent mutations that regulate
+  {N}{S}2 accumulation}.
+\newblock \emph{Virology}, 340\penalty0 (1):\penalty0 143--154, Sep 2005.
+
 \bibitem[Daigle et~al.(2001)Daigle, Beaudouin, Hartnell, Imreh, Hallberg,
   Lippincott-Schwartz, and Ellenberg]{pmid11448991}
 Daigle, N., Beaudouin, J., Hartnell, L., Imreh, G., Hallberg, E.,
@@ -1010,6 +1043,14 @@ Di~Piazza, M., Mader, C., Geletneky, K., Herrero Y~Calle, M., Weber, E.,
   cells}.
 \newblock \emph{J. Virol.}, 81\penalty0 (8):\penalty0 4186--4198, Apr 2007.
 
+\bibitem[Dimcheff et~al.(2003)Dimcheff, Askovic, Baker, Johnson-Fowler, and
+  Portis]{pmid14610184}
+Dimcheff, D.~E., Askovic, S., Baker, A.~H., Johnson-Fowler, C., and Portis,
+  J.~L.
+\newblock {{E}ndoplasmic reticulum stress is a determinant of
+  retrovirus-induced spongiform neurodegeneration}.
+\newblock \emph{J. Virol.}, 77\penalty0 (23):\penalty0 12617--12629, Dec 2003.
+
 \bibitem[Ding et~al.(2005)Ding, Zhang, Yan, and Engelhardt]{pmid15829993}
 Ding, W., Zhang, L., Yan, Z., and Engelhardt, J.~F.
 \newblock {{I}ntracellular trafficking of adeno-associated viral vectors}.
@@ -1065,6 +1106,13 @@ Dworetzky, S.~I. and Feldherr, C.~M.
 \newblock {{T}ranslocation of {R}{N}{A}-coated gold particles through the
   nuclear pores of oocytes}.
 \newblock \emph{J. Cell Biol.}, 106\penalty0 (3):\penalty0 575--584, Mar 1988.
+
+\bibitem[Eichwald et~al.(2002)Eichwald, Daeffler, Klein, Rommelaere, and
+  Salome]{pmid12239307}
+Eichwald, V., Daeffler, L., Klein, M., Rommelaere, J., and Salome, N.
+\newblock {{T}he {N}{S}2 proteins of parvovirus minute virus of mice are
+  required for efficient nuclear egress of progeny virions in mouse cells}.
+\newblock \emph{J. Virol.}, 76\penalty0 (20):\penalty0 10307--10319, Oct 2002.
 
 \bibitem[Engelsma et~al.(2008)Engelsma, Valle, Fish, Salome, Almendral, and
   Fornerod]{pmid18385513}
@@ -1349,8 +1397,8 @@ Harrison, S.~C.
 Harrison, S.~C., Skehel, J.~J., and Wiley, D.~C.
 \newblock {V}irus structure.
 \newblock In Fields, B.~N., Knipe, D.~M., Howley, P.~M., Chanock, R.~M.,
-  Melnick, J.~L., Monath, T.~P., Roizman, B., and Straus, S.~E., editors,
-  \emph{{{F}undamental {V}irology.}}, pages 59--99. Lippincott-Raven Press,
+  Melnick, J.~L., Monath, T.~P., Roizman, B., and Straus, S.~E., eds.,
+  \emph{{{F}undamental {V}irology.}}, pp. 59--99. Lippincott-Raven Press,
   Philadelphia, PA, 1996.
 
 \bibitem[Hatanaka and Dulbecco(1966)]{pmid4291013}
@@ -1646,8 +1694,8 @@ Kleinschmidt, J.~A. and King, J.~A.
 \newblock {M}olecular interactions involved in assembling the viral particle
   and packaging the genome.
 \newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
-  Parrish, C.~R., editors, \emph{{{P}arvoviruses}}, pages 305--319. Hodder
-  Arnold, London, UK, 2006.
+  Parrish, C.~R., eds., \emph{{{P}arvoviruses}}, pp. 305--319. Hodder Arnold,
+  London, UK, 2006.
 
 \bibitem[Kontou et~al.(2005)Kontou, Govindasamy, Nam, Bryant, Llamas-Saiz,
   Foces-Foces, Hernando, Rubio, McKenna, Almendral, and
@@ -1815,6 +1863,13 @@ Li, X. and Rhode, S.~L.
   activation, and cytotoxicity}.
 \newblock \emph{J. Virol.}, 64\penalty0 (10):\penalty0 4654--4660, Oct 1990.
 
+\bibitem[Li et~al.(2005)Li, Lankinen, Putkuri, Vapalahti, and
+  Vaheri]{pmid15708603}
+Li, X.~D., Lankinen, H., Putkuri, N., Vapalahti, O., and Vaheri, A.
+\newblock {{T}ula hantavirus triggers pro-apoptotic signals of {E}{R} stress in
+  {V}ero {E}6 cells}.
+\newblock \emph{Virology}, 333\penalty0 (1):\penalty0 180--189, Mar 2005.
+
 \bibitem[Ling et~al.(2010)Ling, Lu, Kalsi, Jayandharan, Li, Ma, Cheng, Gee,
   McGoogan, Govindasamy, Zhong, Agbandje-McKenna, and Srivastava]{pmid20545554}
 Ling, C., Lu, Y., Kalsi, J.~K., Jayandharan, G.~R., Li, B., Ma, W., Cheng, B.,
@@ -1921,6 +1976,12 @@ Lou, S., Xu, B., Huang, Q., Zhi, N., Cheng, F., Wong, S., Brown, K., Delwart,
 \newblock {{M}olecular characterization of the newly identified human
   parvovirus 4 in the family {P}arvoviridae}.
 \newblock \emph{Virology}, 422\penalty0 (1):\penalty0 59--69, Jan 2012.
+
+\bibitem[Luby-Phelps(2000)]{pmid10553280}
+Luby-Phelps, K.
+\newblock {{C}ytoarchitecture and physical properties of cytoplasm: volume,
+  viscosity, diffusion, intracellular surface area}.
+\newblock \emph{Int. Rev. Cytol.}, 192:\penalty0 189--221, 2000.
 
 \bibitem[Lukashov and Goudsmit(2001)]{pmid11222696}
 Lukashov, V.~V. and Goudsmit, J.
@@ -2112,6 +2173,13 @@ Mingozzi, F. and High, K.~A.
 \newblock \emph{Nat. Rev. Genet.}, 12\penalty0 (5):\penalty0 341--355, May
   2011.
 
+\bibitem[Misaghi et~al.(2004)Misaghi, Sun, Stern, Gaudet, Wagner, and
+  Ploegh]{pmid14671122}
+Misaghi, S., Sun, Z.~Y., Stern, P., Gaudet, R., Wagner, G., and Ploegh, H.
+\newblock {{S}tructural and functional analysis of human cytomegalovirus
+  {U}{S}3 protein}.
+\newblock \emph{J. Virol.}, 78\penalty0 (1):\penalty0 413--423, Jan 2004.
+
 \bibitem[Mizukami et~al.(1996)Mizukami, Young, and Brown]{pmid8599196}
 Mizukami, H., Young, N.~S., and Brown, K.~E.
 \newblock {{A}deno-associated virus type 2 binds to a 150-kilodalton cell
@@ -2178,9 +2246,9 @@ Munakata, Y., Saito-Ito, T., Kumura-Ishii, K., Huang, J., Kodera, T., Ishii,
 \bibitem[Muzyczka and Berns(2001)]{telomere3}
 Muzyczka, N. and Berns, K.~I.
 \newblock {P}arvoviridae: the viruses and their replication.
-\newblock In Knipe, D.~M. and Howley, P.~M., editors, \emph{{{F}ields
-  virology}}, pages 2327--2359. Lippincott Williams and Wilkins, Philadelphia,
-  PA, 4 ed., 2001.
+\newblock In Knipe, D.~M. and Howley, P.~M., eds., \emph{{{F}ields virology}},
+  pp. 2327--2359. Lippincott Williams and Wilkins, Philadelphia, PA, 4 edition,
+  2001.
 
 \bibitem[Nachury and Weis(1999)]{pmid10449743}
 Nachury, M.~V. and Weis, K.
@@ -2204,6 +2272,12 @@ Naeger, L.~K., Schoborg, R.~V., Zhao, Q., Tullis, G.~E., and Pintel, D.~J.
   product}.
 \newblock \emph{Genes Dev.}, 6\penalty0 (6):\penalty0 1107--1119, Jun 1992.
 
+\bibitem[Naeger et~al.(1993)Naeger, Salome, and Pintel]{pmid8419637}
+Naeger, L.~K., Salome, N., and Pintel, D.~J.
+\newblock {{N}{S}2 is required for efficient translation of viral m{R}{N}{A} in
+  minute virus of mice-infected murine cells}.
+\newblock \emph{J. Virol.}, 67\penalty0 (2):\penalty0 1034--1043, Feb 1993.
+
 \bibitem[Nam et~al.(2006)Nam, Gurda-Whitaker, Gan, Ilaria, McKenna, Mehta,
   Alvarez, and Agbandje-McKenna]{pmid16822863}
 Nam, H.~J., Gurda-Whitaker, B., Gan, W.~Y., Ilaria, S., McKenna, R., Mehta, P.,
@@ -2218,8 +2292,8 @@ Nüesch, J.~P.
 \newblock {R}egulation of non-structural protein functions by differential
   synthesis, modification and trafficking.
 \newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
-  Parrish, C.~R., editors, \emph{{{P}arvoviruses}}, pages 275--289. Hodder
-  Arnold, London, UK, 2006.
+  Parrish, C.~R., eds., \emph{{{P}arvoviruses}}, pp. 275--289. Hodder Arnold,
+  London, UK, 2006.
 
 \bibitem[Nüesch and Rommelaere(2006)]{pmid16641266}
 Nüesch, J.~P. and Rommelaere, J.
@@ -2392,6 +2466,14 @@ Paradiso, P.~R., Williams, K.~R., and Costantino, R.~L.
   protein}.
 \newblock \emph{J. Virol.}, 52\penalty0 (1):\penalty0 77--81, Oct 1984.
 
+\bibitem[Park et~al.(2004)Park, Kim, Shin, Lee, Cho, Fruh, Lee, and
+  Ahn]{pmid14738766}
+Park, B., Kim, Y., Shin, J., Lee, S., Cho, K., Fruh, K., Lee, S., and Ahn, K.
+\newblock {{H}uman cytomegalovirus inhibits tapasin-dependent peptide loading
+  and optimization of the {M}{H}{C} class {I} peptide cargo for immune
+  evasion}.
+\newblock \emph{Immunity}, 20\penalty0 (1):\penalty0 71--85, Jan 2004.
+
 \bibitem[Park et~al.(2005)Park, Best, and Bloom]{pmid16040076}
 Park, G.~S., Best, S.~M., and Bloom, M.~E.
 \newblock {{T}wo mink parvoviruses use different cellular receptors for entry
@@ -2544,8 +2626,8 @@ Qiu, J., Cheng, F., Johnson, F.~B., and Pintel, D.
 Qui, J., Yoto, Y., Tullis, G., and Pintel, D.~J.
 \newblock {P}arvovirus {R}{N}{A} processing strategies.
 \newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
-  Parrish, C.~R., editors, \emph{{{P}arvoviruses}}, pages 253--273. Hodder
-  Arnold, London, UK, 2006.
+  Parrish, C.~R., eds., \emph{{{P}arvoviruses}}, pp. 253--273. Hodder Arnold,
+  London, UK, 2006.
 
 \bibitem[Ramirez et~al.(1996)Ramirez, Fairen, and Almendral]{pmid8892936}
 Ramirez, J.~C., Fairen, A., and Almendral, J.~M.
@@ -2595,6 +2677,12 @@ Ron, D. and Tal, J.
 \newblock {{S}pontaneous curing of a minute virus of mice carrier state by
   selection of cells with an intracellular block of viral replication}.
 \newblock \emph{J. Virol.}, 58\penalty0 (1):\penalty0 26--30, Apr 1986.
+
+\bibitem[Ros and Kempf(2004)]{pmid15207621}
+Ros, C. and Kempf, C.
+\newblock {{T}he ubiquitin-proteasome machinery is essential for nuclear
+  translocation of incoming minute virus of mice}.
+\newblock \emph{Virology}, 324\penalty0 (2):\penalty0 350--360, Jul 2004.
 
 \bibitem[Ros et~al.(2002)Ros, Burckhardt, and Kempf]{pmid12438589}
 Ros, C., Burckhardt, C.~J., and Kempf, C.
@@ -2742,6 +2830,12 @@ Seisenberger, G., Ried, M.~U., Endress, T., Buning, H., Hallek, M., and
 \newblock {{R}eal-time single-molecule imaging of the infection pathway of an
   adeno-associated virus}.
 \newblock \emph{Science}, 294\penalty0 (5548):\penalty0 1929--1932, Nov 2001.
+
+\bibitem[Seksek et~al.(1997)Seksek, Biwersi, and Verkman]{pmid9214387}
+Seksek, O., Biwersi, J., and Verkman, A.~S.
+\newblock {{T}ranslational diffusion of macromolecule-sized solutes in
+  cytoplasm and nucleus}.
+\newblock \emph{J. Cell Biol.}, 138\penalty0 (1):\penalty0 131--142, Jul 1997.
 
 \bibitem[Shackelton and Holmes(2006)]{pmid16537636}
 Shackelton, L.~A. and Holmes, E.~C.
@@ -2894,6 +2988,20 @@ Streck, A.~F., Bonatto, S.~L., Homeier, T., Souza, C.~K., Goncalves, K.~R.,
 \newblock \emph{J. Gen. Virol.}, 92\penalty0 (Pt 11):\penalty0 2628--2636, Nov
   2011.
 
+\bibitem[Su et~al.(2002)Su, Liao, and Lin]{pmid11932381}
+Su, H.~L., Liao, C.~L., and Lin, Y.~L.
+\newblock {{J}apanese encephalitis virus infection initiates endoplasmic
+  reticulum stress and an unfolded protein response}.
+\newblock \emph{J. Virol.}, 76\penalty0 (9):\penalty0 4162--4171, May 2002.
+
+\bibitem[Suikkanen et~al.(2002)Suikkanen, Saajarvi, Hirsimaki, Valilehto,
+  Reunanen, Vihinen-Ranta, and Vuento]{pmid11932407}
+Suikkanen, S., Saajarvi, K., Hirsimaki, J., Valilehto, O., Reunanen, H.,
+  Vihinen-Ranta, M., and Vuento, M.
+\newblock {{R}ole of recycling endosomes and lysosomes in dynein-dependent
+  entry of canine parvovirus}.
+\newblock \emph{J. Virol.}, 76\penalty0 (9):\penalty0 4401--4411, May 2002.
+
 \bibitem[Suikkanen et~al.(2003{\natexlab{a}})Suikkanen, Aaltonen, Nevalainen,
   Valilehto, Lindholm, Vuento, and Vihinen-Ranta]{pmid12970411}
 Suikkanen, S., Aaltonen, T., Nevalainen, M., Valilehto, O., Lindholm, L.,
@@ -2923,6 +3031,13 @@ Summerford, C., Bartlett, J.~S., and Samulski, R.~J.
   co-receptor for adeno-associated virus type 2 infection}.
 \newblock \emph{Nat. Med.}, 5\penalty0 (1):\penalty0 78--82, Jan 1999.
 
+\bibitem[Tardif et~al.(2004)Tardif, Mori, Kaufman, and Siddiqui]{pmid14960590}
+Tardif, K.~D., Mori, K., Kaufman, R.~J., and Siddiqui, A.
+\newblock {{H}epatitis {C} virus suppresses the {I}{R}{E}1-{X}{B}{P}1 pathway
+  of the unfolded protein response}.
+\newblock \emph{J. Biol. Chem.}, 279\penalty0 (17):\penalty0 17158--17164, Apr
+  2004.
+
 \bibitem[Tattersall(1972)]{pmid4673484}
 Tattersall, P.
 \newblock {{R}eplication of the parvovirus {M}{V}{M}. {I}. {D}ependence of
@@ -2933,8 +3048,8 @@ Tattersall, P.
 Tattersall, P.
 \newblock {T}he evolution of parvovirus taxonomy.
 \newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
-  Parrish, C.~R., editors, \emph{{{P}arvoviruses}}, page~9. Hodder Arnold,
-  London, UK, 2006.
+  Parrish, C.~R., eds., \emph{{{P}arvoviruses}}, p.~9. Hodder Arnold, London,
+  UK, 2006.
 
 \bibitem[Tattersall and Bratton(1983)]{pmid6602222}
 Tattersall, P. and Bratton, J.
@@ -2945,14 +3060,14 @@ Tattersall, P. and Bratton, J.
 \bibitem[Tattersall and Cotmore(1988)]{NPC}
 Tattersall, P. and Cotmore, S.~F.
 \newblock {T}he nature of parvoviruses.
-\newblock In Pattison, J.~R., editor, \emph{{{P}arvoviruses and {H}uman
-  {D}iseases}}, pages 5--41. CRC Press, Inc., Boca Raton, FL, 1988.
+\newblock In Pattison, J.~R., ed., \emph{{{P}arvoviruses and {H}uman
+  {D}iseases}}, pp. 5--41. CRC Press, Inc., Boca Raton, FL, 1988.
 
 \bibitem[Tattersall and Gardiner(1990)]{S-phase}
 Tattersall, P. and Gardiner, E.~M.
 \newblock {A}utonomous parvovirus-host-cell interactions.
-\newblock In Tijssen, P., editor, \emph{{{H}andbook of parvoviruses}},
-  volume~1, pages 111--121. CRC Press, Inc., Boca Raton, FL, 1990.
+\newblock In Tijssen, P., ed., \emph{{{H}andbook of parvoviruses}}, vol.~1, pp.
+  111--121. CRC Press, Inc., Boca Raton, FL, 1990.
 
 \bibitem[Tattersall and Ward(1976)]{pmid967244}
 Tattersall, P. and Ward, D.~C.
@@ -2963,8 +3078,8 @@ Tattersall, P. and Ward, D.~C.
 \bibitem[Tattersall and Ward(1978)]{Genome1}
 Tattersall, P. and Ward, D.~C.
 \newblock {T}he parvoviruses - an introduction.
-\newblock In Ward, D.~C. and Tattersall, P., editors, \emph{{{R}eplication of
-  mammalian parvoviruses.}}, pages 3--12. Cold Spring Harbor Laboratory Press,
+\newblock In Ward, D.~C. and Tattersall, P., eds., \emph{{{R}eplication of
+  mammalian parvoviruses.}}, pp. 3--12. Cold Spring Harbor Laboratory Press,
   Cold Spring Harbor, NY, 1978.
 
 \bibitem[Tattersall et~al.(1976)Tattersall, Cawte, Shatkin, and
@@ -2993,7 +3108,7 @@ Thacker, T.~C. and Johnson, F.~B.
 
 \bibitem[Tijssen(1990)]{handbook}
 Tijssen, P.
-\newblock \emph{{{H}andbook of parvoviruses}}, volume~1.
+\newblock \emph{{{H}andbook of parvoviruses}}, vol.~1.
 \newblock CRC Press, Inc., Boca Raton, FL, 1990.
 
 \bibitem[Tijssen(1999)]{pmid10497831}
@@ -3007,8 +3122,8 @@ Tijssen, P., Szelei, J., and Zádori, Z.
 \newblock {P}hospholipase {A}\textsubscript{2} domains in structural proteins
   of parvoviruses.
 \newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
-  Parrish, C.~R., editors, \emph{{{P}arvoviruses}}, pages 95--105. Hodder
-  Arnold, London, UK, 2006.
+  Parrish, C.~R., eds., \emph{{{P}arvoviruses}}, pp. 95--105. Hodder Arnold,
+  London, UK, 2006.
 
 \bibitem[Trampel et~al.(1983)Trampel, Kinden, Solorzano, and
   Stogsdill]{pmid6847550}
@@ -3070,8 +3185,8 @@ Valle, N., Riolobos, L., and Almendral, J.~M.
 \newblock {S}ynthesis, post-translational modification and trafficking of the
   parvovirus structural polypeptides.
 \newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
-  Parrish, C.~R., editors, \emph{{{P}arvoviruses}}, pages 291--304. Hodder
-  Arnold, London, UK, 2006.
+  Parrish, C.~R., eds., \emph{{{P}arvoviruses}}, pp. 291--304. Hodder Arnold,
+  London, UK, 2006.
 
 \bibitem[van Leengoed et~al.(1983)van Leengoed, Vos, Gruys, Rondhuis, and
   Brand]{pmid6314634}
@@ -3175,9 +3290,9 @@ Wang, X.~S., Qing, K., Ponnazhagan, S., and Srivastava, A.
 \bibitem[Ward and Tattersall(1982)]{Genome2}
 Ward, D.~C. and Tattersall, P.
 \newblock {M}inute virus of mice.
-\newblock In Foster, H.~L., Small, J.~D., and Fox, J.~G., editors, \emph{{{T}he
-  mouse in biomedical research}}, volume~2, pages 313--334. Academic Press,
-  Inc., New York, NY, 1982.
+\newblock In Foster, H.~L., Small, J.~D., and Fox, J.~G., eds., \emph{{{T}he
+  mouse in biomedical research}}, vol.~2, pp. 313--334. Academic Press, Inc.,
+  New York, NY, 1982.
 
 \bibitem[Weichert et~al.(1998)Weichert, Parker, Wahid, Chang, Meier, and
   Parrish]{pmid9770425}
@@ -3293,7 +3408,7 @@ Wilson, G.~M., Jindal, H.~K., Yeung, D.~E., Chen, W., and Astell, C.~R.
 \newblock \emph{Virology}, 185\penalty0 (1):\penalty0 90--98, Nov 1991.
 
 \bibitem[Wimmer(1994)]{Receptor}
-Wimmer, E., editor.
+Wimmer, E., ed.
 \newblock \emph{{{C}ellular receptors for animal viruses.}}
 \newblock Cold Spring Harbor Press, Cold Spring Harbor, NY, 1994.
 
@@ -3377,6 +3492,14 @@ Xie, Q., Bu, W., Bhatia, S., Hare, J., Somasundaram, T., Azzi, A., and Chapman,
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 99\penalty0 (16):\penalty0
   10405--10410, Aug 2002.
 
+\bibitem[Yan et~al.(2002)Yan, Zak, Luxton, Ritchie, Bantel-Schaal, and
+  Engelhardt]{pmid11836382}
+Yan, Z., Zak, R., Luxton, G.~W., Ritchie, T.~C., Bantel-Schaal, U., and
+  Engelhardt, J.~F.
+\newblock {{U}biquitination of both adeno-associated virus type 2 and 5 capsid
+  proteins affects the transduction efficiency of recombinant vectors}.
+\newblock \emph{J. Virol.}, 76\penalty0 (5):\penalty0 2043--2053, Mar 2002.
+
 \bibitem[Young et~al.(2002)Young, Jensen, Burger, Pintel, and
   Lorson]{pmid11907229}
 Young, P.~J., Jensen, K.~T., Burger, L.~R., Pintel, D.~J., and Lorson, C.~L.
@@ -3428,6 +3551,28 @@ Zhao, Q., Mathur, S., Burger, L.~R., and Pintel, D.~J.
   steady-state {R}{N}{A}}.
 \newblock \emph{J. Virol.}, 69\penalty0 (9):\penalty0 5864--5868, Sep
   1995{\natexlab{b}}.
+
+\bibitem[Zhong et~al.(2008{\natexlab{a}})Zhong, Li, Jayandharan, Mah,
+  Govindasamy, Agbandje-McKenna, Herzog, Weigel-Van~Aken, Hobbs, Zolotukhin,
+  Muzyczka, and Srivastava]{pmid18834608}
+Zhong, L., Li, B., Jayandharan, G., Mah, C.~S., Govindasamy, L.,
+  Agbandje-McKenna, M., Herzog, R.~W., Weigel-Van~Aken, K.~A., Hobbs, J.~A.,
+  Zolotukhin, S., Muzyczka, N., and Srivastava, A.
+\newblock {{T}yrosine-phosphorylation of {A}{A}{V}2 vectors and its
+  consequences on viral intracellular trafficking and transgene expression}.
+\newblock \emph{Virology}, 381\penalty0 (2):\penalty0 194--202, Nov
+  2008{\natexlab{a}}.
+
+\bibitem[Zhong et~al.(2008{\natexlab{b}})Zhong, Li, Mah, Govindasamy,
+  Agbandje-McKenna, Cooper, Herzog, Zolotukhin, Warrington, Weigel-Van~Aken,
+  Hobbs, Zolotukhin, Muzyczka, and Srivastava]{pmid18511559}
+Zhong, L., Li, B., Mah, C.~S., Govindasamy, L., Agbandje-McKenna, M., Cooper,
+  M., Herzog, R.~W., Zolotukhin, I., Warrington, K.~H., Weigel-Van~Aken, K.~A.,
+  Hobbs, J.~A., Zolotukhin, S., Muzyczka, N., and Srivastava, A.
+\newblock {{N}ext generation of adeno-associated virus 2 vectors: point
+  mutations in tyrosines lead to high-efficiency transduction at lower doses}.
+\newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 105\penalty0 (22):\penalty0
+  7827--7832, Jun 2008{\natexlab{b}}.
 
 \bibitem[Zlotnick and Mukhopadhyay(2011)]{pmid21163649}
 Zlotnick, A. and Mukhopadhyay, S.

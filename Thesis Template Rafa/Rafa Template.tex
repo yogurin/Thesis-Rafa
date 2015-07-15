@@ -13,7 +13,7 @@
 %	PREAMBLE: PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
-\documentclass[11pt, numbers=noenddot, titlepage, a4paper, twoside, onecolumn, DIV=calc]{scrbook} % Paper size, default font size and one-sided paper
+\documentclass[11pt, titlepage, a4paper, twoside, onecolumn, DIV=calc]{scrbook} % Paper size, default font size and one-sided paper ( numbers=noenddot, falls kein punkt erwünscht nach Kapitelnummer)
 
 
 \usepackage[ngerman,english]{babel}		%language
@@ -151,7 +151,7 @@
  % Finally, use the "fancy" page style to implement the FancyHdr headers
 
 
-\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
+
 \pagenumbering{Roman} %Uppercase roman numbering
 \setstretch{1.3} % Line spacing of 1.3
 
@@ -197,7 +197,8 @@ Departement für Chemie und Biochemie}}
 %----------------------------------------------------------------------------------------
 %	ABSTRACT PAGE
 %----------------------------------------------------------------------------------------
-\pagestyle{plain} 
+\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
+\thispagestyle{plain} 
 
 \phantomsection\addcontentsline{toc}{chapter}{Abstract}
 \addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
