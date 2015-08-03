@@ -1,4 +1,4 @@
-\begin{thebibliography}{510}
+\begin{thebibliography}{512}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -373,6 +373,13 @@ Blumel, J., Schmidt, I., Willkommen, H., and Lower, J.
 \newblock {{I}nactivation of parvovirus {B}19 during pasteurization of human
   serum albumin}.
 \newblock \emph{Transfusion}, 42\penalty0 (8):\penalty0 1011--1018, Aug 2002.
+
+\bibitem[Bönsch et~al.(2010)Bönsch, Zuercher, Lieby, Kempf, and
+  Ros]{pmid20826697}
+Bönsch, C., Zuercher, C., Lieby, P., Kempf, C., and Ros, C.
+\newblock {{T}he globoside receptor triggers structural changes in the {B}19
+  virus capsid that facilitate virus internalization}.
+\newblock \emph{J. Virol.}, 84\penalty0 (22):\penalty0 11737--11746, Nov 2010.
 
 \bibitem[Bodendorf et~al.(1999)Bodendorf, Cziepluch, Jauniaux, Rommelaere, and
   Salome]{pmid10438867}
@@ -2024,6 +2031,11 @@ Ma, X., Endo, R., Ishiguro, N., Ebihara, T., Ishiko, H., Ariga, T., and Kikuta,
   respiratory tract infections}.
 \newblock \emph{J. Clin. Microbiol.}, 44\penalty0 (3):\penalty0 1132--1134, Mar
   2006.
+
+\bibitem[Madadlou et~al.(2011)Madadlou, O'Sullivan, and Sheehan]{pmid20978981}
+Madadlou, A., O'Sullivan, S., and Sheehan, D.
+\newblock {{F}ast protein liquid chromatography}.
+\newblock \emph{Methods Mol. Biol.}, 681:\penalty0 439--447, 2011.
 
 \bibitem[Mani et~al.(2006)Mani, Baltzer, Valle, Almendral, Kempf, and
   Ros]{pmid16379002}
