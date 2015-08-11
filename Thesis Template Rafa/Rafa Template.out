@@ -15,10 +15,10 @@
 \BOOKMARK [2][-]{subsection.2.1.8}{Tetraparvovirus}{section.2.1}% 15
 \BOOKMARK [0][-]{chapter.3}{Morphology}{part.1}% 16
 \BOOKMARK [0][-]{chapter.4}{The rugged virion}{part.1}% 17
-\BOOKMARK [1][-]{section.4.1}{Physicochemical properties}{chapter.4}% 18
-\BOOKMARK [1][-]{section.4.2}{Atomic model}{chapter.4}% 19
-\BOOKMARK [1][-]{section.4.3}{Structural proteins}{chapter.4}% 20
-\BOOKMARK [1][-]{section.4.4}{Functional domains}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.1}{Physicochemical Properties}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.2}{Atomic Model}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.3}{Structural Proteins}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.4}{Functional Domains}{chapter.4}% 21
 \BOOKMARK [2][-]{subsection.4.4.1}{The Phospholipase A2 \(PLA2\) Motif}{section.4.4}% 22
 \BOOKMARK [2][-]{subsection.4.4.2}{The Nuclear Localization Signal \(NLS\)}{section.4.4}% 23
 \BOOKMARK [2][-]{subsection.4.4.3}{The Nuclear Localization Motif \(NLM\)}{section.4.4}% 24
@@ -37,8 +37,8 @@
 \BOOKMARK [1][-]{section.7.4}{Endosomal Escape}{chapter.7}% 37
 \BOOKMARK [1][-]{section.7.5}{Cytosolic Trafficking and Interactions with the Proteasome}{chapter.7}% 38
 \BOOKMARK [1][-]{section.7.6}{Nuclear Targeting}{chapter.7}% 39
-\BOOKMARK [2][-]{subsection.7.6.1}{Nuclear translocation of the incoming virion}{section.7.6}% 40
-\BOOKMARK [2][-]{subsection.7.6.2}{Nuclear translocation of the structural proteins}{section.7.6}% 41
+\BOOKMARK [2][-]{subsection.7.6.1}{Nuclear Translocation of the Incoming Virion}{section.7.6}% 40
+\BOOKMARK [2][-]{subsection.7.6.2}{Nuclear Translocation of the Structural Proteins}{section.7.6}% 41
 \BOOKMARK [1][-]{section.7.7}{Non-structural \(NS\) proteins}{chapter.7}% 42
 \BOOKMARK [2][-]{subsection.7.7.1}{Non-structural portein 1 \(NS1\)}{section.7.7}% 43
 \BOOKMARK [2][-]{subsection.7.7.2}{Non-structural protein 2 \(NS2\)}{section.7.7}% 44
@@ -62,37 +62,44 @@
 \BOOKMARK [1][-]{section.9.4}{Fast protein liquid chromatography \(FPLC\)}{chapter.9}% 62
 \BOOKMARK [2][-]{subsection.9.4.1}{Anion-exchange chromatography \(AEX\)}{section.9.4}% 63
 \BOOKMARK [2][-]{subsection.9.4.2}{Chromatofocusing \(CF\)}{section.9.4}% 64
-\BOOKMARK [1][-]{section.9.5}{Quantitative PCR}{chapter.9}% 65
+\BOOKMARK [1][-]{section.9.5}{Quantitative PCR \(qPCR\)}{chapter.9}% 65
 \BOOKMARK [1][-]{section.9.6}{Virus infection}{chapter.9}% 66
 \BOOKMARK [1][-]{section.9.7}{Transfection}{chapter.9}% 67
 \BOOKMARK [1][-]{section.9.8}{Cell fractionation}{chapter.9}% 68
 \BOOKMARK [2][-]{subsection.9.8.1}{Nuclei isolation}{section.9.8}% 69
 \BOOKMARK [2][-]{subsection.9.8.2}{Extraction of the cytoplasm}{section.9.8}% 70
-\BOOKMARK [1][-]{section.9.9}{Immunoprecipitation}{chapter.9}% 71
+\BOOKMARK [1][-]{section.9.9}{Immunoprecipitation \(IP\)}{chapter.9}% 71
 \BOOKMARK [1][-]{section.9.10}{Dot Blot}{chapter.9}% 72
-\BOOKMARK [1][-]{section.9.11}{SDS-PAGE and Western blotting}{chapter.9}% 73
+\BOOKMARK [1][-]{section.9.11}{SDS-PAGE and Western blotting \(WB\)}{chapter.9}% 73
 \BOOKMARK [1][-]{section.9.12}{Enzymatic reactions}{chapter.9}% 74
 \BOOKMARK [-1][-]{part.3}{Publication}{}% 75
 \BOOKMARK [0][-]{chapter.1}{Wolfisberg et al., Journal of Virological Methods, 2013}{part.3}% 76
 \BOOKMARK [1][-]{section*.19}{Impaired genome encapsidation restricts the in vitro propagation of human parvovirus B19.}{chapter.1}% 77
-\BOOKMARK [-1][-]{part.4}{Discussion}{}% 78
-\BOOKMARK [0][-]{chapter.2}{Discussion}{part.4}% 79
-\BOOKMARK [-1][-]{part.5}{Appendix}{}% 80
-\BOOKMARK [0][-]{chapter.9}{Materials}{part.5}% 81
-\BOOKMARK [1][-]{section.9.1}{Infectious clone of MVMp \(pIC\137MVMp\)}{chapter.9}% 82
-\BOOKMARK [2][-]{subsection.9.1.1}{Plasmid map of pIC\137MVMp}{section.9.1}% 83
-\BOOKMARK [2][-]{subsection.9.1.2}{Complete sequence of pIC\137MVMp}{section.9.1}% 84
-\BOOKMARK [1][-]{section.9.2}{Chemicals and compounds}{chapter.9}% 85
-\BOOKMARK [1][-]{section.9.3}{Buffers}{chapter.9}% 86
-\BOOKMARK [2][-]{subsection.9.3.1}{General buffers}{section.9.3}% 87
-\BOOKMARK [2][-]{subsection.9.3.2}{Chromatography buffers}{section.9.3}% 88
-\BOOKMARK [2][-]{subsection.9.3.3}{Agarose gel electrophoresis}{section.9.3}% 89
-\BOOKMARK [2][-]{subsection.9.3.4}{Western blot}{section.9.3}% 90
-\BOOKMARK [1][-]{section.9.4}{Kits}{chapter.9}% 91
-\BOOKMARK [1][-]{section.9.5}{Enzymes}{chapter.9}% 92
-\BOOKMARK [1][-]{section.9.6}{Antibodies}{chapter.9}% 93
-\BOOKMARK [2][-]{subsection.9.6.1}{Primary antibodies}{section.9.6}% 94
-\BOOKMARK [2][-]{subsection.9.6.2}{Secondary antibodies}{section.9.6}% 95
-\BOOKMARK [1][-]{section.9.7}{Media}{chapter.9}% 96
-\BOOKMARK [0][-]{section*.33}{Bibliography}{part.5}% 97
-\BOOKMARK [0][-]{section*.34}{Declaration}{part.5}% 98
+\BOOKMARK [-1][-]{part.4}{Results}{}% 78
+\BOOKMARK [0][-]{chapter.2}{Results}{part.4}% 79
+\BOOKMARK [1][-]{section.2.1}{Comparison of ECs and FCs in early virus infection}{chapter.2}% 80
+\BOOKMARK [2][-]{subsection.2.1.1}{Both FC and EC bind specifically to SA residues on the cell surface}{section.2.1}% 81
+\BOOKMARK [2][-]{subsection.2.1.2}{EC and FC exhibit morphological differences}{section.2.1}% 82
+\BOOKMARK [2][-]{subsection.2.1.3}{FC are preferentially bound to the SA residues on the cell surface}{section.2.1}% 83
+\BOOKMARK [2][-]{subsection.2.1.4}{EC do not compete with FC for cell surface receptors}{section.2.1}% 84
+\BOOKMARK [-1][-]{part.5}{Discussion}{}% 85
+\BOOKMARK [0][-]{chapter.3}{Discussion}{part.5}% 86
+\BOOKMARK [-1][-]{part.6}{Appendix}{}% 87
+\BOOKMARK [0][-]{chapter.9}{Materials}{part.6}% 88
+\BOOKMARK [1][-]{section.9.1}{Infectious clone of MVMp \(pIC\137MVMp\)}{chapter.9}% 89
+\BOOKMARK [2][-]{subsection.9.1.1}{Plasmid map of pIC\137MVMp}{section.9.1}% 90
+\BOOKMARK [2][-]{subsection.9.1.2}{Complete sequence of pIC\137MVMp}{section.9.1}% 91
+\BOOKMARK [1][-]{section.9.2}{Chemicals and compounds}{chapter.9}% 92
+\BOOKMARK [1][-]{section.9.3}{Buffers}{chapter.9}% 93
+\BOOKMARK [2][-]{subsection.9.3.1}{General buffers}{section.9.3}% 94
+\BOOKMARK [2][-]{subsection.9.3.2}{Chromatography buffers}{section.9.3}% 95
+\BOOKMARK [2][-]{subsection.9.3.3}{Agarose gel electrophoresis}{section.9.3}% 96
+\BOOKMARK [2][-]{subsection.9.3.4}{Western blot}{section.9.3}% 97
+\BOOKMARK [1][-]{section.9.4}{Kits}{chapter.9}% 98
+\BOOKMARK [1][-]{section.9.5}{Enzymes}{chapter.9}% 99
+\BOOKMARK [1][-]{section.9.6}{Antibodies}{chapter.9}% 100
+\BOOKMARK [2][-]{subsection.9.6.1}{Primary antibodies}{section.9.6}% 101
+\BOOKMARK [2][-]{subsection.9.6.2}{Secondary antibodies}{section.9.6}% 102
+\BOOKMARK [1][-]{section.9.7}{Media}{chapter.9}% 103
+\BOOKMARK [0][-]{section*.33}{Bibliography}{part.6}% 104
+\BOOKMARK [0][-]{section*.34}{Declaration}{part.6}% 105
