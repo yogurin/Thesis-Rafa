@@ -107,7 +107,7 @@
 \contentsline {subsection}{\numberline {9.6.1}Primary antibodies}{103}{subsection.9.6.1}
 \contentsline {subsection}{\numberline {9.6.2}Secondary antibodies}{104}{subsection.9.6.2}
 \contentsline {section}{\numberline {9.7}Media}{104}{section.9.7}
-\contentsline {chapter}{Bibliography}{107}{section*.33}
+\contentsline {chapter}{Bibliography}{105}{section*.33}
 \vspace {1em}
-\contentsline {chapter}{Declaration}{131}{section*.34}
+\contentsline {chapter}{Declaration}{129}{section*.34}
 \vspace {1em}

@@ -1,4 +1,4 @@
-\begin{thebibliography}{512}
+\begin{thebibliography}{513}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -1465,8 +1465,8 @@ Hoggan, M.~D., Maramorosch, K., and Kurstak, E.
 \newblock \emph{{{S}mall {D}{N}{A} viruses}}.
 \newblock Academic Press, New York, NY, 1971.
 
-\bibitem[HOLLAND(1961)]{pmid13908368}
-HOLLAND, J.~J.
+\bibitem[Holland(1961)]{pmid13908368}
+Holland, J.~J.
 \newblock {{R}eceptor affinities as major determinants of enterovirus tissue
   tropisms in humans}.
 \newblock \emph{Virology}, 15:\penalty0 312--326, Nov 1961.
@@ -1785,6 +1785,12 @@ Labieniec-Pintel, L. and Pintel, D.
 \newblock {{T}he minute virus of mice {P}39 transcription unit can encode both
   capsid proteins}.
 \newblock \emph{J. Virol.}, 57\penalty0 (3):\penalty0 1163--1167, Mar 1986.
+
+\bibitem[Laemmli(1970)]{pmid5432063}
+Laemmli, U.~K.
+\newblock {{C}leavage of structural proteins during the assembly of the head of
+  bacteriophage {T}4}.
+\newblock \emph{Nature}, 227\penalty0 (5259):\penalty0 680--685, Aug 1970.
 
 \bibitem[Lau et~al.(2008)Lau, Woo, Tse, Fu, Au, Chen, Tsoi, Tsang, Chan, Tsang,
   Li, Tse, Ng, Tsang, Zheng, Tam, Chan, Zhou, and Yuen]{pmid18632954}
