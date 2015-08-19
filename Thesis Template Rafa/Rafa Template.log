@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.4)  17 AUG 2015 11:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.4)  19 AUG 2015 18:18
 entering extended mode
 **Rafa*Template.tex
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.tex
@@ -1578,387 +1578,397 @@ Underfull \hbox (badness 10000) detected at line 34
 
 
 Underfull \hbox (badness 10000) detected at line 36
-[]| \T1/lmr/m/n/10.95 DMEM[]
+[]| \T1/lmr/m/n/10.95 DCB[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 38
-[]| \T1/lmr/m/n/10.95 DNA[]
+[]| \T1/lmr/m/n/10.95 DMEM[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 40
-[]| \T1/lmr/m/n/10.95 dRF[]
+[]| \T1/lmr/m/n/10.95 DNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 42
-[]| \T1/lmr/m/n/10.95 dsDNA[]
+[]| \T1/lmr/m/n/10.95 dRF[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 44
-[]| \T1/lmr/m/n/10.95 EC[]
+[]| \T1/lmr/m/n/10.95 dsDNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 46
-[]| \T1/lmr/m/n/10.95 EGFR[]
+[]| \T1/lmr/m/n/10.95 EC[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 48
-[]| \T1/lmr/m/n/10.95 EM[]
+[]| \T1/lmr/m/n/10.95 EGFR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 50
-[]| \T1/lmr/m/n/10.95 ER[]
+[]| \T1/lmr/m/n/10.95 EM[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 52
-[]| \T1/lmr/m/n/10.95 FC[]
+[]| \T1/lmr/m/n/10.95 ER[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 54
-[]| \T1/lmr/m/n/10.95 FCS[]
+[]| \T1/lmr/m/n/10.95 FC[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 56
-[]| \T1/lmr/m/n/10.95 FGFR1[]
+[]| \T1/lmr/m/n/10.95 FCS[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 58
-[]| \T1/lmr/m/n/10.95 FPV[]
+[]| \T1/lmr/m/n/10.95 FGFR1[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 60
-[]| \T1/lmr/m/n/10.95 Gb4Cer[]
+[]| \T1/lmr/m/n/10.95 FPV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 62
-[]| \T1/lmr/m/n/10.95 GmDNV[]
+[]| \T1/lmr/m/n/10.95 Gb4Cer[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 64
-[]| \T1/lmr/m/n/10.95 H1-PV[]
+[]| \T1/lmr/m/n/10.95 GmDNV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 66
-[]| \T1/lmr/m/n/10.95 HBoV[]
+[]| \T1/lmr/m/n/10.95 H1-PV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 68
-[]| \T1/lmr/m/n/10.95 HGFR[]
+[]| \T1/lmr/m/n/10.95 HBoV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 70
-[]| \T1/lmr/m/n/10.95 HIV[]
+[]| \T1/lmr/m/n/10.95 HGFR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 72
-[]| \T1/lmr/m/n/10.95 hpi[]
+[]| \T1/lmr/m/n/10.95 HIV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 74
-[]| \T1/lmr/m/n/10.95 HSPG[]
+[]| \T1/lmr/m/n/10.95 hpi[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 76
-[]| \T1/lmr/m/n/10.95 IF[]
+[]| \T1/lmr/m/n/10.95 HSPG[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 78
-[]| \T1/lmr/m/n/10.95 Ig[]
+[]| \T1/lmr/m/n/10.95 IF[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 80
-[]| \T1/lmr/m/n/10.95 IgG[]
+[]| \T1/lmr/m/n/10.95 Ig[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 82
-[]| \T1/lmr/m/n/10.95 IP[]
+[]| \T1/lmr/m/n/10.95 IgG[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 84
-[]| \T1/lmr/m/n/10.95 ITR[]
+[]| \T1/lmr/m/n/10.95 IP[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 86
+[]| \T1/lmr/m/n/10.95 ITR[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 88
 []| \T1/lmr/m/n/10.95 kb[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 87
+Underfull \hbox (badness 10000) detected at line 89
 []| \T1/lmr/m/n/10.95 kDa[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 89
+Underfull \hbox (badness 10000) detected at line 91
 []| \T1/lmr/m/n/10.95 LamR[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 91
+Underfull \hbox (badness 10000) detected at line 93
 []| \T1/lmr/m/n/10.95 LMB[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 93
+Underfull \hbox (badness 10000) detected at line 95
 []| \T1/lmr/m/n/10.95 m. u.[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 95
+Underfull \hbox (badness 10000) detected at line 97
 []| \T1/lmr/m/n/10.95 mAb[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 97
+Underfull \hbox (badness 10000) detected at line 99
 []| \T1/lmr/m/n/10.95 mRF[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 99
+Underfull \hbox (badness 10000) detected at line 101
 []| \T1/lmr/m/n/10.95 mRNA[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 101
+Underfull \hbox (badness 10000) detected at line 103
 []| \T1/lmr/m/n/10.95 MVM[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 103
+Underfull \hbox (badness 10000) detected at line 105
 []| \T1/lmr/m/n/10.95 MVMi[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 105
+Underfull \hbox (badness 10000) detected at line 107
 []| \T1/lmr/m/n/10.95 MVMp[]
  []
 
-
-Underfull \hbox (badness 10000) detected at line 107
+[7]
+Underfull \hbox (badness 10000) detected at line 109
 []| \T1/lmr/m/n/10.95 MW[]
  []
 
 
-Underfull \hbox (badness 10000) detected at line 109
-[]| \T1/lmr/m/n/10.95 ND[]
- []
-
-[7]
 Underfull \hbox (badness 10000) detected at line 111
-[]| \T1/lmr/m/n/10.95 NHP[]
+[]| \T1/lmr/m/n/10.95 ND[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 113
-[]| \T1/lmr/m/n/10.95 NIH[]
+[]| \T1/lmr/m/n/10.95 NHP[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 115
-[]| \T1/lmr/m/n/10.95 NLM[]
+[]| \T1/lmr/m/n/10.95 NIH[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 117
-[]| \T1/lmr/m/n/10.95 NLS[]
+[]| \T1/lmr/m/n/10.95 NLM[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 119
-[]| \T1/lmr/m/n/10.95 NPC[]
+[]| \T1/lmr/m/n/10.95 NLS[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 121
-[]| \T1/lmr/m/n/10.95 NS[]
+[]| \T1/lmr/m/n/10.95 NPC[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 123
-[]| \T1/lmr/m/n/10.95 nt[]
+[]| \T1/lmr/m/n/10.95 NS[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 125
-[]| \T1/lmr/m/n/10.95 ORF[]
+[]| \T1/lmr/m/n/10.95 nt[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 127
-[]| \T1/lmr/m/n/10.95 PARV4[]
+[]| \T1/lmr/m/n/10.95 ORF[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 129
-[]| \T1/lmr/m/n/10.95 PCNA[]
+[]| \T1/lmr/m/n/10.95 PARV4[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 131
-[]| \T1/lmr/m/n/10.95 PCR[]
+[]| \T1/lmr/m/n/10.95 PCNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 133
-[]| \T1/lmr/m/n/10.95 PDGFR[]
+[]| \T1/lmr/m/n/10.95 PCR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 135
-[]| \T1/lmr/m/n/10.95 PEC[]
+[]| \T1/lmr/m/n/10.95 PDGFR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 137
-[]| \T1/lmr/m/n/10.95 PEMS[]
+[]| \T1/lmr/m/n/10.95 PEC[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 139
-[]| \T1/lmr/m/n/10.95 PFU[]
+[]| \T1/lmr/m/n/10.95 PEMS[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 141
-[]| \T1/lmr/m/n/10.95 pI[]
+[]| \T1/lmr/m/n/10.95 PFU[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 143
-[]| \T1/lmr/m/n/10.95 PIF[]
+[]| \T1/lmr/m/n/10.95 pI[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 145
-[]| \T1/lmr/m/n/10.95 PLA$[]$[]
+[]| \T1/lmr/m/n/10.95 PIF[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 147
-[]| \T1/lmr/m/n/10.95 PPV[]
+[]| \T1/lmr/m/n/10.95 PLA$[]$[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 149
-[]| \T1/lmr/m/n/10.95 pre-mRNA[]
+[]| \T1/lmr/m/n/10.95 PPV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 151
-[]| \T1/lmr/m/n/10.95 PTM[]
+[]| \T1/lmr/m/n/10.95 pre-mRNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 153
-[]| \T1/lmr/m/n/10.95 qPCR[]
+[]| \T1/lmr/m/n/10.95 PTM[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 155
-[]| \T1/lmr/m/n/10.95 RF[]
+[]| \T1/lmr/m/n/10.95 qPCR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 157
-[]| \T1/lmr/m/n/10.95 RHR[]
+[]| \T1/lmr/m/n/10.95 RF[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 159
-[]| \T1/lmr/m/n/10.95 RNA[]
+[]| \T1/lmr/m/n/10.95 RHR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 161
-[]| \T1/lmr/m/n/10.95 RSS[]
+[]| \T1/lmr/m/n/10.95 RNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 163
-[]| \T1/lmr/m/n/10.95 SA[]
+[]| \T1/lmr/m/n/10.95 RSS[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 165
-[]| \T1/lmr/m/n/10.95 SAT[]
+[]| \T1/lmr/m/n/10.95 SA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 167
-[]| \T1/lmr/m/n/10.95 SCID[]
+[]| \T1/lmr/m/n/10.95 SAT[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 169
-[]| \T1/lmr/m/n/10.95 SN[]
+[]| \T1/lmr/m/n/10.95 SCID[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 171
-[]| \T1/lmr/m/n/10.95 sPLA$[]$[]
+[]| \T1/lmr/m/n/10.95 SN[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 173
-[]| \T1/lmr/m/n/10.95 ssDNA[]
+[]| \T1/lmr/m/n/10.95 sPLA$[]$[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 175
-[]| \T1/lmr/m/n/10.95 SV40[]
+[]| \T1/lmr/m/n/10.95 ssDNA[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 177
-[]| \T1/lmr/m/n/10.95 TfR[]
+[]| \T1/lmr/m/n/10.95 SV40[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 179
-[]| \T1/lmr/m/n/10.95 TGN[]
+[]| \T1/lmr/m/n/10.95 TfR[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 181
-[]| \T1/lmr/m/n/10.95 TuPV[]
+[]| \T1/lmr/m/n/10.95 TGN[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 183
-[]| \T1/lmr/m/n/10.95 VLP[]
+[]| \T1/lmr/m/n/10.95 TuPV[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 185
-[]| \T1/lmr/m/n/10.95 VP[]
+[]| \T1/lmr/m/n/10.95 VLP[]
  []
 
 
 Underfull \hbox (badness 10000) detected at line 187
+[]| \T1/lmr/m/n/10.95 VP[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 189
 []| \T1/lmr/m/n/10.95 VP1u[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 191
+[]| \T1/lmr/m/n/10.95 WB[]
  []
 
 ) [8]
@@ -3913,12 +3923,32 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 [128])
+("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\CV.tex"
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[129] <./Pictures/Rafa.jpg, id=3598, 257.96375pt x 363.3575pt>
+File: ./Pictures/Rafa.jpg Graphic file (type jpg)
+
+<use ./Pictures/Rafa.jpg>
+Package pdftex.def Info: ./Pictures/Rafa.jpg used on input line 39.
+(pdftex.def)             Requested size: 90.28865pt x 127.17702pt.
+
+Overfull \vbox (1.47849pt too high) has occurred while \output is active []
+
+
+[130 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/Rafa
+.jpg>])
+Overfull \vbox (1.47849pt too high) has occurred while \output is active []
+
+
+[131]
 
 pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/declaration.pdf): PDF inclusion: found PDF version <1.
 6>, but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/declaration.pdf, id=3593, 597.23125pt x 845.1575pt>
+<./Pictures/../pdfdocuments/declaration.pdf, id=3608, 597.23125pt x 845.1575pt>
 File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
 <use ./Pictures/../pdfdocuments/declaration.pdf>
 Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf used on inp
@@ -3945,7 +3975,7 @@ pdfTeX warning: pdflatex (file C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Te
 mplate Rafa/pdfdocuments/declaration.pdf): PDF inclusion: found PDF version <1.
 6>, but at most version <1.5> allowed
 
-<./Pictures/../pdfdocuments/declaration.pdf, id=3596, page=1, 597.23125pt x 845
+<./Pictures/../pdfdocuments/declaration.pdf, id=3611, page=1, 597.23125pt x 845
 .1575pt>
 File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
  <use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
@@ -3973,17 +4003,13 @@ Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
 
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 
-
-[129]
-Overfull \vbox (1.47849pt too high) has occurred while \output is active []
-
 File: ./Pictures/../pdfdocuments/declaration.pdf Graphic file (type pdf)
 
 <use ./Pictures/../pdfdocuments/declaration.pdf, page 1>
 Package pdftex.def Info: ./Pictures/../pdfdocuments/declaration.pdf, page1 used
  on input line 362.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [130 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
+ [132 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
 /declaration.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 368.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 368.
@@ -3997,10 +4023,10 @@ Package rerunfilecheck Info: File `Rafa*Template.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 368.
  ) 
 Here is how much of TeX's memory you used:
- 19972 strings out of 493921
- 322388 string characters out of 3147277
+ 19985 strings out of 493921
+ 322720 string characters out of 3147277
  570385 words of memory out of 3000000
- 21827 multiletter control sequences out of 15000+200000
+ 21834 multiletter control sequences out of 15000+200000
  178512 words of font info for 189 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  54i,19n,54p,4610b,1614s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -4038,9 +4064,9 @@ es/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/lm/lmssbo10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt9.pfb>
-Output written on "Rafa Template.pdf" (145 pages, 8575826 bytes).
+Output written on "Rafa Template.pdf" (147 pages, 8675717 bytes).
 PDF statistics:
- 3896 PDF objects out of 4296 (max. 8388607)
- 788 named destinations out of 1000 (max. 500000)
- 46564 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 3905 PDF objects out of 4296 (max. 8388607)
+ 790 named destinations out of 1000 (max. 500000)
+ 46569 words of extra memory for PDF output out of 51595 (max. 10000000)
 

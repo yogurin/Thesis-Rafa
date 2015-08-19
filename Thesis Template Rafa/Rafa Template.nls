@@ -32,9 +32,11 @@
   \item [{CRM1}]\begingroup Chromosome region maintenance 1\nomeqref {\relax 7.0}
 		\nompageref{44}
   \item [{CV}]\begingroup Column volume\nomeqref {\relax 9.0}
-		\nompageref{63}
-  \item [{DMEM}]\begingroup Dulbecco modified Eagle's medium\nomeqref {\relax 9.0}
 		\nompageref{61}
+  \item [{DCB}]\begingroup Department of Chemistry and Biochemistry\nomeqref {\relax 0}
+		\nompageref{v}
+  \item [{DMEM}]\begingroup Dulbecco modified Eagle's medium\nomeqref {\relax 9.0}
+		\nompageref{59}
   \item [{DNA}]\begingroup Deoxyribonucleic acid\nomeqref {\relax 3.0}
 		\nompageref{15}
   \item [{dRF}]\begingroup Dimeric replicative form DNA\nomeqref {\relax 7.0}
@@ -48,17 +50,17 @@
   \item [{EM}]\begingroup Electron microscopy\nomeqref {\relax 7.0}
 		\nompageref{47}
   \item [{ER}]\begingroup Endoplasmic reticulum\nomeqref {\relax 7.0}
-		\nompageref{55}
+		\nompageref{54}
   \item [{FC}]\begingroup Full capsid\nomeqref {\relax 7.0}
 		\nompageref{47}
   \item [{FCS}]\begingroup Fetal calf serum\nomeqref {\relax 9.0}
-		\nompageref{61}
+		\nompageref{59}
   \item [{FGFR1}]\begingroup Fibroblast growth factor receptor 1\nomeqref {\relax 7.0}
 		\nompageref{47}
   \item [{FPV}]\begingroup Feline parvovirus\nomeqref {\relax 6.0}
 		\nompageref{29}
   \item [{Gb4Cer}]\begingroup Globotetraosyl ceramide\nomeqref {\relax 3.0}
-		\nompageref{92}
+		\nompageref{90}
   \item [{GmDNV}]\begingroup Galleria mellonella densovirus\nomeqref {\relax 3.0}
 		\nompageref{15}
   \item [{H1-PV}]\begingroup Parvovirus H1\nomeqref {\relax 4.0}
@@ -74,13 +76,13 @@
   \item [{HSPG}]\begingroup Heparan sulphate proteoglycan\nomeqref {\relax 7.0}
 		\nompageref{47}
   \item [{IF}]\begingroup Immunofluorescence microscopy\nomeqref {\relax 9.0}
-		\nompageref{61}
+		\nompageref{59}
   \item [{Ig}]\begingroup Immunoglobulin\nomeqref {\relax 9.0}
-		\nompageref{106}
+		\nompageref{104}
   \item [{IgG}]\begingroup Immunoglobulin G\nomeqref {\relax 2.0}
 		\nompageref{11}
   \item [{IP}]\begingroup Immunoprecipitation\nomeqref {\relax 9.0}
-		\nompageref{66}
+		\nompageref{64}
   \item [{ITR}]\begingroup Inverted terminal repeat\nomeqref {\relax 2.0}
 		\nompageref{10}
   \item [{kb}]\begingroup Kilobase\nomeqref {\relax 2.0}\nompageref{10}
@@ -89,15 +91,15 @@
   \item [{LamR}]\begingroup Laminin receptor\nomeqref {\relax 7.0}
 		\nompageref{47}
   \item [{LMB}]\begingroup Leptomycin B\nomeqref {\relax 7.0}
-		\nompageref{54}
+		\nompageref{53}
   \item [{m.~u.}]\begingroup Map unit\nomeqref {\relax 7.0}
-		\nompageref{50}
+		\nompageref{49}
   \item [{mAb}]\begingroup Monoclonal antibody\nomeqref {\relax 9.0}
-		\nompageref{61}
+		\nompageref{59}
   \item [{mRF}]\begingroup Monomeric replicative form DNA\nomeqref {\relax 7.0}
 		\nompageref{47}
   \item [{mRNA}]\begingroup messenger RNA\nomeqref {\relax 7.0}
-		\nompageref{50}
+		\nompageref{49}
   \item [{MVM}]\begingroup Minute virus of mice\nomeqref {\relax 6.0}
 		\nompageref{29}
   \item [{MVMi}]\begingroup Immunosuppressive strain of MVM\nomeqref {\relax 6.0}
@@ -129,7 +131,7 @@
   \item [{PCNA}]\begingroup Proliferating cell nuclear antigen\nomeqref {\relax 7.0}
 		\nompageref{47}
   \item [{PCR}]\begingroup Polymerase chain reaction\nomeqref {\relax 9.0}
-		\nompageref{61}
+		\nompageref{59}
   \item [{PDGFR}]\begingroup Platelet-derived growth factor\nomeqref {\relax 7.0}
 		\nompageref{47}
   \item [{PEC}]\begingroup Poult enteritis complex\nomeqref {\relax 2.0}
@@ -139,7 +141,7 @@
   \item [{PFU}]\begingroup Plaque-forming unit\nomeqref {\relax 7.0}
 		\nompageref{47}
   \item [{pI}]\begingroup Isoelectric point\nomeqref {\relax 9.0}
-		\nompageref{64}
+		\nompageref{62}
   \item [{PIF}]\begingroup Parvovirus initiation factor\nomeqref {\relax 5.0}
 		\nompageref{27}
   \item [{PLA\textsubscript{2}}]\begingroup Phospholipase A\textsubscript{2}\nomeqref {\relax 2.0}
@@ -147,11 +149,11 @@
   \item [{PPV}]\begingroup Porcine parvovirus\nomeqref {\relax 6.0}
 		\nompageref{31}
   \item [{pre-mRNA}]\begingroup messenger RNA precursor\nomeqref {\relax 7.0}
-		\nompageref{50}
+		\nompageref{49}
   \item [{PTM}]\begingroup Post-translational modification\nomeqref {\relax 7.0}
 		\nompageref{43}
   \item [{qPCR}]\begingroup Quantitative PCR\nomeqref {\relax 9.0}
-		\nompageref{61}
+		\nompageref{59}
   \item [{RF}]\begingroup Replicative form\nomeqref {\relax 6.0}
 		\nompageref{31}
   \item [{RHR}]\begingroup Rolling hairpin replication\nomeqref {\relax 7.0}
@@ -167,17 +169,17 @@
   \item [{SCID}]\begingroup Severe combined immunodeficiency\nomeqref {\relax 6.0}
 		\nompageref{31}
   \item [{SN}]\begingroup Supernatant\nomeqref {\relax 9.0}
-		\nompageref{61}
+		\nompageref{59}
   \item [{sPLA\textsubscript{2}}]\begingroup Secretory PLA\textsubscript{2}\nomeqref {\relax 4.0}
 		\nompageref{22}
   \item [{ssDNA}]\begingroup Single-stranded DNA\nomeqref {\relax 4.0}
 		\nompageref{22}
   \item [{SV40}]\begingroup Simian vacuolating virus 40 or Simian virus 40\nomeqref {\relax 9.0}
-		\nompageref{61}
+		\nompageref{59}
   \item [{TfR}]\begingroup Transferrin receptor\nomeqref {\relax 7.0}
-		\nompageref{50}
+		\nompageref{49}
   \item [{TGN}]\begingroup Trans Golgi network\nomeqref {\relax 7.0}
-		\nompageref{55}
+		\nompageref{54}
   \item [{TuPV}]\begingroup Turkey parvovirus\nomeqref {\relax 2.0}
 		\nompageref{7}
   \item [{VLP}]\begingroup Virus-like particle\nomeqref {\relax 7.0}
@@ -186,5 +188,7 @@
 		\nompageref{27}
   \item [{VP1u}]\begingroup VP1 unique region\nomeqref {\relax 2.0}
 		\nompageref{11}
+  \item [{WB}]\begingroup Western blotting\nomeqref {\relax 9.0}
+		\nompageref{65}
 
 \end{thenomenclature}

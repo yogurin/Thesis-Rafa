@@ -1,3 +1,4 @@
+\nomenclatureentry{aDCB@[{DCB}]\begingroup Department of Chemistry and Biochemistry\nomeqref {\relax 0}|nompageref}{v}
 \nomenclatureentry{aB19V@[{B19V}]\begingroup Human parvovirus B19\nomeqref {\relax 0}|nompageref}{v}
 \nomenclatureentry{aBp@[{Bp}]\begingroup Base pair\nomeqref {\relax 0}|nompageref}{v}
 \nomenclatureentry{aRNA@[{RNA}]\begingroup Ribonucleic acid\nomeqref {\relax 2.0}|nompageref}{5}
@@ -89,5 +90,6 @@
 \nomenclatureentry{aCV@[{CV}]\begingroup Column volume\nomeqref {\relax 9.0}|nompageref}{61}
 \nomenclatureentry{apI@[{pI}]\begingroup Isoelectric point\nomeqref {\relax 9.0}|nompageref}{62}
 \nomenclatureentry{aIP@[{IP}]\begingroup Immunoprecipitation\nomeqref {\relax 9.0}|nompageref}{64}
+\nomenclatureentry{aWB@[{WB}]\begingroup Western blotting\nomeqref {\relax 9.0}|nompageref}{65}
 \nomenclatureentry{aGb4Cer@[{Gb4Cer}]\begingroup Globotetraosyl ceramide\nomeqref {\relax 3.0}|nompageref}{90}
 \nomenclatureentry{aIg@[{Ig}]\begingroup Immunoglobulin\nomeqref {\relax 9.0}|nompageref}{104}
