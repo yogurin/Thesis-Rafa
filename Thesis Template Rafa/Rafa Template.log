@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.4)  19 AUG 2015 18:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.4)  20 AUG 2015 21:18
 entering extended mode
 **Rafa*Template.tex
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.tex
@@ -1977,122 +1977,147 @@ Underfull \hbox (badness 10000) detected at line 191
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, -1):  0.0pt
 text indent by \l@... (toc, -1):  21.77576pt
 number indent by parent (toc, -1):  0.0pt
-text indent calculated (toc, -1): 24.81956pt
+text indent calculated (toc, -1): 21.77576pt
 number indent calculated (toc, -1): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 10
+\T1/lmr/m/n/10.95 2.1. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 21
+\T1/lmr/m/n/10.95 4.1. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 22
+\T1/lmr/m/n/10.95 4.2. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 23
+\T1/lmr/m/n/10.95 4.3. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 24
+\T1/lmr/m/n/10.95 4.4. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
@@ -2104,172 +2129,277 @@ Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 29
+\T1/lmr/m/n/10.95 5.1. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 31
+\T1/lmr/m/n/10.95 5.2. 
+ []
+
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 33
+\T1/lmr/m/n/10.95 6.1. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 34
+\T1/lmr/m/n/10.95 6.2. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 35
+\T1/lmr/m/n/10.95 6.3. 
+ []
+
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 37
+\T1/lmr/m/n/10.95 7.1. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 38
+\T1/lmr/m/n/10.95 7.2. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 39
+\T1/lmr/m/n/10.95 7.3. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 40
+\T1/lmr/m/n/10.95 7.4. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 41
+\T1/lmr/m/n/10.95 7.5. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 42
+\T1/lmr/m/n/10.95 7.6. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 45
+\T1/lmr/m/n/10.95 7.7. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 49
+\T1/lmr/m/n/10.95 7.8. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 50
+\T1/lmr/m/n/10.95 7.9. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (22.50826pt too wide) detected at line 51
+\T1/lmr/m/n/10.95 7.10. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (22.50826pt too wide) detected at line 52
+\T1/lmr/m/n/10.95 7.11. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (22.50826pt too wide) detected at line 53
+\T1/lmr/m/n/10.95 7.12. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (22.50826pt too wide) detected at line 54
+\T1/lmr/m/n/10.95 7.13. 
+ []
+
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 56
+\T1/lmr/m/n/10.95 8.1. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 57
+\T1/lmr/m/n/10.95 8.2. 
+ []
+
 number indent by \l@... (toc, -1):  0.0pt
 text indent by \l@... (toc, -1):  21.77576pt
 number indent by parent (toc, -1):  0.0pt
-text indent calculated (toc, -1): 24.81956pt
+text indent calculated (toc, -1): 21.77576pt
 number indent calculated (toc, -1): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 60
+\T1/lmr/m/n/10.95 9.1. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
@@ -2278,143 +2408,203 @@ Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 [10]
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 62
+\T1/lmr/m/n/10.95 9.2. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 64
+\T1/lmr/m/n/10.95 9.3. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 65
+\T1/lmr/m/n/10.95 9.4. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 68
+\T1/lmr/m/n/10.95 9.5. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 69
+\T1/lmr/m/n/10.95 9.6. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 70
+\T1/lmr/m/n/10.95 9.7. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 71
+\T1/lmr/m/n/10.95 9.8. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 74
+\T1/lmr/m/n/10.95 9.9. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (22.50826pt too wide) detected at line 75
+\T1/lmr/m/n/10.95 9.10. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (22.50826pt too wide) detected at line 76
+\T1/lmr/m/n/10.95 9.11. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (22.50826pt too wide) detected at line 77
+\T1/lmr/m/n/10.95 9.12. 
+ []
+
 number indent by \l@... (toc, -1):  0.0pt
 text indent by \l@... (toc, -1):  21.77576pt
 number indent by parent (toc, -1):  0.0pt
-text indent calculated (toc, -1): 24.81956pt
+text indent calculated (toc, -1): 21.77576pt
 number indent calculated (toc, -1): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
 number indent by \l@... (toc, -1):  0.0pt
 text indent by \l@... (toc, -1):  21.77576pt
 number indent by parent (toc, -1):  0.0pt
-text indent calculated (toc, -1): 24.81956pt
+text indent calculated (toc, -1): 21.77576pt
 number indent calculated (toc, -1): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 84
+\T1/lmr/m/n/10.95 2.1. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, -1):  0.0pt
 text indent by \l@... (toc, -1):  21.77576pt
 number indent by parent (toc, -1):  0.0pt
-text indent calculated (toc, -1): 24.81956pt
+text indent calculated (toc, -1): 21.77576pt
 number indent calculated (toc, -1): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
@@ -2424,97 +2614,132 @@ Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 number indent by \l@... (toc, -1):  0.0pt
 text indent by \l@... (toc, -1):  21.77576pt
 number indent by parent (toc, -1):  0.0pt
-text indent calculated (toc, -1): 24.81956pt
+text indent calculated (toc, -1): 21.77576pt
 number indent calculated (toc, -1): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 93
+\T1/lmr/m/n/10.95 9.1. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 96
+\T1/lmr/m/n/10.95 9.2. 
+ []
+
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 97
+\T1/lmr/m/n/10.95 9.3. 
+ []
+
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 2):  41.37396pt
 text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
-number indent calculated (toc, 2): 41.37396pt
-number indent by \l@... (toc, 1):  16.33182pt
-text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
-number indent calculated (toc, 1): 16.33182pt
-number indent by \l@... (toc, 1):  16.33182pt
-text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
-number indent calculated (toc, 1): 16.33182pt
-number indent by \l@... (toc, 1):  16.33182pt
-text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
-number indent calculated (toc, 1): 16.33182pt
-number indent by \l@... (toc, 2):  41.37396pt
-text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
-number indent calculated (toc, 2): 41.37396pt
-number indent by \l@... (toc, 2):  41.37396pt
-text indent by \l@... (toc, 2):  34.84117pt
-number indent by parent (toc, 2):  44.31506pt
-text indent calculated (toc, 2): 31.02489pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
 number indent calculated (toc, 2): 41.37396pt
 number indent by \l@... (toc, 1):  16.33182pt
 text indent by \l@... (toc, 1):  0.0pt
-number indent by parent (toc, 1):  16.09044pt
-text indent calculated (toc, 1): 27.98325pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
 number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 104
+\T1/lmr/m/n/10.95 9.4. 
+ []
+
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
+number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 105
+\T1/lmr/m/n/10.95 9.5. 
+ []
+
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
+number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 106
+\T1/lmr/m/n/10.95 9.6. 
+ []
+
+number indent by \l@... (toc, 2):  41.37396pt
+text indent by \l@... (toc, 2):  34.84117pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
+number indent calculated (toc, 2): 41.37396pt
+number indent by \l@... (toc, 2):  41.37396pt
+text indent by \l@... (toc, 2):  34.84117pt
+number indent by parent (toc, 2):  41.37396pt
+text indent calculated (toc, 2): 34.84117pt
+number indent calculated (toc, 2): 41.37396pt
+number indent by \l@... (toc, 1):  16.33182pt
+text indent by \l@... (toc, 1):  0.0pt
+number indent by parent (toc, 1):  16.33182pt
+text indent calculated (toc, 1): 0.0pt
+number indent calculated (toc, 1): 16.33182pt
+
+Overfull \hbox (17.03326pt too wide) detected at line 109
+\T1/lmr/m/n/10.95 9.7. 
+ []
+
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (toc, 0):  0.0pt
 text indent by \l@... (toc, 0):  16.33182pt
 number indent by parent (toc, 0):  0.0pt
-text indent calculated (toc, 0): 16.09044pt
+text indent calculated (toc, 0): 16.33182pt
 number indent calculated (toc, 0): 0.0pt
 )
 \tf@toc=\write6
@@ -2524,27 +2749,27 @@ number indent calculated (toc, 0): 0.0pt
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 
 Overfull \vbox (1.47849pt too high) has occurred while \output is active []
@@ -2554,37 +2779,37 @@ Overfull \vbox (1.47849pt too high) has occurred while \output is active []
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 number indent by \l@... (lof, 1):  16.33182pt
 text indent by \l@... (lof, 1):  25.04214pt
 number indent by parent (lof, 1):  16.33182pt
-text indent calculated (lof, 1): 22.50826pt
+text indent calculated (lof, 1): 25.04214pt
 number indent calculated (lof, 1): 16.33182pt
 )
 \tf@lof=\write7
@@ -2594,82 +2819,82 @@ number indent calculated (lof, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 number indent by \l@... (lot, 1):  16.33182pt
 text indent by \l@... (lot, 1):  25.04214pt
 number indent by parent (lot, 1):  16.33182pt
-text indent calculated (lot, 1): 27.98325pt
+text indent calculated (lot, 1): 25.04214pt
 number indent calculated (lot, 1): 16.33182pt
 )
 \tf@lot=\write8
@@ -4020,12 +4245,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 368.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 368.
 Package rerunfilecheck Info: File `Rafa*Template.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 368.
  ) 
 Here is how much of TeX's memory you used:
  19985 strings out of 493921
  322720 string characters out of 3147277
- 570385 words of memory out of 3000000
+ 570215 words of memory out of 3000000
  21834 multiletter control sequences out of 15000+200000
  178512 words of font info for 189 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -4064,7 +4293,7 @@ es/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/lm/lmssbo10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt9.pfb>
-Output written on "Rafa Template.pdf" (147 pages, 8675717 bytes).
+Output written on "Rafa Template.pdf" (147 pages, 8735980 bytes).
 PDF statistics:
  3905 PDF objects out of 4296 (max. 8388607)
  790 named destinations out of 1000 (max. 500000)
