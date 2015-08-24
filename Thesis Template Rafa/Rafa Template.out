@@ -1,105 +1,106 @@
-\BOOKMARK [0][-]{section*.1}{Abstract}{}% 1
-\BOOKMARK [0][-]{chapter*.2}{Acknowledgements}{}% 2
-\BOOKMARK [0][-]{section*.3}{Nomenclature}{}% 3
-\BOOKMARK [-1][-]{part.1}{Introduction}{}% 4
-\BOOKMARK [0][-]{chapter.1}{Discovery and brief history}{part.1}% 5
-\BOOKMARK [0][-]{chapter.2}{Taxonomy}{part.1}% 6
-\BOOKMARK [1][-]{section.2.1}{The Parvovirinae subfamily}{chapter.2}% 7
-\BOOKMARK [2][-]{subsection.2.1.1}{Amdoparvovirus}{section.2.1}% 8
-\BOOKMARK [2][-]{subsection.2.1.2}{Aveparvovirus}{section.2.1}% 9
-\BOOKMARK [2][-]{subsection.2.1.3}{Bocaparvovirus}{section.2.1}% 10
-\BOOKMARK [2][-]{subsection.2.1.4}{Copiparvovirus}{section.2.1}% 11
-\BOOKMARK [2][-]{subsection.2.1.5}{Dependoparvovirus}{section.2.1}% 12
-\BOOKMARK [2][-]{subsection.2.1.6}{Erythroparvovirus}{section.2.1}% 13
-\BOOKMARK [2][-]{subsection.2.1.7}{Protoparvovirus}{section.2.1}% 14
-\BOOKMARK [2][-]{subsection.2.1.8}{Tetraparvovirus}{section.2.1}% 15
-\BOOKMARK [0][-]{chapter.3}{Morphology}{part.1}% 16
-\BOOKMARK [0][-]{chapter.4}{The rugged virion}{part.1}% 17
-\BOOKMARK [1][-]{section.4.1}{Physicochemical Properties}{chapter.4}% 18
-\BOOKMARK [1][-]{section.4.2}{Atomic Model}{chapter.4}% 19
-\BOOKMARK [1][-]{section.4.3}{Structural Proteins}{chapter.4}% 20
-\BOOKMARK [1][-]{section.4.4}{Functional Domains}{chapter.4}% 21
-\BOOKMARK [2][-]{subsection.4.4.1}{The Phospholipase A2 \(PLA2\) Motif}{section.4.4}% 22
-\BOOKMARK [2][-]{subsection.4.4.2}{The Nuclear Localization Signal \(NLS\)}{section.4.4}% 23
-\BOOKMARK [2][-]{subsection.4.4.3}{The Nuclear Localization Motif \(NLM\)}{section.4.4}% 24
-\BOOKMARK [0][-]{chapter.5}{Genome Architecture}{part.1}% 25
-\BOOKMARK [1][-]{section.5.1}{The MVM Left- and Right-End Telomeres}{chapter.5}% 26
-\BOOKMARK [2][-]{subsection.5.1.1}{Terminal Resolution versus Asymmetric Junction Resolution}{section.5.1}% 27
-\BOOKMARK [1][-]{section.5.2}{Genetic variability}{chapter.5}% 28
-\BOOKMARK [0][-]{chapter.6}{Host Range and Specificity}{part.1}% 29
-\BOOKMARK [1][-]{section.6.1}{Tissue Tropism Determinants}{chapter.6}% 30
-\BOOKMARK [1][-]{section.6.2}{Pathogenicity Determinants}{chapter.6}% 31
-\BOOKMARK [1][-]{section.6.3}{Comparison of Tissue Tropism and Pathogenicity Determinants among Parvoviurses}{chapter.6}% 32
-\BOOKMARK [0][-]{chapter.7}{The Parvovirus Life Cycle}{part.1}% 33
-\BOOKMARK [1][-]{section.7.1}{Receptor Binding}{chapter.7}% 34
-\BOOKMARK [1][-]{section.7.2}{Receptor-mediated Endocytosis}{chapter.7}% 35
-\BOOKMARK [1][-]{section.7.3}{Endosomal Trafficking and Capsid Rearrangements}{chapter.7}% 36
-\BOOKMARK [1][-]{section.7.4}{Endosomal Escape}{chapter.7}% 37
-\BOOKMARK [1][-]{section.7.5}{Cytosolic Trafficking and Interactions with the Proteasome}{chapter.7}% 38
-\BOOKMARK [1][-]{section.7.6}{Nuclear Targeting}{chapter.7}% 39
-\BOOKMARK [2][-]{subsection.7.6.1}{Nuclear Translocation of the Incoming Virion}{section.7.6}% 40
-\BOOKMARK [2][-]{subsection.7.6.2}{Nuclear Translocation of the Structural Proteins}{section.7.6}% 41
-\BOOKMARK [1][-]{section.7.7}{Non-structural \(NS\) proteins}{chapter.7}% 42
-\BOOKMARK [2][-]{subsection.7.7.1}{Non-structural portein 1 \(NS1\)}{section.7.7}% 43
-\BOOKMARK [2][-]{subsection.7.7.2}{Non-structural protein 2 \(NS2\)}{section.7.7}% 44
-\BOOKMARK [2][-]{subsection.7.7.3}{Small alternatively translated \(SAT\) protein}{section.7.7}% 45
-\BOOKMARK [1][-]{section.7.8}{Replication}{chapter.7}% 46
-\BOOKMARK [1][-]{section.7.9}{Transcription and RNA processing}{chapter.7}% 47
-\BOOKMARK [1][-]{section.7.10}{Assembly}{chapter.7}% 48
-\BOOKMARK [1][-]{section.7.11}{DNA Packaging}{chapter.7}% 49
-\BOOKMARK [1][-]{section.7.12}{Nuclear Export}{chapter.7}% 50
-\BOOKMARK [1][-]{section.7.13}{Egress}{chapter.7}% 51
-\BOOKMARK [0][-]{chapter.8}{Aim of the thesis and experimental strategy}{part.1}% 52
-\BOOKMARK [1][-]{section.8.1}{Goals}{chapter.8}% 53
-\BOOKMARK [1][-]{section.8.2}{Experimental strategy}{chapter.8}% 54
-\BOOKMARK [-1][-]{part.2}{Methods}{}% 55
-\BOOKMARK [0][-]{chapter.9}{Methods}{part.2}% 56
-\BOOKMARK [1][-]{section.9.1}{Cell Cultures}{chapter.9}% 57
-\BOOKMARK [2][-]{subsection.9.1.1}{Freezing and thawing of cells}{section.9.1}% 58
-\BOOKMARK [1][-]{section.9.2}{Virus Stocks}{chapter.9}% 59
-\BOOKMARK [2][-]{subsection.9.2.1}{Separation of empty and full capsids}{section.9.2}% 60
-\BOOKMARK [1][-]{section.9.3}{Freezing bacteria stocks in glycerol}{chapter.9}% 61
-\BOOKMARK [1][-]{section.9.4}{Fast protein liquid chromatography \(FPLC\)}{chapter.9}% 62
-\BOOKMARK [2][-]{subsection.9.4.1}{Anion-exchange chromatography \(AEX\)}{section.9.4}% 63
-\BOOKMARK [2][-]{subsection.9.4.2}{Chromatofocusing \(CF\)}{section.9.4}% 64
-\BOOKMARK [1][-]{section.9.5}{Quantitative PCR \(qPCR\)}{chapter.9}% 65
-\BOOKMARK [1][-]{section.9.6}{Virus infection}{chapter.9}% 66
-\BOOKMARK [1][-]{section.9.7}{Transfection}{chapter.9}% 67
-\BOOKMARK [1][-]{section.9.8}{Cell fractionation}{chapter.9}% 68
-\BOOKMARK [2][-]{subsection.9.8.1}{Nuclei isolation}{section.9.8}% 69
-\BOOKMARK [2][-]{subsection.9.8.2}{Extraction of the cytoplasm}{section.9.8}% 70
-\BOOKMARK [1][-]{section.9.9}{Immunoprecipitation \(IP\)}{chapter.9}% 71
-\BOOKMARK [1][-]{section.9.10}{Dot Blot}{chapter.9}% 72
-\BOOKMARK [1][-]{section.9.11}{SDS-PAGE and Western blotting \(WB\)}{chapter.9}% 73
-\BOOKMARK [1][-]{section.9.12}{Enzymatic reactions}{chapter.9}% 74
-\BOOKMARK [-1][-]{part.3}{Publication}{}% 75
-\BOOKMARK [0][-]{chapter.1}{Wolfisberg et al., Journal of Virological Methods, 2013}{part.3}% 76
-\BOOKMARK [1][-]{section*.19}{Impaired genome encapsidation restricts the in vitro propagation of human parvovirus B19.}{chapter.1}% 77
-\BOOKMARK [-1][-]{part.4}{Results}{}% 78
-\BOOKMARK [0][-]{chapter.2}{Results}{part.4}% 79
-\BOOKMARK [1][-]{section.2.1}{Comparison of ECs and FCs in early virus infection}{chapter.2}% 80
-\BOOKMARK [2][-]{subsection.2.1.1}{Both FC and EC bind specifically to SA residues on the cell surface}{section.2.1}% 81
-\BOOKMARK [2][-]{subsection.2.1.2}{EC and FC exhibit morphological differences}{section.2.1}% 82
-\BOOKMARK [2][-]{subsection.2.1.3}{FC are preferentially bound to the SA residues on the cell surface}{section.2.1}% 83
-\BOOKMARK [2][-]{subsection.2.1.4}{EC do not compete with FC for cell surface receptors}{section.2.1}% 84
-\BOOKMARK [-1][-]{part.5}{Discussion}{}% 85
-\BOOKMARK [0][-]{chapter.3}{Discussion}{part.5}% 86
-\BOOKMARK [-1][-]{part.6}{Appendix}{}% 87
-\BOOKMARK [0][-]{chapter.9}{Materials}{part.6}% 88
-\BOOKMARK [1][-]{section.9.1}{Infectious clone of MVMp \(pIC\137MVMp\)}{chapter.9}% 89
-\BOOKMARK [2][-]{subsection.9.1.1}{Plasmid map of pIC\137MVMp}{section.9.1}% 90
-\BOOKMARK [2][-]{subsection.9.1.2}{Complete sequence of pIC\137MVMp}{section.9.1}% 91
-\BOOKMARK [1][-]{section.9.2}{Chemicals and compounds}{chapter.9}% 92
-\BOOKMARK [1][-]{section.9.3}{Buffers}{chapter.9}% 93
-\BOOKMARK [2][-]{subsection.9.3.1}{General buffers}{section.9.3}% 94
-\BOOKMARK [2][-]{subsection.9.3.2}{Chromatography buffers}{section.9.3}% 95
-\BOOKMARK [2][-]{subsection.9.3.3}{Agarose gel electrophoresis}{section.9.3}% 96
-\BOOKMARK [2][-]{subsection.9.3.4}{Western blot}{section.9.3}% 97
-\BOOKMARK [1][-]{section.9.4}{Kits}{chapter.9}% 98
-\BOOKMARK [1][-]{section.9.5}{Enzymes}{chapter.9}% 99
-\BOOKMARK [1][-]{section.9.6}{Antibodies}{chapter.9}% 100
-\BOOKMARK [2][-]{subsection.9.6.1}{Primary antibodies}{section.9.6}% 101
-\BOOKMARK [2][-]{subsection.9.6.2}{Secondary antibodies}{section.9.6}% 102
-\BOOKMARK [1][-]{section.9.7}{Media}{chapter.9}% 103
-\BOOKMARK [0][-]{section*.33}{Bibliography}{part.6}% 104
-\BOOKMARK [0][-]{section*.34}{Declaration}{part.6}% 105
+\BOOKMARK [0][-]{chapter*.1}{Abstract}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Zusammenfassung}{}% 2
+\BOOKMARK [0][-]{chapter*.3}{Acknowledgements}{}% 3
+\BOOKMARK [0][-]{section*.4}{Nomenclature}{}% 4
+\BOOKMARK [-1][-]{part.1}{Introduction}{}% 5
+\BOOKMARK [0][-]{chapter.1}{Discovery and brief history}{part.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Taxonomy}{part.1}% 7
+\BOOKMARK [1][-]{section.2.1}{The Parvovirinae subfamily}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.1.1}{Amdoparvovirus}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.2}{Aveparvovirus}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.3}{Bocaparvovirus}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.4}{Copiparvovirus}{section.2.1}% 12
+\BOOKMARK [2][-]{subsection.2.1.5}{Dependoparvovirus}{section.2.1}% 13
+\BOOKMARK [2][-]{subsection.2.1.6}{Erythroparvovirus}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.7}{Protoparvovirus}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.8}{Tetraparvovirus}{section.2.1}% 16
+\BOOKMARK [0][-]{chapter.3}{Morphology}{part.1}% 17
+\BOOKMARK [0][-]{chapter.4}{The rugged virion}{part.1}% 18
+\BOOKMARK [1][-]{section.4.1}{Physicochemical Properties}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.2}{Atomic Model}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.3}{Structural Proteins}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.4}{Functional Domains}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.4.1}{The Phospholipase A2 \(PLA2\) Motif}{section.4.4}% 23
+\BOOKMARK [2][-]{subsection.4.4.2}{The Nuclear Localization Signal \(NLS\)}{section.4.4}% 24
+\BOOKMARK [2][-]{subsection.4.4.3}{The Nuclear Localization Motif \(NLM\)}{section.4.4}% 25
+\BOOKMARK [0][-]{chapter.5}{Genome Architecture}{part.1}% 26
+\BOOKMARK [1][-]{section.5.1}{The MVM Left- and Right-End Telomeres}{chapter.5}% 27
+\BOOKMARK [2][-]{subsection.5.1.1}{Terminal Resolution versus Asymmetric Junction Resolution}{section.5.1}% 28
+\BOOKMARK [1][-]{section.5.2}{Genetic variability}{chapter.5}% 29
+\BOOKMARK [0][-]{chapter.6}{Host Range and Specificity}{part.1}% 30
+\BOOKMARK [1][-]{section.6.1}{Tissue Tropism Determinants}{chapter.6}% 31
+\BOOKMARK [1][-]{section.6.2}{Pathogenicity Determinants}{chapter.6}% 32
+\BOOKMARK [1][-]{section.6.3}{Comparison of Tissue Tropism and Pathogenicity Determinants among Parvoviurses}{chapter.6}% 33
+\BOOKMARK [0][-]{chapter.7}{The Parvovirus Life Cycle}{part.1}% 34
+\BOOKMARK [1][-]{section.7.1}{Receptor Binding}{chapter.7}% 35
+\BOOKMARK [1][-]{section.7.2}{Receptor-mediated Endocytosis}{chapter.7}% 36
+\BOOKMARK [1][-]{section.7.3}{Endosomal Trafficking and Capsid Rearrangements}{chapter.7}% 37
+\BOOKMARK [1][-]{section.7.4}{Endosomal Escape}{chapter.7}% 38
+\BOOKMARK [1][-]{section.7.5}{Cytosolic Trafficking and Interactions with the Proteasome}{chapter.7}% 39
+\BOOKMARK [1][-]{section.7.6}{Nuclear Targeting}{chapter.7}% 40
+\BOOKMARK [2][-]{subsection.7.6.1}{Nuclear Translocation of the Incoming Virion}{section.7.6}% 41
+\BOOKMARK [2][-]{subsection.7.6.2}{Nuclear Translocation of the Structural Proteins}{section.7.6}% 42
+\BOOKMARK [1][-]{section.7.7}{Non-structural \(NS\) proteins}{chapter.7}% 43
+\BOOKMARK [2][-]{subsection.7.7.1}{Non-structural portein 1 \(NS1\)}{section.7.7}% 44
+\BOOKMARK [2][-]{subsection.7.7.2}{Non-structural protein 2 \(NS2\)}{section.7.7}% 45
+\BOOKMARK [2][-]{subsection.7.7.3}{Small alternatively translated \(SAT\) protein}{section.7.7}% 46
+\BOOKMARK [1][-]{section.7.8}{Replication}{chapter.7}% 47
+\BOOKMARK [1][-]{section.7.9}{Transcription and RNA processing}{chapter.7}% 48
+\BOOKMARK [1][-]{section.7.10}{Assembly}{chapter.7}% 49
+\BOOKMARK [1][-]{section.7.11}{DNA Packaging}{chapter.7}% 50
+\BOOKMARK [1][-]{section.7.12}{Nuclear Export}{chapter.7}% 51
+\BOOKMARK [1][-]{section.7.13}{Egress}{chapter.7}% 52
+\BOOKMARK [0][-]{chapter.8}{Aim of the thesis and experimental strategy}{part.1}% 53
+\BOOKMARK [1][-]{section.8.1}{Goals}{chapter.8}% 54
+\BOOKMARK [1][-]{section.8.2}{Experimental strategy}{chapter.8}% 55
+\BOOKMARK [-1][-]{part.2}{Methods}{}% 56
+\BOOKMARK [0][-]{chapter.9}{Methods}{part.2}% 57
+\BOOKMARK [1][-]{section.9.1}{Cell Cultures}{chapter.9}% 58
+\BOOKMARK [2][-]{subsection.9.1.1}{Freezing and thawing of cells}{section.9.1}% 59
+\BOOKMARK [1][-]{section.9.2}{Virus Stocks}{chapter.9}% 60
+\BOOKMARK [2][-]{subsection.9.2.1}{Separation of empty and full capsids}{section.9.2}% 61
+\BOOKMARK [1][-]{section.9.3}{Freezing bacteria stocks in glycerol}{chapter.9}% 62
+\BOOKMARK [1][-]{section.9.4}{Fast protein liquid chromatography \(FPLC\)}{chapter.9}% 63
+\BOOKMARK [2][-]{subsection.9.4.1}{Anion-exchange chromatography \(AEX\)}{section.9.4}% 64
+\BOOKMARK [2][-]{subsection.9.4.2}{Chromatofocusing \(CF\)}{section.9.4}% 65
+\BOOKMARK [1][-]{section.9.5}{Quantitative PCR \(qPCR\)}{chapter.9}% 66
+\BOOKMARK [1][-]{section.9.6}{Virus infection}{chapter.9}% 67
+\BOOKMARK [1][-]{section.9.7}{Transfection}{chapter.9}% 68
+\BOOKMARK [1][-]{section.9.8}{Cell fractionation}{chapter.9}% 69
+\BOOKMARK [2][-]{subsection.9.8.1}{Nuclei isolation}{section.9.8}% 70
+\BOOKMARK [2][-]{subsection.9.8.2}{Extraction of the cytoplasm}{section.9.8}% 71
+\BOOKMARK [1][-]{section.9.9}{Immunoprecipitation \(IP\)}{chapter.9}% 72
+\BOOKMARK [1][-]{section.9.10}{Dot Blot}{chapter.9}% 73
+\BOOKMARK [1][-]{section.9.11}{SDS-PAGE and Western blotting \(WB\)}{chapter.9}% 74
+\BOOKMARK [1][-]{section.9.12}{Enzymatic reactions}{chapter.9}% 75
+\BOOKMARK [-1][-]{part.3}{Publication}{}% 76
+\BOOKMARK [0][-]{chapter.1}{Wolfisberg et al., Journal of Virological Methods, 2013}{part.3}% 77
+\BOOKMARK [1][-]{section*.20}{Impaired genome encapsidation restricts the in vitro propagation of human parvovirus B19.}{chapter.1}% 78
+\BOOKMARK [-1][-]{part.4}{Results}{}% 79
+\BOOKMARK [0][-]{chapter.2}{Results}{part.4}% 80
+\BOOKMARK [1][-]{section.2.1}{Comparison of ECs and FCs in early virus infection}{chapter.2}% 81
+\BOOKMARK [2][-]{subsection.2.1.1}{Both FC and EC bind specifically to SA residues on the cell surface}{section.2.1}% 82
+\BOOKMARK [2][-]{subsection.2.1.2}{EC and FC exhibit morphological differences}{section.2.1}% 83
+\BOOKMARK [2][-]{subsection.2.1.3}{FC are preferentially bound to the SA residues on the cell surface}{section.2.1}% 84
+\BOOKMARK [2][-]{subsection.2.1.4}{EC do not compete with FC for cell surface receptors}{section.2.1}% 85
+\BOOKMARK [-1][-]{part.5}{Discussion}{}% 86
+\BOOKMARK [0][-]{chapter.3}{Discussion}{part.5}% 87
+\BOOKMARK [-1][-]{part.6}{Appendix}{}% 88
+\BOOKMARK [0][-]{chapter.9}{Materials}{part.6}% 89
+\BOOKMARK [1][-]{section.9.1}{Infectious clone of MVMp \(pIC\137MVMp\)}{chapter.9}% 90
+\BOOKMARK [2][-]{subsection.9.1.1}{Plasmid map of pIC\137MVMp}{section.9.1}% 91
+\BOOKMARK [2][-]{subsection.9.1.2}{Complete sequence of pIC\137MVMp}{section.9.1}% 92
+\BOOKMARK [1][-]{section.9.2}{Chemicals and compounds}{chapter.9}% 93
+\BOOKMARK [1][-]{section.9.3}{Buffers}{chapter.9}% 94
+\BOOKMARK [2][-]{subsection.9.3.1}{General buffers}{section.9.3}% 95
+\BOOKMARK [2][-]{subsection.9.3.2}{Chromatography buffers}{section.9.3}% 96
+\BOOKMARK [2][-]{subsection.9.3.3}{Agarose gel electrophoresis}{section.9.3}% 97
+\BOOKMARK [2][-]{subsection.9.3.4}{Western blot}{section.9.3}% 98
+\BOOKMARK [1][-]{section.9.4}{Kits}{chapter.9}% 99
+\BOOKMARK [1][-]{section.9.5}{Enzymes}{chapter.9}% 100
+\BOOKMARK [1][-]{section.9.6}{Antibodies}{chapter.9}% 101
+\BOOKMARK [2][-]{subsection.9.6.1}{Primary antibodies}{section.9.6}% 102
+\BOOKMARK [2][-]{subsection.9.6.2}{Secondary antibodies}{section.9.6}% 103
+\BOOKMARK [1][-]{section.9.7}{Media}{chapter.9}% 104
+\BOOKMARK [0][-]{section*.34}{Bibliography}{part.6}% 105
+\BOOKMARK [0][-]{section*.35}{Declaration}{part.6}% 106
