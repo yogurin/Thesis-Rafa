@@ -81,34 +81,36 @@
 \contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{71}{chapter.1}
 \contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{71}{section*.20}
 \contentsline {part}{\numberline {IV}Results}{83}{part.4}
-\contentsline {chapter}{\numberline {2}Results}{85}{chapter.2}
-\contentsline {section}{\numberline {2.1}Comparison of ECs and FCs in early virus infection}{85}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Both FC and EC bind specifically to SA residues on the cell surface}{85}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}EC and FC exhibit morphological differences}{85}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}FC are preferentially bound to the SA residues on the cell surface}{86}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}EC do not compete with FC for cell surface receptors}{86}{subsection.2.1.4}
-\contentsline {part}{\numberline {V}Discussion}{87}{part.5}
-\contentsline {chapter}{\numberline {3}Discussion}{89}{chapter.3}
-\contentsline {part}{\numberline {VI}Appendix}{91}{part.6}
-\contentsline {chapter}{\numberline {9}Materials}{93}{chapter.9}
-\contentsline {section}{\numberline {9.1}Infectious clone of MVMp (pIC\_MVMp)}{93}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}Plasmid map of pIC\_MVMp}{93}{subsection.9.1.1}
-\contentsline {subsection}{\numberline {9.1.2}Complete sequence of pIC\_MVMp}{94}{subsection.9.1.2}
-\contentsline {section}{\numberline {9.2}Chemicals and compounds}{97}{section.9.2}
-\contentsline {section}{\numberline {9.3}Buffers}{99}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}General buffers}{99}{subsection.9.3.1}
-\contentsline {subsection}{\numberline {9.3.2}Chromatography buffers}{100}{subsection.9.3.2}
-\contentsline {subsubsection}{\nonumberline Anion-exchange chromatography (AEX)}{100}{section*.23}
-\contentsline {subsubsection}{\nonumberline Chromatofocusing (CF)}{100}{section*.25}
-\contentsline {subsection}{\numberline {9.3.3}Agarose gel electrophoresis}{101}{subsection.9.3.3}
-\contentsline {subsection}{\numberline {9.3.4}Western blot}{101}{subsection.9.3.4}
-\contentsline {section}{\numberline {9.4}Kits}{102}{section.9.4}
-\contentsline {section}{\numberline {9.5}Enzymes}{102}{section.9.5}
-\contentsline {section}{\numberline {9.6}Antibodies}{103}{section.9.6}
-\contentsline {subsection}{\numberline {9.6.1}Primary antibodies}{103}{subsection.9.6.1}
-\contentsline {subsection}{\numberline {9.6.2}Secondary antibodies}{104}{subsection.9.6.2}
-\contentsline {section}{\numberline {9.7}Media}{104}{section.9.7}
-\contentsline {chapter}{Bibliography}{105}{section*.34}
+\contentsline {chapter}{\numberline {2}Supplementary Data}{85}{chapter.2}
+\contentsline {section}{\numberline {2.1}The phosphoserine-rich N-VP2 of MVM facilitates nuclear targeting and contributes to cytotoxicity.}{85}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Isolation and characterization of empty capsids (EC)}{87}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Comparison of ECs and FCs in early virus infection}{88}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Both FC and EC bind specifically to SA residues on the cell surface}{88}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}EC and FC exhibit morphological differences}{88}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}FC are preferentially bound to the SA residues on the cell surface}{91}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}EC do not compete with FC for cell surface receptors}{91}{subsection.2.2.4}
+\contentsline {part}{\numberline {V}Discussion}{93}{part.5}
+\contentsline {chapter}{\numberline {3}Discussion}{95}{chapter.3}
+\contentsline {part}{\numberline {VI}Appendix}{97}{part.6}
+\contentsline {chapter}{\numberline {9}Materials}{99}{chapter.9}
+\contentsline {section}{\numberline {9.1}Infectious clone of MVMp (pIC\_MVMp)}{99}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Plasmid map of pIC\_MVMp}{99}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Complete sequence of pIC\_MVMp}{100}{subsection.9.1.2}
+\contentsline {section}{\numberline {9.2}Chemicals and compounds}{103}{section.9.2}
+\contentsline {section}{\numberline {9.3}Buffers}{105}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}General buffers}{105}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Chromatography buffers}{106}{subsection.9.3.2}
+\contentsline {subsubsection}{\nonumberline Anion-exchange chromatography (AEX)}{106}{section*.26}
+\contentsline {subsubsection}{\nonumberline Chromatofocusing (CF)}{106}{section*.28}
+\contentsline {subsection}{\numberline {9.3.3}Agarose gel electrophoresis}{107}{subsection.9.3.3}
+\contentsline {subsection}{\numberline {9.3.4}Western blot}{107}{subsection.9.3.4}
+\contentsline {section}{\numberline {9.4}Kits}{108}{section.9.4}
+\contentsline {section}{\numberline {9.5}Enzymes}{108}{section.9.5}
+\contentsline {section}{\numberline {9.6}Antibodies}{109}{section.9.6}
+\contentsline {subsection}{\numberline {9.6.1}Primary antibodies}{109}{subsection.9.6.1}
+\contentsline {subsection}{\numberline {9.6.2}Secondary antibodies}{110}{subsection.9.6.2}
+\contentsline {section}{\numberline {9.7}Media}{110}{section.9.7}
+\contentsline {chapter}{Bibliography}{111}{section*.37}
 \vspace {1em}
-\contentsline {chapter}{Declaration}{130}{section*.35}
+\contentsline {chapter}{Declaration}{136}{section*.38}
 \vspace {1em}
