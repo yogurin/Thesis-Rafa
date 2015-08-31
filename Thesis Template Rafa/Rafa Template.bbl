@@ -1,4 +1,4 @@
-\begin{thebibliography}{513}
+\begin{thebibliography}{514}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -1452,6 +1452,11 @@ Hernando, E., Llamas-Saiz, A.~L., Foces-Foces, C., McKenna, R., Portman, I.,
 Hirt, B.
 \newblock {{M}olecular biology of autonomous parvoviruses}.
 \newblock \emph{Contrib Microbiol}, 4:\penalty0 163--177, 2000.
+
+\bibitem[Hoelzer and Parrish(2010)]{pmid20152105}
+Hoelzer, K. and Parrish, C.~R.
+\newblock {{T}he emergence of parvoviruses of carnivores}.
+\newblock \emph{Vet. Res.}, 41\penalty0 (6):\penalty0 39, 2010.
 
 \bibitem[Hoggan et~al.(1966)Hoggan, Blacklow, and Rowe]{pmid5227666}
 Hoggan, M.~D., Blacklow, N.~R., and Rowe, W.~P.
