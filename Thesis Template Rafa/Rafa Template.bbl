@@ -96,7 +96,7 @@ Allaume, X., El-Andaloussi, N., Leuchs, B., Bonifati, S., Kulkarni, A.,
 
 \bibitem[Angata and Varki(2002)]{pmid11841250}
 Angata, T. and Varki, A.
-\newblock {{C}hemical diversity in the sialic acids and related alpha-keto
+\newblock {{C}hemical diversity in the sialic acids and related $\alpha$-keto
   acids: an evolutionary perspective}.
 \newblock \emph{Chem. Rev.}, 102\penalty0 (2):\penalty0 439--469, Feb 2002.
 
@@ -111,8 +111,8 @@ Antonietti, J.~P., Sahli, R., Beard, P., and Hirt, B.
   Samulski]{pmid16940508}
 Asokan, A., Hamra, J.~B., Govindasamy, L., Agbandje-McKenna, M., and Samulski,
   R.~J.
-\newblock {{A}deno-associated virus type 2 contains an integrin alpha5beta1
-  binding domain essential for viral cell entry}.
+\newblock {{A}deno-associated virus type 2 contains an integrin
+  $\alpha$5$\beta$1 binding domain essential for viral cell entry}.
 \newblock \emph{J. Virol.}, 80\penalty0 (18):\penalty0 8961--8969, Sep 2006.
 
 \bibitem[Astell et~al.(1979)Astell, Smith, Chow, and Ward]{pmid225040}
@@ -153,7 +153,7 @@ Astell, C.~R., Gardiner, E.~M., and Tattersall, P.
 \bibitem[Atchison(1970)]{pmid4318977}
 Atchison, R.~W.
 \newblock {{T}he role of herpesviruses in adenovirus-associated virus
-  replication in vitro}.
+  replication \textit{in vitro}}.
 \newblock \emph{Virology}, 42\penalty0 (1):\penalty0 155--162, Sep 1970.
 
 \bibitem[Baldauf et~al.(1997)Baldauf, Willwand, Mumtsidu, Nüesch, and
@@ -230,16 +230,17 @@ Basak, S., Turner, H., and Parr, S.
 \bibitem[Bashir et~al.(2000)Bashir, Horlein, Rommelaere, and
   Willwand]{pmid10792046}
 Bashir, T., Horlein, R., Rommelaere, J., and Willwand, K.
-\newblock {{C}yclin {A} activates the {D}{N}{A} polymerase delta -dependent
-  elongation machinery in vitro: {A} parvovirus {D}{N}{A} replication model}.
+\newblock {{C}yclin {A} activates the {D}{N}{A} polymerase $\delta$-dependent
+  elongation machinery \textit{in vitro}: {A} parvovirus {D}{N}{A} replication
+  model}.
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 97\penalty0 (10):\penalty0
   5522--5527, May 2000.
 
 \bibitem[Bashir et~al.(2001)Bashir, Rommelaere, and Cziepluch]{pmid11287588}
 Bashir, T., Rommelaere, J., and Cziepluch, C.
-\newblock {{I}n vivo accumulation of cyclin {A} and cellular replication
-  factors in autonomous parvovirus minute virus of mice-associated replication
-  bodies}.
+\newblock {\textit{{I}n vivo} accumulation of cyclin {A} and cellular
+  replication factors in autonomous parvovirus minute virus of mice-associated
+  replication bodies}.
 \newblock \emph{J. Virol.}, 75\penalty0 (9):\penalty0 4394--4398, May 2001.
 
 \bibitem[Bastien et~al.(2007)Bastien, Chui, Robinson, Lee, Dust, Hart, and
@@ -253,7 +254,7 @@ Bastien, N., Chui, N., Robinson, J.~L., Lee, B.~E., Dust, K., Hart, L., and Li,
 
 \bibitem[Bates et~al.(1984)Bates, Snyder, Banerjee, and Mitra]{pmid6694260}
 Bates, R.~C., Snyder, C.~E., Banerjee, P.~T., and Mitra, S.
-\newblock {{A}utonomous parvovirus {L}u{I}{I}{I} encapsidates equal amounts of
+\newblock {{A}utonomous parvovirus {L}u\RM{3} encapsidates equal amounts of
   plus and minus {D}{N}{A} strands}.
 \newblock \emph{J. Virol.}, 49\penalty0 (2):\penalty0 319--324, Feb 1984.
 
@@ -267,8 +268,8 @@ Bayburt, T. and Gelb, M.~H.
   Agbandje-McKenna, and Wilson]{pmid21576824}
 Bell, C.~L., Vandenberghe, L.~H., Bell, P., Limberis, M.~P., Gao, G.~P.,
   Van~Vliet, K., Agbandje-McKenna, M., and Wilson, J.~M.
-\newblock {{T}he {A}{A}{V}9 receptor and its modification to improve in vivo
-  lung gene transfer in mice}.
+\newblock {{T}he {A}{A}{V}9 receptor and its modification to improve \textit{in
+  vivo} lung gene transfer in mice}.
 \newblock \emph{J. Clin. Invest.}, 121\penalty0 (6):\penalty0 2427--2435, Jun
   2011.
 
@@ -340,9 +341,9 @@ Bleker, S., Sonntag, F., and Kleinschmidt, J.~A.
   Atmnedi, Kemp, Bishop, Belak, and Berg]{pmid22967311}
 Blomstrom, A.~L., Stahl, K., Masembe, C., Okoth, E., Okurut, A.~R., Atmnedi,
   P., Kemp, S., Bishop, R., Belak, S., and Berg, M.
-\newblock {{V}iral metagenomic analysis of bushpigs ({P}otamochoerus larvatus)
-  in {U}ganda identifies novel variants of {P}orcine parvovirus 4 and {T}orque
-  teno sus virus 1 and 2}.
+\newblock {{V}iral metagenomic analysis of bushpigs (\textit{{P}otamochoerus
+  larvatus}) in {U}ganda identifies novel variants of {P}orcine parvovirus 4
+  and {T}orque teno sus virus 1 and 2}.
 \newblock \emph{Virol. J.}, 9:\penalty0 192, 2012.
 
 \bibitem[Bloom et~al.(1980)Bloom, Race, and Wolfinbarger]{pmid6252342}
@@ -436,7 +437,7 @@ Bowman, E.~J., Siebers, A., and Altendorf, K.
 
 \bibitem[Brailovsky(1966)]{pmid5902774}
 Brailovsky, C.
-\newblock {{R}esearch on the rat {K} virus ({P}arvovirus ratti). {I}. {A}
+\newblock {{R}esearch on the rat {K} virus ({P}arvovirus ratti). \RM{1}. {A}
   method of titration by plaques and its application to the study of the
   multiplication cycle of the virus}.
 \newblock \emph{Ann Inst Pasteur (Paris)}, 110\penalty0 (1):\penalty0 49--59,
@@ -466,7 +467,7 @@ Brister, J.~R. and Muzyczka, N.
   Salome]{pmid8892871}
 Brockhaus, K., Plaza, S., Pintel, D.~J., Rommelaere, J., and Salome, N.
 \newblock {{N}onstructural proteins {N}{S}2 of minute virus of mice associate
-  in vivo with 14-3-3 protein family members}.
+  \textit{in vivo} with 14-3-3 protein family members}.
 \newblock \emph{J. Virol.}, 70\penalty0 (11):\penalty0 7527--7534, Nov 1996.
 
 \bibitem[Brown et~al.(1993)Brown, Anderson, and Young]{pmid8211117}
@@ -494,8 +495,8 @@ Brownstein, D.~G., Smith, A.~L., Johnson, E.~A., Pintel, D.~J., Naeger, L.~K.,
 \bibitem[Bruemmer et~al.(2005)Bruemmer, Scholari, Lopez-Ferber, Conway, and
   Hewat]{pmid15769470}
 Bruemmer, A., Scholari, F., Lopez-Ferber, M., Conway, J.~F., and Hewat, E.~A.
-\newblock {{S}tructure of an insect parvovirus ({J}unonia coenia {D}ensovirus)
-  determined by cryo-electron microscopy}.
+\newblock {{S}tructure of an insect parvovirus (\textit{{J}unonia coenia}
+  {D}ensovirus) determined by cryo-electron microscopy}.
 \newblock \emph{J. Mol. Biol.}, 347\penalty0 (4):\penalty0 791--801, Apr 2005.
 
 \bibitem[Bui et~al.(1996)Bui, Whittaker, and Helenius]{pmid8970960}
@@ -547,8 +548,8 @@ Canaan, S., Zadori, Z., Ghomashchi, F., Bollinger, J., Sadilek, M., Moreau,
 \bibitem[Carreira et~al.(2004)Carreira, Menendez, Reguera, Almendral, and
   Mateu]{pmid14660623}
 Carreira, A., Menendez, M., Reguera, J., Almendral, J.~M., and Mateu, M.~G.
-\newblock {{I}n vitro disassembly of a parvovirus capsid and effect on capsid
-  stability of heterologous peptide insertions in surface loops}.
+\newblock {\textit{{I}n vitro} disassembly of a parvovirus capsid and effect on
+  capsid stability of heterologous peptide insertions in surface loops}.
 \newblock \emph{J. Biol. Chem.}, 279\penalty0 (8):\penalty0 6517--6525, Feb
   2004.
 
@@ -697,7 +698,7 @@ Clemens, K.~E., Cerutis, D.~R., Burger, L.~R., Yang, C.~Q., and Pintel, D.~J.
 \bibitem[Clinton and Hayashi(1976)]{pmid982825}
 Clinton, G.~M. and Hayashi, M.
 \newblock {{T}he parvovirus {M}{V}{M}: a comparison of heavy and light particle
-  infectivity and their density conversion in vitro}.
+  infectivity and their density conversion \textit{in vitro}}.
 \newblock \emph{Virology}, 74\penalty0 (1):\penalty0 57--63, Oct 1976.
 
 \bibitem[Cohen and Pante(2005)]{pmid16298969}
@@ -738,7 +739,7 @@ Corbau, R., Duverger, V., Rommelaere, J., and Nuesch, J.~P.
 \bibitem[Cossons et~al.(1996)Cossons, Faust, and
   Zannis-Hadjopoulos]{pmid8614999}
 Cossons, N., Faust, E.~A., and Zannis-Hadjopoulos, M.
-\newblock {{D}{N}{A} polymerase delta-dependent formation of a hairpin
+\newblock {{D}{N}{A} polymerase $\delta$-dependent formation of a hairpin
   structure at the 5' terminal palindrome of the minute virus of mice genome}.
 \newblock \emph{Virology}, 216\penalty0 (1):\penalty0 258--264, Feb 1996.
 
@@ -789,9 +790,9 @@ Cotmore, S.~F. and Tattersall, P.
 
 \bibitem[Cotmore and Tattersall(1992)]{pmid1530771}
 Cotmore, S.~F. and Tattersall, P.
-\newblock {{I}n vivo resolution of circular plasmids containing concatemer
-  junction fragments from minute virus of mice {D}{N}{A} and their subsequent
-  replication as linear molecules}.
+\newblock {\textit{{I}n vivo} resolution of circular plasmids containing
+  concatemer junction fragments from minute virus of mice {D}{N}{A} and their
+  subsequent replication as linear molecules}.
 \newblock \emph{J. Virol.}, 66\penalty0 (1):\penalty0 420--431, Jan 1992.
 
 \bibitem[Cotmore and Tattersall(1994)]{pmid8076610}
@@ -835,7 +836,7 @@ Cotmore, S.~F. and Tattersall, P.
 Cotmore, S.~F. and Tattersall, P.
 \newblock {{G}enome packaging sense is controlled by the efficiency of the nick
   site in the right-end replication origin of parvoviruses minute virus of mice
-  and {L}u{I}{I}{I}}.
+  and {L}u\RM{3}}.
 \newblock \emph{J. Virol.}, 79\penalty0 (4):\penalty0 2287--2300, Feb
   2005{\natexlab{a}}.
 
@@ -889,20 +890,22 @@ Cotmore, S.~F., Gunther, M., and Tattersall, P.
 
 \bibitem[Cotmore et~al.(1992)Cotmore, Nüesch, and Tattersall]{pmid1388310}
 Cotmore, S.~F., Nüesch, J.~P., and Tattersall, P.
-\newblock {{I}n vitro excision and replication of 5' telomeres of minute virus
-  of mice {D}{N}{A} from cloned palindromic concatemer junctions}.
+\newblock {\textit{{I}n vitro} excision and replication of 5' telomeres of
+  minute virus of mice {D}{N}{A} from cloned palindromic concatemer junctions}.
 \newblock \emph{Virology}, 190\penalty0 (1):\penalty0 365--377, Sep 1992.
 
 \bibitem[Cotmore et~al.(1993)Cotmore, Nuesch, and Tattersall]{pmid8437230}
 Cotmore, S.~F., Nuesch, J.~P., and Tattersall, P.
-\newblock {{A}symmetric resolution of a parvovirus palindrome in vitro}.
+\newblock {{A}symmetric resolution of a parvovirus palindrome \textit{in
+  vitro}}.
 \newblock \emph{J. Virol.}, 67\penalty0 (3):\penalty0 1579--1589, Mar 1993.
 
 \bibitem[Cotmore et~al.(1995)Cotmore, Christensen, Nüesch, and
   Tattersall]{pmid7853501}
 Cotmore, S.~F., Christensen, J., Nüesch, J.~P., and Tattersall, P.
 \newblock {{T}he {N}{S}1 polypeptide of the murine parvovirus minute virus of
-  mice binds to {D}{N}{A} sequences containing the motif [{A}{C}{C}{A}]2-3}.
+  mice binds to {D}{N}{A} sequences containing the motif
+  [{A}{C}{C}{A}]\textsubscript{2-3}}.
 \newblock \emph{J. Virol.}, 69\penalty0 (3):\penalty0 1652--1660, Mar 1995.
 
 \bibitem[Cotmore et~al.(1997)Cotmore, D'Abramo, Carbonell, Bratton, and
@@ -1037,7 +1040,7 @@ Di~Pasquale, G., Davidson, B.~L., Stein, C.~S., Martins, I., Scudiero, D.,
 \bibitem[Di~Pasquale et~al.(2010)Di~Pasquale, Kaludov, Agbandje-McKenna, and
   Chiorini]{pmid20231878}
 Di~Pasquale, G., Kaludov, N., Agbandje-McKenna, M., and Chiorini, J.~A.
-\newblock {{B}{A}{A}{V} transcytosis requires an interaction with beta-1-4
+\newblock {{B}{A}{A}{V} transcytosis requires an interaction with $\beta$-1-4
   linked- glucosamine and gp96}.
 \newblock \emph{PLoS ONE}, 5\penalty0 (3):\penalty0 e9336, 2010.
 
@@ -1065,8 +1068,8 @@ Ding, W., Zhang, L., Yan, Z., and Engelhardt, J.~F.
 
 \bibitem[Doerig et~al.(1987)Doerig, Beard, and Hirt]{pmid3824910}
 Doerig, C., Beard, P., and Hirt, B.
-\newblock {{A} transcriptional promoter of the human parvovirus {B}19 active in
-  vitro and in vivo}.
+\newblock {{A} transcriptional promoter of the human parvovirus {B}19 active
+  \textit{in vitro} and \textit{in vivo}}.
 \newblock \emph{Virology}, 157\penalty0 (2):\penalty0 539--542, Apr 1987.
 
 \bibitem[Doerig et~al.(1988)Doerig, Hirt, Beard, and Antonietti]{pmid3171551}
@@ -1248,7 +1251,7 @@ Gersappe, A. and Pintel, D.~J.
 \bibitem[Gershon et~al.(1966)Gershon, Sachs, and Winocour]{pmid16578647}
 Gershon, D., Sachs, L., and Winocour, E.
 \newblock {{T}he induction of cellular {D}{N}{A} synthesis by simian virus 40
-  in contact-inhibited and in x-irradiated cells}.
+  in contact-inhibited and in {X}-irradiated cells}.
 \newblock \emph{Proc. Natl. Acad. Sci. U.S.A.}, 56\penalty0 (3):\penalty0
   918--925, Sep 1966.
 
@@ -1640,8 +1643,8 @@ Kashiwakura, Y., Tamayose, K., Iwabuchi, K., Hirai, Y., Shimada, T., Matsumoto,
   Seckler]{pmid15661151}
 Kaufmann, B., Baxa, U., Chipman, P.~R., Rossmann, M.~G., Modrow, S., and
   Seckler, R.
-\newblock {{P}arvovirus {B}19 does not bind to membrane-associated globoside in
-  vitro}.
+\newblock {{P}arvovirus {B}19 does not bind to membrane-associated globoside
+  \textit{in vitro}}.
 \newblock \emph{Virology}, 332\penalty0 (1):\penalty0 189--198, Feb 2005.
 
 \bibitem[Kaufmann et~al.(2007)Kaufmann, Lopez-Bueno, Mateu, Chipman, Nelson,
@@ -1715,7 +1718,7 @@ Kleinschmidt, J.~A. and King, J.~A.
 Kontou, M., Govindasamy, L., Nam, H.~J., Bryant, N., Llamas-Saiz, A.~L.,
   Foces-Foces, C., Hernando, E., Rubio, M.~P., McKenna, R., Almendral, J.~M.,
   and Agbandje-McKenna, M.
-\newblock {{S}tructural determinants of tissue tropism and in vivo
+\newblock {{S}tructural determinants of tissue tropism and \textit{in vivo}
   pathogenicity for the parvovirus minute virus of mice}.
 \newblock \emph{J. Virol.}, 79\penalty0 (17):\penalty0 10931--10943, Sep 2005.
 
@@ -1915,7 +1918,7 @@ Lippincott-Schwartz, J., Yuan, L., Tipper, C., Amherdt, M., Orci, L., and
 
 \bibitem[Littlefield(1964)]{pmid14213660}
 Littlefield, J.~W.
-\newblock {{T}hree degrees of guanylic acid - inosinic acid pyrophosphorylase
+\newblock {{T}hree degrees of guanylic acid-inosinic acid pyrophosphorylase
   deficiency in mouse fibroblasts}.
 \newblock \emph{Nature}, 203:\penalty0 1142--1144, Sep 1964.
 
@@ -1936,7 +1939,7 @@ Lochelt, M., Delius, H., and Kaaden, O.~R.
 \bibitem[Lombardo et~al.(2000)Lombardo, Ramirez, Agbandje-McKenna, and
   Almendral]{pmid10729155}
 Lombardo, E., Ramirez, J.~C., Agbandje-McKenna, M., and Almendral, J.~M.
-\newblock {{A} beta-stranded motif drives capsid protein oligomers of the
+\newblock {{A} $\beta$-stranded motif drives capsid protein oligomers of the
   parvovirus minute virus of mice into the nucleus for viral assembly}.
 \newblock \emph{J. Virol.}, 74\penalty0 (8):\penalty0 3804--3814, Apr 2000.
 
@@ -2191,8 +2194,8 @@ Miller, C.~L. and Pintel, D.~J.
 
 \bibitem[Mingozzi and High(2011)]{pmid21499295}
 Mingozzi, F. and High, K.~A.
-\newblock {{T}herapeutic in vivo gene transfer for genetic disease using
-  {A}{A}{V}: progress and challenges}.
+\newblock {{T}herapeutic \textit{in vivo} gene transfer for genetic disease
+  using {A}{A}{V}: progress and challenges}.
 \newblock \emph{Nat. Rev. Genet.}, 12\penalty0 (5):\penalty0 341--355, May
   2011.
 
@@ -2290,9 +2293,9 @@ Naeger, L.~K., Cater, J., and Pintel, D.~J.
 \bibitem[Naeger et~al.(1992)Naeger, Schoborg, Zhao, Tullis, and
   Pintel]{pmid1592259}
 Naeger, L.~K., Schoborg, R.~V., Zhao, Q., Tullis, G.~E., and Pintel, D.~J.
-\newblock {{N}onsense mutations inhibit splicing of {M}{V}{M} {R}{N}{A} in cis
-  when they interrupt the reading frame of either exon of the final spliced
-  product}.
+\newblock {{N}onsense mutations inhibit splicing of {M}{V}{M} {R}{N}{A} in
+  \textit{cis} when they interrupt the reading frame of either exon of the
+  final spliced product}.
 \newblock \emph{Genes Dev.}, 6\penalty0 (6):\penalty0 1107--1119, Jun 1992.
 
 \bibitem[Naeger et~al.(1993)Naeger, Salome, and Pintel]{pmid8419637}
@@ -2320,7 +2323,7 @@ Nüesch, J.~P.
 
 \bibitem[Nüesch and Rommelaere(2006)]{pmid16641266}
 Nüesch, J.~P. and Rommelaere, J.
-\newblock {{N}{S}1 interaction with {C}{K}{I}{I} alpha: novel protein complex
+\newblock {{N}{S}1 interaction with {C}{K}\RM{2}$\alpha$: novel protein complex
   mediating parvovirus-induced cytotoxicity}.
 \newblock \emph{J. Virol.}, 80\penalty0 (10):\penalty0 4729--4739, May 2006.
 
@@ -2405,7 +2408,8 @@ Ohshima, T., Nakajima, T., Oishi, T., Imamoto, N., Yoneda, Y., Fukamizu, A.,
   Helenius]{pmid10848617}
 Ojala, P.~M., Sodeik, B., Ebersold, M.~W., Kutay, U., and Helenius, A.
 \newblock {{H}erpes simplex virus type 1 entry into host cells: reconstitution
-  of capsid binding and uncoating at the nuclear pore complex in vitro}.
+  of capsid binding and uncoating at the nuclear pore complex \textit{in
+  vitro}}.
 \newblock \emph{Mol. Cell. Biol.}, 20\penalty0 (13):\penalty0 4922--4931, Jul
   2000.
 
@@ -2493,7 +2497,7 @@ Paradiso, P.~R., Williams, K.~R., and Costantino, R.~L.
   Ahn]{pmid14738766}
 Park, B., Kim, Y., Shin, J., Lee, S., Cho, K., Fruh, K., Lee, S., and Ahn, K.
 \newblock {{H}uman cytomegalovirus inhibits tapasin-dependent peptide loading
-  and optimization of the {M}{H}{C} class {I} peptide cargo for immune
+  and optimization of the {M}{H}{C} class \RM{1} peptide cargo for immune
   evasion}.
 \newblock \emph{Immunity}, 20\penalty0 (1):\penalty0 71--85, Jan 2004.
 
@@ -2614,7 +2618,8 @@ Prevelige, P.~E.
 Previsani, N., Fontana, S., Hirt, B., and Beard, P.
 \newblock {{G}rowth of the parvovirus minute virus of mice {M}{V}{M}p3 in
   {E}{L}4 lymphocytes is restricted after cell entry and before viral {D}{N}{A}
-  amplification: cell-specific differences in virus uncoating in vitro}.
+  amplification: cell-specific differences in virus uncoating \textit{in
+  vitro}}.
 \newblock \emph{J. Virol.}, 71\penalty0 (10):\penalty0 7769--7780, Oct 1997.
 
 \bibitem[Pujol et~al.(1997)Pujol, Deleu, Nuesch, Cziepluch, Jauniaux, and
@@ -2756,7 +2761,7 @@ Sahli, R., McMaster, G.~K., and Hirt, B.
   Swayne]{PEMS}
 Saif, Y.~M., Barnes, H.~J., Glisson, J.~R., Fadly, A.~M., McDougald, L.~R., and
   Swayne, D.~E.
-\newblock \emph{{{D}iseases of {P}oultry 11th edn}}.
+\newblock \emph{{{D}iseases of {P}oultry 11\textsuperscript{th} edn}}.
 \newblock Wiley-Blackwell, Hoboken, NJ, 2003.
 \newblock pp 1171-1180.
 
@@ -2926,8 +2931,8 @@ Simmons, R., Sharp, C., Levine, J., Bowness, P., Simmonds, P., Cox, A., and
 \bibitem[Simpson et~al.(1998)Simpson, Chipman, Baker, Tijssen, and
   Rossmann]{pmid9817847}
 Simpson, A.~A., Chipman, P.~R., Baker, T.~S., Tijssen, P., and Rossmann, M.~G.
-\newblock {{T}he structure of an insect parvovirus ({G}alleria mellonella
-  densovirus) at 3.7 {A} resolution}.
+\newblock {{T}he structure of an insect parvovirus (\textit{{G}alleria
+  mellonella} densovirus) at 3.7 \r{A} resolution}.
 \newblock \emph{Structure}, 6\penalty0 (11):\penalty0 1355--1367, Nov 1998.
 
 \bibitem[Simpson et~al.(2000)Simpson, Chandrasekar, Hebert, Sullivan, Rossmann,
@@ -3063,13 +3068,13 @@ Tardif, K.~D., Mori, K., Kaufman, R.~J., and Siddiqui, A.
 
 \bibitem[Tattersall(1972)]{pmid4673484}
 Tattersall, P.
-\newblock {{R}eplication of the parvovirus {M}{V}{M}. {I}. {D}ependence of
+\newblock {{R}eplication of the parvovirus {M}{V}{M}. \RM{1}. {D}ependence of
   virus multiplication and plaque formation on cell growth}.
 \newblock \emph{J. Virol.}, 10\penalty0 (4):\penalty0 586--590, Oct 1972.
 
 \bibitem[Tattersall(2006)]{protoparvovirus}
 Tattersall, P.
-\newblock {T}he evolution of parvovirus taxonomy.
+\newblock {{T}he evolution of parvovirus taxonomy}.
 \newblock In Kerr, J.~R., Bloom, M.~E., Cotmore, S.~F., Linden, R.~M., and
   Parrish, C.~R., eds., \emph{{{P}arvoviruses}}, p.~9. Hodder Arnold, London,
   UK, 2006.
@@ -3193,7 +3198,7 @@ Tse, H., Tsoi, H.~W., Teng, J.~L., Chen, X.~C., Liu, H., Zhou, B., Zheng,
 Tullis, G.~E., Burger, L.~R., and Pintel, D.~J.
 \newblock {{T}he trypsin-sensitive {R}{V}{E}{R} domain in the capsid proteins
   of minute virus of mice is required for efficient cell binding and viral
-  infection but not for proteolytic processing in vivo}.
+  infection but not for proteolytic processing \textit{in vivo}}.
 \newblock \emph{Virology}, 191\penalty0 (2):\penalty0 846--857, Dec 1992.
 
 \bibitem[Tullis et~al.(1993)Tullis, Burger, and Pintel]{pmid8416366}
@@ -3306,8 +3311,9 @@ Wang, X.~S., Ponnazhagan, S., and Srivastava, A.
 
 \bibitem[Wang et~al.(1997)Wang, Qing, Ponnazhagan, and Srivastava]{pmid9060669}
 Wang, X.~S., Qing, K., Ponnazhagan, S., and Srivastava, A.
-\newblock {{A}deno-associated virus type 2 {D}{N}{A} replication in vivo:
-  mutation analyses of the {D} sequence in viral inverted terminal repeats}.
+\newblock {{A}deno-associated virus type 2 {D}{N}{A} replication \textit{in
+  vivo}: mutation analyses of the {D} sequence in viral inverted terminal
+  repeats}.
 \newblock \emph{J. Virol.}, 71\penalty0 (4):\penalty0 3077--3082, Apr 1997.
 
 \bibitem[Ward and Tattersall(1982)]{Genome2}
@@ -3409,16 +3415,16 @@ Willwand, K., Baldauf, A.~Q., Deleu, L., Mumtsidu, E., Costello, E., Beard, P.,
   and Rommelaere, J.
 \newblock {{T}he minute virus of mice ({M}{V}{M}) nonstructural protein {N}{S}1
   induces nicking of {M}{V}{M} {D}{N}{A} at a unique site of the right-end
-  telomere in both hairpin and duplex conformations in vitro}.
+  telomere in both hairpin and duplex conformations \textit{in vitro}}.
 \newblock \emph{J. Gen. Virol.}, 78 ( Pt 10):\penalty0 2647--2655, Oct 1997.
 
 \bibitem[Willwand et~al.(2002)Willwand, Moroianu, Horlein, Stremmel, and
   Rommelaere]{pmid12075084}
 Willwand, K., Moroianu, A., Horlein, R., Stremmel, W., and Rommelaere, J.
 \newblock {{S}pecific interaction of the nonstructural protein {N}{S}1 of
-  minute virus of mice ({M}{V}{M}) with [{A}{C}{C}{A}](2) motifs in the centre
-  of the right-end {M}{V}{M} {D}{N}{A} palindrome induces hairpin-primed viral
-  {D}{N}{A} replication}.
+  minute virus of mice ({M}{V}{M}) with [{A}{C}{C}{A}]\textsubscript{2} motifs
+  in the centre of the right-end {M}{V}{M} {D}{N}{A} palindrome induces
+  hairpin-primed viral {D}{N}{A} replication}.
 \newblock \emph{J. Gen. Virol.}, 83\penalty0 (Pt 7):\penalty0 1659--1664, Jul
   2002.
 
@@ -3473,8 +3479,8 @@ Wu, Z., Asokan, A., Grieger, J.~C., Govindasamy, L., Agbandje-McKenna, M., and
 \bibitem[Wu et~al.(2006{\natexlab{b}})Wu, Miller, Agbandje-McKenna, and
   Samulski]{pmid16940521}
 Wu, Z., Miller, E., Agbandje-McKenna, M., and Samulski, R.~J.
-\newblock {{A}lpha2,3 and alpha2,6 {N}-linked sialic acids facilitate efficient
-  binding and transduction by adeno-associated virus types 1 and 6}.
+\newblock {$\alpha$2,3 and $\alpha$2,6 {N}-linked sialic acids facilitate
+  efficient binding and transduction by adeno-associated virus types 1 and 6}.
 \newblock \emph{J. Virol.}, 80\penalty0 (18):\penalty0 9093--9103, Sep
   2006{\natexlab{b}}.
 
@@ -3502,7 +3508,7 @@ Xiao, W., Warrington, K.~H., Hearing, P., Hughes, J., and Muzyczka, N.
 
 \bibitem[Xie and Chapman(1996)]{pmid8969301}
 Xie, Q. and Chapman, M.~S.
-\newblock {{C}anine parvovirus capsid structure, analyzed at 2.9 {A}
+\newblock {{C}anine parvovirus capsid structure, analyzed at 2.9 \r{A}
   resolution}.
 \newblock \emph{J. Mol. Biol.}, 264\penalty0 (3):\penalty0 497--520, Dec 1996.
 
@@ -3534,7 +3540,7 @@ Young, P.~J., Jensen, K.~T., Burger, L.~R., Pintel, D.~J., and Lorson, C.~L.
   Ghildyal]{pmid22235298}
 Yu, X., Zhang, J., Hong, L., Wang, J., Yuan, Z., Zhang, X., and Ghildyal, R.
 \newblock {{H}igh prevalence of human parvovirus 4 infection in {H}{B}{V} and
-  {H}{C}{V} infected individuals in shanghai}.
+  {H}{C}{V} infected individuals in {S}hanghai}.
 \newblock \emph{PLoS ONE}, 7\penalty0 (1):\penalty0 e29474, 2012.
 
 \bibitem[Zadori et~al.(2001)Zadori, Szelei, Lacoste, Li, Gariepy, Raymond,
