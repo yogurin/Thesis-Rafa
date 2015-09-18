@@ -38,7 +38,7 @@
   \item [{DMEM}]\begingroup Dulbecco modified Eagle's medium\nomeqref {\relax 9.0}
 		\nompageref{59}
   \item [{DNA}]\begingroup Deoxyribonucleic acid\nomeqref {\relax 3.0}
-		\nompageref{15}
+		\nompageref{16}
   \item [{dRF}]\begingroup Dimeric replicative form DNA\nomeqref {\relax 7.0}
 		\nompageref{47}
   \item [{dsDNA}]\begingroup Double-stranded DNA\nomeqref {\relax 4.0}
@@ -59,10 +59,8 @@
 		\nompageref{47}
   \item [{FPV}]\begingroup Feline parvovirus\nomeqref {\relax 6.0}
 		\nompageref{29}
-  \item [{Gb4Cer}]\begingroup Globotetraosyl ceramide\nomeqref {\relax 3.0}
-		\nompageref{98}
   \item [{GmDNV}]\begingroup Galleria mellonella densovirus\nomeqref {\relax 3.0}
-		\nompageref{15}
+		\nompageref{16}
   \item [{H1-PV}]\begingroup Parvovirus H1\nomeqref {\relax 4.0}
 		\nompageref{22}
   \item [{HBoV}]\begingroup Human Bocavirus\nomeqref {\relax 2.0}
@@ -142,8 +140,6 @@
 		\nompageref{7}
   \item [{PFU}]\begingroup Plaque-forming unit\nomeqref {\relax 7.0}
 		\nompageref{47}
-  \item [{pI}]\begingroup Isoelectric point\nomeqref {\relax 9.0}
-		\nompageref{62}
   \item [{PIF}]\begingroup Parvovirus initiation factor\nomeqref {\relax 5.0}
 		\nompageref{27}
   \item [{PLA\textsubscript{2}}]\begingroup Phospholipase A\textsubscript{2}\nomeqref {\relax 2.0}

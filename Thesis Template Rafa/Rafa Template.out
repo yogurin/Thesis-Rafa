@@ -1,7 +1,7 @@
-\BOOKMARK [0][-]{chapter*.1}{Abstract}{}% 1
-\BOOKMARK [0][-]{chapter*.2}{Zusammenfassung}{}% 2
-\BOOKMARK [0][-]{chapter*.3}{Acknowledgements}{}% 3
-\BOOKMARK [0][-]{section*.4}{Nomenclature}{}% 4
+\BOOKMARK [-1][-]{chapter*.1}{Abstract}{}% 1
+\BOOKMARK [-1][-]{chapter*.2}{Zusammenfassung}{}% 2
+\BOOKMARK [-1][-]{chapter*.3}{Acknowledgements}{}% 3
+\BOOKMARK [-1][-]{section*.4}{Nomenclature}{}% 4
 \BOOKMARK [-1][-]{part.1}{Introduction}{}% 5
 \BOOKMARK [0][-]{chapter.1}{Discovery and brief history}{part.1}% 6
 \BOOKMARK [0][-]{chapter.2}{Taxonomy}{part.1}% 7
@@ -62,45 +62,44 @@
 \BOOKMARK [1][-]{section.9.3}{Freezing bacteria stocks in glycerol}{chapter.9}% 62
 \BOOKMARK [1][-]{section.9.4}{Fast protein liquid chromatography \(FPLC\)}{chapter.9}% 63
 \BOOKMARK [2][-]{subsection.9.4.1}{Anion-exchange chromatography \(AEX\)}{section.9.4}% 64
-\BOOKMARK [2][-]{subsection.9.4.2}{Chromatofocusing \(CF\)}{section.9.4}% 65
-\BOOKMARK [1][-]{section.9.5}{Quantitative PCR \(qPCR\)}{chapter.9}% 66
-\BOOKMARK [1][-]{section.9.6}{Virus infection}{chapter.9}% 67
-\BOOKMARK [1][-]{section.9.7}{Transfection}{chapter.9}% 68
-\BOOKMARK [1][-]{section.9.8}{Cell fractionation}{chapter.9}% 69
-\BOOKMARK [2][-]{subsection.9.8.1}{Nuclei isolation}{section.9.8}% 70
-\BOOKMARK [2][-]{subsection.9.8.2}{Extraction of the cytoplasm}{section.9.8}% 71
-\BOOKMARK [1][-]{section.9.9}{Immunoprecipitation \(IP\)}{chapter.9}% 72
-\BOOKMARK [1][-]{section.9.10}{Dot Blot}{chapter.9}% 73
-\BOOKMARK [1][-]{section.9.11}{SDS-PAGE and Western blotting \(WB\)}{chapter.9}% 74
-\BOOKMARK [1][-]{section.9.12}{Enzymatic reactions}{chapter.9}% 75
-\BOOKMARK [-1][-]{part.3}{Publication}{}% 76
-\BOOKMARK [0][-]{chapter.1}{Wolfisberg et al., Journal of Virological Methods, 2013}{part.3}% 77
-\BOOKMARK [1][-]{section*.20}{Impaired genome encapsidation restricts the in vitro propagation of human parvovirus B19.}{chapter.1}% 78
-\BOOKMARK [-1][-]{part.4}{Results}{}% 79
-\BOOKMARK [0][-]{chapter.2}{Supplementary Data}{part.4}% 80
-\BOOKMARK [1][-]{section.2.1}{The phosphoserine-rich N-VP2 of MVM facilitates nuclear targeting and contributes to cytotoxicity.}{chapter.2}% 81
-\BOOKMARK [1][-]{section.2.2}{Isolation and characterization of empty capsids \(EC\)}{chapter.2}% 82
-\BOOKMARK [1][-]{section.2.3}{Full capsids \(FC\) bind preferentially to murine fibroblasts}{chapter.2}% 83
-\BOOKMARK [1][-]{section.2.4}{N-VP2 is not sufficient to provide an advantage in binding for FC}{chapter.2}% 84
-\BOOKMARK [1][-]{section.2.5}{Anion-exchange chromatography \(AEX\) can be applied on other parvoviruses}{chapter.2}% 85
-\BOOKMARK [-1][-]{part.5}{Discussion}{}% 86
-\BOOKMARK [0][-]{chapter.3}{Conclusion}{part.5}% 87
-\BOOKMARK [-1][-]{part.6}{Appendix}{}% 88
-\BOOKMARK [0][-]{chapter.9}{Materials}{part.6}% 89
-\BOOKMARK [1][-]{section.9.1}{Infectious clone of MVMp \(pIC\137MVMp\)}{chapter.9}% 90
-\BOOKMARK [2][-]{subsection.9.1.1}{Plasmid map of pIC\137MVMp}{section.9.1}% 91
-\BOOKMARK [2][-]{subsection.9.1.2}{Complete sequence of pIC\137MVMp}{section.9.1}% 92
-\BOOKMARK [1][-]{section.9.2}{Chemicals and compounds}{chapter.9}% 93
-\BOOKMARK [1][-]{section.9.3}{Buffers}{chapter.9}% 94
-\BOOKMARK [2][-]{subsection.9.3.1}{General buffers}{section.9.3}% 95
-\BOOKMARK [2][-]{subsection.9.3.2}{Chromatography buffers}{section.9.3}% 96
-\BOOKMARK [2][-]{subsection.9.3.3}{Agarose gel electrophoresis}{section.9.3}% 97
-\BOOKMARK [2][-]{subsection.9.3.4}{Western blot}{section.9.3}% 98
-\BOOKMARK [1][-]{section.9.4}{Kits}{chapter.9}% 99
-\BOOKMARK [1][-]{section.9.5}{Enzymes}{chapter.9}% 100
-\BOOKMARK [1][-]{section.9.6}{Antibodies}{chapter.9}% 101
-\BOOKMARK [2][-]{subsection.9.6.1}{Primary antibodies}{section.9.6}% 102
-\BOOKMARK [2][-]{subsection.9.6.2}{Secondary antibodies}{section.9.6}% 103
-\BOOKMARK [1][-]{section.9.7}{Media}{chapter.9}% 104
-\BOOKMARK [0][-]{section*.40}{Bibliography}{part.6}% 105
-\BOOKMARK [0][-]{section*.41}{Declaration}{part.6}% 106
+\BOOKMARK [1][-]{section.9.5}{Quantitative PCR \(qPCR\)}{chapter.9}% 65
+\BOOKMARK [1][-]{section.9.6}{Virus infection}{chapter.9}% 66
+\BOOKMARK [1][-]{section.9.7}{Transfection}{chapter.9}% 67
+\BOOKMARK [1][-]{section.9.8}{Cell fractionation}{chapter.9}% 68
+\BOOKMARK [2][-]{subsection.9.8.1}{Nuclei isolation}{section.9.8}% 69
+\BOOKMARK [2][-]{subsection.9.8.2}{Extraction of the cytoplasm}{section.9.8}% 70
+\BOOKMARK [1][-]{section.9.9}{Immunoprecipitation \(IP\)}{chapter.9}% 71
+\BOOKMARK [1][-]{section.9.10}{Dot Blot}{chapter.9}% 72
+\BOOKMARK [1][-]{section.9.11}{SDS-PAGE and Western blotting \(WB\)}{chapter.9}% 73
+\BOOKMARK [1][-]{section.9.12}{Enzymatic reactions}{chapter.9}% 74
+\BOOKMARK [-1][-]{part.3}{Publication}{}% 75
+\BOOKMARK [0][-]{chapter.1}{Wolfisberg et al., Journal of Virological Methods, 2013}{part.3}% 76
+\BOOKMARK [1][-]{section*.21}{Impaired genome encapsidation restricts the in vitro propagation of human parvovirus B19.}{chapter.1}% 77
+\BOOKMARK [-1][-]{part.4}{Results}{}% 78
+\BOOKMARK [0][-]{chapter.2}{Supplementary Data}{part.4}% 79
+\BOOKMARK [1][-]{section.2.1}{The phosphoserine-rich N-VP2 of MVM facilitates nuclear targeting and contributes to cytotoxicity.}{chapter.2}% 80
+\BOOKMARK [1][-]{section.2.2}{Isolation and characterization of empty capsids \(EC\)}{chapter.2}% 81
+\BOOKMARK [1][-]{section.2.3}{Full capsids \(FC\) bind preferentially to murine fibroblasts}{chapter.2}% 82
+\BOOKMARK [1][-]{section.2.4}{N-VP2 is not sufficient to provide an advantage in binding for FC}{chapter.2}% 83
+\BOOKMARK [1][-]{section.2.5}{Anion-exchange chromatography \(AEX\) can be applied on other parvoviruses}{chapter.2}% 84
+\BOOKMARK [-1][-]{part.5}{Discussion}{}% 85
+\BOOKMARK [0][-]{chapter.3}{Conclusion}{part.5}% 86
+\BOOKMARK [-1][-]{part.6}{Appendix}{}% 87
+\BOOKMARK [0][-]{chapter.9}{Materials}{part.6}% 88
+\BOOKMARK [1][-]{section.9.1}{Infectious clone of MVMp \(pIC\137MVMp\)}{chapter.9}% 89
+\BOOKMARK [2][-]{subsection.9.1.1}{Plasmid map of pIC\137MVMp}{section.9.1}% 90
+\BOOKMARK [2][-]{subsection.9.1.2}{Complete sequence of pIC\137MVMp}{section.9.1}% 91
+\BOOKMARK [1][-]{section.9.2}{Chemicals and compounds}{chapter.9}% 92
+\BOOKMARK [1][-]{section.9.3}{Buffers}{chapter.9}% 93
+\BOOKMARK [2][-]{subsection.9.3.1}{General buffers}{section.9.3}% 94
+\BOOKMARK [2][-]{subsection.9.3.2}{Chromatography buffers}{section.9.3}% 95
+\BOOKMARK [2][-]{subsection.9.3.3}{Agarose gel electrophoresis}{section.9.3}% 96
+\BOOKMARK [2][-]{subsection.9.3.4}{Western blot}{section.9.3}% 97
+\BOOKMARK [1][-]{section.9.4}{Kits}{chapter.9}% 98
+\BOOKMARK [1][-]{section.9.5}{Enzymes}{chapter.9}% 99
+\BOOKMARK [1][-]{section.9.6}{Antibodies}{chapter.9}% 100
+\BOOKMARK [2][-]{subsection.9.6.1}{Primary antibodies}{section.9.6}% 101
+\BOOKMARK [2][-]{subsection.9.6.2}{Secondary antibodies}{section.9.6}% 102
+\BOOKMARK [1][-]{section.9.7}{Media}{chapter.9}% 103
+\BOOKMARK [-1][-]{section*.41}{Bibliography}{}% 104
+\BOOKMARK [-1][-]{section*.42}{Declaration}{}% 105

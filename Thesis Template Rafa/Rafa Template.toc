@@ -1,10 +1,8 @@
 \select@language {english}
-\vspace {1em}
-\contentsline {chapter}{Abstract}{i}{chapter*.1}
-\contentsline {chapter}{Zusammenfassung}{iii}{chapter*.2}
-\contentsline {chapter}{Acknowledgements}{v}{chapter*.3}
-\contentsline {chapter}{Nomenclature}{vii}{section*.4}
-\vspace {1em}
+\contentsline {part}{Abstract}{i}{chapter*.1}
+\contentsline {part}{Zusammenfassung}{iii}{chapter*.2}
+\contentsline {part}{Acknowledgements}{v}{chapter*.3}
+\contentsline {part}{Nomenclature}{vii}{section*.4}
 \contentsline {part}{\numberline {I}Introduction}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Discovery and brief history}{3}{chapter.1}
 \contentsline {chapter}{\numberline {2}Taxonomy}{5}{chapter.2}
@@ -65,21 +63,20 @@
 \contentsline {section}{\numberline {9.3}Freezing bacteria stocks in glycerol}{60}{section.9.3}
 \contentsline {section}{\numberline {9.4}Fast protein liquid chromatography (FPLC)}{60}{section.9.4}
 \contentsline {subsection}{\numberline {9.4.1}Anion-exchange chromatography (AEX)}{61}{subsection.9.4.1}
-\contentsline {subsection}{\numberline {9.4.2}Chromatofocusing (CF)}{61}{subsection.9.4.2}
-\contentsline {section}{\numberline {9.5}Quantitative PCR (qPCR)}{62}{section.9.5}
+\contentsline {section}{\numberline {9.5}Quantitative PCR (qPCR)}{61}{section.9.5}
 \contentsline {section}{\numberline {9.6}Virus infection}{63}{section.9.6}
 \contentsline {section}{\numberline {9.7}Transfection}{63}{section.9.7}
-\contentsline {section}{\numberline {9.8}Cell fractionation}{64}{section.9.8}
-\contentsline {subsection}{\numberline {9.8.1}Nuclei isolation}{64}{subsection.9.8.1}
+\contentsline {section}{\numberline {9.8}Cell fractionation}{63}{section.9.8}
+\contentsline {subsection}{\numberline {9.8.1}Nuclei isolation}{63}{subsection.9.8.1}
 \contentsline {subsection}{\numberline {9.8.2}Extraction of the cytoplasm}{64}{subsection.9.8.2}
 \contentsline {section}{\numberline {9.9}Immunoprecipitation (IP)}{64}{section.9.9}
 \contentsline {section}{\numberline {9.10}Dot Blot}{64}{section.9.10}
-\contentsline {section}{\numberline {9.11}SDS-PAGE and Western blotting (WB)}{65}{section.9.11}
+\contentsline {section}{\numberline {9.11}SDS-PAGE and Western blotting (WB)}{64}{section.9.11}
 \contentsline {section}{\numberline {9.12}Enzymatic reactions}{65}{section.9.12}
 \contentsline {part}{\numberline {III}Publication}{67}{part.3}
 \cftpagenumbersoff {chapter}
 \contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virological Methods, 2013}{71}{chapter.1}
-\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{71}{section*.20}
+\contentsline {section}{Impaired genome encapsidation restricts the \textit {in vitro} propagation of human parvovirus B19.}{71}{section*.21}
 \contentsline {part}{\numberline {IV}Results}{83}{part.4}
 \contentsline {chapter}{\numberline {2}Supplementary Data}{85}{chapter.2}
 \contentsline {section}{\numberline {2.1}The phosphoserine-rich N-VP2 of MVM facilitates nuclear targeting and contributes to cytotoxicity.}{85}{section.2.1}
@@ -98,8 +95,8 @@
 \contentsline {section}{\numberline {9.3}Buffers}{107}{section.9.3}
 \contentsline {subsection}{\numberline {9.3.1}General buffers}{107}{subsection.9.3.1}
 \contentsline {subsection}{\numberline {9.3.2}Chromatography buffers}{108}{subsection.9.3.2}
-\contentsline {subsubsection}{\nonumberline Anion-exchange chromatography (AEX)}{108}{section*.29}
-\contentsline {subsubsection}{\nonumberline Chromatofocusing (CF)}{108}{section*.31}
+\contentsline {subsubsection}{\nonumberline Anion-exchange chromatography (AEX)}{108}{section*.30}
+\contentsline {subsubsection}{\nonumberline Chromatofocusing (CF)}{108}{section*.32}
 \contentsline {subsection}{\numberline {9.3.3}Agarose gel electrophoresis}{109}{subsection.9.3.3}
 \contentsline {subsection}{\numberline {9.3.4}Western blot}{109}{subsection.9.3.4}
 \contentsline {section}{\numberline {9.4}Kits}{110}{section.9.4}
@@ -108,7 +105,7 @@
 \contentsline {subsection}{\numberline {9.6.1}Primary antibodies}{111}{subsection.9.6.1}
 \contentsline {subsection}{\numberline {9.6.2}Secondary antibodies}{112}{subsection.9.6.2}
 \contentsline {section}{\numberline {9.7}Media}{112}{section.9.7}
-\contentsline {chapter}{Bibliography}{113}{section*.40}
+\contentsline {part}{Bibliography}{113}{section*.41}
 \vspace {1em}
-\contentsline {chapter}{Declaration}{138}{section*.41}
+\contentsline {part}{Declaration}{138}{section*.42}
 \vspace {1em}

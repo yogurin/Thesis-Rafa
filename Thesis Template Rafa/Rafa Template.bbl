@@ -1,4 +1,4 @@
-\begin{thebibliography}{514}
+\begin{thebibliography}{516}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -261,7 +261,7 @@ Bates, R.~C., Snyder, C.~E., Banerjee, P.~T., and Mitra, S.
 \bibitem[Bayburt and Gelb(1997)]{pmid9115999}
 Bayburt, T. and Gelb, M.~H.
 \newblock {{I}nterfacial catalysis by human 85 k{D}a cytosolic phospholipase
-  {A}2 on anionic vesicles in the scooting mode}.
+  {A}\textsubscript{2} on anionic vesicles in the scooting mode}.
 \newblock \emph{Biochemistry}, 36\penalty0 (11):\penalty0 3216--3231, Mar 1997.
 
 \bibitem[Bell et~al.(2011)Bell, Vandenberghe, Bell, Limberis, Gao, Van~Vliet,
@@ -334,7 +334,7 @@ Blasquez, V., Beecher, S., and Bina, M.
 Bleker, S., Sonntag, F., and Kleinschmidt, J.~A.
 \newblock {{M}utational analysis of narrow pores at the fivefold symmetry axes
   of adeno-associated virus type 2 capsids reveals a dual role in genome
-  packaging and activation of phospholipase {A}2 activity}.
+  packaging and activation of phospholipase {A}\textsubscript{2} activity}.
 \newblock \emph{J. Virol.}, 79\penalty0 (4):\penalty0 2528--2540, Feb 2005.
 
 \bibitem[Blomstrom et~al.(2012)Blomstrom, Stahl, Masembe, Okoth, Okurut,
@@ -541,7 +541,8 @@ Caillet-Fauquet, P., Perros, M., Brandenburger, A., Spegelaere, P., and
   Moreau, Tijssen, and Gelb]{pmid14726513}
 Canaan, S., Zadori, Z., Ghomashchi, F., Bollinger, J., Sadilek, M., Moreau,
   M.~E., Tijssen, P., and Gelb, M.~H.
-\newblock {{I}nterfacial enzymology of parvovirus phospholipases {A}2}.
+\newblock {{I}nterfacial enzymology of parvovirus phospholipases
+  {A}\textsubscript{2}}.
 \newblock \emph{J. Biol. Chem.}, 279\penalty0 (15):\penalty0 14502--14508, Apr
   2004.
 
@@ -704,7 +705,7 @@ Clinton, G.~M. and Hayashi, M.
 \bibitem[Cohen and Pante(2005)]{pmid16298969}
 Cohen, S. and Pante, N.
 \newblock {{P}ushing the envelope: microinjection of {M}inute virus of mice
-  into {X}enopus oocytes causes damage to the nuclear envelope}.
+  into \textit{{X}enopus} oocytes causes damage to the nuclear envelope}.
 \newblock \emph{J. Gen. Virol.}, 86\penalty0 (Pt 12):\penalty0 3243--3252, Dec
   2005.
 
@@ -1075,7 +1076,7 @@ Doerig, C., Beard, P., and Hirt, B.
 \bibitem[Doerig et~al.(1988)Doerig, Hirt, Beard, and Antonietti]{pmid3171551}
 Doerig, C., Hirt, B., Beard, P., and Antonietti, J.~P.
 \newblock {{M}inute virus of mice non-structural protein {N}{S}-1 is necessary
-  and sufficient for trans-activation of the viral {P}39 promoter}.
+  and sufficient for \textit{trans}-activation of the viral {P}39 promoter}.
 \newblock \emph{J. Gen. Virol.}, 69 ( Pt 10):\penalty0 2563--2573, Oct 1988.
 
 \bibitem[Dorsch et~al.(2002)Dorsch, Liebisch, Kaufmann, von Landenberg,
@@ -1083,7 +1084,7 @@ Doerig, C., Hirt, B., Beard, P., and Antonietti, J.~P.
 Dorsch, S., Liebisch, G., Kaufmann, B., von Landenberg, P., Hoffmann, J.~H.,
   Drobnik, W., and Modrow, S.
 \newblock {{T}he {V}{P}1 unique region of parvovirus {B}19 and its constituent
-  phospholipase {A}2-like activity}.
+  phospholipase {A}\textsubscript{2}-like activity}.
 \newblock \emph{J. Virol.}, 76\penalty0 (4):\penalty0 2014--2018, Feb 2002.
 
 \bibitem[Douar et~al.(2001)Douar, Poulard, Stockholm, and Danos]{pmid11160681}
@@ -1172,6 +1173,16 @@ Fields, B.~N. and Greene, M.~I.
   implications for prevention and treatment}.
 \newblock \emph{Nature}, 300\penalty0 (5887):\penalty0 19--23, Nov 1982.
 
+\bibitem[Fortune et~al.(2005)Fortune, Pavlov, Welch, Johansson, Burgers, and
+  Kunkel]{pmid15964835}
+Fortune, J.~M., Pavlov, Y.~I., Welch, C.~M., Johansson, E., Burgers, P.~M., and
+  Kunkel, T.~A.
+\newblock {\textit{{S}accharomyces cerevisiae} {D}{N}{A} polymerase $\delta$:
+  high fidelity for base substitutions but lower fidelity for single- and
+  multi-base deletions}.
+\newblock \emph{J. Biol. Chem.}, 280\penalty0 (33):\penalty0 29980--29987, Aug
+  2005.
+
 \bibitem[Fox and Bloom(1999)]{pmid10196278}
 Fox, J.~M. and Bloom, M.~E.
 \newblock {{I}dentification of a cell surface protein from {C}randell feline
@@ -1187,9 +1198,9 @@ Fried, H. and Kutay, U.
 \bibitem[Fuks et~al.(1996)Fuks, Deleu, Dinsart, Rommelaere, and
   Faisst]{pmid8627649}
 Fuks, F., Deleu, L., Dinsart, C., Rommelaere, J., and Faisst, S.
-\newblock {ras oncogene-dependent activation of the {P}4 promoter of minute
-  virus of mice through a proximal {P}4 element interacting with the {E}ts
-  family of transcription factors}.
+\newblock {\textit{ras} oncogene-dependent activation of the {P}4 promoter of
+  minute virus of mice through a proximal {P}4 element interacting with the
+  {E}ts family of transcription factors}.
 \newblock \emph{J. Virol.}, 70\penalty0 (3):\penalty0 1331--1339, Mar 1996.
 
 \bibitem[Gao et~al.(2003)Gao, Alvira, Somanathan, Lu, Vandenberghe, Rux,
@@ -1237,7 +1248,7 @@ Gavin, B.~J. and Ward, D.~C.
 \bibitem[Gelb et~al.(1995)Gelb, Jain, Hanel, and Berg]{pmid7574497}
 Gelb, M.~H., Jain, M.~K., Hanel, A.~M., and Berg, O.~G.
 \newblock {{I}nterfacial enzymology of glycerolipid hydrolases: lessons from
-  secreted phospholipases {A}2}.
+  secreted phospholipases {A}\textsubscript{2}}.
 \newblock \emph{Annu. Rev. Biochem.}, 64:\penalty0 653--688, 1995.
 
 \bibitem[Gersappe and Pintel(1999)]{pmid9858560}
@@ -1268,7 +1279,8 @@ Gil-Ranedo, J., Hernando, E., Riolobos, L., Dominguez, C., Kann, M., and
 Girod, A., Wobus, C.~E., Zadori, Z., Ried, M., Leike, K., Tijssen, P.,
   Kleinschmidt, J.~A., and Hallek, M.
 \newblock {{T}he {V}{P}1 capsid protein of adeno-associated virus type 2 is
-  carrying a phospholipase {A}2 domain required for virus infectivity}.
+  carrying a phospholipase {A}\textsubscript{2} domain required for virus
+  infectivity}.
 \newblock \emph{J. Gen. Virol.}, 83\penalty0 (Pt 5):\penalty0 973--978, May
   2002.
 
@@ -1836,7 +1848,8 @@ Lederman, M., Patton, J.~T., Stout, E.~R., and Bates, R.~C.
 \bibitem[Legendre and Rommelaere(1992)]{pmid1388209}
 Legendre, D. and Rommelaere, J.
 \newblock {{T}erminal regions of the {N}{S}-1 protein of the parvovirus minute
-  virus of mice are involved in cytotoxicity and promoter trans inhibition}.
+  virus of mice are involved in cytotoxicity and promoter \textit{trans}
+  inhibition}.
 \newblock \emph{J. Virol.}, 66\penalty0 (10):\penalty0 5705--5713, Oct 1992.
 
 \bibitem[Legrand et~al.(1993)Legrand, Rommelaere, and
@@ -2175,7 +2188,7 @@ Merchlinsky, M.~J., Tattersall, P.~J., Leary, J.~J., Cotmore, S.~F., Gardiner,
 \bibitem[Metcalf et~al.(1990)Metcalf, Bates, and Lederman]{pmid2145445}
 Metcalf, J.~B., Bates, R.~C., and Lederman, M.
 \newblock {{I}nteraction of virally coded protein and a cell cycle-regulated
-  cellular protein with the bovine parvovirus left terminus ori}.
+  cellular protein with the bovine parvovirus left terminus \textit{ori}}.
 \newblock \emph{J. Virol.}, 64\penalty0 (11):\penalty0 5485--5490, Nov 1990.
 
 \bibitem[Miller and Pintel(2001)]{pmid11437668}
@@ -2251,13 +2264,14 @@ Morishima, T., McClintock, P.~R., Billups, L.~C., and Notkins, A.~L.
 \bibitem[Mouw and Pintel(1998)]{pmid9813208}
 Mouw, M. and Pintel, D.~J.
 \newblock {{A}mino acids 16-275 of minute virus of mice {N}{S}1 include a
-  domain that specifically binds ({A}{C}{C}{A})2-3-containing {D}{N}{A}}.
+  domain that specifically binds ({A}{C}{C}{A})\textsubscript{2-3}-containing
+  {D}{N}{A}}.
 \newblock \emph{Virology}, 251\penalty0 (1):\penalty0 123--131, Nov 1998.
 
 \bibitem[Muller and Siegl(1983)]{pmid6221078}
 Muller, D.~E. and Siegl, G.
-\newblock {{M}aturation of parvovirus {L}u{I}{I}{I} in a subcellular system.
-  {I}{I}. {I}solation and characterization of nucleoprotein intermediates}.
+\newblock {{M}aturation of parvovirus {L}u\RM{3} in a subcellular system.
+  \RM{2}. {I}solation and characterization of nucleoprotein intermediates}.
 \newblock \emph{J. Gen. Virol.}, 64\penalty0 (Pt 5):\penalty0 1055--1067, May
   1983.
 
@@ -2422,8 +2436,8 @@ Olofsson, S. and Bergstrom, T.
   Ottolenghi]{pmid1323699}
 Oppenheim, A., Sandalon, Z., Peleg, A., Shaul, O., Nicolis, S., and Ottolenghi,
   S.
-\newblock {{A} cis-acting {D}{N}{A} signal for encapsidation of simian virus
-  40}.
+\newblock {{A} \textit{cis}-acting {D}{N}{A} signal for encapsidation of simian
+  virus 40}.
 \newblock \emph{J. Virol.}, 66\penalty0 (9):\penalty0 5320--5328, Sep 1992.
 
 \bibitem[Orozco et~al.(1997)Orozco, Miller, Settlage, and
@@ -2565,7 +2579,8 @@ Perez, R., Castellanos, M., Rodriguez-Huete, A., and Mateu, M.~G.
 Perros, M., Deleu, L., Vanacker, J.~M., Kherrouche, Z., Spruyt, N., Faisst, S.,
   and Rommelaere, J.
 \newblock {{U}pstream {C}{R}{E}s participate in the basal activity of minute
-  virus of mice promoter {P}4 and in its stimulation in ras-transformed cells}.
+  virus of mice promoter {P}4 and in its stimulation in
+  \textit{ras}-transformed cells}.
 \newblock \emph{J. Virol.}, 69\penalty0 (9):\penalty0 5506--5515, Sep 1995.
 
 \bibitem[Pettersen et~al.(2004)Pettersen, Goddard, Huang, Couch, Greenblatt,
@@ -2674,8 +2689,8 @@ Reguera, J., Carreira, A., Riolobos, L., Almendral, J.~M., and Mateu, M.~G.
 
 \bibitem[Rhode(1985)]{pmid4020972}
 Rhode, S.~L.
-\newblock {trans-{A}ctivation of parvovirus {P}38 promoter by the 76{K}
-  noncapsid protein}.
+\newblock {\textit{trans}-{A}ctivation of parvovirus {P}38 promoter by the
+  76{K} noncapsid protein}.
 \newblock \emph{J. Virol.}, 55\penalty0 (3):\penalty0 886--889, Sep 1985.
 
 \bibitem[Richards et~al.(1977)Richards, Linser, and Armentrout]{pmid559779}
@@ -2801,6 +2816,12 @@ Schmidt, M. and Chiorini, J.~A.
 \newblock {{G}angliosides are essential for bovine adeno-associated virus
   entry}.
 \newblock \emph{J. Virol.}, 80\penalty0 (11):\penalty0 5516--5522, Jun 2006.
+
+\bibitem[Schmitt et~al.(2009)Schmitt, Matsumoto, and Loeb]{pmid19540301}
+Schmitt, M.~W., Matsumoto, Y., and Loeb, L.~A.
+\newblock {{H}igh fidelity and lesion bypass capability of human {D}{N}{A}
+  polymerase $\delta$}.
+\newblock \emph{Biochimie}, 91\penalty0 (9):\penalty0 1163--1172, Sep 2009.
 
 \bibitem[Schoborg and Pintel(1991)]{pmid1825251}
 Schoborg, R.~V. and Pintel, D.~J.
@@ -2990,8 +3011,9 @@ Spalholz, B.~A., Bratton, J., Ward, D.~C., and Tattersall, P.
   Ogris, Hallek, and Buning]{pmid20974479}
 Stahnke, S., Lux, K., Uhrig, S., Kreppel, F., Hosel, M., Coutelle, O., Ogris,
   M., Hallek, M., and Buning, H.
-\newblock {{I}ntrinsic phospholipase {A}2 activity of adeno-associated virus is
-  involved in endosomal escape of incoming particles}.
+\newblock {{I}ntrinsic phospholipase {A}\textsubscript{2} activity of
+  adeno-associated virus is involved in endosomal escape of incoming
+  particles}.
 \newblock \emph{Virology}, 409\penalty0 (1):\penalty0 77--83, Jan 2011.
 
 \bibitem[Stamnes(2002)]{pmid12383793}
@@ -3355,9 +3377,9 @@ Weiner, H.~L., Drayna, D., Averill, D.~R., and Fields, B.~N.
 
 \bibitem[Weiner et~al.(1980)Weiner, Ault, and Fields]{pmid7365250}
 Weiner, H.~L., Ault, K.~A., and Fields, B.~N.
-\newblock {{I}nteraction of reovirus with cell surface receptors. {I}. {M}urine
-  and human lymphocytes have a receptor for the hemagglutinin of reovirus type
-  3}.
+\newblock {{I}nteraction of reovirus with cell surface receptors. \RM{1}.
+  {M}urine and human lymphocytes have a receptor for the hemagglutinin of
+  reovirus type 3}.
 \newblock \emph{J. Immunol.}, 124\penalty0 (5):\penalty0 2143--2148, May 1980.
 
 \bibitem[Weis(2002)]{pmid12067655}
@@ -3547,8 +3569,8 @@ Yu, X., Zhang, J., Hong, L., Wang, J., Yuan, Z., Zhang, X., and Ghildyal, R.
   Allaire, Nabi, and Tijssen]{pmid11702787}
 Zadori, Z., Szelei, J., Lacoste, M.~C., Li, Y., Gariepy, S., Raymond, P.,
   Allaire, M., Nabi, I.~R., and Tijssen, P.
-\newblock {{A} viral phospholipase {A}2 is required for parvovirus
-  infectivity}.
+\newblock {{A} viral phospholipase {A}\textsubscript{2} is required for
+  parvovirus infectivity}.
 \newblock \emph{Dev. Cell}, 1\penalty0 (2):\penalty0 291--302, Aug 2001.
 
 \bibitem[Zadori et~al.(2005)Zadori, Szelei, and Tijssen]{pmid16189014}

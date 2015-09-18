@@ -21,8 +21,8 @@
 \nomenclatureentry{aVP1u@[{VP1u}]\begingroup VP1 unique region\nomeqref {\relax 2.0}|nompageref}{11}
 \nomenclatureentry{aIgG@[{IgG}]\begingroup Immunoglobulin G\nomeqref {\relax 2.0}|nompageref}{11}
 \nomenclatureentry{aNIH@[{NIH}]\begingroup National institutes of health\nomeqref {\relax 2.0}|nompageref}{13}
-\nomenclatureentry{aGmDNV@[{GmDNV}]\begingroup Galleria mellonella densovirus\nomeqref {\relax 3.0}|nompageref}{15}
-\nomenclatureentry{aDNA@[{DNA}]\begingroup Deoxyribonucleic acid\nomeqref {\relax 3.0}|nompageref}{15}
+\nomenclatureentry{aGmDNV@[{GmDNV}]\begingroup Galleria mellonella densovirus\nomeqref {\relax 3.0}|nompageref}{16}
+\nomenclatureentry{aDNA@[{DNA}]\begingroup Deoxyribonucleic acid\nomeqref {\relax 3.0}|nompageref}{16}
 \nomenclatureentry{aNLS@[{NLS}]\begingroup Nuclear localization signal\nomeqref {\relax 4.0}|nompageref}{22}
 \nomenclatureentry{aNLM@[{NLM}]\begingroup Nuclear localization motif\nomeqref {\relax 4.0}|nompageref}{22}
 \nomenclatureentry{adsDNA@[{dsDNA}]\begingroup Double-stranded DNA\nomeqref {\relax 4.0}|nompageref}{22}
@@ -88,8 +88,7 @@
 \nomenclatureentry{aqPCR@[{qPCR}]\begingroup Quantitative PCR\nomeqref {\relax 9.0}|nompageref}{59}
 \nomenclatureentry{aPCR@[{PCR}]\begingroup Polymerase chain reaction\nomeqref {\relax 9.0}|nompageref}{59}
 \nomenclatureentry{aCV@[{CV}]\begingroup Column volume\nomeqref {\relax 9.0}|nompageref}{61}
-\nomenclatureentry{apI@[{pI}]\begingroup Isoelectric point\nomeqref {\relax 9.0}|nompageref}{62}
 \nomenclatureentry{aIP@[{IP}]\begingroup Immunoprecipitation\nomeqref {\relax 9.0}|nompageref}{64}
-\nomenclatureentry{aHRP@[{HRP}]\begingroup Horseradish peroxidase\nomeqref {\relax 9.0}|nompageref}{65}
+\nomenclatureentry{aHRP@[{HRP}]\begingroup Horseradish peroxidase\nomeqref {\relax 9.0}|nompageref}{64}
 \nomenclatureentry{aWB@[{WB}]\begingroup Western blotting\nomeqref {\relax 9.0}|nompageref}{65}
 \nomenclatureentry{aIg@[{Ig}]\begingroup Immunoglobulin\nomeqref {\relax 9.0}|nompageref}{112}

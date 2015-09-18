@@ -21,7 +21,6 @@
 \usepackage[utf8]{inputenc}
 \usepackage{microtype}
 \usepackage{lmodern}
-% \usepackage{fancyhdr}
 \usepackage{setspace}
 \usepackage{amsmath} 			%Greek letters
 \usepackage{fixltx2e} 			%subscript
@@ -45,10 +44,11 @@
 \usepackage{tocloft}
 \usepackage{scrpage2}
 \usepackage[square, numbers, sort&compress]{natbib}
-\usepackage[breaklinks=true]{hyperref}
+\usepackage[breaklinks=true, colorlinks=false, hidelinks]{hyperref}
 \usepackage[all]{hypcap}
 \usepackage{breakcites}
 \usepackage{sidecap}
+\usepackage{tikz}
 \usepackage{multicol}
 \usepackage{float}
 \usepackage[bottom, hang]{footmisc}
@@ -58,7 +58,14 @@
 
 
 \usepackage{tocstyle}
-\usetocstyle{standard}
+
+\usetocstyle{classic}
+\settocstylefeature[-1]{entryhook}{\LARGE\bfseries}
+\settocstylefeature[0]{entryhook}{\large\bfseries}
+\settocstylefeature[1]{entryvskip}{3 pt}
+\settocstylefeature[0]{entryvskip}{6 pt}
+\settocstylefeature[-1]{entryvskip}{9 pt}
+
 
 \usepackage{sidecap} 
 
@@ -107,7 +114,7 @@
 
 \makenomenclature
 %\setlength{\nomitemsep}{1.3pt}
-\setlength{\nomitemsep}{-\parsep} %Vertical spacing in Nomenclature
+%\setlength{\nomitemsep}{-\parsep} %Vertical spacing in Nomenclature
 
 \renewcommand{\nomlabel}[1]{\hspace*{1.5em}#1} %Nomenclature Skip add \dotfill before bracket if dots required...
 
@@ -135,7 +142,6 @@
 
 
 \newcommand{\RM}[1]{\MakeUppercase{\romannumeral #1}}
-
 
 
 
@@ -240,7 +246,7 @@ Von der Philosophisch-naturwissenschaftlichen Fakultät angenommen.} \\[1cm]
 \frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
 \thispagestyle{plain} 
 
-\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+%\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
 
 
 \input{./Chapters/Abstract}
@@ -267,8 +273,8 @@ Von der Philosophisch-naturwissenschaftlichen Fakultät angenommen.} \\[1cm]
 
 %\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
 
-\phantomsection\addcontentsline{toc}{chapter}{Nomenclature}
-\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+\phantomsection\addcontentsline{toc}{part}{Nomenclature}
+%\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
 
 
 \nomenclature{B19V}{Human parvovirus B19}%
@@ -373,7 +379,7 @@ Von der Philosophisch-naturwissenschaftlichen Fakultät angenommen.} \\[1cm]
 \chapter*{Bibliography}
 
 
-\phantomsection\addcontentsline{toc}{chapter}{Bibliography} 
+\phantomsection\addcontentsline{toc}{part}{Bibliography} 
 \addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics %if not remove...
 
 
@@ -400,7 +406,7 @@ Von der Philosophisch-naturwissenschaftlichen Fakultät angenommen.} \\[1cm]
 %----------------------------------------------------------------------------------------
 \newpage
 \pagestyle{plain}
-\phantomsection\addcontentsline{toc}{chapter}{Declaration}
+\phantomsection\addcontentsline{toc}{part}{Declaration}
 \addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
 \includepdf[pagecommand=\thispagestyle{plain}]{../pdfdocuments/declaration}
 
