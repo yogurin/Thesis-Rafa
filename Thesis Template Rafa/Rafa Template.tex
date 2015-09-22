@@ -54,6 +54,7 @@
 \usepackage[bottom, hang]{footmisc}
 \usepackage{chngcntr}
 \usepackage[np]{numprint} % Für 1 000-er Zahlen \np{124093848} = 124 093 848
+\usepackage{ragged2e}
 \counterwithout{footnote}{chapter}
 
 
@@ -357,6 +358,7 @@ Von der Philosophisch-naturwissenschaftlichen Fakultät angenommen.} \\[1cm]
   \def\chapter*#1{}
 \begin{scriptsize}  
 \begin{multicols}{2}
+\justify
 \bibliography{MyBib} 
 \end{multicols}                            
 \end{scriptsize}
