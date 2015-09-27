@@ -1,12 +1,12 @@
 \select@language {english}
-\contentsline {part}{Abstract}{i}{chapter*.1}
-\contentsline {part}{Zusammenfassung}{iii}{chapter*.2}
-\contentsline {part}{Acknowledgements}{v}{chapter*.3}
-\contentsline {part}{Nomenclature}{vii}{section*.4}
+\contentsline {part}{Abstract}{I}{chapter*.1}
+\contentsline {part}{Zusammenfassung}{III}{chapter*.2}
+\contentsline {part}{Acknowledgements}{V}{chapter*.3}
+\contentsline {part}{Nomenclature}{VII}{section*.4}
 \contentsline {part}{\numberline {I}Introduction}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Discovery and Brief History}{3}{chapter.1}
 \contentsline {chapter}{\numberline {2}Taxonomy}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}The \textit {Parvovirinae} Subfamily}{6}{section.2.1}
+\contentsline {section}{\numberline {2.1}The Subfamily \textit {Parvovirinae}}{6}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}\textit {Amdoparvovirus}}{6}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}\textit {Aveparvovirus}}{7}{subsection.2.1.2}
 \contentsline {subsection}{\numberline {2.1.3}\textit {Bocaparvovirus}}{7}{subsection.2.1.3}
@@ -15,97 +15,95 @@
 \contentsline {subsection}{\numberline {2.1.6}\textit {Erythroparvovirus}}{9}{subsection.2.1.6}
 \contentsline {subsection}{\numberline {2.1.7}\textit {Protoparvovirus}}{10}{subsection.2.1.7}
 \contentsline {subsection}{\numberline {2.1.8}\textit {Tetraparvovirus}}{10}{subsection.2.1.8}
-\contentsline {chapter}{\numberline {3}Morphology}{15}{chapter.3}
-\contentsline {chapter}{\numberline {4}The Rugged Virion}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}Physicochemical Properties}{17}{section.4.1}
-\contentsline {section}{\numberline {4.2}Atomic Model}{17}{section.4.2}
-\contentsline {section}{\numberline {4.3}Structural Proteins}{18}{section.4.3}
-\contentsline {section}{\numberline {4.4}Functional Domains}{20}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}The Phospholipase A\textsubscript {2} (PLA\textsubscript {2}) Motif}{20}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}The Nuclear Localization Signal (NLS)}{21}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}The Nuclear Localization Motif (NLM)}{22}{subsection.4.4.3}
-\contentsline {chapter}{\numberline {5}Genome Architecture}{25}{chapter.5}
-\contentsline {section}{\numberline {5.1}The MVM Left- and Right-End Telomeres}{25}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Terminal Resolution \textit {versus} Asymmetric Junction Resolution}{26}{subsection.5.1.1}
-\contentsline {section}{\numberline {5.2}Genetic Variability}{27}{section.5.2}
-\contentsline {chapter}{\numberline {6}Host Range and Specificity}{29}{chapter.6}
-\contentsline {section}{\numberline {6.1}Tissue Tropism Determinants}{29}{section.6.1}
-\contentsline {section}{\numberline {6.2}Pathogenicity Determinants}{30}{section.6.2}
-\contentsline {section}{\numberline {6.3}Comparison of Tissue Tropism and Pathogenicity Determinants among Parvoviurses}{30}{section.6.3}
-\contentsline {chapter}{\numberline {7}The Parvovirus Life Cycle}{33}{chapter.7}
-\contentsline {section}{\numberline {7.1}Receptor Binding}{34}{section.7.1}
-\contentsline {section}{\numberline {7.2}Receptor-mediated Endocytosis}{36}{section.7.2}
-\contentsline {section}{\numberline {7.3}Endosomal Trafficking and Capsid Rearrangements}{37}{section.7.3}
-\contentsline {section}{\numberline {7.4}Endosomal Escape}{38}{section.7.4}
-\contentsline {section}{\numberline {7.5}Cytosolic Trafficking and Interactions with the Proteasome}{39}{section.7.5}
-\contentsline {section}{\numberline {7.6}Nuclear Targeting}{40}{section.7.6}
-\contentsline {subsection}{\numberline {7.6.1}Nuclear Translocation of the Incoming Virion}{40}{subsection.7.6.1}
-\contentsline {subsection}{\numberline {7.6.2}Nuclear Translocation of the Structural Proteins}{42}{subsection.7.6.2}
-\contentsline {section}{\numberline {7.7}Non-structural (NS) Proteins}{43}{section.7.7}
-\contentsline {subsection}{\numberline {7.7.1}Non-structural Portein 1 (NS1)}{43}{subsection.7.7.1}
-\contentsline {subsection}{\numberline {7.7.2}Non-structural Protein 2 (NS2)}{44}{subsection.7.7.2}
-\contentsline {subsection}{\numberline {7.7.3}Small Alternatively Translated (SAT) Protein}{44}{subsection.7.7.3}
-\contentsline {section}{\numberline {7.8}Replication}{45}{section.7.8}
-\contentsline {section}{\numberline {7.9}Transcription and RNA Processing}{47}{section.7.9}
-\contentsline {section}{\numberline {7.10}Assembly}{50}{section.7.10}
-\contentsline {section}{\numberline {7.11}DNA Packaging}{51}{section.7.11}
-\contentsline {section}{\numberline {7.12}Nuclear Export}{52}{section.7.12}
-\contentsline {section}{\numberline {7.13}Egress}{53}{section.7.13}
-\contentsline {chapter}{\numberline {8}Aim of the thesis and experimental strategy}{55}{chapter.8}
-\contentsline {section}{\numberline {8.1}Goals}{55}{section.8.1}
-\contentsline {section}{\numberline {8.2}Experimental Strategy}{55}{section.8.2}
-\contentsline {part}{\numberline {II}Methods}{57}{part.2}
-\contentsline {chapter}{\numberline {9}Standard Laboratory Protocols}{59}{chapter.9}
-\contentsline {section}{\numberline {9.1}Cell Cultures}{59}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}Freezing and Thawing of Cells}{59}{subsection.9.1.1}
-\contentsline {section}{\numberline {9.2}Virus Stocks}{59}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}Separation of Empty and Full Capsids}{60}{subsection.9.2.1}
-\contentsline {section}{\numberline {9.3}Freezing Bacteria Stocks in Glycerol}{60}{section.9.3}
-\contentsline {section}{\numberline {9.4}Fast Protein Liquid Chromatography (FPLC)}{60}{section.9.4}
-\contentsline {subsection}{\numberline {9.4.1}Anion-Exchange Chromatography (AEX)}{61}{subsection.9.4.1}
-\contentsline {section}{\numberline {9.5}Quantitative PCR (qPCR)}{61}{section.9.5}
-\contentsline {section}{\numberline {9.6}Virus Infection}{63}{section.9.6}
-\contentsline {section}{\numberline {9.7}Transfection}{63}{section.9.7}
-\contentsline {section}{\numberline {9.8}Cell Fractionation}{63}{section.9.8}
-\contentsline {subsection}{\numberline {9.8.1}Nuclei isolation}{63}{subsection.9.8.1}
-\contentsline {subsection}{\numberline {9.8.2}Extraction of the Cytoplasm}{64}{subsection.9.8.2}
-\contentsline {section}{\numberline {9.9}Immunoprecipitation (IP)}{64}{section.9.9}
-\contentsline {section}{\numberline {9.10}Dot Blot}{64}{section.9.10}
-\contentsline {section}{\numberline {9.11}SDS-PAGE and Western Blotting (WB)}{64}{section.9.11}
-\contentsline {section}{\numberline {9.12}Enzymatic Reactions}{65}{section.9.12}
-\contentsline {part}{\numberline {III}Manuscript}{67}{part.3}
+\contentsline {chapter}{\numberline {3}Morphology}{13}{chapter.3}
+\contentsline {chapter}{\numberline {4}The Rugged Virion}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Physicochemical Properties}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Atomic Model}{15}{section.4.2}
+\contentsline {section}{\numberline {4.3}Structural Proteins}{16}{section.4.3}
+\contentsline {section}{\numberline {4.4}Functional Domains}{18}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}The Phospholipase A\textsubscript {2} (PLA\textsubscript {2}) Motif}{18}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}The Nuclear Localization Signal (NLS)}{19}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}The Nuclear Localization Motif (NLM)}{20}{subsection.4.4.3}
+\contentsline {chapter}{\numberline {5}Genome Architecture}{23}{chapter.5}
+\contentsline {section}{\numberline {5.1}The MVM Left- and Right-End Telomeres}{23}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Terminal Resolution \textit {versus} Asymmetric Junction Resolution}{24}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}Genetic Variability}{25}{section.5.2}
+\contentsline {chapter}{\numberline {6}Host Range and Specificity}{27}{chapter.6}
+\contentsline {section}{\numberline {6.1}Tissue Tropism Determinants}{27}{section.6.1}
+\contentsline {section}{\numberline {6.2}Pathogenicity Determinants}{28}{section.6.2}
+\contentsline {section}{\numberline {6.3}Comparison of Tissue Tropism and Pathogenicity Determinants among Parvoviurses}{28}{section.6.3}
+\contentsline {chapter}{\numberline {7}The Parvovirus Life Cycle}{31}{chapter.7}
+\contentsline {section}{\numberline {7.1}Receptor Binding}{32}{section.7.1}
+\contentsline {section}{\numberline {7.2}Receptor-Mediated Endocytosis}{34}{section.7.2}
+\contentsline {section}{\numberline {7.3}Endosomal Trafficking and Capsid Rearrangements}{35}{section.7.3}
+\contentsline {section}{\numberline {7.4}Endosomal Escape}{36}{section.7.4}
+\contentsline {section}{\numberline {7.5}Cytosolic Trafficking and Interactions with the Proteasome}{37}{section.7.5}
+\contentsline {section}{\numberline {7.6}Nuclear Targeting}{38}{section.7.6}
+\contentsline {subsection}{\numberline {7.6.1}Nuclear Translocation of the Incoming Virion}{38}{subsection.7.6.1}
+\contentsline {subsection}{\numberline {7.6.2}Nuclear Translocation of the Structural Proteins}{40}{subsection.7.6.2}
+\contentsline {section}{\numberline {7.7}Non-Structural (NS) Proteins}{41}{section.7.7}
+\contentsline {subsection}{\numberline {7.7.1}Non-Structural Protein 1 (NS1)}{41}{subsection.7.7.1}
+\contentsline {subsection}{\numberline {7.7.2}Non-Structural Protein 2 (NS2)}{42}{subsection.7.7.2}
+\contentsline {subsection}{\numberline {7.7.3}Small Alternatively Translated (SAT) Protein}{42}{subsection.7.7.3}
+\contentsline {section}{\numberline {7.8}Replication}{43}{section.7.8}
+\contentsline {section}{\numberline {7.9}Transcription and RNA Processing}{45}{section.7.9}
+\contentsline {section}{\numberline {7.10}Assembly}{48}{section.7.10}
+\contentsline {section}{\numberline {7.11}DNA Packaging}{49}{section.7.11}
+\contentsline {section}{\numberline {7.12}Nuclear Export}{50}{section.7.12}
+\contentsline {section}{\numberline {7.13}Egress}{51}{section.7.13}
+\contentsline {chapter}{\numberline {8}Aim of the Thesis and Experimental Strategy}{53}{chapter.8}
+\contentsline {section}{\numberline {8.1}Goals}{53}{section.8.1}
+\contentsline {section}{\numberline {8.2}Experimental Strategy}{53}{section.8.2}
+\contentsline {part}{\numberline {II}Methods}{55}{part.2}
+\contentsline {chapter}{\numberline {9}Standard Laboratory Protocols}{57}{chapter.9}
+\contentsline {section}{\numberline {9.1}Cell Cultures}{57}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Freezing and Thawing of Cells}{57}{subsection.9.1.1}
+\contentsline {section}{\numberline {9.2}Virus Stocks}{57}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Separation of Empty and Full Capsids}{58}{subsection.9.2.1}
+\contentsline {section}{\numberline {9.3}Freezing Bacteria Stocks in Glycerol}{58}{section.9.3}
+\contentsline {section}{\numberline {9.4}Fast Protein Liquid Chromatography (FPLC)}{58}{section.9.4}
+\contentsline {subsection}{\numberline {9.4.1}Anion-Exchange Chromatography (AEX)}{59}{subsection.9.4.1}
+\contentsline {section}{\numberline {9.5}Quantitative PCR (qPCR)}{59}{section.9.5}
+\contentsline {section}{\numberline {9.6}Virus Infection}{61}{section.9.6}
+\contentsline {section}{\numberline {9.7}Transfection}{61}{section.9.7}
+\contentsline {section}{\numberline {9.8}Cell Fractionation}{62}{section.9.8}
+\contentsline {subsection}{\numberline {9.8.1}Nuclei Isolation}{62}{subsection.9.8.1}
+\contentsline {subsection}{\numberline {9.8.2}Extraction of the Cytoplasm}{62}{subsection.9.8.2}
+\contentsline {section}{\numberline {9.9}Immunoprecipitation (IP)}{62}{section.9.9}
+\contentsline {section}{\numberline {9.10}Dot Blot}{62}{section.9.10}
+\contentsline {section}{\numberline {9.11}SDS-PAGE and Western Blotting (WB)}{63}{section.9.11}
+\contentsline {section}{\numberline {9.12}Enzymatic Reactions}{63}{section.9.12}
+\contentsline {part}{\numberline {III}Manuscript}{65}{part.3}
+\contentsline {chapter}{\numberline {1}Wolfisberg \textit {et al.}, Journal of Virology, Submitted November 2015}{67}{chapter.1}
 \cftpagenumbersoff {chapter}
-\contentsline {chapter}{\numberline {1}Wolfisberg et al., Journal of Virology, Submitted November 2015}{71}{chapter.1}
-\contentsline {section}{Late Maturation Steps in the Nucleus Preceding Prelytic Active Egress of Progeny Parvovirus.}{71}{section*.21}
-\contentsline {part}{\numberline {IV}Results}{83}{part.4}
-\contentsline {chapter}{\numberline {10}Supplementary Data}{85}{chapter.10}
-\contentsline {section}{\numberline {10.1}The Phosphoserine-rich N-VP2 of MVM Facilitates Nuclear Targeting and Contributes to Cytotoxicity.}{85}{section.10.1}
-\contentsline {section}{\numberline {10.2}Isolation and Characterization of Empty Capsids (EC)}{87}{section.10.2}
-\contentsline {section}{\numberline {10.3}Full Capsids (FC) Bind Preferentially to Murine Fibroblasts}{88}{section.10.3}
-\contentsline {section}{\numberline {10.4}N-VP2 is not Sufficient to Provide an Advantage in Binding for FC}{90}{section.10.4}
-\contentsline {section}{\numberline {10.5}Anion-Exchange Chromatography (AEX) can be Applied on Other Parvoviruses}{92}{section.10.5}
-\contentsline {part}{\numberline {V}Discussion}{95}{part.5}
-\contentsline {chapter}{\numberline {11}Conclusion}{97}{chapter.11}
-\contentsline {part}{\numberline {VI}Appendix}{99}{part.6}
-\contentsline {chapter}{\numberline {12}Materials}{101}{chapter.12}
-\contentsline {section}{\numberline {12.1}Infectious clone of MVMp (pIC\_MVMp)}{101}{section.12.1}
-\contentsline {subsection}{\numberline {12.1.1}Plasmid map of pIC\_MVMp}{101}{subsection.12.1.1}
-\contentsline {subsection}{\numberline {12.1.2}Complete sequence of pIC\_MVMp}{102}{subsection.12.1.2}
-\contentsline {section}{\numberline {12.2}Chemicals and compounds}{105}{section.12.2}
-\contentsline {section}{\numberline {12.3}Buffers}{107}{section.12.3}
-\contentsline {subsection}{\numberline {12.3.1}General buffers}{107}{subsection.12.3.1}
-\contentsline {subsection}{\numberline {12.3.2}Chromatography buffers}{108}{subsection.12.3.2}
-\contentsline {subsubsection}{\nonumberline Anion-exchange chromatography (AEX)}{108}{section*.30}
-\contentsline {subsubsection}{\nonumberline Chromatofocusing (CF)}{108}{section*.32}
-\contentsline {subsection}{\numberline {12.3.3}Agarose gel electrophoresis}{109}{subsection.12.3.3}
-\contentsline {subsection}{\numberline {12.3.4}Western blot}{109}{subsection.12.3.4}
-\contentsline {section}{\numberline {12.4}Kits}{110}{section.12.4}
-\contentsline {section}{\numberline {12.5}Enzymes}{110}{section.12.5}
-\contentsline {section}{\numberline {12.6}Antibodies}{111}{section.12.6}
-\contentsline {subsection}{\numberline {12.6.1}Primary antibodies}{111}{subsection.12.6.1}
-\contentsline {subsection}{\numberline {12.6.2}Secondary antibodies}{112}{subsection.12.6.2}
-\contentsline {section}{\numberline {12.7}Media}{112}{section.12.7}
-\contentsline {part}{Bibliography}{113}{section*.41}
+\contentsline {section}{Late Maturation Steps in the Nucleus Preceding Prelytic Active Egress of Progeny Parvovirus.}{67}{section*.21}
+\contentsline {part}{\numberline {IV}Results}{79}{part.4}
+\contentsline {chapter}{\numberline {10}Supplementary Data}{81}{chapter.10}
+\contentsline {section}{\numberline {10.1}The Phosphoserine-Rich N-VP2 of MVM Facilitates Nuclear Targeting and Contributes to Cytotoxicity.}{81}{section.10.1}
+\contentsline {section}{\numberline {10.2}Isolation and Characterization of Empty Capsids (EC)}{83}{section.10.2}
+\contentsline {section}{\numberline {10.3}Full Capsids (FC) Bind Preferentially to Murine Fibroblasts}{84}{section.10.3}
+\contentsline {section}{\numberline {10.4}N-VP2 is not Sufficient to Provide an Advantage in Binding for FC}{86}{section.10.4}
+\contentsline {section}{\numberline {10.5}Anion-Exchange Chromatography (AEX) can be Applied on Other Parvoviruses}{88}{section.10.5}
+\contentsline {part}{\numberline {V}Conclusion}{91}{part.5}
+\contentsline {chapter}{\numberline {11}Conclusion}{93}{chapter.11}
+\contentsline {part}{\numberline {VI}Appendix}{95}{part.6}
+\contentsline {chapter}{\numberline {12}Materials}{97}{chapter.12}
+\contentsline {section}{\numberline {12.1}Infectious Clone of MVMp (pIC\_MVMp)}{97}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Plasmid Map of pIC\_MVMp}{97}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Complete Sequence of pIC\_MVMp}{98}{subsection.12.1.2}
+\contentsline {section}{\numberline {12.2}Chemicals and Compounds}{101}{section.12.2}
+\contentsline {section}{\numberline {12.3}Buffers}{104}{section.12.3}
+\contentsline {subsection}{\numberline {12.3.1}General Buffers}{104}{subsection.12.3.1}
+\contentsline {subsection}{\numberline {12.3.2}Anion-Exchange Chromatography (AEX)}{105}{subsection.12.3.2}
+\contentsline {subsection}{\numberline {12.3.3}Agarose Gel Electrophoresis}{105}{subsection.12.3.3}
+\contentsline {subsection}{\numberline {12.3.4}Western Blot}{106}{subsection.12.3.4}
+\contentsline {section}{\numberline {12.4}Kits}{107}{section.12.4}
+\contentsline {section}{\numberline {12.5}Enzymes}{108}{section.12.5}
+\contentsline {section}{\numberline {12.6}Antibodies}{108}{section.12.6}
+\contentsline {subsection}{\numberline {12.6.1}Primary Antibodies}{108}{subsection.12.6.1}
+\contentsline {subsection}{\numberline {12.6.2}Secondary Antibodies}{109}{subsection.12.6.2}
+\contentsline {section}{\numberline {12.7}Media}{109}{section.12.7}
+\contentsline {part}{Bibliography}{111}{section*.39}
 \vspace {1em}
-\contentsline {part}{Declaration}{138}{section*.42}
+\contentsline {part}{Declaration}{137}{section*.40}
 \vspace {1em}

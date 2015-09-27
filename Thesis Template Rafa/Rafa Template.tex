@@ -15,7 +15,6 @@
 
 \documentclass[11pt, titlepage, a4paper, twoside, onecolumn, DIV=calc]{scrbook} % Paper size, default font size and one-sided paper ( numbers=noenddot, falls kein punkt erwünscht nach Kapitelnummer)
 
-
 \usepackage[ngerman,english]{babel}		%language
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -56,8 +55,6 @@
 \usepackage[np]{numprint} % Für 1 000-er Zahlen \np{124093848} = 124 093 848
 \usepackage{ragged2e}
 \counterwithout{footnote}{chapter}
-
-
 \usepackage{tocstyle}
 
 \usetocstyle{classic}
@@ -75,7 +72,7 @@
 \setlength{\captionmargin}{20pt}
 %\setlength{\abovecaptionskip}{0pt}
 %\setlength{\belowcaptionskip}{0pt}
-\captionsetup[table]{font=small,skip=0pt}
+\captionsetup[table]{font=normalsize,skip=0pt}
 \captionsetup[figure]{font=scriptsize,skip=0pt}      
 \usepackage[font=scriptsize]{caption}
 
@@ -90,8 +87,10 @@
 %\floatstyle{boxed}
 %\restylefloat{figure} if thin borders around all figures are wished
 
-\deftripstyle{raphimen}[0pt][0pt]{\headmark}{}{\pagemark}{}{}{}
+\deftripstyle{raphimen}[0pt][0pt]{}{}{\headmark}{}{}{\pagemark}
 
+\deftripstyle{ChapterStyle}{}{}{}{}{}{\pagemark}
+\renewcommand*{\chapterpagestyle}{ChapterStyle}
 
 
 \setlength{\skip\footins}{1.5cm}
@@ -145,6 +144,11 @@
 
 \newcommand{\RM}[1]{\MakeUppercase{\romannumeral #1}}
 
+\renewcommand{\arraystretch}{1.1}
+
+\newcommand\Tstrut{\rule{0pt}{2.8ex}}
+\newcommand\Bstrut{\rule[-1.1ex]{0pt}{0pt}}
+
 
 
 \begin{document}
@@ -152,7 +156,6 @@
 
 \setstretch{1.3} % Line spacing of 1.3
 
-\setlength{\footskip}{35mm}
 
 
 \captionsetup[table]{singlelinecheck=off} %left-aligned table captions
@@ -236,10 +239,11 @@ Von der Philosophisch-naturwissenschaftlichen Fakultät angenommen.} \\[1cm]
 %	ABSTRACT PAGE
 %----------------------------------------------------------------------------------------
 
-\pagenumbering{Roman} %Uppercase roman numbering 
+ %Uppercase roman numbering 
 \frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
-\pagestyle{plain}
+%\pagestyle{plain}
 \setcounter{page}{0}
+\pagenumbering{Roman}
 %\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
 
 
@@ -329,7 +333,7 @@ Von der Philosophisch-naturwissenschaftlichen Fakultät angenommen.} \\[1cm]
 
 
 
-\part{Discussion}
+\part{Conclusion}
 \input{./Chapters/Conclusion} 
 
 \part{Appendix}
@@ -362,7 +366,6 @@ Von der Philosophisch-naturwissenschaftlichen Fakultät angenommen.} \\[1cm]
 \bibliography{MyBib} 
 \end{multicols}                            
 \end{scriptsize}
-
 \endgroup
 
 
