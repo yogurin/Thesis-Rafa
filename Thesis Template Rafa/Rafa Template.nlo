@@ -23,15 +23,15 @@
 \nomenclatureentry{aNIH@[{NIH}]\begingroup National institutes of health\nomeqref {\relax 2.0}|nompageref}{12}
 \nomenclatureentry{aGmDNV@[{GmDNV}]\begingroup Galleria mellonella densovirus\nomeqref {\relax 3.0}|nompageref}{14}
 \nomenclatureentry{aDNA@[{DNA}]\begingroup Deoxyribonucleic acid\nomeqref {\relax 3.0}|nompageref}{14}
-\nomenclatureentry{aNLS@[{NLS}]\begingroup Nuclear localization signal\nomeqref {\relax 4.0}|nompageref}{20}
-\nomenclatureentry{aNLM@[{NLM}]\begingroup Nuclear localization motif\nomeqref {\relax 4.0}|nompageref}{20}
-\nomenclatureentry{adsDNA@[{dsDNA}]\begingroup Double-stranded DNA\nomeqref {\relax 4.0}|nompageref}{20}
-\nomenclatureentry{assDNA@[{ssDNA}]\begingroup Single-stranded DNA\nomeqref {\relax 4.0}|nompageref}{20}
-\nomenclatureentry{asPLA\textsubscript{2}@[{sPLA\textsubscript{2}}]\begingroup Secretory PLA\textsubscript{2}\nomeqref {\relax 4.0}|nompageref}{20}
-\nomenclatureentry{aNPC@[{NPC}]\begingroup Nuclear pore complex\nomeqref {\relax 4.0}|nompageref}{20}
-\nomenclatureentry{aBC@[{BC}]\begingroup Basic cluster\nomeqref {\relax 4.0}|nompageref}{20}
-\nomenclatureentry{aH1-PV@[{H1-PV}]\begingroup Parvovirus H1\nomeqref {\relax 4.0}|nompageref}{20}
-\nomenclatureentry{aMW@[{MW}]\begingroup Molecular weight\nomeqref {\relax 4.0}|nompageref}{20}
+\nomenclatureentry{aNLS@[{NLS}]\begingroup Nuclear localization signal\nomeqref {\relax 4.0}|nompageref}{21}
+\nomenclatureentry{aNLM@[{NLM}]\begingroup Nuclear localization motif\nomeqref {\relax 4.0}|nompageref}{21}
+\nomenclatureentry{adsDNA@[{dsDNA}]\begingroup Double-stranded DNA\nomeqref {\relax 4.0}|nompageref}{21}
+\nomenclatureentry{assDNA@[{ssDNA}]\begingroup Single-stranded DNA\nomeqref {\relax 4.0}|nompageref}{21}
+\nomenclatureentry{asPLA\textsubscript{2}@[{sPLA\textsubscript{2}}]\begingroup Secretory PLA\textsubscript{2}\nomeqref {\relax 4.0}|nompageref}{21}
+\nomenclatureentry{aNPC@[{NPC}]\begingroup Nuclear pore complex\nomeqref {\relax 4.0}|nompageref}{21}
+\nomenclatureentry{aBC@[{BC}]\begingroup Basic cluster\nomeqref {\relax 4.0}|nompageref}{21}
+\nomenclatureentry{aH1-PV@[{H1-PV}]\begingroup Parvovirus H1\nomeqref {\relax 4.0}|nompageref}{21}
+\nomenclatureentry{aMW@[{MW}]\begingroup Molecular weight\nomeqref {\relax 4.0}|nompageref}{21}
 \nomenclatureentry{aVP@[{VP}]\begingroup Viral protein\nomeqref {\relax 5.0}|nompageref}{25}
 \nomenclatureentry{aNS@[{NS}]\begingroup Non-structural (protein)\nomeqref {\relax 5.0}|nompageref}{25}
 \nomenclatureentry{aPIF@[{PIF}]\begingroup Parvovirus initiation factor\nomeqref {\relax 5.0}|nompageref}{25}
@@ -72,10 +72,10 @@
 \nomenclatureentry{ahpi@[{hpi}]\begingroup Hours post-infection\nomeqref {\relax 7.0}|nompageref}{45}
 \nomenclatureentry{aEC@[{EC}]\begingroup Empty capsid\nomeqref {\relax 7.0}|nompageref}{45}
 \nomenclatureentry{aFC@[{FC}]\begingroup Full capsid\nomeqref {\relax 7.0}|nompageref}{45}
-\nomenclatureentry{apre-mRNA@[{pre-mRNA}]\begingroup messenger RNA precursor\nomeqref {\relax 7.0}|nompageref}{47}
-\nomenclatureentry{amRNA@[{mRNA}]\begingroup messenger RNA\nomeqref {\relax 7.0}|nompageref}{47}
-\nomenclatureentry{am.~u.@[{m.~u.}]\begingroup Map unit\nomeqref {\relax 7.0}|nompageref}{47}
-\nomenclatureentry{aTfR@[{TfR}]\begingroup Transferrin receptor\nomeqref {\relax 7.0}|nompageref}{47}
+\nomenclatureentry{apre-mRNA@[{pre-mRNA}]\begingroup messenger RNA precursor\nomeqref {\relax 7.0}|nompageref}{48}
+\nomenclatureentry{amRNA@[{mRNA}]\begingroup messenger RNA\nomeqref {\relax 7.0}|nompageref}{48}
+\nomenclatureentry{am.~u.@[{m.~u.}]\begingroup Map unit\nomeqref {\relax 7.0}|nompageref}{48}
+\nomenclatureentry{aTfR@[{TfR}]\begingroup Transferrin receptor\nomeqref {\relax 7.0}|nompageref}{48}
 \nomenclatureentry{aLMB@[{LMB}]\begingroup Leptomycin B\nomeqref {\relax 7.0}|nompageref}{51}
 \nomenclatureentry{aTGN@[{TGN}]\begingroup Trans Golgi network\nomeqref {\relax 7.0}|nompageref}{52}
 \nomenclatureentry{aER@[{ER}]\begingroup Endoplasmic reticulum\nomeqref {\relax 7.0}|nompageref}{52}
@@ -91,4 +91,4 @@
 \nomenclatureentry{aIP@[{IP}]\begingroup Immunoprecipitation\nomeqref {\relax 9.0}|nompageref}{62}
 \nomenclatureentry{aHRP@[{HRP}]\begingroup Horseradish peroxidase\nomeqref {\relax 9.0}|nompageref}{63}
 \nomenclatureentry{aWB@[{WB}]\begingroup Western blotting\nomeqref {\relax 9.0}|nompageref}{63}
-\nomenclatureentry{aIg@[{Ig}]\begingroup Immunoglobulin\nomeqref {\relax 12.0}|nompageref}{109}
+\nomenclatureentry{aIg@[{Ig}]\begingroup Immunoglobulin\nomeqref {\relax 12.0}|nompageref}{111}
