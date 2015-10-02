@@ -73,39 +73,38 @@
 \contentsline {section}{\numberline {9.10}Dot Blot}{63}{section.9.10}
 \contentsline {section}{\numberline {9.11}SDS-PAGE and Western Blotting}{63}{section.9.11}
 \contentsline {section}{\numberline {9.12}Enzymatic Reactions}{64}{section.9.12}
-\contentsline {part}{\numberline {III}Manuscript}{65}{part.3}
-\contentsline {chapter}{Wolfisberg \textit {et al.}, Journal of Virology, Submitted November 2015}{67}{chapter*.21}
+\contentsline {part}{\numberline {III}Results}{65}{part.3}
+\contentsline {chapter}{\numberline {10}Manuscript}{67}{chapter.10}
 \cftpagenumbersoff {chapter}
-\contentsline {section}{Late Maturation Steps in the Nucleus Preceding Pre-Lytic Active Egress of Progeny Parvovirus.}{67}{section*.22}
-\contentsline {part}{\numberline {IV}Results}{111}{part.4}
-\contentsline {chapter}{\numberline {10}Supplementary Data}{113}{chapter.10}
-\contentsline {section}{\numberline {10.1}The Phosphoserine-Rich N-VP2 of MVM Facilitates Nuclear Targeting and Assisits in Cytolysis}{113}{section.10.1}
-\contentsline {section}{\numberline {10.2}NS2-Crm1 Interaction is Required for Nuclear Export but Not for the late Nuclear Maturation}{116}{section.10.2}
-\contentsline {section}{\numberline {10.3}The Role of Empty Capsids During the Infection}{118}{section.10.3}
-\contentsline {subsection}{\numberline {10.3.1}Isolation and Characterization of Empty Capsids}{118}{subsection.10.3.1}
-\contentsline {subsection}{\numberline {10.3.2}Empty Capsids Specifically Bind to Sialic Acid}{118}{subsection.10.3.2}
-\contentsline {subsection}{\numberline {10.3.3}Preferential Binding of Full Capsids to Murine Fibroblasts}{120}{subsection.10.3.3}
-\contentsline {subsection}{\numberline {10.3.4}Full Capsids Have Better Binding Capacity to Sialic Acids than Empty Capsids}{120}{subsection.10.3.4}
-\contentsline {section}{\numberline {10.4}AEX as a Novel Tool to Study the Surface Conformation of Small Non-Enveloped Viruses}{122}{section.10.4}
-\contentsline {part}{\numberline {V}Conclusion}{127}{part.5}
-\contentsline {part}{\numberline {VI}Appendix}{131}{part.6}
-\contentsline {chapter}{\numberline {12}Materials}{133}{chapter.12}
-\contentsline {section}{\numberline {12.1}Infectious Clone of MVMp (pIC\_MVMp)}{133}{section.12.1}
-\contentsline {subsection}{\numberline {12.1.1}Plasmid Map of pIC\_MVMp}{133}{subsection.12.1.1}
-\contentsline {subsection}{\numberline {12.1.2}Complete Sequence of pIC\_MVMp}{134}{subsection.12.1.2}
-\contentsline {section}{\numberline {12.2}Chemicals and Compounds}{137}{section.12.2}
-\contentsline {section}{\numberline {12.3}Buffers}{140}{section.12.3}
-\contentsline {subsection}{\numberline {12.3.1}General Buffers}{140}{subsection.12.3.1}
-\contentsline {subsection}{\numberline {12.3.2}Anion-Exchange Chromatography}{141}{subsection.12.3.2}
-\contentsline {subsection}{\numberline {12.3.3}Agarose Gel Electrophoresis}{141}{subsection.12.3.3}
-\contentsline {subsection}{\numberline {12.3.4}Western Blot}{142}{subsection.12.3.4}
-\contentsline {section}{\numberline {12.4}Kits}{143}{section.12.4}
-\contentsline {section}{\numberline {12.5}Enzymes}{144}{section.12.5}
-\contentsline {section}{\numberline {12.6}Antibodies}{144}{section.12.6}
-\contentsline {subsection}{\numberline {12.6.1}Primary Antibodies}{144}{subsection.12.6.1}
-\contentsline {subsection}{\numberline {12.6.2}Secondary Antibodies}{145}{subsection.12.6.2}
-\contentsline {section}{\numberline {12.7}Media}{145}{section.12.7}
-\contentsline {part}{Bibliography}{147}{section*.43}
+\contentsline {section}{Late Maturation Steps in the Nucleus Preceding Pre-Lytic Active Egress of Progeny Parvovirus.}{67}{section*.21}
+\contentsline {chapter}{\numberline {11}Supplementary Data}{111}{chapter.11}
+\contentsline {section}{\numberline {11.1}The Phosphoserine-Rich N-VP2 of MVM Facilitates Nuclear Targeting and Assisits in Cytolysis}{111}{section.11.1}
+\contentsline {section}{\numberline {11.2}NS2-Crm1 Interaction is Required for Nuclear Export but Not for the late Nuclear Maturation}{114}{section.11.2}
+\contentsline {section}{\numberline {11.3}The Role of Empty Capsids During the Infection}{116}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}Isolation and Characterization of Empty Capsids}{116}{subsection.11.3.1}
+\contentsline {subsection}{\numberline {11.3.2}Empty Capsids Specifically Bind to Sialic Acid}{116}{subsection.11.3.2}
+\contentsline {subsection}{\numberline {11.3.3}Preferential Binding of Full Capsids to Murine Fibroblasts}{118}{subsection.11.3.3}
+\contentsline {subsection}{\numberline {11.3.4}Full Capsids Have Better Binding Capacity to Sialic Acids than Empty Capsids}{118}{subsection.11.3.4}
+\contentsline {section}{\numberline {11.4}AEX as a Novel Tool to Study the Surface Conformation of Small Non-Enveloped Viruses}{120}{section.11.4}
+\contentsline {part}{\numberline {IV}Conclusion}{125}{part.4}
+\contentsline {part}{\numberline {V}Appendix}{129}{part.5}
+\contentsline {chapter}{\numberline {12}Materials}{131}{chapter.12}
+\contentsline {section}{\numberline {12.1}Infectious Clone of MVMp (pIC\_MVMp)}{131}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Plasmid Map of pIC\_MVMp}{131}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Complete Sequence of pIC\_MVMp}{132}{subsection.12.1.2}
+\contentsline {section}{\numberline {12.2}Chemicals and Compounds}{135}{section.12.2}
+\contentsline {section}{\numberline {12.3}Buffers}{138}{section.12.3}
+\contentsline {subsection}{\numberline {12.3.1}General Buffers}{138}{subsection.12.3.1}
+\contentsline {subsection}{\numberline {12.3.2}Anion-Exchange Chromatography}{139}{subsection.12.3.2}
+\contentsline {subsection}{\numberline {12.3.3}Agarose Gel Electrophoresis}{139}{subsection.12.3.3}
+\contentsline {subsection}{\numberline {12.3.4}Western Blot}{140}{subsection.12.3.4}
+\contentsline {section}{\numberline {12.4}Kits}{141}{section.12.4}
+\contentsline {section}{\numberline {12.5}Enzymes}{142}{section.12.5}
+\contentsline {section}{\numberline {12.6}Antibodies}{142}{section.12.6}
+\contentsline {subsection}{\numberline {12.6.1}Primary Antibodies}{142}{subsection.12.6.1}
+\contentsline {subsection}{\numberline {12.6.2}Secondary Antibodies}{143}{subsection.12.6.2}
+\contentsline {section}{\numberline {12.7}Media}{143}{section.12.7}
+\contentsline {part}{Bibliography}{145}{section*.42}
 \vspace {1em}
-\contentsline {part}{Declaration}{173}{section*.44}
+\contentsline {part}{Declaration}{170}{section*.43}
 \vspace {1em}
