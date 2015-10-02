@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.4)  2 OCT 2015 15:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.4)  2 OCT 2015 17:36
 entering extended mode
 **Rafa*Template.tex
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Rafa Template.tex
@@ -3578,44 +3578,44 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\ChapterP
 ub1.tex"
 Chapter 10.
-<./Pictures/../pdfdocuments/TEST.pdf, id=3808, 597.55246pt x 845.07718pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf used on input line
- 28.
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3808, 597.55246pt x 845.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+<use ./Pictures/../pdfdocuments/Manuscript.pdf>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf used on inpu
+t line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf used on input line
- 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf used on inpu
+t line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<./Pictures/../pdfdocuments/TEST.pdf, id=3811, page=1, 597.55246pt x 845.07718p
-t>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page1 used on inp
-ut line 28.
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3811, page=1, 597.55246pt x 845.
+07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page1 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page1 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page1 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page1 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page1 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page1 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page1 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
@@ -3625,909 +3625,909 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 ]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3816, page=2, 597.55246pt x 845.07718p
-t>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 2>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page2 used on inp
-ut line 28.
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3816, page=2, 597.55246pt x 845.
+07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 2>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page2 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 2>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page2 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 2>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page2 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page1 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page1 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [68 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3833, page=3, 597.55246pt x 845.07718p
-t>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 3>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page3 used on inp
-ut line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3833, page=3, 597.55246pt x 845.
+07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 3>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page3 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 3>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page3 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 3>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page3 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 2>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page2 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 2>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page2 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [69 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3839, page=4, 597.55246pt x 845.07718p
-t>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 4>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page4 used on inp
-ut line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3839, page=4, 597.55246pt x 845.
+07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 4>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page4 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 4>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page4 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 4>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page4 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 3>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page3 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 3>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page3 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [70 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3846, page=5, 597.55246pt x 845.07718p
-t>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 5>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page5 used on inp
-ut line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3846, page=5, 597.55246pt x 845.
+07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 5>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page5 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 5>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page5 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 5>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page5 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 4>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page4 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 4>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page4 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [71 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3852, page=6, 597.55246pt x 845.07718p
-t>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 6>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page6 used on inp
-ut line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3852, page=6, 597.55246pt x 845.
+07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 6>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page6 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 6>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page6 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 6>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page6 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 5>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page5 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 5>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page5 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [72 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3858, page=7, 597.55246pt x 845.07718p
-t>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 7>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page7 used on inp
-ut line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3858, page=7, 597.55246pt x 845.
+07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 7>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page7 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 7>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page7 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 7>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page7 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 6>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page6 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 6>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page6 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [73 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3866, page=8, 597.55246pt x 845.07718p
-t>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 8>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page8 used on inp
-ut line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3866, page=8, 597.55246pt x 845.
+07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 8>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page8 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 8>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page8 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 8>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page8 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 7>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page7 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 7>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page7 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [74 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3875, page=9, 597.55246pt x 845.07718p
-t>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 9>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page9 used on inp
-ut line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3875, page=9, 597.55246pt x 845.
+07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 9>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page9 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 9>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page9 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 9>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page9 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 8>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page8 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 8>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page8 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [75 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3881, page=10, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 10>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page10 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3881, page=10, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 10>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page10 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 10>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page10 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 10>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page10 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 9>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page9 used on inp
-ut line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 9>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page9 used 
+on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [76 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3896, page=11, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 11>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page11 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3896, page=11, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 11>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page11 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 11>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page11 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 11>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page11 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 10>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page10 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 10>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page10 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [77 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3902, page=12, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 12>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page12 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3902, page=12, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 12>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page12 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 12>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page12 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 12>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page12 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 11>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page11 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 11>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page11 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [78 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3908, page=13, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 13>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page13 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3908, page=13, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 13>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page13 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 13>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page13 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 13>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page13 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 12>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page12 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 12>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page12 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [79 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3914, page=14, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 14>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page14 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3914, page=14, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 14>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page14 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 14>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page14 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 14>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page14 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 13>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page13 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 13>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page13 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [80 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3920, page=15, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 15>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page15 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3920, page=15, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 15>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page15 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 15>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page15 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 15>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page15 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 14>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page14 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 14>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page14 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [81 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3926, page=16, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 16>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page16 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3926, page=16, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 16>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page16 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 16>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page16 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 16>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page16 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 15>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page15 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 15>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page15 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [82 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3933, page=17, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 17>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page17 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3933, page=17, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 17>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page17 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 17>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page17 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 17>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page17 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 16>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page16 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 16>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page16 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [83 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3939, page=18, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 18>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page18 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3939, page=18, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 18>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page18 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 18>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page18 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 18>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page18 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 17>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page17 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 17>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page17 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [84 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3945, page=19, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 19>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page19 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3945, page=19, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 19>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page19 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 19>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page19 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 19>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page19 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 18>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page18 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 18>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page18 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [85 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3951, page=20, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 20>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page20 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3951, page=20, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 20>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page20 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 20>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page20 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 20>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page20 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 19>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page19 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 19>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page19 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [86 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3957, page=21, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 21>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page21 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3957, page=21, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 21>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page21 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 21>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page21 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 21>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page21 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 20>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page20 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 20>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page20 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [87 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3963, page=22, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 22>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page22 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3963, page=22, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 22>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page22 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 22>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page22 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 22>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page22 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 21>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page21 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 21>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page21 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [88 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3970, page=23, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 23>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page23 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3970, page=23, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 23>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page23 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 23>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page23 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 23>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page23 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 22>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page22 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 22>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page22 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [89 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3976, page=24, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 24>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page24 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3976, page=24, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 24>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page24 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 24>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page24 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 24>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page24 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 23>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page23 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 23>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page23 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [90 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3982, page=25, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 25>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page25 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3982, page=25, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 25>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page25 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 25>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page25 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 25>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page25 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 24>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page24 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 24>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page24 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [91 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3988, page=26, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 26>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page26 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3988, page=26, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 26>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page26 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 26>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page26 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 26>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page26 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 25>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page25 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 25>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page25 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [92 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=3994, page=27, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 27>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page27 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=3994, page=27, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 27>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page27 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 27>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page27 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 27>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page27 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 26>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page26 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 26>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page26 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [93 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=4003, page=28, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 28>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page28 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=4003, page=28, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 28>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page28 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 28>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page28 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 28>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page28 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 27>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page27 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 27>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page27 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [94 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=4010, page=29, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 29>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page29 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=4010, page=29, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 29>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page29 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 29>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page29 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 29>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page29 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 28>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page28 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 28>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page28 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [95 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=4016, page=30, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 30>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page30 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=4016, page=30, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 30>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page30 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 30>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page30 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 30>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page30 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 29>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page29 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 29>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page29 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [96 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=4022, page=31, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 31>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page31 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=4022, page=31, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 31>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page31 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 31>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page31 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 31>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page31 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 30>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page30 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 30>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page30 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [97 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=4032, page=32, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 32>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page32 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=4032, page=32, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 32>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page32 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 32>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page32 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 32>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page32 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 31>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page31 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 31>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page31 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [98 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=4038, page=33, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 33>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page33 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=4038, page=33, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 33>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page33 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 33>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page33 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 33>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page33 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 32>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page32 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 32>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page32 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [99 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments/
-TEST.pdf>]
-<./Pictures/../pdfdocuments/TEST.pdf, id=4044, page=34, 597.55246pt x 845.07718
-pt>
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
- <use ./Pictures/../pdfdocuments/TEST.pdf, page 34>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page34 used on in
-put line 28.
+Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Manuscript.pdf, id=4044, page=34, 597.55246pt x 845
+.07718pt>
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
+ <use ./Pictures/../pdfdocuments/Manuscript.pdf, page 34>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page34 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 34>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page34 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 34>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page34 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 33>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page33 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 33>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page33 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [100 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
-/TEST.pdf>]
-File: ./Pictures/../pdfdocuments/TEST.pdf Graphic file (type pdf)
+/Manuscript.pdf>]
+File: ./Pictures/../pdfdocuments/Manuscript.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/TEST.pdf, page 34>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/TEST.pdf, page34 used on in
-put line 28.
+<use ./Pictures/../pdfdocuments/Manuscript.pdf, page 34>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Manuscript.pdf, page34 used
+ on input line 28.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [101 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
-/TEST.pdf>]
-<./Pictures/../pdfdocuments/FIGURES.pdf, id=4056, 542.025pt x 722.7pt>
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+/Manuscript.pdf>]
+<./Pictures/../pdfdocuments/Figures.pdf, id=4056, 542.025pt x 722.7pt>
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf used on input l
+<use ./Pictures/../pdfdocuments/Figures.pdf>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf used on input l
 ine 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf used on input l
+<use ./Pictures/../pdfdocuments/Figures.pdf>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf used on input l
 ine 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
 
-<./Pictures/../pdfdocuments/FIGURES.pdf, id=4059, page=1, 542.025pt x 722.7pt>
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+<./Pictures/../pdfdocuments/Figures.pdf, id=4059, page=1, 542.025pt x 722.7pt>
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page1 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page1 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page1 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page1 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page1 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page1 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page1 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page1 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
 
-<./Pictures/../pdfdocuments/FIGURES.pdf, id=4060, page=2, 542.025pt x 722.7pt>
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+<./Pictures/../pdfdocuments/Figures.pdf, id=4060, page=2, 542.025pt x 722.7pt>
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 2>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page2 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 2>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page2 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 2>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page2 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 2>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page2 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 1>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page1 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 1>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page1 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
  [102 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
-/FIGURES.pdf>]
-<./Pictures/../pdfdocuments/FIGURES.pdf, id=4087, page=3, 542.025pt x 722.7pt>
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+/Figures.pdf>]
+<./Pictures/../pdfdocuments/Figures.pdf, id=4082, page=3, 542.025pt x 722.7pt>
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 3>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page3 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 3>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page3 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 3>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page3 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 3>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page3 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 2>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page2 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 2>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page2 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
  [103 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
-/FIGURES.pdf>]
-<./Pictures/../pdfdocuments/FIGURES.pdf, id=4134, page=4, 542.025pt x 722.7pt>
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+/Figures.pdf>]
+<./Pictures/../pdfdocuments/Figures.pdf, id=4134, page=4, 542.025pt x 722.7pt>
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 4>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page4 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 4>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page4 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 4>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page4 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 4>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page4 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 3>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page3 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 3>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page3 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
  [104 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
-/FIGURES.pdf>]
-<./Pictures/../pdfdocuments/FIGURES.pdf, id=4146, page=5, 542.025pt x 722.7pt>
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+/Figures.pdf>]
+<./Pictures/../pdfdocuments/Figures.pdf, id=4146, page=5, 542.025pt x 722.7pt>
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 5>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page5 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 5>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page5 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 5>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page5 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 5>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page5 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 4>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page4 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 4>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page4 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
  [105 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
-/FIGURES.pdf>]
-<./Pictures/../pdfdocuments/FIGURES.pdf, id=4178, page=6, 542.025pt x 722.7pt>
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+/Figures.pdf>]
+<./Pictures/../pdfdocuments/Figures.pdf, id=4166, page=6, 542.025pt x 722.7pt>
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 6>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page6 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 6>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page6 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 6>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page6 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 6>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page6 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 5>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page5 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 5>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page5 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
  [106 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
-/FIGURES.pdf>]
-<./Pictures/../pdfdocuments/FIGURES.pdf, id=4206, page=7, 542.025pt x 722.7pt>
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+/Figures.pdf>]
+<./Pictures/../pdfdocuments/Figures.pdf, id=4191, page=7, 542.025pt x 722.7pt>
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 7>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page7 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 7>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page7 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 7>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page7 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 7>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page7 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 6>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page6 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 6>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page6 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
  [107 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
-/FIGURES.pdf>]
-<./Pictures/../pdfdocuments/FIGURES.pdf, id=4218, page=8, 542.025pt x 722.7pt>
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+/Figures.pdf>]
+<./Pictures/../pdfdocuments/Figures.pdf, id=4203, page=8, 542.025pt x 722.7pt>
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 8>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page8 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 8>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page8 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 8>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page8 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 8>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page8 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 7>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page7 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 7>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page7 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
  [108 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
-/FIGURES.pdf>]
-File: ./Pictures/../pdfdocuments/FIGURES.pdf Graphic file (type pdf)
+/Figures.pdf>]
+File: ./Pictures/../pdfdocuments/Figures.pdf Graphic file (type pdf)
 
-<use ./Pictures/../pdfdocuments/FIGURES.pdf, page 8>
-Package pdftex.def Info: ./Pictures/../pdfdocuments/FIGURES.pdf, page8 used on 
+<use ./Pictures/../pdfdocuments/Figures.pdf, page 8>
+Package pdftex.def Info: ./Pictures/../pdfdocuments/Figures.pdf, page8 used on 
 input line 29.
 (pdftex.def)             Requested size: 542.02367pt x 722.69823pt.
  [109 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/pdfdocuments
-/FIGURES.pdf>])
+/Figures.pdf>])
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\Results.
 tex" [110
 
 
 ]
 Chapter 11.
-<./Pictures/S1.jpg, id=4253, 474.573pt x 430.7292pt>
+<./Pictures/S1.jpg, id=4242, 474.573pt x 430.7292pt>
 File: ./Pictures/S1.jpg Graphic file (type jpg)
  <use ./Pictures/S1.jpg>
 Package pdftex.def Info: ./Pictures/S1.jpg used on input line 27.
@@ -4545,7 +4545,13 @@ pg>]
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[113] <./Pictures/S1B.jpg, id=4297, 481.8pt x 541.0614pt>
+[113]
+Overfull \vbox (0.68002pt too high) has occurred while \output is active []
+
+
+[114
+
+] <./Pictures/S1B.jpg, id=4289, 481.8pt x 541.0614pt>
 File: ./Pictures/S1B.jpg Graphic file (type jpg)
 
 <use ./Pictures/S1B.jpg>
@@ -4555,20 +4561,14 @@ Package pdftex.def Info: ./Pictures/S1B.jpg used on input line 57.
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
-[114
-
-]
-Overfull \vbox (0.68002pt too high) has occurred while \output is active []
-
-
 [115 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/S1B.
-jpg>] <./Pictures/S2.jpg, id=4316, 410.0118pt x 235.6002pt>
+jpg>] <./Pictures/S2.jpg, id=4304, 410.0118pt x 235.6002pt>
 File: ./Pictures/S2.jpg Graphic file (type jpg)
 
 <use ./Pictures/S2.jpg>
 Package pdftex.def Info: ./Pictures/S2.jpg used on input line 81.
 (pdftex.def)             Requested size: 330.70587pt x 230.8866pt.
- <./Pictures/S2b.jpg, id=4321, 410.0118pt x 144.54pt>
+ <./Pictures/S2b.jpg, id=4309, 410.0118pt x 144.54pt>
 File: ./Pictures/S2b.jpg Graphic file (type jpg)
 
 <use ./Pictures/S2b.jpg>
@@ -4589,7 +4589,7 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 [117 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/S2.j
 pg> <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/S2b.j
-pg>] <./Pictures/S3.jpg, id=4342, 806.5332pt x 764.6166pt>
+pg>] <./Pictures/S3.jpg, id=4330, 806.5332pt x 764.6166pt>
 File: ./Pictures/S3.jpg Graphic file (type jpg)
 
 <use ./Pictures/S3.jpg>
@@ -4604,7 +4604,7 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 [119 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/S3.j
-pg>] <./Pictures/S4.jpg, id=4366, 498.1812pt x 323.7696pt>
+pg>] <./Pictures/S4.jpg, id=4354, 498.1812pt x 323.7696pt>
 File: ./Pictures/S4.jpg Graphic file (type jpg)
 
 <use ./Pictures/S4.jpg>
@@ -4619,7 +4619,7 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 
 [121 <C:/Users/Raphael/Desktop 4/Thesis-Rafa/Thesis Template Rafa/Pictures/S4.j
-pg>] <./Pictures/S5.jpg, id=4405, 522.2712pt x 335.8146pt>
+pg>] <./Pictures/S5.jpg, id=4393, 522.2712pt x 335.8146pt>
 File: ./Pictures/S5.jpg Graphic file (type jpg)
 
 <use ./Pictures/S5.jpg>
@@ -4639,11 +4639,11 @@ pg>] [124
 
 ] [125] [126]
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\Conclusi
-on.tex" <./Pictures/Conclusion.pdf, id=4431, 869.1613pt x 621.47803pt>
+on.tex" <./Pictures/Conclusion.pdf, id=4419, 869.1613pt x 621.47803pt>
 File: ./Pictures/Conclusion.pdf Graphic file (type pdf)
 
 <use ./Pictures/Conclusion.pdf>
-Package pdftex.def Info: ./Pictures/Conclusion.pdf used on input line 32.
+Package pdftex.def Info: ./Pictures/Conclusion.pdf used on input line 31.
 (pdftex.def)             Requested size: 414.32558pt x 301.18889pt.
 
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
@@ -4664,7 +4664,7 @@ lusion.pdf>] [129
 ("C:\Users\Raphael\Desktop 4\Thesis-Rafa\Thesis Template Rafa\Chapters\Material
 s.tex"
 Chapter 12.
-<./Pictures/pIC_MVMp.pdf, id=5070, 597.50786pt x 845.04686pt>
+<./Pictures/pIC_MVMp.pdf, id=5058, 597.50786pt x 845.04686pt>
 File: ./Pictures/pIC_MVMp.pdf Graphic file (type pdf)
 
 <use ./Pictures/pIC_MVMp.pdf>
@@ -12284,7 +12284,7 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- <./Pictures/declaration.jpg, id=5269, 596.9502pt x 844.8363pt>
+ <./Pictures/declaration.jpg, id=5257, 596.9502pt x 844.8363pt>
 File: ./Pictures/declaration.jpg Graphic file (type jpg)
 
 <use ./Pictures/declaration.jpg>
@@ -12334,7 +12334,7 @@ ion.jpg>]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<./Pictures/Rafa.jpg, id=5274, 824.07875pt x 1099.10625pt>
+<./Pictures/Rafa.jpg, id=5262, 824.07875pt x 1099.10625pt>
 File: ./Pictures/Rafa.jpg Graphic file (type jpg)
 
 <use ./Pictures/Rafa.jpg>
@@ -12401,8 +12401,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 405.
  ) 
 Here is how much of TeX's memory you used:
  29721 strings out of 493921
- 538613 string characters out of 3147277
- 745757 words of memory out of 3000000
+ 539255 string characters out of 3147277
+ 745740 words of memory out of 3000000
  31303 multiletter control sequences out of 15000+200000
  184579 words of font info for 188 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -12448,9 +12448,9 @@ ts/type1/public/lm/lmssbo10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/lm/lmtt9.pfb>
-Output written on "Rafa Template.pdf" (193 pages, 9172124 bytes).
+Output written on "Rafa Template.pdf" (193 pages, 9222470 bytes).
 PDF statistics:
- 5548 PDF objects out of 6186 (max. 8388607)
+ 5536 PDF objects out of 6186 (max. 8388607)
  860 named destinations out of 1000 (max. 500000)
  46784 words of extra memory for PDF output out of 51595 (max. 10000000)
 
