@@ -150,7 +150,6 @@
 \newcommand\Bstrut{\rule[-1.1ex]{0pt}{0pt}}
 
 
-
 \begin{document}
 
 
@@ -213,7 +212,7 @@ Von der Philosophisch-naturwissenschaftlichen Fakultät angenommen.} \\[1cm]
 \end{center}
 \begin{tabbing}
 
-\= Bern, DATUM!! \= \hspace{5.5cm} Der Dekan: \\[1.5cm]
+\= Bern, 01. 10. 2015 \= \hspace{5.5cm} Der Dekan: \\[1.5cm]
 \> \> \hspace{5.5cm} Prof. Dr. Gilberto Colangelo
 \end{tabbing}
 \end{titlepage}
@@ -379,11 +378,19 @@ Von der Philosophisch-naturwissenschaftlichen Fakultät angenommen.} \\[1cm]
 %	DECLARATION
 %----------------------------------------------------------------------------------------
 \newpage
-\pagestyle{plain}
+\newgeometry{
+  left=0cm,
+  right=0cm,
+  top=0cm,
+  bottom=0cm,
+  bindingoffset=5mm
+}
+\pagestyle{empty}
 \phantomsection\addcontentsline{toc}{part}{Declaration}
 \addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
-\includepdf[pagecommand=\thispagestyle{plain}]{../pdfdocuments/declaration}
-
+\includegraphics[scale=1, trim=5mm 0mm 0mm 0mm]{declaration}
+%\includepdf[pagecommand=\thispagestyle{plain}]{../pdfdocuments/declaration}
+\restoregeometry
 \clearpage
 
 
